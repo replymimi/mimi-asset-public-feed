@@ -1,6 +1,6 @@
 {
-  "syncTime": "2026-07-14 18:11:01",
-  "dataDate": "2026-07-13",
+  "syncTime": "2026-07-14 19:15:09",
+  "dataDate": "2026-07-14",
   "prices": {
     "2330": {
       "name": "台積電 (2330)",
@@ -239,15 +239,15 @@
     "國泰小龍": {
       "name": "國泰小龍",
       "ticker": "國泰小龍",
-      "date": "2026-07-13",
-      "price": 115.01,
+      "date": "2026-07-14",
+      "price": 111.77,
       "priceSource": "基金策略CSV",
       "quoteTime": "",
-      "signal": "SELL",
-      "previousSignal": "BUY",
+      "signal": "HOLD",
+      "previousSignal": "SELL",
       "strategyEq": 3.3870131730777646,
-      "buyHoldEq": 2.7633349351273484,
-      "edge": 62.36782379504162
+      "buyHoldEq": 2.685487746275834,
+      "edge": 70.15254268019304
     }
   },
   "watchlist": [
@@ -488,30 +488,30 @@
     {
       "name": "國泰小龍",
       "ticker": "國泰小龍",
-      "date": "2026-07-13",
-      "price": 115.01,
+      "date": "2026-07-14",
+      "price": 111.77,
       "priceSource": "基金策略CSV",
       "quoteTime": "",
-      "signal": "SELL",
-      "previousSignal": "BUY",
+      "signal": "HOLD",
+      "previousSignal": "SELL",
       "strategyEq": 3.3870131730777646,
-      "buyHoldEq": 2.7633349351273484,
-      "edge": 62.36782379504162
+      "buyHoldEq": 2.685487746275834,
+      "edge": 70.15254268019304
     }
   ],
   "strategyRows": [
     {
       "name": "國泰小龍",
       "ticker": "國泰小龍",
-      "date": "2026-07-13",
-      "price": 115.01,
+      "date": "2026-07-14",
+      "price": 111.77,
       "priceSource": "基金策略CSV",
       "quoteTime": "",
-      "signal": "SELL",
-      "previousSignal": "BUY",
+      "signal": "HOLD",
+      "previousSignal": "SELL",
       "strategyEq": 3.3870131730777646,
-      "buyHoldEq": 2.7633349351273484,
-      "edge": 62.36782379504162
+      "buyHoldEq": 2.685487746275834,
+      "edge": 70.15254268019304
     },
     {
       "name": "統一大滿貫",
