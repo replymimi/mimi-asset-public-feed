@@ -1,5 +1,5 @@
 {
-  "syncTime": "2026-07-19 14:17:45",
+  "syncTime": "2026-07-19 14:18:44",
   "dataDate": "2026-07-17",
   "prices": {
     "2330": {
@@ -226,28 +226,28 @@
     "統一大滿貫": {
       "name": "統一大滿貫",
       "ticker": "統一大滿貫",
-      "date": "2026-07-13",
-      "price": 235.2,
+      "date": "2026-07-17",
+      "price": 211.21,
       "priceSource": "基金策略CSV",
       "quoteTime": "",
       "signal": "HOLD",
       "previousSignal": "HOLD",
-      "strategyEq": 3.153062287448398,
-      "buyHoldEq": 2.5660048003491176,
-      "edge": 58.70574870992802
+      "strategyEq": 3.1438521290983656,
+      "buyHoldEq": 2.517701752294669,
+      "edge": 62.61503768036967
     },
     "國泰小龍": {
       "name": "國泰小龍",
       "ticker": "國泰小龍",
-      "date": "2026-07-13",
-      "price": 115.01,
+      "date": "2026-07-17",
+      "price": 103.12,
       "priceSource": "基金策略CSV",
       "quoteTime": "",
-      "signal": "SELL",
-      "previousSignal": "BUY",
+      "signal": "HOLD",
+      "previousSignal": "HOLD",
       "strategyEq": 3.3870131730777646,
-      "buyHoldEq": 2.7633349351273484,
-      "edge": 62.36782379504162
+      "buyHoldEq": 2.7201266156686956,
+      "edge": 66.6886557409069
     }
   },
   "watchlist": [
@@ -475,28 +475,28 @@
     {
       "name": "統一大滿貫",
       "ticker": "統一大滿貫",
-      "date": "2026-07-13",
-      "price": 235.2,
+      "date": "2026-07-17",
+      "price": 211.21,
       "priceSource": "基金策略CSV",
       "quoteTime": "",
       "signal": "HOLD",
       "previousSignal": "HOLD",
-      "strategyEq": 3.153062287448398,
-      "buyHoldEq": 2.5660048003491176,
-      "edge": 58.70574870992802
+      "strategyEq": 3.1438521290983656,
+      "buyHoldEq": 2.517701752294669,
+      "edge": 62.61503768036967
     },
     {
       "name": "國泰小龍",
       "ticker": "國泰小龍",
-      "date": "2026-07-13",
-      "price": 115.01,
+      "date": "2026-07-17",
+      "price": 103.12,
       "priceSource": "基金策略CSV",
       "quoteTime": "",
-      "signal": "SELL",
-      "previousSignal": "BUY",
+      "signal": "HOLD",
+      "previousSignal": "HOLD",
       "strategyEq": 3.3870131730777646,
-      "buyHoldEq": 2.7633349351273484,
-      "edge": 62.36782379504162
+      "buyHoldEq": 2.7201266156686956,
+      "edge": 66.6886557409069
     }
   ],
   "strategyRows": [
@@ -516,15 +516,28 @@
     {
       "name": "國泰小龍",
       "ticker": "國泰小龍",
-      "date": "2026-07-13",
-      "price": 115.01,
+      "date": "2026-07-17",
+      "price": 103.12,
       "priceSource": "基金策略CSV",
       "quoteTime": "",
-      "signal": "SELL",
-      "previousSignal": "BUY",
+      "signal": "HOLD",
+      "previousSignal": "HOLD",
       "strategyEq": 3.3870131730777646,
-      "buyHoldEq": 2.7633349351273484,
-      "edge": 62.36782379504162
+      "buyHoldEq": 2.7201266156686956,
+      "edge": 66.6886557409069
+    },
+    {
+      "name": "統一大滿貫",
+      "ticker": "統一大滿貫",
+      "date": "2026-07-17",
+      "price": 211.21,
+      "priceSource": "基金策略CSV",
+      "quoteTime": "",
+      "signal": "HOLD",
+      "previousSignal": "HOLD",
+      "strategyEq": 3.1438521290983656,
+      "buyHoldEq": 2.517701752294669,
+      "edge": 62.61503768036967
     },
     {
       "name": "00947 ETF",
@@ -551,19 +564,6 @@
       "strategyEq": 3.947722399846878,
       "buyHoldEq": 3.358454625378541,
       "edge": 58.9267774468337
-    },
-    {
-      "name": "統一大滿貫",
-      "ticker": "統一大滿貫",
-      "date": "2026-07-13",
-      "price": 235.2,
-      "priceSource": "基金策略CSV",
-      "quoteTime": "",
-      "signal": "HOLD",
-      "previousSignal": "HOLD",
-      "strategyEq": 3.153062287448398,
-      "buyHoldEq": 2.5660048003491176,
-      "edge": 58.70574870992802
     },
     {
       "name": "兆豐金 (2886)",
@@ -749,11 +749,10 @@
     }
   ],
   "strategyStatus": {
-    "changedCount": 3,
+    "changedCount": 2,
     "changedNames": [
       "台積電 (2330)",
-      "QQQ (美股)",
-      "國泰小龍"
+      "QQQ (美股)"
     ],
     "total": 19
   }
