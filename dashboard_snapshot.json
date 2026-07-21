@@ -1,5 +1,5 @@
 {
-  "syncTime": "2026-07-22 07:05:24",
+  "syncTime": "2026-07-22 07:19:51",
   "dataDate": "2026-07-21",
   "prices": {
     "2330": {
@@ -213,41 +213,41 @@
     "安聯台灣科技基金": {
       "name": "安聯台灣科技基金",
       "ticker": "安聯台灣科技基金",
-      "date": "2026-07-20",
-      "price": 667.7,
+      "date": "2026-07-21",
+      "price": 711.46,
       "priceSource": "基金策略CSV",
       "quoteTime": "",
       "signal": "SELL",
       "previousSignal": "SELL",
       "strategyEq": 3.947722399846878,
-      "buyHoldEq": 3.2612093386734515,
-      "edge": 68.65130611734264
+      "buyHoldEq": 3.3645133831457623,
+      "edge": 58.32090167011157
     },
     "統一大滿貫": {
       "name": "統一大滿貫",
       "ticker": "統一大滿貫",
-      "date": "2026-07-20",
-      "price": 205.75,
+      "date": "2026-07-21",
+      "price": 218.07,
       "priceSource": "基金策略CSV",
       "quoteTime": "",
       "signal": "HOLD",
       "previousSignal": "HOLD",
       "strategyEq": 3.1438521290983656,
-      "buyHoldEq": 2.4526165216354725,
-      "edge": 69.12356074628931
+      "buyHoldEq": 2.5365825287891157,
+      "edge": 60.72696003092499
     },
     "國泰小龍": {
       "name": "國泰小龍",
       "ticker": "國泰小龍",
-      "date": "2026-07-20",
-      "price": 100.69,
+      "date": "2026-07-21",
+      "price": 105.83,
       "priceSource": "基金策略CSV",
       "quoteTime": "",
       "signal": "HOLD",
       "previousSignal": "HOLD",
       "strategyEq": 3.3870131730777646,
-      "buyHoldEq": 2.656027433394889,
-      "edge": 73.09857396828758
+      "buyHoldEq": 2.6901372648703665,
+      "edge": 69.68759082073981
     }
   },
   "watchlist": [
@@ -462,82 +462,56 @@
     {
       "name": "安聯台灣科技基金",
       "ticker": "安聯台灣科技基金",
-      "date": "2026-07-20",
-      "price": 667.7,
+      "date": "2026-07-21",
+      "price": 711.46,
       "priceSource": "基金策略CSV",
       "quoteTime": "",
       "signal": "SELL",
       "previousSignal": "SELL",
       "strategyEq": 3.947722399846878,
-      "buyHoldEq": 3.2612093386734515,
-      "edge": 68.65130611734264
+      "buyHoldEq": 3.3645133831457623,
+      "edge": 58.32090167011157
     },
     {
       "name": "統一大滿貫",
       "ticker": "統一大滿貫",
-      "date": "2026-07-20",
-      "price": 205.75,
+      "date": "2026-07-21",
+      "price": 218.07,
       "priceSource": "基金策略CSV",
       "quoteTime": "",
       "signal": "HOLD",
       "previousSignal": "HOLD",
       "strategyEq": 3.1438521290983656,
-      "buyHoldEq": 2.4526165216354725,
-      "edge": 69.12356074628931
+      "buyHoldEq": 2.5365825287891157,
+      "edge": 60.72696003092499
     },
     {
       "name": "國泰小龍",
       "ticker": "國泰小龍",
-      "date": "2026-07-20",
-      "price": 100.69,
+      "date": "2026-07-21",
+      "price": 105.83,
       "priceSource": "基金策略CSV",
       "quoteTime": "",
       "signal": "HOLD",
       "previousSignal": "HOLD",
       "strategyEq": 3.3870131730777646,
-      "buyHoldEq": 2.656027433394889,
-      "edge": 73.09857396828758
+      "buyHoldEq": 2.6901372648703665,
+      "edge": 69.68759082073981
     }
   ],
   "strategyRows": [
     {
       "name": "國泰小龍",
       "ticker": "國泰小龍",
-      "date": "2026-07-20",
-      "price": 100.69,
+      "date": "2026-07-21",
+      "price": 105.83,
       "priceSource": "基金策略CSV",
       "quoteTime": "",
       "signal": "HOLD",
       "previousSignal": "HOLD",
       "strategyEq": 3.3870131730777646,
-      "buyHoldEq": 2.656027433394889,
-      "edge": 73.09857396828758
-    },
-    {
-      "name": "統一大滿貫",
-      "ticker": "統一大滿貫",
-      "date": "2026-07-20",
-      "price": 205.75,
-      "priceSource": "基金策略CSV",
-      "quoteTime": "",
-      "signal": "HOLD",
-      "previousSignal": "HOLD",
-      "strategyEq": 3.1438521290983656,
-      "buyHoldEq": 2.4526165216354725,
-      "edge": 69.12356074628931
-    },
-    {
-      "name": "安聯台灣科技基金",
-      "ticker": "安聯台灣科技基金",
-      "date": "2026-07-20",
-      "price": 667.7,
-      "priceSource": "基金策略CSV",
-      "quoteTime": "",
-      "signal": "SELL",
-      "previousSignal": "SELL",
-      "strategyEq": 3.947722399846878,
-      "buyHoldEq": 3.2612093386734515,
-      "edge": 68.65130611734264
+      "buyHoldEq": 2.6901372648703665,
+      "edge": 69.68759082073981
     },
     {
       "name": "系統電 (5309)",
@@ -551,6 +525,32 @@
       "strategyEq": 1.9406055193690919,
       "buyHoldEq": 1.3333333333333317,
       "edge": 60.72721860357602
+    },
+    {
+      "name": "統一大滿貫",
+      "ticker": "統一大滿貫",
+      "date": "2026-07-21",
+      "price": 218.07,
+      "priceSource": "基金策略CSV",
+      "quoteTime": "",
+      "signal": "HOLD",
+      "previousSignal": "HOLD",
+      "strategyEq": 3.1438521290983656,
+      "buyHoldEq": 2.5365825287891157,
+      "edge": 60.72696003092499
+    },
+    {
+      "name": "安聯台灣科技基金",
+      "ticker": "安聯台灣科技基金",
+      "date": "2026-07-21",
+      "price": 711.46,
+      "priceSource": "基金策略CSV",
+      "quoteTime": "",
+      "signal": "SELL",
+      "previousSignal": "SELL",
+      "strategyEq": 3.947722399846878,
+      "buyHoldEq": 3.3645133831457623,
+      "edge": 58.32090167011157
     },
     {
       "name": "00947 ETF",
