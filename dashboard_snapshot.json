@@ -1,5 +1,5 @@
 {
-  "syncTime": "2026-07-24 16:01:16",
+  "syncTime": "2026-07-24 19:36:15",
   "dataDate": "2026-07-23",
   "prices": {
     "2330": {
@@ -46,7 +46,7 @@
       "ticker": "QQQ",
       "date": "2026-07-23",
       "price": 691.96,
-      "priceSource": "Yahoo台股",
+      "priceSource": "Yahoo Chart",
       "quoteTime": "",
       "signal": "HOLD",
       "previousSignal": "HOLD",
@@ -295,7 +295,7 @@
       "ticker": "QQQ",
       "date": "2026-07-23",
       "price": 691.96,
-      "priceSource": "Yahoo台股",
+      "priceSource": "Yahoo Chart",
       "quoteTime": "",
       "signal": "HOLD",
       "previousSignal": "HOLD",
@@ -622,7 +622,7 @@
       "ticker": "QQQ",
       "date": "2026-07-23",
       "price": 691.96,
-      "priceSource": "Yahoo台股",
+      "priceSource": "Yahoo Chart",
       "quoteTime": "",
       "signal": "HOLD",
       "previousSignal": "HOLD",
