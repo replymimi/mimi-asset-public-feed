@@ -1,0 +1,34 @@
+{
+  "updatedAt": "2026-07-30 13:45:06",
+  "items": [
+    {
+      "title": "以太幣與XRP持平，晶片股因三星獲利激增而趨穩",
+      "fact": "亞洲半導體拋售潮緩解之際，加密貨幣主流幣別表現平淡，惟週線仍多數下跌，HYPE跌幅達8%。",
+      "importance": "影響：半導體、晶片",
+      "verification": [
+        {
+          "source": "CoinDesk（數位貨幣）",
+          "url": "https://www.coindesk.com/markets/2026/07/30/ether-xrp-flat-as-chip-stocks-steady-on-samsung-s-250-fold-profit-surge",
+          "publishedAt": "2026-07-30 13:19:47"
+        }
+      ],
+      "status": "市場事實（單一可追溯來源）",
+      "score": 85
+    },
+    {
+      "title": "沃什對利率態度引發市場通膨疑慮",
+      "fact": "美聯儲主席表示債券殖利率上升已推高借貸成本後，道瓊指數下跌逾2%，投資人對後續升息預期重新評估。",
+      "importance": "影響：利率",
+      "verification": [
+        {
+          "source": "WSJ 華爾街日報（財經）",
+          "url": "https://www.wsj.com/finance/stocks/warshs-posture-on-interest-rates-sparks-market-inflation-fears-60b9933c?mod=rss_markets_main",
+          "publishedAt": "2026-07-30 05:15:00"
+        }
+      ],
+      "status": "市場事實（單一可追溯來源）",
+      "score": 65
+    }
+  ],
+  "method": "僅收當日、附來源網址與發布時間的新聞；依市場影響關鍵字排序。"
+}
