@@ -1,29 +1,15 @@
 {
-  "updatedAt": "2026-07-30 18:10:07",
+  "updatedAt": "2026-07-31 09:40:07",
   "items": [
     {
-      "title": "股市今日：公債拋售潮延續 沃許言論動搖投資人信心",
-      "fact": "長期公債殖利率創19年新高；股指期貨上漲。聯準會官員發言引發市場擔憂，公債市場出現明顯拋售壓力。投資人對未來利率走勢的預期出現調整。",
-      "importance": "影響：聯準會、利率",
+      "title": "凱文．沃什與債券市場的蜜月期已結束",
+      "fact": "投資人警告，聯準會必須在週三拋售後展現對抗通膨的決心，以重建市場信心。市場對沃什領導下聯準會的政策立場產生疑慮，擔心其通膨政策的有效性不足。",
+      "importance": "影響：聯準會",
       "verification": [
         {
           "source": "WSJ 華爾街日報（財經）",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-30-2026?mod=rss_markets_main",
-          "publishedAt": "2026-07-30 16:36:25"
-        }
-      ],
-      "status": "市場事實（單一可追溯來源）",
-      "score": 85
-    },
-    {
-      "title": "歐盟啟動徵求設立本土AI超級工廠",
-      "fact": "該招標案將支持多達七個AI設施的建設，旨在強化歐盟的科技競爭力。歐盟力圖減少對美國AI晶片的依賴。此舉反映歐洲在生成式AI領域的戰略佈局。",
-      "importance": "影響：晶片",
-      "verification": [
-        {
-          "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/world/europe/eu-opens-call-for-creation-of-local-ai-gigafactories-c286213d",
-          "publishedAt": "2026-07-30 18:06:00"
+          "url": "https://www.wsj.com/finance/investing/kevin-warshs-honeymoon-with-the-bond-market-is-already-over-23bd0c6a?mod=rss_markets_main",
+          "publishedAt": "2026-07-31 08:30:00"
         }
       ],
       "status": "市場事實（單一可追溯來源）",
