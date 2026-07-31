@@ -1,20 +1,5 @@
 {
-  "updatedAt": "2026-07-31 14:03:25",
-  "items": [
-    {
-      "title": "沃許與債市蜜月期已結束　投資人籲聯準會力挺抗通膨",
-      "fact": "聯準會官員凱文·沃許與債券市場的友好關係面臨考驗，上周三債市大幅拋售後，投資人警告聯準會必須展現對抗通膨的堅定決心。市場觀察人士認為，沃許需要進一步釐清政策立場，以重建市場信心。",
-      "importance": "影響：聯準會",
-      "verification": [
-        {
-          "source": "WSJ 華爾街日報（財經）",
-          "url": "https://www.wsj.com/finance/investing/kevin-warshs-honeymoon-with-the-bond-market-is-already-over-23bd0c6a?mod=rss_markets_main",
-          "publishedAt": "2026-07-31 08:30:00"
-        }
-      ],
-      "status": "市場事實（單一可追溯來源）",
-      "score": 70
-    }
-  ],
+  "updatedAt": "2026-07-31 18:10:06",
+  "items": [],
   "method": "僅收當日、附來源網址與發布時間的新聞；依市場影響關鍵字排序。"
 }
