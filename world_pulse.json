@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-08-02 13:45:07",
+  "updatedAt": "2026-08-02 18:10:06",
   "date": "2026-08-02",
   "items": [
     {
       "theme": "國際政治",
-      "title": "勒龐的30歲門徒能否贏得法國執行長支持",
-      "fact": "極右翼總統參選人勒龐已部署巴德拉作為橋樑，試圖爭取通常迴避其政黨的企業領袖社群支持。這一策略顯示極右翼政黨欲突破傳統政治版圖，向商界菁英靠攏的努力。",
+      "title": "川普取消對伊朗計畫攻擊，援引外交進展",
+      "fact": "該地區在美國與德黑蘭相互威脅後已為另一波升級做好準備，惟川普政府因外交談判取得進展而決定暫時停止行動。",
       "whyItMatters": "觀察政策、制裁或貿易規則是否改變跨境需求與企業成本。",
       "relatedAssets": "QQQ、META、GOOGL、台灣科技基金",
       "verification": [
         {
           "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/world/europe/can-marine-le-pens-30-year-old-protege-win-over-frances-ceos-8e597a22",
-          "publishedAt": "2026-08-02 02:00:00"
+          "url": "https://www.wsj.com/world/middle-east/iran-stokes-the-middle-east-war-with-drone-attacks-on-kuwait-f25530a0",
+          "publishedAt": "2026-08-02 11:56:00"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "市場",
-      "title": "標題：\nBitcoin冷錢包攻擊擴散至4,500個地址，損失接近8,900萬美元",
-      "fact": "Galaxy Research 標記了與 Coldcard 生成的弱密鑰相關的第三波掃蕩，攻擊者現在瞄準較小的餘額，並改變了資金在鏈上的收集方式。",
+      "title": "比特幣冷錢包攻擊擴及4,500個地址，損失逼近8,900萬美元",
+      "fact": "Galaxy Research監測到第三波與Coldcard弱密鑰相關的掃蕩潮，駭客現已鎖定更小規模餘額並改變",
       "whyItMatters": "觀察風險資產的資金流與評價是否出現連鎖反應。",
       "relatedAssets": "QQQ、META、GOOGL、00947 ETF",
       "verification": [
@@ -34,8 +34,8 @@
     },
     {
       "theme": "科技",
-      "title": "美國擅長製造股市泡沫，也善於度過危機",
-      "fact": "AI相關股票的回檔迄今幾乎完全被其他領域的漲幅所抵消，雖然終有一天大崩盤可能會到來，但目前市場展現出相當的韌性。華爾街對於科技產業的泡沫循環已習以為常，認為這是市場自我修正的過程。",
+      "title": "美國善於製造股市泡沫，也善於度過危機",
+      "fact": "AI相關股票的回檔迄今幾乎被其他地方的漲幅完全抵消，雖然終有一天可能面臨更大的崩跌，但短期內市場仍能消化這波調整。",
       "whyItMatters": "觀察 AI、雲端與資安支出是否影響大型科技股與半導體需求。",
       "relatedAssets": "NVDA、QQQ、META、GOOGL、台積電",
       "verification": [
@@ -43,21 +43,6 @@
           "source": "WSJ 華爾街日報（財經）",
           "url": "https://www.wsj.com/finance/stocks/stock-market-bubbles-recovery-029d21d0?mod=rss_markets_main",
           "publishedAt": "2026-08-02 10:00:00"
-        }
-      ],
-      "status": "當日已驗證來源"
-    },
-    {
-      "theme": "地緣風險",
-      "title": "川普取消對伊朗的軍事行動，理由為外交進展",
-      "fact": "華盛頓與德黑蘭在新一輪威脅後，該地區一度備戰應對升級，但川普最終決定暫緩軍事動作。此決定反映出美伊關係出現轉機，雙方外交溝通取得實質進展。",
-      "whyItMatters": "觀察能源、航運、供應鏈與風險偏好是否出現突發性重估。",
-      "relatedAssets": "漢翔、台積電、00947 ETF、USDT",
-      "verification": [
-        {
-          "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/world/middle-east/iran-stokes-the-middle-east-war-with-drone-attacks-on-kuwait-f25530a0",
-          "publishedAt": "2026-08-02 11:56:00"
         }
       ],
       "status": "當日已驗證來源"
