@@ -1,63 +1,48 @@
 {
-  "updatedAt": "2026-08-01 18:10:06",
-  "date": "2026-08-01",
+  "updatedAt": "2026-08-02 09:40:43",
+  "date": "2026-08-02",
   "items": [
     {
-      "theme": "總體經濟",
-      "title": "標題：\n義大利央行發現穩定幣匯款沒有一致的成本優勢",
-      "fact": "研究人員發現，法幣兌換成本和支付基礎設施，而不是區塊鏈手續費，是導致穩定幣匯款成本和結算時間差異的主要原因。",
-      "whyItMatters": "觀察利率與景氣預期如何影響評價、美元與風險偏好。",
-      "relatedAssets": "QQQ、NVDA、00947 ETF",
+      "theme": "國際政治",
+      "title": "勒龐30歲接班人能否贏得法國企業領袖支持",
+      "fact": "極右派總統候選人已派遣約當·巴德拉向通常拒絕與其政黨往來的企業界示好。巴德拉作為勒龐陣營的重要人物，被賦予改善極右派與商業菁英關係的任務。這一策略反映出極右派政黨欲擴大政治基礎、爭取主流商界支持的企圖。",
+      "whyItMatters": "觀察政策、制裁或貿易規則是否改變跨境需求與企業成本。",
+      "relatedAssets": "QQQ、META、GOOGL、台灣科技基金",
       "verification": [
         {
-          "source": "CoinTelegraph（數位貨幣）",
-          "url": "https://cointelegraph.com/news/bank-of-italy-study-no-stablecoin-remittance-cost-advantages?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedAt": "2026-08-01 04:10:21"
+          "source": "WSJ 華爾街日報（國際政經）",
+          "url": "https://www.wsj.com/world/europe/can-marine-le-pens-30-year-old-protege-win-over-frances-ceos-8e597a22",
+          "publishedAt": "2026-08-02 02:00:00"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "市場",
-      "title": "標題：\n比特幣冷錢包在從未接觸設備的攻擊中損失了7000萬美元",
-      "fact": "Galaxy Research 表示，弱種子生成使攻擊者能夠離線重現可能的私鑰，從近 1,200 個錢包中掃走超過 1,000 個比特幣，並繼續搜索而無需訪問這些設備。",
+      "title": "標題：\nBitcoin 冷錢包攻擊蔓延至 4,500 個地址，損失接近 8,900 萬美元",
+      "fact": "Galaxy Research 發現第三波掃蕩浪潮與弱 Coldcard 生成的密鑰相關，攻擊者現在瞄準較小的餘額，並改變了鏈上資金收集的方式。",
       "whyItMatters": "觀察風險資產的資金流與評價是否出現連鎖反應。",
       "relatedAssets": "QQQ、META、GOOGL、00947 ETF",
       "verification": [
         {
           "source": "CoinDesk（數位貨幣）",
-          "url": "https://www.coindesk.com/tech/2026/08/01/how-bitcoin-cold-wallets-lost-usd70-million-in-an-attack-that-never-touched-the-devices",
-          "publishedAt": "2026-08-01 13:55:46"
-        }
-      ],
-      "status": "當日已驗證來源"
-    },
-    {
-      "theme": "科技",
-      "title": "華爾街認為科技巨頭將透過雲端運算實現AI獲利",
-      "fact": "投資人逐漸接受大型科技公司投資AI的合理性，前提是這些投資必須與雲端運算業務相結合。隨著各大科技公司努力將AI技術商業化，市場開始看到這些支出如何透過雲端基礎設施服務產生回報。這種認知轉變反映出投資人對科技產業長期成長動能的重新評估。",
-      "whyItMatters": "觀察 AI、雲端與資安支出是否影響大型科技股與半導體需求。",
-      "relatedAssets": "NVDA、QQQ、META、GOOGL、台積電",
-      "verification": [
-        {
-          "source": "WSJ 華爾街日報（財經）",
-          "url": "https://www.wsj.com/tech/ai/wall-street-thinks-it-knows-how-tech-giants-will-make-ai-pay-96f76438?mod=rss_markets_main",
-          "publishedAt": "2026-08-01 17:30:00"
+          "url": "https://www.coindesk.com/tech/2026/08/02/bitcoin-cold-wallet-attack-spreads-to-4-500-addresses-as-losses-near-usd89-million",
+          "publishedAt": "2026-08-02 04:10:54"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "地緣風險",
-      "title": "伊朗主力飛彈威脅升級美軍部隊",
-      "fact": "伊朗自製的海巴爾·謝坎飛彈正在進化，對美軍構成日益嚴峻的威脅。該飛彈的技術進步和打擊能力提升，已成為中東地區軍事平衡的重要變數。美國與伊朗之間的軍事緊張局勢因此面臨新的升級風險。",
+      "title": "伊朗對科威特進行無人機攻擊升高中東局勢",
+      "fact": "該地區在川普威脅發動新一輪攻擊後，正為另一波升級做準備。伊朗此舉意在對美國先前的軍事行動進行報復，引發區域緊張情勢再度升溫。中東衝突的擴大恐對全球能源供應與地緣政治穩定造成重大威脅。",
       "whyItMatters": "觀察能源、航運、供應鏈與風險偏好是否出現突發性重估。",
       "relatedAssets": "漢翔、台積電、00947 ETF、USDT",
       "verification": [
         {
           "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/world/middle-east/irans-workhorse-missile-is-becoming-more-dangerous-for-u-s-troops-341a77ee",
-          "publishedAt": "2026-08-01 09:28:00"
+          "url": "https://www.wsj.com/world/middle-east/iran-stokes-the-middle-east-war-with-drone-attacks-on-kuwait-f25530a0",
+          "publishedAt": "2026-08-02 01:14:00"
         }
       ],
       "status": "當日已驗證來源"
