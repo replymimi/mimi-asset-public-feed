@@ -1,48 +1,48 @@
 {
-  "updatedAt": "2026-08-02 18:10:06",
-  "date": "2026-08-02",
+  "updatedAt": "2026-08-03 09:40:06",
+  "date": "2026-08-03",
   "items": [
     {
       "theme": "國際政治",
-      "title": "川普取消對伊朗計畫攻擊，援引外交進展",
-      "fact": "該地區在美國與德黑蘭相互威脅後已為另一波升級做好準備，惟川普政府因外交談判取得進展而決定暫時停止行動。",
+      "title": "川普宣布伊朗談判週一啟動 取消軍事行動",
+      "fact": "美國總統川普表示伊朗新談判將於週一下午展開，他已取消計畫中的伊朗軍事行動，部分原因是應中東盟國包括沙烏地阿拉伯的懇求。此決定標誌著川普政府轉向外交途徑解決伊朗問題。",
       "whyItMatters": "觀察政策、制裁或貿易規則是否改變跨境需求與企業成本。",
       "relatedAssets": "QQQ、META、GOOGL、台灣科技基金",
       "verification": [
         {
-          "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/world/middle-east/iran-stokes-the-middle-east-war-with-drone-attacks-on-kuwait-f25530a0",
-          "publishedAt": "2026-08-02 11:56:00"
+          "source": "Bloomberg 彭博社（政治經濟）",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-02/trump-says-iran-talks-to-begin-monday-after-calling-off-strikes",
+          "publishedAt": "2026-08-03 05:47:28"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "市場",
-      "title": "比特幣冷錢包攻擊擴及4,500個地址，損失逼近8,900萬美元",
-      "fact": "Galaxy Research監測到第三波與Coldcard弱密鑰相關的掃蕩潮，駭客現已鎖定更小規模餘額並改變",
+      "title": "大科技公司財報推升股價漲跌幅度分化",
+      "fact": "科技巨頭的財報公佈帶動股市漲跌不一，聯準會推升的公債拋售潮更加重市場壓力。美股投資者面臨業績優於預期的科技股上漲，與表現不如預期的科技股下跌同時並行的局面。",
       "whyItMatters": "觀察風險資產的資金流與評價是否出現連鎖反應。",
       "relatedAssets": "QQQ、META、GOOGL、00947 ETF",
       "verification": [
         {
-          "source": "CoinDesk（數位貨幣）",
-          "url": "https://www.coindesk.com/tech/2026/08/02/bitcoin-cold-wallet-attack-spreads-to-4-500-addresses-as-losses-near-usd89-million",
-          "publishedAt": "2026-08-02 04:10:54"
+          "source": "WSJ 華爾街日報（財經）",
+          "url": "https://www.wsj.com/finance/stocks/tech-company-earnings-stock-market-5c4179d8?mod=rss_markets_main",
+          "publishedAt": "2026-08-03 09:00:00"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "科技",
-      "title": "美國善於製造股市泡沫，也善於度過危機",
-      "fact": "AI相關股票的回檔迄今幾乎被其他地方的漲幅完全抵消，雖然終有一天可能面臨更大的崩跌，但短期內市場仍能消化這波調整。",
+      "title": "標題：\n一個 DeFi 平台為何棄用消費者應用，轉而成為科技巨頭的秘密後端",
+      "fact": "收入在熊市中從八千萬美元下降到兩千萬美元。OTC 借貸未償餘額達兩億六千萬美元，是成長最快的業務線，目標是在年底前達到十億美元。",
       "whyItMatters": "觀察 AI、雲端與資安支出是否影響大型科技股與半導體需求。",
       "relatedAssets": "NVDA、QQQ、META、GOOGL、台積電",
       "verification": [
         {
-          "source": "WSJ 華爾街日報（財經）",
-          "url": "https://www.wsj.com/finance/stocks/stock-market-bubbles-recovery-029d21d0?mod=rss_markets_main",
-          "publishedAt": "2026-08-02 10:00:00"
+          "source": "CoinDesk（數位貨幣）",
+          "url": "https://www.coindesk.com/web3/2026/08/02/why-a-defi-platform-ditched-its-consumer-app-to-become-the-secret-backend-for-tech-giants",
+          "publishedAt": "2026-08-03 01:00:00"
         }
       ],
       "status": "當日已驗證來源"

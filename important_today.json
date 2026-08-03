@@ -1,5 +1,20 @@
 {
-  "updatedAt": "2026-08-02 18:10:06",
-  "items": [],
+  "updatedAt": "2026-08-03 09:40:06",
+  "items": [
+    {
+      "title": "大科技公司財報推升股價漲跌幅度分化",
+      "fact": "科技巨頭的財報公佈帶動股市漲跌不一，聯準會推升的公債拋售潮更加重市場壓力。美股投資者面臨業績優於預期的科技股上漲，與表現不如預期的科技股下跌同時並行的局面。",
+      "importance": "影響：聯準會、財報",
+      "verification": [
+        {
+          "source": "WSJ 華爾街日報（財經）",
+          "url": "https://www.wsj.com/finance/stocks/tech-company-earnings-stock-market-5c4179d8?mod=rss_markets_main",
+          "publishedAt": "2026-08-03 09:00:00"
+        }
+      ],
+      "status": "市場事實（單一可追溯來源）",
+      "score": 80
+    }
+  ],
   "method": "僅收當日、附來源網址與發布時間的新聞；依市場影響關鍵字排序。"
 }
