@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-08-03 09:40:06",
+  "updatedAt": "2026-08-03 13:45:07",
   "date": "2026-08-03",
   "items": [
     {
       "theme": "國際政治",
-      "title": "川普宣布伊朗談判週一啟動 取消軍事行動",
-      "fact": "美國總統川普表示伊朗新談判將於週一下午展開，他已取消計畫中的伊朗軍事行動，部分原因是應中東盟國包括沙烏地阿拉伯的懇求。此決定標誌著川普政府轉向外交途徑解決伊朗問題。",
+      "title": "川普重啟外交談判 伊朗勝利仍遙遙無期",
+      "fact": "川普政府改變策略，轉向外交途徑尋求突破，但能否透過談判重啟荷莫茲海峽並為核子談判鋪路仍成疑問。",
       "whyItMatters": "觀察政策、制裁或貿易規則是否改變跨境需求與企業成本。",
       "relatedAssets": "QQQ、META、GOOGL、台灣科技基金",
       "verification": [
         {
-          "source": "Bloomberg 彭博社（政治經濟）",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-02/trump-says-iran-talks-to-begin-monday-after-calling-off-strikes",
-          "publishedAt": "2026-08-03 05:47:28"
+          "source": "WSJ 華爾街日報（國際政經）",
+          "url": "https://www.wsj.com/world/middle-east/trump-pivots-back-to-diplomacy-as-iran-victory-eludes-him-a925ee98",
+          "publishedAt": "2026-08-03 07:00:00"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "市場",
-      "title": "大科技公司財報推升股價漲跌幅度分化",
-      "fact": "科技巨頭的財報公佈帶動股市漲跌不一，聯準會推升的公債拋售潮更加重市場壓力。美股投資者面臨業績優於預期的科技股上漲，與表現不如預期的科技股下跌同時並行的局面。",
+      "title": "科技大廠財報推升股市漲跌幅擴大",
+      "fact": "科技巨擘的財報公布帶動個股漲跌幅度加劇，同時聯準會引發的債券拋售潮進一步加重市場壓力，投資人面臨更複雜的市場環境。",
       "whyItMatters": "觀察風險資產的資金流與評價是否出現連鎖反應。",
       "relatedAssets": "QQQ、META、GOOGL、00947 ETF",
       "verification": [
@@ -34,8 +34,8 @@
     },
     {
       "theme": "科技",
-      "title": "標題：\n一個 DeFi 平台為何棄用消費者應用，轉而成為科技巨頭的秘密後端",
-      "fact": "收入在熊市中從八千萬美元下降到兩千萬美元。OTC 借貸未償餘額達兩億六千萬美元，是成長最快的業務線，目標是在年底前達到十億美元。",
+      "title": "標題：為什麼一個 DeFi 平台放棄了消費者應用轉向成為科技巨頭的秘密後端",
+      "fact": "在熊市中，收入從8000萬美元下降至2000萬美元。OTC借貸額度為2.6億美元待償，是增長最快的業務線，目標是到年底達到10億美元。",
       "whyItMatters": "觀察 AI、雲端與資安支出是否影響大型科技股與半導體需求。",
       "relatedAssets": "NVDA、QQQ、META、GOOGL、台積電",
       "verification": [
@@ -43,6 +43,21 @@
           "source": "CoinDesk（數位貨幣）",
           "url": "https://www.coindesk.com/web3/2026/08/02/why-a-defi-platform-ditched-its-consumer-app-to-become-the-secret-backend-for-tech-giants",
           "publishedAt": "2026-08-03 01:00:00"
+        }
+      ],
+      "status": "當日已驗證來源"
+    },
+    {
+      "theme": "地緣風險",
+      "title": "約旦發現與美國同盟需付出代價 伊朗以其為目標",
+      "fact": "約旦日益成為伊朗的攻擊目標，因美國愈來愈依賴該國的沙漠軍事基地，這讓約旦在美伊對抗中的戰略地位變得更加敏感且危險。",
+      "whyItMatters": "觀察能源、航運、供應鏈與風險偏好是否出現突發性重估。",
+      "relatedAssets": "漢翔、台積電、00947 ETF、USDT",
+      "verification": [
+        {
+          "source": "WSJ 華爾街日報（國際政經）",
+          "url": "https://www.wsj.com/world/middle-east/jordan-is-learning-its-u-s-alliance-has-a-price-in-the-iran-war-7ce9fd8b",
+          "publishedAt": "2026-08-03 11:00:00"
         }
       ],
       "status": "當日已驗證來源"
