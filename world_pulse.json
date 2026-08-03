@@ -1,56 +1,71 @@
 {
-  "updatedAt": "2026-08-03 13:45:07",
+  "updatedAt": "2026-08-03 18:10:06",
   "date": "2026-08-03",
   "items": [
     {
       "theme": "國際政治",
-      "title": "川普重啟外交談判 伊朗勝利仍遙遙無期",
-      "fact": "川普政府改變策略，轉向外交途徑尋求突破，但能否透過談判重啟荷莫茲海峽並為核子談判鋪路仍成疑問。",
+      "title": "伊朗表示荷莫茲海峽談判進行中",
+      "fact": "伊朗表示與阿曼就海峽管理的協商取得進展，外交部長阿拉格奇指出伊朗與阿曼之間的討論已進入最終階段，有助增加通過該航道的船隻流量。此前美國總統川普宣布取消對伊朗的重大攻擊計劃。",
       "whyItMatters": "觀察政策、制裁或貿易規則是否改變跨境需求與企業成本。",
       "relatedAssets": "QQQ、META、GOOGL、台灣科技基金",
       "verification": [
         {
-          "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/world/middle-east/trump-pivots-back-to-diplomacy-as-iran-victory-eludes-him-a925ee98",
-          "publishedAt": "2026-08-03 07:00:00"
+          "source": "Bloomberg 彭博社（政治經濟）",
+          "url": "https://www.bloomberg.com/news/videos/2026-08-03/iran-says-strait-of-hormuz-talks-are-underway-video",
+          "publishedAt": "2026-08-03 17:31:09"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "市場",
-      "title": "科技大廠財報推升股市漲跌幅擴大",
-      "fact": "科技巨擘的財報公布帶動個股漲跌幅度加劇，同時聯準會引發的債券拋售潮進一步加重市場壓力，投資人面臨更複雜的市場環境。",
+      "title": "美國就業數據、Circle、Galaxy、American Bitcoin財報：加密貨幣週前瞻",
+      "fact": "掌握8月3日開始週內的重點事項與關注焦點。",
       "whyItMatters": "觀察風險資產的資金流與評價是否出現連鎖反應。",
       "relatedAssets": "QQQ、META、GOOGL、00947 ETF",
       "verification": [
         {
+          "source": "CoinDesk（數位貨幣）",
+          "url": "https://www.coindesk.com/markets/2026/08/03/u-s-jobs-circle-galaxy-american-bitcoin-earnings-crypto-week-ahead",
+          "publishedAt": "2026-08-03 16:16:28"
+        }
+      ],
+      "status": "當日已驗證來源"
+    },
+    {
+      "theme": "產業",
+      "title": "股市今日：外交談判回溫紓緩油價壓力",
+      "fact": "美國與日本確認進行日圓干預行動，藉由恢復雙邊對話來穩定市場情緒，進而為承受地緣政治風險的石油價格帶來喘息空間。",
+      "whyItMatters": "觀察供需、成本與供應鏈變化對產業獲利的傳導。",
+      "relatedAssets": "台積電、聯電、力積電、華邦電、南亞科",
+      "verification": [
+        {
           "source": "WSJ 華爾街日報（財經）",
-          "url": "https://www.wsj.com/finance/stocks/tech-company-earnings-stock-market-5c4179d8?mod=rss_markets_main",
-          "publishedAt": "2026-08-03 09:00:00"
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-03-2026?mod=rss_markets_main",
+          "publishedAt": "2026-08-03 15:58:14"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "科技",
-      "title": "標題：為什麼一個 DeFi 平台放棄了消費者應用轉向成為科技巨頭的秘密後端",
-      "fact": "在熊市中，收入從8000萬美元下降至2000萬美元。OTC借貸額度為2.6億美元待償，是增長最快的業務線，目標是到年底達到10億美元。",
+      "title": "如何佈局AI債券潮",
+      "fact": "科技巨擘欲借入數十年期債務以籌措資金，但投資人另有更佳選擇，市場對此類發行的需求持謹慎態度。",
       "whyItMatters": "觀察 AI、雲端與資安支出是否影響大型科技股與半導體需求。",
       "relatedAssets": "NVDA、QQQ、META、GOOGL、台積電",
       "verification": [
         {
-          "source": "CoinDesk（數位貨幣）",
-          "url": "https://www.coindesk.com/web3/2026/08/02/why-a-defi-platform-ditched-its-consumer-app-to-become-the-secret-backend-for-tech-giants",
-          "publishedAt": "2026-08-03 01:00:00"
+          "source": "WSJ 華爾街日報（財經）",
+          "url": "https://www.wsj.com/finance/investing/how-to-play-the-flood-of-ai-bonds-279f6ba5?mod=rss_markets_main",
+          "publishedAt": "2026-08-03 17:30:00"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "地緣風險",
-      "title": "約旦發現與美國同盟需付出代價 伊朗以其為目標",
-      "fact": "約旦日益成為伊朗的攻擊目標，因美國愈來愈依賴該國的沙漠軍事基地，這讓約旦在美伊對抗中的戰略地位變得更加敏感且危險。",
+      "title": "約旦發現美國同盟關係在伊朗戰爭中需付出代價",
+      "fact": "隨著美國更加倚重其沙漠基地，約旦王國已成為伊朗的攻擊目標，深化兩國軍事依存所帶來的風險。",
       "whyItMatters": "觀察能源、航運、供應鏈與風險偏好是否出現突發性重估。",
       "relatedAssets": "漢翔、台積電、00947 ETF、USDT",
       "verification": [

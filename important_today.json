@@ -1,29 +1,15 @@
 {
-  "updatedAt": "2026-08-03 13:45:07",
+  "updatedAt": "2026-08-03 18:10:06",
   "items": [
     {
-      "title": "科技大廠財報推升股市漲跌幅擴大",
-      "fact": "科技巨擘的財報公布帶動個股漲跌幅度加劇，同時聯準會引發的債券拋售潮進一步加重市場壓力，投資人面臨更複雜的市場環境。",
-      "importance": "影響：聯準會、財報",
-      "verification": [
-        {
-          "source": "WSJ 華爾街日報（財經）",
-          "url": "https://www.wsj.com/finance/stocks/tech-company-earnings-stock-market-5c4179d8?mod=rss_markets_main",
-          "publishedAt": "2026-08-03 09:00:00"
-        }
-      ],
-      "status": "市場事實（單一可追溯來源）",
-      "score": 80
-    },
-    {
-      "title": "川普喊停攻伊朗 油價應聲下跌",
-      "fact": "美國總統川普宣布將於週一啟動與伊朗的新一輪談判，並取消原訂對伊朗的軍事行動，此消息導致油價隨之下滑，市場風險情緒獲得緩解。",
+      "title": "股市今日：外交談判回溫紓緩油價壓力",
+      "fact": "美國與日本確認進行日圓干預行動，藉由恢復雙邊對話來穩定市場情緒，進而為承受地緣政治風險的石油價格帶來喘息空間。",
       "importance": "影響：油價",
       "verification": [
         {
-          "source": "Bloomberg 彭博社（政治經濟）",
-          "url": "https://www.bloomberg.com/news/videos/2026-08-03/oil-slumps-as-trump-calls-off-attack-on-iran-video",
-          "publishedAt": "2026-08-03 13:05:14"
+          "source": "WSJ 華爾街日報（財經）",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-03-2026?mod=rss_markets_main",
+          "publishedAt": "2026-08-03 15:58:14"
         }
       ],
       "status": "市場事實（單一可追溯來源）",
