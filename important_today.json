@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-08-03 18:10:06",
+  "updatedAt": "2026-08-04 09:41:02",
   "items": [
     {
-      "title": "股市今日：外交談判回溫紓緩油價壓力",
-      "fact": "美國與日本確認進行日圓干預行動，藉由恢復雙邊對話來穩定市場情緒，進而為承受地緣政治風險的石油價格帶來喘息空間。",
+      "title": "油價回落帶動股市上揚，荷姆茲海峽外交談判帶來希望",
+      "fact": "美股受惠於油價下滑而走高，其中亞馬遜市值突破3兆美元大關，阿里巴巴也推出新型AI模型。全球能源價格的緩解助長了科技股的上升動能。",
       "importance": "影響：油價",
       "verification": [
         {
           "source": "WSJ 華爾街日報（財經）",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-03-2026?mod=rss_markets_main",
-          "publishedAt": "2026-08-03 15:58:14"
+          "url": "https://www.wsj.com/finance/stocks/stocks-rally-as-oil-drops-on-hormuz-diplomatic-hopes-75cf4ce1?mod=rss_markets_main",
+          "publishedAt": "2026-08-04 04:26:00"
         }
       ],
       "status": "市場事實（單一可追溯來源）",
