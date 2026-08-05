@@ -1,63 +1,78 @@
 {
-  "updatedAt": "2026-08-04 09:41:02",
-  "date": "2026-08-04",
+  "updatedAt": "2026-08-05 18:37:16",
+  "date": "2026-08-05",
   "items": [
     {
       "theme": "國際政治",
-      "title": "伊朗否認與美國就荷姆茲海峽進行談判",
-      "fact": "伊朗外交部表示正與阿曼持續磋商航道管理事宜，但與美國無談判進展；美國總統川普則批評伊朗「難以置信地出爾反爾」。雙方立場仍存在重大分歧。",
+      "title": "川普暗示荷莫茲海峽協議近在咫尺點燃希望",
+      "fact": "美國總統川普表示，荷莫茲海峽協議最快於周三敲定，市場預期將達成允許這條關鍵水道重啟的安排。",
       "whyItMatters": "觀察政策、制裁或貿易規則是否改變跨境需求與企業成本。",
       "relatedAssets": "QQQ、META、GOOGL、台灣科技基金",
       "verification": [
         {
-          "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/world/middle-east/iran-says-no-talks-with-the-u-s-on-hormuz-strait-9863c9f0",
-          "publishedAt": "2026-08-04 02:54:00"
+          "source": "Bloomberg 彭博社（政治經濟）",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-05/trump-fuels-hopes-of-hormuz-reopening-with-hints-a-deal-is-near",
+          "publishedAt": "2026-08-05 16:21:58"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
-      "theme": "總體經濟",
-      "title": "歐洲河流枯竭導致船隻無法通行、電廠被迫關閉",
-      "fact": "旱災持續困擾歐洲地區，河運受阻加上發電能力下降，對該區已然脆弱的經濟構成重大挑戰。乾旱問題可能進一步推升能源成本與通膨壓力。",
-      "whyItMatters": "觀察利率與景氣預期如何影響評價、美元與風險偏好。",
-      "relatedAssets": "QQQ、NVDA、00947 ETF",
+      "theme": "市場",
+      "title": "股市今日：SpaceX股價在財報後下滑",
+      "fact": "道瓊指數料延續過去兩天1,600點的漲勢。",
+      "whyItMatters": "觀察風險資產的資金流與評價是否出現連鎖反應。",
+      "relatedAssets": "QQQ、META、GOOGL、00947 ETF",
       "verification": [
         {
-          "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/world/europe/ships-cant-move-and-power-plants-shut-down-as-drought-saps-europes-rivers-8b083c62",
-          "publishedAt": "2026-08-04 02:56:00"
+          "source": "WSJ 華爾街日報（財經）",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-05-2026?mod=rss_markets_main",
+          "publishedAt": "2026-08-05 15:53:56"
+        }
+      ],
+      "status": "當日已驗證來源"
+    },
+    {
+      "theme": "產業",
+      "title": "油價正常化需要「長期時間」，艾希福表示",
+      "fact": "渣打銀行能源研究主管艾蜜莉．艾希福談論能源市場，在美伊協議開放荷莫茲海峽的希望升高之際。她向彭博電視表示「市場希望看到也許只是短期的減壓閥」，並補充油市正常化的步調仍需「長期時間」才能完成。",
+      "whyItMatters": "觀察供需、成本與供應鏈變化對產業獲利的傳導。",
+      "relatedAssets": "台積電、聯電、力積電、華邦電、南亞科",
+      "verification": [
+        {
+          "source": "Bloomberg 彭博社（政治經濟）",
+          "url": "https://www.bloomberg.com/news/videos/2026-08-05/oil-normalization-to-take-a-long-time-ashford-says-video",
+          "publishedAt": "2026-08-05 18:00:35"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "科技",
-      "title": "油價回落帶動股市上揚，荷姆茲海峽外交談判帶來希望",
-      "fact": "美股受惠於油價下滑而走高，其中亞馬遜市值突破3兆美元大關，阿里巴巴也推出新型AI模型。全球能源價格的緩解助長了科技股的上升動能。",
+      "title": "中國對美國祭出無人機出口管制與制裁",
+      "fact": "中國收緊對美國無人機出口管制並對多家美國企業實施制裁，作為對華盛頓擴大科技管制的一系列報復措施。",
       "whyItMatters": "觀察 AI、雲端與資安支出是否影響大型科技股與半導體需求。",
       "relatedAssets": "NVDA、QQQ、META、GOOGL、台積電",
       "verification": [
         {
-          "source": "WSJ 華爾街日報（財經）",
-          "url": "https://www.wsj.com/finance/stocks/stocks-rally-as-oil-drops-on-hormuz-diplomatic-hopes-75cf4ce1?mod=rss_markets_main",
-          "publishedAt": "2026-08-04 04:26:00"
+          "source": "Bloomberg 彭博社（政治經濟）",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-05/china-hits-back-at-us-with-tighter-drone-export-curbs-sanctions",
+          "publishedAt": "2026-08-05 16:27:40"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "地緣風險",
-      "title": "川普稱談判是伊朗的「最後機會」，此前曾威脅對伊動武",
-      "fact": "美國總統川普表示最新的談判提議是伊朗的「最後機會」，此言是在他宣布取消對伊朗的重大軍事行動後提出。川普政府以談判與威脅的雙重手段施壓伊朗。",
+      "title": "華爾街和矽谷投資者遭Situational認知公司重創",
+      "fact": "另外，伊朗投注一切控制荷莫茲海峽，本刊旅遊專欄作家解析經濟艙訂票前需瞭解的新規則。",
       "whyItMatters": "觀察能源、航運、供應鏈與風險偏好是否出現突發性重估。",
       "relatedAssets": "漢翔、台積電、00947 ETF、USDT",
       "verification": [
         {
-          "source": "Bloomberg 彭博社（政治經濟）",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-03/trump-says-talks-are-iran-s-last-chance-after-strikes-scrubbed",
-          "publishedAt": "2026-08-04 02:38:31"
+          "source": "WSJ 華爾街日報（國際政經）",
+          "url": "https://www.wsj.com/world/the-wall-street-and-silicon-valley-investors-who-got-burned-by-situational-awareness-c2703d11?mod=rss_worldnews",
+          "publishedAt": "2026-08-05 18:20:00"
         }
       ],
       "status": "當日已驗證來源"
