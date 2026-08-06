@@ -1,20 +1,5 @@
 {
-  "updatedAt": "2026-08-05 18:37:16",
-  "items": [
-    {
-      "title": "油價正常化需要「長期時間」，艾希福表示",
-      "fact": "渣打銀行能源研究主管艾蜜莉．艾希福談論能源市場，在美伊協議開放荷莫茲海峽的希望升高之際。她向彭博電視表示「市場希望看到也許只是短期的減壓閥」，並補充油市正常化的步調仍需「長期時間」才能完成。",
-      "importance": "影響：油價",
-      "verification": [
-        {
-          "source": "Bloomberg 彭博社（政治經濟）",
-          "url": "https://www.bloomberg.com/news/videos/2026-08-05/oil-normalization-to-take-a-long-time-ashford-says-video",
-          "publishedAt": "2026-08-05 18:00:35"
-        }
-      ],
-      "status": "市場事實（單一可追溯來源）",
-      "score": 65
-    }
-  ],
+  "updatedAt": "2026-08-06 09:53:22",
+  "items": [],
   "method": "僅收當日、附來源網址與發布時間的新聞；依市場影響關鍵字排序。"
 }

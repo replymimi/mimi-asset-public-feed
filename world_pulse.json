@@ -1,78 +1,78 @@
 {
-  "updatedAt": "2026-08-05 18:37:16",
-  "date": "2026-08-05",
+  "updatedAt": "2026-08-06 09:53:22",
+  "date": "2026-08-06",
   "items": [
     {
       "theme": "國際政治",
-      "title": "川普暗示荷莫茲海峽協議近在咫尺點燃希望",
-      "fact": "美國總統川普表示，荷莫茲海峽協議最快於周三敲定，市場預期將達成允許這條關鍵水道重啟的安排。",
+      "title": "川普成為巴西激烈選戰的焦點",
+      "fact": "拉美最大國家的左翼領導人指控美國總統試圖干預10月份的選舉，並企圖讓右翼勢力重返執政。此言論凸顯美國政治對全球選舉的影響力。",
       "whyItMatters": "觀察政策、制裁或貿易規則是否改變跨境需求與企業成本。",
       "relatedAssets": "QQQ、META、GOOGL、台灣科技基金",
       "verification": [
         {
-          "source": "Bloomberg 彭博社（政治經濟）",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-05/trump-fuels-hopes-of-hormuz-reopening-with-hints-a-deal-is-near",
-          "publishedAt": "2026-08-05 16:21:58"
+          "source": "WSJ 華爾街日報（國際政經）",
+          "url": "https://www.wsj.com/world/americas/trump-looms-over-brazils-closest-election-in-decades-5b6314f6?mod=rss_worldnews",
+          "publishedAt": "2026-08-06 00:55:00"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "市場",
-      "title": "股市今日：SpaceX股價在財報後下滑",
-      "fact": "道瓊指數料延續過去兩天1,600點的漲勢。",
+      "title": "標題：\nBitcoin Red Team 在全面安全審計中報告 5000 項發現",
+      "fact": "Bitcoin開發者Calle表示：「生態系統現在有很多混亂。我們完全理解許多人現在正被安全問題轟炸。」",
       "whyItMatters": "觀察風險資產的資金流與評價是否出現連鎖反應。",
       "relatedAssets": "QQQ、META、GOOGL、00947 ETF",
       "verification": [
         {
-          "source": "WSJ 華爾街日報（財經）",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-05-2026?mod=rss_markets_main",
-          "publishedAt": "2026-08-05 15:53:56"
+          "source": "CoinTelegraph（數位貨幣）",
+          "url": "https://cointelegraph.com/news/bitcoin-red-team-reports-5k-findings-in-sweeping-security-audit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedAt": "2026-08-06 09:09:06"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "產業",
-      "title": "油價正常化需要「長期時間」，艾希福表示",
-      "fact": "渣打銀行能源研究主管艾蜜莉．艾希福談論能源市場，在美伊協議開放荷莫茲海峽的希望升高之際。她向彭博電視表示「市場希望看到也許只是短期的減壓閥」，並補充油市正常化的步調仍需「長期時間」才能完成。",
+      "title": "談判代表與伊朗達成協議開放荷莫茲海峽",
+      "fact": "草案協議將賦予德黑蘭對進入波斯灣船隻的監督權，但不允許其徵收通行費或服務費。此協議旨在緩解中東區域緊張局勢，並確保全球能源供應安全。",
       "whyItMatters": "觀察供需、成本與供應鏈變化對產業獲利的傳導。",
       "relatedAssets": "台積電、聯電、力積電、華邦電、南亞科",
       "verification": [
         {
-          "source": "Bloomberg 彭博社（政治經濟）",
-          "url": "https://www.bloomberg.com/news/videos/2026-08-05/oil-normalization-to-take-a-long-time-ashford-says-video",
-          "publishedAt": "2026-08-05 18:00:35"
+          "source": "WSJ 華爾街日報（國際政經）",
+          "url": "https://www.wsj.com/world/middle-east/negotiators-close-in-on-deal-with-iran-to-open-hormuz-50c0f335?mod=rss_worldnews",
+          "publishedAt": "2026-08-06 02:17:00"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "科技",
-      "title": "中國對美國祭出無人機出口管制與制裁",
-      "fact": "中國收緊對美國無人機出口管制並對多家美國企業實施制裁，作為對華盛頓擴大科技管制的一系列報復措施。",
+      "title": "標題：\nBlock 基於強勁季度業績調高 2026 年展望，稱 AI 影響幾乎所有程式碼",
+      "fact": "Cash App 和 Square 推動了好於預期的業績表現，該公司表示已在軟體工程領域擴大了人工智慧的應用。",
       "whyItMatters": "觀察 AI、雲端與資安支出是否影響大型科技股與半導體需求。",
       "relatedAssets": "NVDA、QQQ、META、GOOGL、台積電",
       "verification": [
         {
-          "source": "Bloomberg 彭博社（政治經濟）",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-05/china-hits-back-at-us-with-tighter-drone-export-curbs-sanctions",
-          "publishedAt": "2026-08-05 16:27:40"
+          "source": "CoinTelegraph（數位貨幣）",
+          "url": "https://cointelegraph.com/markets/block-raises-2026-outlook-strong-quarter-says-ai-touches-nearly-all-code?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedAt": "2026-08-06 09:33:57"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "地緣風險",
-      "title": "華爾街和矽谷投資者遭Situational認知公司重創",
-      "fact": "另外，伊朗投注一切控制荷莫茲海峽，本刊旅遊專欄作家解析經濟艙訂票前需瞭解的新規則。",
+      "title": "普京在俄烏戰爭中進行改組，俄羅斯尋求戰場動能",
+      "fact": "克里姆林宮在俄軍面臨數年來最慢的領土進展及批評聲浪後，任命了新的軍事指揮官。此舉反映俄羅斯軍事戰略的調整與對戰局的重新評估。",
       "whyItMatters": "觀察能源、航運、供應鏈與風險偏好是否出現突發性重估。",
       "relatedAssets": "漢翔、台積電、00947 ETF、USDT",
       "verification": [
         {
           "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/world/the-wall-street-and-silicon-valley-investors-who-got-burned-by-situational-awareness-c2703d11?mod=rss_worldnews",
-          "publishedAt": "2026-08-05 18:20:00"
+          "url": "https://www.wsj.com/world/russia/putin-overhauls-war-effort-in-ukraine-as-russia-seeks-momentum-61cfb9b1?mod=rss_worldnews",
+          "publishedAt": "2026-08-06 01:16:00"
         }
       ],
       "status": "當日已驗證來源"
