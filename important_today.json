@@ -1,5 +1,20 @@
 {
-  "updatedAt": "2026-08-08 13:45:05",
-  "items": [],
+  "updatedAt": "2026-08-08 18:10:05",
+  "items": [
+    {
+      "title": "美股三大指數創新高，就業報告緩解升息憂慮",
+      "fact": "標普、那斯達克與道瓊指數全線上漲，其中標普與那斯達克更創下4月以來最佳周表現。市場對就業數據轉弱的反應正面，認為聯準會可能放緩升息步伐。三大指數齊創新高象徵投資人信心回升。",
+      "importance": "影響：聯準會",
+      "verification": [
+        {
+          "source": "WSJ 華爾街日報（財經）",
+          "url": "https://www.wsj.com/finance/stocks/u-s-stocks-notch-fresh-record-after-jobs-report-eases-rate-hike-fears-339b687b?mod=rss_markets_main",
+          "publishedAt": "2026-08-08 04:52:00"
+        }
+      ],
+      "status": "市場事實（單一可追溯來源）",
+      "score": 70
+    }
+  ],
   "method": "僅收當日、附來源網址與發布時間的新聞；依市場影響關鍵字排序。"
 }
