@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-08-08 09:47:41",
+  "updatedAt": "2026-08-08 13:45:05",
   "date": "2026-08-08",
   "items": [
     {
       "theme": "國際政治",
-      "title": "川普盟友就任哥倫比亞總統 誓言打擊毒梟軍團",
-      "fact": "哥倫比亞新任總統將終止與武裝團體的和平談判，並啟動美國支持的打毒行動，以對抗日益猖獗的販毒集團。",
+      "title": "哥倫比亞德拉埃斯普里耶拉上台 誓言打擊犯罪",
+      "fact": "阿貝拉多·德拉埃斯普里耶拉週五宣誓就任哥倫比亞總統，標誌保守派政府時代開啟，承諾與左派前總統古斯塔沃·彼得羅政策大幅轉向。國家財政與暴力犯罪問題加劇，為政權交接蒙上陰影。",
       "whyItMatters": "觀察政策、制裁或貿易規則是否改變跨境需求與企業成本。",
       "relatedAssets": "QQQ、META、GOOGL、台灣科技基金",
       "verification": [
         {
-          "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/world/americas/trump-ally-takes-office-in-colombia-with-vow-to-fight-cocaine-armies-96c60781?mod=rss_worldnews",
-          "publishedAt": "2026-08-08 07:17:00"
+          "source": "Bloomberg 彭博社（政治經濟）",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-07/outsider-de-la-espriella-takes-power-in-divided-colombia",
+          "publishedAt": "2026-08-08 06:07:41"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "總體經濟",
-      "title": "美股三大指數齊創新高 就業報告緩解升息憂慮",
-      "fact": "標普500指數、那斯達克指數與道瓊工業指數全線上漲，其中標普與那斯達克寫下4月以來最佳單週表現，投資人情緒明顯好轉。",
+      "title": "美股創新高 就業報告緩解升息憂慮",
+      "fact": "標普500、那斯達克與道瓊指數三大股指全數上漲，標普和那斯達克更創下自四月以來最佳周表現。市場對經濟軟著陸的預期升溫，帶動科技股領漲。",
       "whyItMatters": "觀察利率與景氣預期如何影響評價、美元與風險偏好。",
       "relatedAssets": "QQQ、NVDA、00947 ETF",
       "verification": [
@@ -34,23 +34,23 @@
     },
     {
       "theme": "市場",
-      "title": "標題：\n由川普支持的American Bitcoin董事賈斯汀·馬廷購買近200萬美元的ABTC股票",
-      "fact": "Mateen 在公司季度盈利公佈後的兩天內購買了超過 306,000 股，使其持股增至超過 492,000 股。",
+      "title": "標題：\nBitcoin持有者若從BIP-110分叉出售幣種，有可能損失真正的BTC，開發者表示",
+      "fact": "如果本週末出現少數鏈，買家可以在比特幣本身上重放簽署的分叉幣交易，在可以分離這些鏈之前，什麼都不做是最安全的做法。",
       "whyItMatters": "觀察風險資產的資金流與評價是否出現連鎖反應。",
       "relatedAssets": "QQQ、META、GOOGL、00947 ETF",
       "verification": [
         {
           "source": "CoinDesk（數位貨幣）",
-          "url": "https://www.coindesk.com/business/2026/08/07/trump-backed-american-bitcoin-director-justin-mateen-buys-nearly-usd2-million-of-abtc-stock",
-          "publishedAt": "2026-08-08 04:20:00"
+          "url": "https://www.coindesk.com/tech/2026/08/08/bitcoin-holders-risk-losing-real-btc-if-they-sell-coins-from-bip-110-fork-says-developer",
+          "publishedAt": "2026-08-08 10:30:00"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "產業",
-      "title": "川普宣傳30億美元礦產計畫 抗衡中國供應鏈主導",
-      "fact": "美國總統川普在與業界高管的會議上推銷30億美元的關鍵礦物開採投資案，旨在減少美國對中國主導供應鏈的依賴。",
+      "title": "川普宣傳三十億美元礦產項目以抗衡中國",
+      "fact": "美國總統川普於週五與業界高層會面，宣傳三十億美元關鍵礦物開採投資計畫，目標是減少美國對中國主導供應鏈的依賴。此舉旨在確保美國在戰略性資源上的自主權。",
       "whyItMatters": "觀察供需、成本與供應鏈變化對產業獲利的傳導。",
       "relatedAssets": "台積電、聯電、力積電、華邦電、南亞科",
       "verification": [
@@ -63,16 +63,31 @@
       "status": "當日已驗證來源"
     },
     {
+      "theme": "科技",
+      "title": "俄羅斯最熱新創為國家支持的制裁規避網絡",
+      "fact": "成立未滿兩年的A7公司聲稱掌控俄羅斯對外貿易支付近兩成，年交易額超過一千億美元。該公司透過創新金融科技協助俄國規避西方制裁。",
+      "whyItMatters": "觀察 AI、雲端與資安支出是否影響大型科技股與半導體需求。",
+      "relatedAssets": "NVDA、QQQ、META、GOOGL、台積電",
+      "verification": [
+        {
+          "source": "WSJ 華爾街日報（國際政經）",
+          "url": "https://www.wsj.com/world/russia/russias-hottest-startup-is-a-state-backed-sanctions-evasion-network-7afc488c?mod=rss_worldnews",
+          "publishedAt": "2026-08-08 10:00:00"
+        }
+      ],
+      "status": "當日已驗證來源"
+    },
+    {
       "theme": "地緣風險",
-      "title": "伊朗見縫插針 揚言驅逐美軍出波灣",
-      "fact": "伊朗在荷莫茲海峽談判中誓言阻止美國海軍艦隊通行該水道，尋求在中東海事戰略中爭取更大籌碼。",
+      "title": "三星堆失落文明困擾專家 改寫中國起源故事",
+      "fact": "神秘獸形紋飾與謎樣面具出土數十年來，仍持續吸引中國學術界與大眾關注。這些出自祭祀坑的文物顛覆了既有的文明發展認知。",
       "whyItMatters": "觀察能源、航運、供應鏈與風險偏好是否出現突發性重估。",
       "relatedAssets": "漢翔、台積電、00947 ETF、USDT",
       "verification": [
         {
           "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/world/middle-east/iran-sees-an-opening-to-kick-the-u-s-out-of-the-gulf-b9f9cc53?mod=rss_worldnews",
-          "publishedAt": "2026-08-08 08:00:00"
+          "url": "https://www.wsj.com/world/china/a-lost-civilization-is-baffling-experts-and-rewriting-chinas-origin-story-cda8dba7?mod=rss_worldnews",
+          "publishedAt": "2026-08-08 11:00:00"
         }
       ],
       "status": "當日已驗證來源"
