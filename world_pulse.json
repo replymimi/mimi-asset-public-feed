@@ -1,26 +1,41 @@
 {
-  "updatedAt": "2026-08-09 13:45:06",
+  "updatedAt": "2026-08-09 18:10:06",
   "date": "2026-08-09",
   "items": [
     {
+      "theme": "國際政治",
+      "title": "緬甸拒絕東協釋放翁山蘇姬呼籲 稱涉干預",
+      "fact": "緬甸軍方支持的政府駁回東南亞國協最新呼籲無條件釋放翁山蘇姬的聲明，指稱此類要求干涉國內司法程序。雙方在翁山蘇姬待遇問題上立場相左。",
+      "whyItMatters": "觀察政策、制裁或貿易規則是否改變跨境需求與企業成本。",
+      "relatedAssets": "QQQ、META、GOOGL、台灣科技基金",
+      "verification": [
+        {
+          "source": "Bloomberg 彭博社（政治經濟）",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-09/myanmar-says-asean-s-call-for-suu-kyi-release-is-interference",
+          "publishedAt": "2026-08-09 15:47:36"
+        }
+      ],
+      "status": "當日已驗證來源"
+    },
+    {
       "theme": "市場",
-      "title": "財報亮眼提振股市創新高",
-      "fact": "美國大型企業財報表現強勁，有助於緩解市場對AI支出和通膨壓力的憂慮，支撐股市持續上漲。",
+      "title": "標題：\n引發爭議的比特幣分叉 BIP-110 挖出兩個區塊後停止運作",
+      "fact": "這條分裂出來的鏈繼承了比特幣的挖礦難度，但只擁有極少的算力，導致區塊相隔數小時，而兩條鏈仍然接受相同的交易。",
       "whyItMatters": "觀察風險資產的資金流與評價是否出現連鎖反應。",
       "relatedAssets": "QQQ、META、GOOGL、00947 ETF",
       "verification": [
         {
-          "source": "WSJ 華爾街日報（財經）",
-          "url": "https://www.wsj.com/finance/stocks/blockbuster-earnings-bolster-stocks-record-run-97551889?mod=rss_markets_main",
-          "publishedAt": "2026-08-09 09:00:00"
+          "source": "CoinDesk（數位貨幣）",
+          "url": "https://www.coindesk.com/tech/2026/08/09/controversial-bitcoin-fork-bip-110-mines-two-blocks-then-stops",
+          "publishedAt": "2026-08-09 13:08:20"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "產業",
-      "title": "古巴面臨油荒，如今寄望太陽能並尋求中國協助",
-      "fact": "古巴轉向再生能源的舉措有助於該島國應對來自美國日益增強的施壓。",
+      "title": "古巴能源危機 寄望太陽能與中國合作",
+      "fact": "古巴原油短缺嚴重，正轉向開發太陽能等再生能源，並獲得中國協助。此舉有助古巴應對美國持續加強的經濟壓力與能源困境。",
       "whyItMatters": "觀察供需、成本與供應鏈變化對產業獲利的傳導。",
       "relatedAssets": "台積電、聯電、力積電、華邦電、南亞科",
       "verification": [
@@ -34,15 +49,15 @@
     },
     {
       "theme": "地緣風險",
-      "title": "五角大廈促防務承包商加速生產關鍵武器系統",
-      "fact": "五角大廈二號官員呼籲美國主要防務公司加快生產及交付關鍵武器系統的進度，以因應伊朗戰爭加劇而衍生的供應短缺及缺口問題。",
+      "title": "俄羅斯電商巨人Wildberries 烽火紀錄",
+      "fact": "Wildberries在二十年間快速成長，吸引俄國商業菁英關注並積累複雜的商業背景。該公司如今面臨烏克蘭空襲轟炸，反映俄烏衝突擴大到商業領域。",
       "whyItMatters": "觀察能源、航運、供應鏈與風險偏好是否出現突發性重估。",
       "relatedAssets": "漢翔、台積電、00947 ETF、USDT",
       "verification": [
         {
-          "source": "Bloomberg 彭博社（政治經濟）",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-08/pentagon-asks-defense-firms-to-boost-production-of-key-systems",
-          "publishedAt": "2026-08-09 07:11:03"
+          "source": "WSJ 華爾街日報（國際政經）",
+          "url": "https://www.wsj.com/world/russia/the-wild-history-of-the-russian-online-retail-giant-being-bombarded-by-ukraine-ea0bc57d?mod=rss_worldnews",
+          "publishedAt": "2026-08-09 11:00:00"
         }
       ],
       "status": "當日已驗證來源"
