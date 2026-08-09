@@ -1,93 +1,63 @@
 {
-  "updatedAt": "2026-08-08 18:10:05",
-  "date": "2026-08-08",
+  "updatedAt": "2026-08-09 09:58:30",
+  "date": "2026-08-09",
   "items": [
     {
-      "theme": "國際政治",
-      "title": "俄羅斯最熱門新創為官方支持的制裁規避網絡",
-      "fact": "成立不滿兩年的A7公司聲稱處理俄羅斯對外貿易近20%的支付，規模超過1,000億美元年交易額。該公司成為俄羅斯繞過西方經濟制裁的重要工具。在地緣政治對抗升溫下，此類企業成為俄國經濟韌性的支柱。",
-      "whyItMatters": "觀察政策、制裁或貿易規則是否改變跨境需求與企業成本。",
-      "relatedAssets": "QQQ、META、GOOGL、台灣科技基金",
-      "verification": [
-        {
-          "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/world/russia/russias-hottest-startup-is-a-state-backed-sanctions-evasion-network-7afc488c?mod=rss_worldnews",
-          "publishedAt": "2026-08-08 10:00:00"
-        }
-      ],
-      "status": "當日已驗證來源"
-    },
-    {
-      "theme": "總體經濟",
-      "title": "美股三大指數創新高，就業報告緩解升息憂慮",
-      "fact": "標普、那斯達克與道瓊指數全線上漲，其中標普與那斯達克更創下4月以來最佳周表現。市場對就業數據轉弱的反應正面，認為聯準會可能放緩升息步伐。三大指數齊創新高象徵投資人信心回升。",
-      "whyItMatters": "觀察利率與景氣預期如何影響評價、美元與風險偏好。",
-      "relatedAssets": "QQQ、NVDA、00947 ETF",
-      "verification": [
-        {
-          "source": "WSJ 華爾街日報（財經）",
-          "url": "https://www.wsj.com/finance/stocks/u-s-stocks-notch-fresh-record-after-jobs-report-eases-rate-hike-fears-339b687b?mod=rss_markets_main",
-          "publishedAt": "2026-08-08 04:52:00"
-        }
-      ],
-      "status": "當日已驗證來源"
-    },
-    {
       "theme": "市場",
-      "title": "標題：\n又一個比特幣基礎設施漏洞被發現，這次是Lightning支付服務器遭竊取資金",
-      "fact": "BTCPay 告訴運行 LND 的用戶立即更新或將伺服器離線，因為攻擊者竊取了可以控制 Lightning 錢包和轉移資金的認證資訊。",
+      "title": "業績亮眼助攻股市創高",
+      "fact": "美國最大企業的財報結果有助於緩解市場對人工智慧支出及通膨壓力的擔憂。強勁的企業獲利數據提振投資人信心，推動股市持續走高。這波漲勢反映出市場對企業盈利前景的正面預期。",
       "whyItMatters": "觀察風險資產的資金流與評價是否出現連鎖反應。",
       "relatedAssets": "QQQ、META、GOOGL、00947 ETF",
       "verification": [
         {
-          "source": "CoinDesk（數位貨幣）",
-          "url": "https://www.coindesk.com/tech/2026/08/08/another-bitcoin-infrastructure-exploit-hits-this-time-draining-merchant-lightning-nodes",
-          "publishedAt": "2026-08-08 15:46:04"
+          "source": "WSJ 華爾街日報（財經）",
+          "url": "https://www.wsj.com/finance/stocks/blockbuster-earnings-bolster-stocks-record-run-97551889?mod=rss_markets_main",
+          "publishedAt": "2026-08-09 09:00:00"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "產業",
-      "title": "伊朗看準機會欲驅逐美國出波斯灣",
-      "fact": "德黑蘭在霍爾木茲海峽談判中誓言阻擋美國海軍艦隊通行該水道。伊朗將此視為重新界定地區權力格局的契機。此舉將對全球能源運輸與地緣政治產生深遠影響。",
+      "title": "涉嫌黑幫份子成為庫什納阿爾巴尼亞交易的麻煩製造者",
+      "fact": "村民表示曾警告川普女婿，他們的濱海土地遭亞圖爾·謝胡竊佔，謝胡現面臨毒品相關指控，但本人否認。此案涉及房地產權屬爭議及潛在的黑幫勢力牽連。該事件對庫什納在該地區的商業計畫造成重大困擾。",
       "whyItMatters": "觀察供需、成本與供應鏈變化對產業獲利的傳導。",
       "relatedAssets": "台積電、聯電、力積電、華邦電、南亞科",
       "verification": [
         {
           "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/world/middle-east/iran-sees-an-opening-to-kick-the-u-s-out-of-the-gulf-b9f9cc53?mod=rss_worldnews",
-          "publishedAt": "2026-08-08 08:00:00"
+          "url": "https://www.wsj.com/world/europe/jared-kushner-albania-shehu-drug-investigation-95391263?mod=rss_worldnews",
+          "publishedAt": "2026-08-09 09:00:00"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "科技",
-      "title": "美股因就業數據意外下滑而反彈",
-      "fact": "製造業就業仍是經濟亮點，維持相對穩健的表現。Airbnb股價飆升，科技股表現強勁。市場整體樂觀情緒推升各主要指數上揚。",
+      "title": "標題：\n以下是加密貨幣今日動態",
+      "fact": "想瞭解今天加密貨幣發生了什麼事嗎？以下是影響 Bitcoin 價格、blockchain、DeFi、Web3 及加密貨幣監管的最新日常趨勢和事件新聞。",
       "whyItMatters": "觀察 AI、雲端與資安支出是否影響大型科技股與半導體需求。",
       "relatedAssets": "NVDA、QQQ、META、GOOGL、台積電",
       "verification": [
         {
-          "source": "WSJ 華爾街日報（財經）",
-          "url": "https://www.wsj.com/finance/stocks/markets-rally-on-surprise-u-s-job-losses-83ecb5e4?mod=rss_markets_main",
-          "publishedAt": "2026-08-08 04:33:00"
+          "source": "CoinTelegraph（數位貨幣）",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedAt": "2026-08-09 01:19:56"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "地緣風險",
-      "title": "失落文明困擾專家，改寫中國起源史",
-      "fact": "三星堆出土的異世怪獸與神秘面具數十年來持續令中國著迷，這批祭祀坑的發現正在重塑人們對中華文明起源的認識。考古發現不斷提出新的歷史謎團。此項重要遺跡的研究持續改變學術界對上古中國的理解。",
+      "title": "伊朗要求美國撤軍以開放荷莫茲海峽",
+      "fact": "伊朗高級官員列出一系列要求以開放荷莫茲海峽的強硬條件，阿拉伯聯合酋長國則聲稱伊朗對其船隻發動導彈攻擊。伊朗方面透過海事安全事件升高地區緊張局勢。這些動作凸顯中東地緣政治局勢的不穩定性。",
       "whyItMatters": "觀察能源、航運、供應鏈與風險偏好是否出現突發性重估。",
       "relatedAssets": "漢翔、台積電、00947 ETF、USDT",
       "verification": [
         {
           "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/world/china/a-lost-civilization-is-baffling-experts-and-rewriting-chinas-origin-story-cda8dba7?mod=rss_worldnews",
-          "publishedAt": "2026-08-08 11:00:00"
+          "url": "https://www.wsj.com/world/middle-east/u-a-e-says-iran-attacked-one-of-its-ships-in-hormuz-bfbec3b2?mod=rss_worldnews",
+          "publishedAt": "2026-08-09 03:41:00"
         }
       ],
       "status": "當日已驗證來源"
