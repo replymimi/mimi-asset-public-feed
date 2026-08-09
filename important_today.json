@@ -1,20 +1,5 @@
 {
-  "updatedAt": "2026-08-09 09:58:30",
-  "items": [
-    {
-      "title": "台灣戰爭演習的代價：網際網路速度放緩",
-      "fact": "台灣計畫在下周演習期間降低行動網際網路速度，旨在引導民眾在遭到攻擊時找出其他替代通訊方式。此舉是民防演習的一部分，目的是測試公眾應變能力。該措施展現台灣對戰備整備的重視程度。",
-      "importance": "影響：台灣",
-      "verification": [
-        {
-          "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/world/asia/taiwan-war-drills-internet-speed-e4813870?mod=rss_worldnews",
-          "publishedAt": "2026-08-09 00:00:00"
-        }
-      ],
-      "status": "市場事實（單一可追溯來源）",
-      "score": 65
-    }
-  ],
+  "updatedAt": "2026-08-09 13:45:06",
+  "items": [],
   "method": "僅收當日、附來源網址與發布時間的新聞；依市場影響關鍵字排序。"
 }

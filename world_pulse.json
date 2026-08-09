@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-08-09 09:58:30",
+  "updatedAt": "2026-08-09 13:45:06",
   "date": "2026-08-09",
   "items": [
     {
       "theme": "市場",
-      "title": "業績亮眼助攻股市創高",
-      "fact": "美國最大企業的財報結果有助於緩解市場對人工智慧支出及通膨壓力的擔憂。強勁的企業獲利數據提振投資人信心，推動股市持續走高。這波漲勢反映出市場對企業盈利前景的正面預期。",
+      "title": "財報亮眼提振股市創新高",
+      "fact": "美國大型企業財報表現強勁，有助於緩解市場對AI支出和通膨壓力的憂慮，支撐股市持續上漲。",
       "whyItMatters": "觀察風險資產的資金流與評價是否出現連鎖反應。",
       "relatedAssets": "QQQ、META、GOOGL、00947 ETF",
       "verification": [
@@ -19,45 +19,30 @@
     },
     {
       "theme": "產業",
-      "title": "涉嫌黑幫份子成為庫什納阿爾巴尼亞交易的麻煩製造者",
-      "fact": "村民表示曾警告川普女婿，他們的濱海土地遭亞圖爾·謝胡竊佔，謝胡現面臨毒品相關指控，但本人否認。此案涉及房地產權屬爭議及潛在的黑幫勢力牽連。該事件對庫什納在該地區的商業計畫造成重大困擾。",
+      "title": "古巴面臨油荒，如今寄望太陽能並尋求中國協助",
+      "fact": "古巴轉向再生能源的舉措有助於該島國應對來自美國日益增強的施壓。",
       "whyItMatters": "觀察供需、成本與供應鏈變化對產業獲利的傳導。",
       "relatedAssets": "台積電、聯電、力積電、華邦電、南亞科",
       "verification": [
         {
           "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/world/europe/jared-kushner-albania-shehu-drug-investigation-95391263?mod=rss_worldnews",
-          "publishedAt": "2026-08-09 09:00:00"
-        }
-      ],
-      "status": "當日已驗證來源"
-    },
-    {
-      "theme": "科技",
-      "title": "標題：\n以下是加密貨幣今日動態",
-      "fact": "想瞭解今天加密貨幣發生了什麼事嗎？以下是影響 Bitcoin 價格、blockchain、DeFi、Web3 及加密貨幣監管的最新日常趨勢和事件新聞。",
-      "whyItMatters": "觀察 AI、雲端與資安支出是否影響大型科技股與半導體需求。",
-      "relatedAssets": "NVDA、QQQ、META、GOOGL、台積電",
-      "verification": [
-        {
-          "source": "CoinTelegraph（數位貨幣）",
-          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedAt": "2026-08-09 01:19:56"
+          "url": "https://www.wsj.com/world/china/cuba-china-solar-power-da5b3338?mod=rss_worldnews",
+          "publishedAt": "2026-08-09 10:00:00"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "地緣風險",
-      "title": "伊朗要求美國撤軍以開放荷莫茲海峽",
-      "fact": "伊朗高級官員列出一系列要求以開放荷莫茲海峽的強硬條件，阿拉伯聯合酋長國則聲稱伊朗對其船隻發動導彈攻擊。伊朗方面透過海事安全事件升高地區緊張局勢。這些動作凸顯中東地緣政治局勢的不穩定性。",
+      "title": "五角大廈促防務承包商加速生產關鍵武器系統",
+      "fact": "五角大廈二號官員呼籲美國主要防務公司加快生產及交付關鍵武器系統的進度，以因應伊朗戰爭加劇而衍生的供應短缺及缺口問題。",
       "whyItMatters": "觀察能源、航運、供應鏈與風險偏好是否出現突發性重估。",
       "relatedAssets": "漢翔、台積電、00947 ETF、USDT",
       "verification": [
         {
-          "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/world/middle-east/u-a-e-says-iran-attacked-one-of-its-ships-in-hormuz-bfbec3b2?mod=rss_worldnews",
-          "publishedAt": "2026-08-09 03:41:00"
+          "source": "Bloomberg 彭博社（政治經濟）",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-08/pentagon-asks-defense-firms-to-boost-production-of-key-systems",
+          "publishedAt": "2026-08-09 07:11:03"
         }
       ],
       "status": "當日已驗證來源"
