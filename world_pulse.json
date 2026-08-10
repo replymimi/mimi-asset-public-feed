@@ -1,63 +1,48 @@
 {
-  "updatedAt": "2026-08-09 18:10:06",
-  "date": "2026-08-09",
+  "updatedAt": "2026-08-10 09:45:26",
+  "date": "2026-08-10",
   "items": [
     {
       "theme": "國際政治",
-      "title": "緬甸拒絕東協釋放翁山蘇姬呼籲 稱涉干預",
-      "fact": "緬甸軍方支持的政府駁回東南亞國協最新呼籲無條件釋放翁山蘇姬的聲明，指稱此類要求干涉國內司法程序。雙方在翁山蘇姬待遇問題上立場相左。",
+      "title": "川普任命親信威爾·沙夫為白宮律師",
+      "fact": "美國總統川普將白宮幕僚長威爾·沙夫任命為白宮首席法律顧問。沙夫為川普的親近助手，此任命加強了川普團隊在法律事務上的核心掌控。這一人事異動反映了川普政府對幕僚班底的進一步調整。",
       "whyItMatters": "觀察政策、制裁或貿易規則是否改變跨境需求與企業成本。",
       "relatedAssets": "QQQ、META、GOOGL、台灣科技基金",
       "verification": [
         {
           "source": "Bloomberg 彭博社（政治經濟）",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-09/myanmar-says-asean-s-call-for-suu-kyi-release-is-interference",
-          "publishedAt": "2026-08-09 15:47:36"
+          "url": "https://www.bloomberg.com/news/articles/2026-08-09/trump-names-will-scharf-as-white-house-counsel",
+          "publishedAt": "2026-08-10 05:50:13"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
-      "theme": "市場",
-      "title": "標題：\n引發爭議的比特幣分叉 BIP-110 挖出兩個區塊後停止運作",
-      "fact": "這條分裂出來的鏈繼承了比特幣的挖礦難度，但只擁有極少的算力，導致區塊相隔數小時，而兩條鏈仍然接受相同的交易。",
-      "whyItMatters": "觀察風險資產的資金流與評價是否出現連鎖反應。",
-      "relatedAssets": "QQQ、META、GOOGL、00947 ETF",
-      "verification": [
-        {
-          "source": "CoinDesk（數位貨幣）",
-          "url": "https://www.coindesk.com/tech/2026/08/09/controversial-bitcoin-fork-bip-110-mines-two-blocks-then-stops",
-          "publishedAt": "2026-08-09 13:08:20"
-        }
-      ],
-      "status": "當日已驗證來源"
-    },
-    {
-      "theme": "產業",
-      "title": "古巴能源危機 寄望太陽能與中國合作",
-      "fact": "古巴原油短缺嚴重，正轉向開發太陽能等再生能源，並獲得中國協助。此舉有助古巴應對美國持續加強的經濟壓力與能源困境。",
-      "whyItMatters": "觀察供需、成本與供應鏈變化對產業獲利的傳導。",
-      "relatedAssets": "台積電、聯電、力積電、華邦電、南亞科",
+      "theme": "科技",
+      "title": "中國的「查理·施瓦布」遭北京打壓",
+      "fact": "李葉的券商平台成為北京管制中資流出的中心目標。這位億萬富翁曾經在中國金融科技領域快速崛起，但隨著北京加強資本流動管制，其事業面臨重大挑戰。政府的監管行動反映出中國對跨境資金流動的管控力度不斷升級。",
+      "whyItMatters": "觀察 AI、雲端與資安支出是否影響大型科技股與半導體需求。",
+      "relatedAssets": "NVDA、QQQ、META、GOOGL、台積電",
       "verification": [
         {
           "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/world/china/cuba-china-solar-power-da5b3338?mod=rss_worldnews",
-          "publishedAt": "2026-08-09 10:00:00"
+          "url": "https://www.wsj.com/world/china/this-billionaire-became-chinas-charles-schwab-then-beijing-cracked-down-6d7f8ef3?mod=rss_worldnews",
+          "publishedAt": "2026-08-10 07:00:00"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "地緣風險",
-      "title": "俄羅斯電商巨人Wildberries 烽火紀錄",
-      "fact": "Wildberries在二十年間快速成長，吸引俄國商業菁英關注並積累複雜的商業背景。該公司如今面臨烏克蘭空襲轟炸，反映俄烏衝突擴大到商業領域。",
+      "title": "敍利亞表示俄羅斯地中海基地將轉為聯合控制",
+      "fact": "敘利亞表示，該國的兩個俄羅斯基地將被轉變為聯合訓練中心，雙方已同意重新定義這些設施的角色，這些設施為莫斯科在地中海地區提供了軍事存在。",
       "whyItMatters": "觀察能源、航運、供應鏈與風險偏好是否出現突發性重估。",
       "relatedAssets": "漢翔、台積電、00947 ETF、USDT",
       "verification": [
         {
-          "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/world/russia/the-wild-history-of-the-russian-online-retail-giant-being-bombarded-by-ukraine-ea0bc57d?mod=rss_worldnews",
-          "publishedAt": "2026-08-09 11:00:00"
+          "source": "Bloomberg 彭博社（政治經濟）",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-09/syria-says-russian-mediterranean-bases-to-shift-to-joint-control",
+          "publishedAt": "2026-08-10 02:50:21"
         }
       ],
       "status": "當日已驗證來源"
