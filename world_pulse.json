@@ -1,48 +1,48 @@
 {
-  "updatedAt": "2026-08-10 09:45:26",
+  "updatedAt": "2026-08-10 14:23:26",
   "date": "2026-08-10",
   "items": [
     {
-      "theme": "國際政治",
-      "title": "川普任命親信威爾·沙夫為白宮律師",
-      "fact": "美國總統川普將白宮幕僚長威爾·沙夫任命為白宮首席法律顧問。沙夫為川普的親近助手，此任命加強了川普團隊在法律事務上的核心掌控。這一人事異動反映了川普政府對幕僚班底的進一步調整。",
-      "whyItMatters": "觀察政策、制裁或貿易規則是否改變跨境需求與企業成本。",
-      "relatedAssets": "QQQ、META、GOOGL、台灣科技基金",
+      "theme": "總體經濟",
+      "title": "標題：\n比特幣突破六萬五千美元，美國通膨數據本周公布",
+      "fact": "除了 XRP 以外，每個主要加密貨幣在本週都是上漲的，BTC、以太坊和 BNB 各上漲近 3%，全球股票交易價格接近歷史新高。",
+      "whyItMatters": "觀察利率與景氣預期如何影響評價、美元與風險偏好。",
+      "relatedAssets": "QQQ、NVDA、00947 ETF",
       "verification": [
         {
-          "source": "Bloomberg 彭博社（政治經濟）",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-09/trump-names-will-scharf-as-white-house-counsel",
-          "publishedAt": "2026-08-10 05:50:13"
+          "source": "CoinDesk（數位貨幣）",
+          "url": "https://www.coindesk.com/markets/2026/08/10/bitcoin-tops-usd65-000-with-us-inflation-data-due-this-week",
+          "publishedAt": "2026-08-10 12:39:37"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
-      "theme": "科技",
-      "title": "中國的「查理·施瓦布」遭北京打壓",
-      "fact": "李葉的券商平台成為北京管制中資流出的中心目標。這位億萬富翁曾經在中國金融科技領域快速崛起，但隨著北京加強資本流動管制，其事業面臨重大挑戰。政府的監管行動反映出中國對跨境資金流動的管控力度不斷升級。",
-      "whyItMatters": "觀察 AI、雲端與資安支出是否影響大型科技股與半導體需求。",
-      "relatedAssets": "NVDA、QQQ、META、GOOGL、台積電",
+      "theme": "市場",
+      "title": "標題：\nBitcoin Red Team 創始人轉向中國人工智能：「這讓我感到非常痛心」",
+      "fact": "Bitcoin Red Team 截至週六已在比特幣生態系統中發現 1,288 個嚴重和高級漏洞。",
+      "whyItMatters": "觀察風險資產的資金流與評價是否出現連鎖反應。",
+      "relatedAssets": "QQQ、META、GOOGL、00947 ETF",
       "verification": [
         {
-          "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/world/china/this-billionaire-became-chinas-charles-schwab-then-beijing-cracked-down-6d7f8ef3?mod=rss_worldnews",
-          "publishedAt": "2026-08-10 07:00:00"
+          "source": "CoinTelegraph（數位貨幣）",
+          "url": "https://cointelegraph.com/news/bitcoin-red-team-founder-turns-to-chinese-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedAt": "2026-08-10 13:18:27"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "地緣風險",
-      "title": "敍利亞表示俄羅斯地中海基地將轉為聯合控制",
-      "fact": "敘利亞表示，該國的兩個俄羅斯基地將被轉變為聯合訓練中心，雙方已同意重新定義這些設施的角色，這些設施為莫斯科在地中海地區提供了軍事存在。",
+      "title": "標題：\n台灣計畫創紀錄國防預算以對抗中國，報告顯示",
+      "fact": "台灣計畫在2027年創紀錄地投入1.1兆新台幣（341億美元）用於軍事，據一家半官方媒體報導，此舉是在美國推動台灣加強對中國遏阻之際進行的。",
       "whyItMatters": "觀察能源、航運、供應鏈與風險偏好是否出現突發性重估。",
       "relatedAssets": "漢翔、台積電、00947 ETF、USDT",
       "verification": [
         {
           "source": "Bloomberg 彭博社（政治經濟）",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-09/syria-says-russian-mediterranean-bases-to-shift-to-joint-control",
-          "publishedAt": "2026-08-10 02:50:21"
+          "url": "https://www.bloomberg.com/news/articles/2026-08-10/taiwan-plans-record-defense-budget-to-counter-china-report-says",
+          "publishedAt": "2026-08-10 09:29:32"
         }
       ],
       "status": "當日已驗證來源"

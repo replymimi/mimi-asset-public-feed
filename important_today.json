@@ -1,5 +1,20 @@
 {
-  "updatedAt": "2026-08-10 09:45:26",
-  "items": [],
+  "updatedAt": "2026-08-10 14:23:26",
+  "items": [
+    {
+      "title": "標題：\n台灣計畫創紀錄國防預算以對抗中國，報告顯示",
+      "fact": "台灣計畫在2027年創紀錄地投入1.1兆新台幣（341億美元）用於軍事，據一家半官方媒體報導，此舉是在美國推動台灣加強對中國遏阻之際進行的。",
+      "importance": "影響：台灣",
+      "verification": [
+        {
+          "source": "Bloomberg 彭博社（政治經濟）",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-10/taiwan-plans-record-defense-budget-to-counter-china-report-says",
+          "publishedAt": "2026-08-10 09:29:32"
+        }
+      ],
+      "status": "市場事實（單一可追溯來源）",
+      "score": 65
+    }
+  ],
   "method": "僅收當日、附來源網址與發布時間的新聞；依市場影響關鍵字排序。"
 }
