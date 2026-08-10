@@ -1,26 +1,41 @@
 {
-  "updatedAt": "2026-08-10 14:23:26",
+  "updatedAt": "2026-08-10 18:18:39",
   "date": "2026-08-10",
   "items": [
     {
+      "theme": "國際政治",
+      "title": "以色列拒絕川普加薩和平計畫下一階段",
+      "fact": "儘管面臨美國總統施壓，總理納坦雅胡駁回了哈瑪斯解除武裝同時以色列撤軍的計畫內容。",
+      "whyItMatters": "觀察政策、制裁或貿易規則是否改變跨境需求與企業成本。",
+      "relatedAssets": "QQQ、META、GOOGL、台灣科技基金",
+      "verification": [
+        {
+          "source": "WSJ 華爾街日報（國際政經）",
+          "url": "https://www.wsj.com/world/middle-east/israel-rejects-trump-plan-for-hamas-disarmament-2d1475cb?mod=rss_worldnews",
+          "publishedAt": "2026-08-10 17:23:00"
+        }
+      ],
+      "status": "當日已驗證來源"
+    },
+    {
       "theme": "總體經濟",
-      "title": "標題：\n比特幣突破六萬五千美元，美國通膨數據本周公布",
-      "fact": "除了 XRP 以外，每個主要加密貨幣在本週都是上漲的，BTC、以太坊和 BNB 各上漲近 3%，全球股票交易價格接近歷史新高。",
+      "title": "罕見轉向：避險基金放棄結構性空單，轉而看好比特幣反彈",
+      "fact": "CME槓桿基金轉變為淨多頭部位，期貨殖利率走弱削弱傳統套利交易吸引力。",
       "whyItMatters": "觀察利率與景氣預期如何影響評價、美元與風險偏好。",
       "relatedAssets": "QQQ、NVDA、00947 ETF",
       "verification": [
         {
           "source": "CoinDesk（數位貨幣）",
-          "url": "https://www.coindesk.com/markets/2026/08/10/bitcoin-tops-usd65-000-with-us-inflation-data-due-this-week",
-          "publishedAt": "2026-08-10 12:39:37"
+          "url": "https://www.coindesk.com/markets/2026/08/10/a-rare-cme-shift-hedge-funds-abandon-structural-shorts-to-bet-on-a-bitcoin-rally",
+          "publishedAt": "2026-08-10 17:09:32"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "市場",
-      "title": "標題：\nBitcoin Red Team 創始人轉向中國人工智能：「這讓我感到非常痛心」",
-      "fact": "Bitcoin Red Team 截至週六已在比特幣生態系統中發現 1,288 個嚴重和高級漏洞。",
+      "title": "標題：\nBitcoin Red Team創辦人轉向中國AI：「這讓我感到非常痛心」",
+      "fact": "Bitcoin Red Team 截至周六已在比特幣生態系統中發現 1,288 項關鍵和高級漏洞。",
       "whyItMatters": "觀察風險資產的資金流與評價是否出現連鎖反應。",
       "relatedAssets": "QQQ、META、GOOGL、00947 ETF",
       "verification": [
@@ -33,16 +48,31 @@
       "status": "當日已驗證來源"
     },
     {
+      "theme": "產業",
+      "title": "股市今日：股票有望延續漲幅",
+      "fact": "期貨小幅上揚，油價也跟著走高。",
+      "whyItMatters": "觀察供需、成本與供應鏈變化對產業獲利的傳導。",
+      "relatedAssets": "台積電、聯電、力積電、華邦電、南亞科",
+      "verification": [
+        {
+          "source": "WSJ 華爾街日報（財經）",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-10-2026?mod=rss_markets_main",
+          "publishedAt": "2026-08-10 16:30:04"
+        }
+      ],
+      "status": "當日已驗證來源"
+    },
+    {
       "theme": "地緣風險",
-      "title": "標題：\n台灣計畫創紀錄國防預算以對抗中國，報告顯示",
-      "fact": "台灣計畫在2027年創紀錄地投入1.1兆新台幣（341億美元）用於軍事，據一家半官方媒體報導，此舉是在美國推動台灣加強對中國遏阻之際進行的。",
+      "title": "中國「內鬼」洩密官方機密圖利",
+      "fact": "此類洩密行為可幫助嫌疑人翻案或逃避逮捕，同時使局外人得以把握時機進行交易。",
       "whyItMatters": "觀察能源、航運、供應鏈與風險偏好是否出現突發性重估。",
       "relatedAssets": "漢翔、台積電、00947 ETF、USDT",
       "verification": [
         {
-          "source": "Bloomberg 彭博社（政治經濟）",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-10/taiwan-plans-record-defense-budget-to-counter-china-report-says",
-          "publishedAt": "2026-08-10 09:29:32"
+          "source": "WSJ 華爾街日報（國際政經）",
+          "url": "https://www.wsj.com/world/china/in-china-moles-are-leaking-official-secrets-for-profit-94b156ac?mod=rss_worldnews",
+          "publishedAt": "2026-08-10 10:00:00"
         }
       ],
       "status": "當日已驗證來源"

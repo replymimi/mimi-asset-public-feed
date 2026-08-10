@@ -1,15 +1,43 @@
 {
-  "updatedAt": "2026-08-10 14:23:26",
+  "updatedAt": "2026-08-10 18:18:39",
   "items": [
     {
-      "title": "標題：\n台灣計畫創紀錄國防預算以對抗中國，報告顯示",
-      "fact": "台灣計畫在2027年創紀錄地投入1.1兆新台幣（341億美元）用於軍事，據一家半官方媒體報導，此舉是在美國推動台灣加強對中國遏阻之際進行的。",
-      "importance": "影響：台灣",
+      "title": "股市今日：股票有望延續漲幅",
+      "fact": "期貨小幅上揚，油價也跟著走高。",
+      "importance": "影響：油價",
       "verification": [
         {
-          "source": "Bloomberg 彭博社（政治經濟）",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-10/taiwan-plans-record-defense-budget-to-counter-china-report-says",
-          "publishedAt": "2026-08-10 09:29:32"
+          "source": "WSJ 華爾街日報（財經）",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-10-2026?mod=rss_markets_main",
+          "publishedAt": "2026-08-10 16:30:04"
+        }
+      ],
+      "status": "市場事實（單一可追溯來源）",
+      "score": 65
+    },
+    {
+      "title": "罕見轉向：避險基金放棄結構性空單，轉而看好比特幣反彈",
+      "fact": "CME槓桿基金轉變為淨多頭部位，期貨殖利率走弱削弱傳統套利交易吸引力。",
+      "importance": "影響：利率",
+      "verification": [
+        {
+          "source": "CoinDesk（數位貨幣）",
+          "url": "https://www.coindesk.com/markets/2026/08/10/a-rare-cme-shift-hedge-funds-abandon-structural-shorts-to-bet-on-a-bitcoin-rally",
+          "publishedAt": "2026-08-10 17:09:32"
+        }
+      ],
+      "status": "市場事實（單一可追溯來源）",
+      "score": 65
+    },
+    {
+      "title": "戰爭助力中國電動車顛覆全球車市",
+      "fact": "高油價為中國電動車出口帶來提振，進一步推動其在國際市場的滲透力。",
+      "importance": "影響：油價",
+      "verification": [
+        {
+          "source": "WSJ 華爾街日報（財經）",
+          "url": "https://www.wsj.com/business/autos/war-is-helping-chinese-evs-upend-the-global-car-market-b1b7ea57?mod=rss_markets_main",
+          "publishedAt": "2026-08-10 17:30:00"
         }
       ],
       "status": "市場事實（單一可追溯來源）",
