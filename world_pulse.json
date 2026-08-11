@@ -1,78 +1,78 @@
 {
-  "updatedAt": "2026-08-10 18:18:39",
-  "date": "2026-08-10",
+  "updatedAt": "2026-08-11 10:07:21",
+  "date": "2026-08-11",
   "items": [
     {
       "theme": "國際政治",
-      "title": "以色列拒絕川普加薩和平計畫下一階段",
-      "fact": "儘管面臨美國總統施壓，總理納坦雅胡駁回了哈瑪斯解除武裝同時以色列撤軍的計畫內容。",
+      "title": "川普改採經濟制裁 伊朗拒絕讓步",
+      "fact": "軍事攻擊與外交談判未見成效，川普政府重拾舊策略，期望透過經濟壓力獲得新成果。",
       "whyItMatters": "觀察政策、制裁或貿易規則是否改變跨境需求與企業成本。",
       "relatedAssets": "QQQ、META、GOOGL、台灣科技基金",
       "verification": [
         {
           "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/world/middle-east/israel-rejects-trump-plan-for-hamas-disarmament-2d1475cb?mod=rss_worldnews",
-          "publishedAt": "2026-08-10 17:23:00"
-        }
-      ],
-      "status": "當日已驗證來源"
-    },
-    {
-      "theme": "總體經濟",
-      "title": "罕見轉向：避險基金放棄結構性空單，轉而看好比特幣反彈",
-      "fact": "CME槓桿基金轉變為淨多頭部位，期貨殖利率走弱削弱傳統套利交易吸引力。",
-      "whyItMatters": "觀察利率與景氣預期如何影響評價、美元與風險偏好。",
-      "relatedAssets": "QQQ、NVDA、00947 ETF",
-      "verification": [
-        {
-          "source": "CoinDesk（數位貨幣）",
-          "url": "https://www.coindesk.com/markets/2026/08/10/a-rare-cme-shift-hedge-funds-abandon-structural-shorts-to-bet-on-a-bitcoin-rally",
-          "publishedAt": "2026-08-10 17:09:32"
+          "url": "https://www.wsj.com/world/middle-east/trump-shifts-to-economic-pressure-again-as-iran-wont-meet-his-demands-4445c840?mod=rss_worldnews",
+          "publishedAt": "2026-08-11 06:20:00"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "市場",
-      "title": "標題：\nBitcoin Red Team創辦人轉向中國AI：「這讓我感到非常痛心」",
-      "fact": "Bitcoin Red Team 截至周六已在比特幣生態系統中發現 1,288 項關鍵和高級漏洞。",
+      "title": "川普媒體比特幣部位縮水 加密虧損達3.61億美元",
+      "fact": "Truth Social母公司6月底持有價值5.57億美元的9,477枚比特幣，其Cronos部位價值也大幅下滑。",
       "whyItMatters": "觀察風險資產的資金流與評價是否出現連鎖反應。",
       "relatedAssets": "QQQ、META、GOOGL、00947 ETF",
       "verification": [
         {
-          "source": "CoinTelegraph（數位貨幣）",
-          "url": "https://cointelegraph.com/news/bitcoin-red-team-founder-turns-to-chinese-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedAt": "2026-08-10 13:18:27"
+          "source": "CoinDesk（數位貨幣）",
+          "url": "https://www.coindesk.com/business/2026/08/10/trump-media-s-bitcoin-holdings-shrink-as-crypto-losses-hit-usd361-million",
+          "publishedAt": "2026-08-11 05:12:07"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "產業",
-      "title": "股市今日：股票有望延續漲幅",
-      "fact": "期貨小幅上揚，油價也跟著走高。",
+      "title": "波灣國家接受荷姆茲海峽新現實：伊朗掌控局面",
+      "fact": "全球最大能源出口國雖不滿重啟水道協議，但擔心重啟戰爭代價更高，被迫接受伊朗主導的局面。",
       "whyItMatters": "觀察供需、成本與供應鏈變化對產業獲利的傳導。",
       "relatedAssets": "台積電、聯電、力積電、華邦電、南亞科",
       "verification": [
         {
+          "source": "WSJ 華爾街日報（國際政經）",
+          "url": "https://www.wsj.com/world/middle-east/gulf-states-accept-a-new-normal-in-hormuz-iran-is-in-control-6db8908d?mod=rss_worldnews",
+          "publishedAt": "2026-08-11 08:00:00"
+        }
+      ],
+      "status": "當日已驗證來源"
+    },
+    {
+      "theme": "科技",
+      "title": "AI熱潮搶風頭 投資人拋售加密資產",
+      "fact": "投資人紛紛拋售比特幣及其他數位資產轉進AI股票，加密貨幣市場熱度被新興科技概念股蠶食。",
+      "whyItMatters": "觀察 AI、雲端與資安支出是否影響大型科技股與半導體需求。",
+      "relatedAssets": "NVDA、QQQ、META、GOOGL、台積電",
+      "verification": [
+        {
           "source": "WSJ 華爾街日報（財經）",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-10-2026?mod=rss_markets_main",
-          "publishedAt": "2026-08-10 16:30:04"
+          "url": "https://www.wsj.com/finance/currencies/retail-traders-crypto-cash-0d303c92?mod=rss_markets_main",
+          "publishedAt": "2026-08-11 04:40:00"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "地緣風險",
-      "title": "中國「內鬼」洩密官方機密圖利",
-      "fact": "此類洩密行為可幫助嫌疑人翻案或逃避逮捕，同時使局外人得以把握時機進行交易。",
+      "title": "伊朗神秘領導人任命新安全首長 對川普發出強硬信號",
+      "fact": "莫克塔巴·哈梅內伊改組國家安全班底，在戰爭爆發後掌權的他正式印上自己的執政印記。",
       "whyItMatters": "觀察能源、航運、供應鏈與風險偏好是否出現突發性重估。",
       "relatedAssets": "漢翔、台積電、00947 ETF、USDT",
       "verification": [
         {
           "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/world/china/in-china-moles-are-leaking-official-secrets-for-profit-94b156ac?mod=rss_worldnews",
-          "publishedAt": "2026-08-10 10:00:00"
+          "url": "https://www.wsj.com/world/middle-east/irans-mysterious-ruler-signals-a-hard-line-on-trump-with-new-leadership-4ae054ea?mod=rss_worldnews",
+          "publishedAt": "2026-08-11 10:00:00"
         }
       ],
       "status": "當日已驗證來源"
