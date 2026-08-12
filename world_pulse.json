@@ -1,78 +1,63 @@
 {
-  "updatedAt": "2026-08-11 10:07:21",
-  "date": "2026-08-11",
+  "updatedAt": "2026-08-12 10:56:57",
+  "date": "2026-08-12",
   "items": [
     {
       "theme": "國際政治",
-      "title": "川普改採經濟制裁 伊朗拒絕讓步",
-      "fact": "軍事攻擊與外交談判未見成效，川普政府重拾舊策略，期望透過經濟壓力獲得新成果。",
+      "title": "伊朗藉由建立「生存型經濟」對抗美國施壓",
+      "fact": "川普政府策略基於德黑蘭將在華盛頓之前崩潰的假設，但國際調解人士警告伊朗多年來一直在制裁下運作。伊朗展現出頑強的經濟韌性，尋求通過自給自足模式來應對持續的外部壓力。",
       "whyItMatters": "觀察政策、制裁或貿易規則是否改變跨境需求與企業成本。",
       "relatedAssets": "QQQ、META、GOOGL、台灣科技基金",
       "verification": [
         {
           "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/world/middle-east/trump-shifts-to-economic-pressure-again-as-iran-wont-meet-his-demands-4445c840?mod=rss_worldnews",
-          "publishedAt": "2026-08-11 06:20:00"
+          "url": "https://www.wsj.com/world/middle-east/iran-is-defying-u-s-pressure-by-becoming-a-survival-economy-5e8edf9f?mod=rss_worldnews",
+          "publishedAt": "2026-08-12 04:58:00"
+        }
+      ],
+      "status": "當日已驗證來源"
+    },
+    {
+      "theme": "總體經濟",
+      "title": "比特幣陷入盤整，ETF淨流入抵銷拋壓，通膨數據恐引發波動",
+      "fact": "數週的橫盤走勢已壓低波動率，分析師指出週三公布的通膨報告將成為下一個潛在催化劑。",
+      "whyItMatters": "觀察利率與景氣預期如何影響評價、美元與風險偏好。",
+      "relatedAssets": "QQQ、NVDA、00947 ETF",
+      "verification": [
+        {
+          "source": "CoinDesk（數位貨幣）",
+          "url": "https://www.coindesk.com/markets/2026/08/11/bitcoin-stuck-as-etf-inflows-offset-selling-but-inflation-data-could-spark-a-move",
+          "publishedAt": "2026-08-12 05:38:13"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "市場",
-      "title": "川普媒體比特幣部位縮水 加密虧損達3.61億美元",
-      "fact": "Truth Social母公司6月底持有價值5.57億美元的9,477枚比特幣，其Cronos部位價值也大幅下滑。",
+      "title": "標題：\n巴西最大貸款方 Itaú 正深入涉足代幣化",
+      "fact": "Itaú Unibanco 表示與代幣化專家 OpenAssets 合作，在巴西金融監管機構 ANBIMA 主持的試點中測試代幣化債券和基金。",
       "whyItMatters": "觀察風險資產的資金流與評價是否出現連鎖反應。",
       "relatedAssets": "QQQ、META、GOOGL、00947 ETF",
       "verification": [
         {
           "source": "CoinDesk（數位貨幣）",
-          "url": "https://www.coindesk.com/business/2026/08/10/trump-media-s-bitcoin-holdings-shrink-as-crypto-losses-hit-usd361-million",
-          "publishedAt": "2026-08-11 05:12:07"
-        }
-      ],
-      "status": "當日已驗證來源"
-    },
-    {
-      "theme": "產業",
-      "title": "波灣國家接受荷姆茲海峽新現實：伊朗掌控局面",
-      "fact": "全球最大能源出口國雖不滿重啟水道協議，但擔心重啟戰爭代價更高，被迫接受伊朗主導的局面。",
-      "whyItMatters": "觀察供需、成本與供應鏈變化對產業獲利的傳導。",
-      "relatedAssets": "台積電、聯電、力積電、華邦電、南亞科",
-      "verification": [
-        {
-          "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/world/middle-east/gulf-states-accept-a-new-normal-in-hormuz-iran-is-in-control-6db8908d?mod=rss_worldnews",
-          "publishedAt": "2026-08-11 08:00:00"
-        }
-      ],
-      "status": "當日已驗證來源"
-    },
-    {
-      "theme": "科技",
-      "title": "AI熱潮搶風頭 投資人拋售加密資產",
-      "fact": "投資人紛紛拋售比特幣及其他數位資產轉進AI股票，加密貨幣市場熱度被新興科技概念股蠶食。",
-      "whyItMatters": "觀察 AI、雲端與資安支出是否影響大型科技股與半導體需求。",
-      "relatedAssets": "NVDA、QQQ、META、GOOGL、台積電",
-      "verification": [
-        {
-          "source": "WSJ 華爾街日報（財經）",
-          "url": "https://www.wsj.com/finance/currencies/retail-traders-crypto-cash-0d303c92?mod=rss_markets_main",
-          "publishedAt": "2026-08-11 04:40:00"
+          "url": "https://www.coindesk.com/business/2026/08/11/brazil-s-largest-lender-itau-is-stepping-deeper-into-the-tokenization",
+          "publishedAt": "2026-08-12 03:06:23"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "地緣風險",
-      "title": "伊朗神秘領導人任命新安全首長 對川普發出強硬信號",
-      "fact": "莫克塔巴·哈梅內伊改組國家安全班底，在戰爭爆發後掌權的他正式印上自己的執政印記。",
+      "title": "伊朗為應對川普施壓做好經濟惡化準備",
+      "fact": "川普在接獲伊朗威脅後秘密更換飛機，此外私募信貸業者正在縮減貸款優惠以控制風險。伊朗持續強化自我保護策略以對抗美國的經濟與外交壓力。",
       "whyItMatters": "觀察能源、航運、供應鏈與風險偏好是否出現突發性重估。",
       "relatedAssets": "漢翔、台積電、00947 ETF、USDT",
       "verification": [
         {
-          "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/world/middle-east/irans-mysterious-ruler-signals-a-hard-line-on-trump-with-new-leadership-4ae054ea?mod=rss_worldnews",
-          "publishedAt": "2026-08-11 10:00:00"
+          "source": "WSJ 華爾街日報（財經）",
+          "url": "https://www.wsj.com/finance/investing/iran-preps-for-worsening-economic-malaise-to-withstand-trumps-pressure-a60276c6?mod=rss_markets_main",
+          "publishedAt": "2026-08-12 05:19:00"
         }
       ],
       "status": "當日已驗證來源"
