@@ -1,15 +1,43 @@
 {
-  "updatedAt": "2026-08-12 18:55:52",
+  "updatedAt": "2026-08-13 18:21:13",
   "items": [
     {
-      "title": "比特幣徘徊6.4萬美元附近 美國通膨數據將至，Harmony遭駭擾亂山寨幣市場",
-      "fact": "市場在七月通膨數據公布前保持觀望，比特幣基本持平，原油價格接近每桶90美元，Harmony則因遭新駭客入侵而承壓。",
-      "importance": "影響：油價",
+      "title": "股市今日：股指期貨小幅上揚",
+      "fact": "亞股在人工智慧熱潮帶動下攀升，債券殖利率回落。科技樂觀情緒持續支撐市場表現，投資人對AI相關產業前景看好。整體而言，市場呈現溫和正成長的態勢。",
+      "importance": "影響：利率",
       "verification": [
         {
-          "source": "CoinDesk（數位貨幣）",
-          "url": "https://www.coindesk.com/markets/2026/08/12/bitcoin-holds-near-usd64-000-as-u-s-inflation-data-looms-harmony-exploit-rattles-altcoins",
-          "publishedAt": "2026-08-12 18:30:10"
+          "source": "WSJ 華爾街日報（財經）",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-13-2026?mod=rss_markets_main",
+          "publishedAt": "2026-08-13 16:31:51"
+        }
+      ],
+      "status": "市場事實（單一可追溯來源）",
+      "score": 65
+    },
+    {
+      "title": "台灣將海巡署武裝化準備對抗中國",
+      "fact": "台北部署反艦飛彈與進行海上軍事演習，以深化防禦準備並對北京形成嚇阻。台灣國防現代化計畫正加速推進。這些具體軍事行動反映出台灣強化自我防禦的決心。",
+      "importance": "影響：台灣",
+      "verification": [
+        {
+          "source": "WSJ 華爾街日報（國際政經）",
+          "url": "https://www.wsj.com/world/asia/taiwan-weaponizes-coast-guard-to-prepare-for-battle-with-china-e7235080?mod=rss_worldnews",
+          "publishedAt": "2026-08-13 17:27:00"
+        }
+      ],
+      "status": "市場事實（單一可追溯來源）",
+      "score": 65
+    },
+    {
+      "title": "通膨保護債券現正折價出售",
+      "fact": "雖然政府公債並非完美工具，但在近期內看起來極具吸引力。債券殖利率處於相對高檔，為尋求抗通膨資產的投資人提供機會。短期而言，此類債券的評價具有吸引力。",
+      "importance": "影響：利率",
+      "verification": [
+        {
+          "source": "WSJ 華爾街日報（財經）",
+          "url": "https://www.wsj.com/finance/investing/inflation-protection-is-on-sale-5ca057f5?mod=rss_markets_main",
+          "publishedAt": "2026-08-13 17:30:00"
         }
       ],
       "status": "市場事實（單一可追溯來源）",

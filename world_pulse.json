@@ -1,63 +1,78 @@
 {
-  "updatedAt": "2026-08-12 18:55:52",
-  "date": "2026-08-12",
+  "updatedAt": "2026-08-13 18:21:13",
+  "date": "2026-08-13",
   "items": [
     {
+      "theme": "國際政治",
+      "title": "川普401(k)方案現身虛假支持留言",
+      "fact": "對近1.2萬份贊同政府提議規則的留言進行審查後發現，其中有以已故人士名義提交的評論。這些虛假意見對政策制定程序的公信力造成質疑。相關單位應加強評論驗證機制。",
+      "whyItMatters": "觀察政策、制裁或貿易規則是否改變跨境需求與企業成本。",
+      "relatedAssets": "QQQ、META、GOOGL、台灣科技基金",
+      "verification": [
+        {
+          "source": "Bloomberg 彭博社（政治經濟）",
+          "url": "https://www.bloomberg.com/news/features/2026-08-13/trump-401-k-proposal-shows-signs-of-phony-supportive-comments",
+          "publishedAt": "2026-08-13 18:00:16"
+        }
+      ],
+      "status": "當日已驗證來源"
+    },
+    {
       "theme": "總體經濟",
-      "title": "比特幣徘徊6.4萬美元附近 美國通膨數據將至，Harmony遭駭擾亂山寨幣市場",
-      "fact": "市場在七月通膨數據公布前保持觀望，比特幣基本持平，原油價格接近每桶90美元，Harmony則因遭新駭客入侵而承壓。",
+      "title": "通膨保護債券現正折價出售",
+      "fact": "雖然政府公債並非完美工具，但在近期內看起來極具吸引力。債券殖利率處於相對高檔，為尋求抗通膨資產的投資人提供機會。短期而言，此類債券的評價具有吸引力。",
       "whyItMatters": "觀察利率與景氣預期如何影響評價、美元與風險偏好。",
       "relatedAssets": "QQQ、NVDA、00947 ETF",
       "verification": [
         {
-          "source": "CoinDesk（數位貨幣）",
-          "url": "https://www.coindesk.com/markets/2026/08/12/bitcoin-holds-near-usd64-000-as-u-s-inflation-data-looms-harmony-exploit-rattles-altcoins",
-          "publishedAt": "2026-08-12 18:30:10"
+          "source": "WSJ 華爾街日報（財經）",
+          "url": "https://www.wsj.com/finance/investing/inflation-protection-is-on-sale-5ca057f5?mod=rss_markets_main",
+          "publishedAt": "2026-08-13 17:30:00"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "市場",
-      "title": "標題：\n加密貨幣公司敦促人工智能公司給予比特幣開發者提前使用權",
-      "fact": "Bitcoin Policy Institute 與其他業界參與者敦促 AI 公司提前開放其前沿模型，以協助 Bitcoin 和開源開發者進行網絡安全工作。",
+      "title": "日本金融風暴對美股市場並非小事",
+      "fact": "除了日股震盪外，長期債券投資策略也成為關注焦點。日本央行政策調整對全球金融市場的連鎖反應不容忽視。美國投資人需密切監控日本市場動向對美股的影響。",
       "whyItMatters": "觀察風險資產的資金流與評價是否出現連鎖反應。",
       "relatedAssets": "QQQ、META、GOOGL、00947 ETF",
       "verification": [
         {
-          "source": "CoinTelegraph（數位貨幣）",
-          "url": "https://cointelegraph.com/news/crypto-companies-ai-firms-bitcoin-developers-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedAt": "2026-08-12 17:03:01"
+          "source": "WSJ 華爾街日報（財經）",
+          "url": "https://www.wsj.com/finance/stocks/japanese-drama-is-no-sideshow-for-u-s-markets-b92be149?mod=rss_markets_main",
+          "publishedAt": "2026-08-13 18:18:00"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "科技",
-      "title": "股市今日：科技類股財報提振股指期貨",
-      "fact": "超微電腦與CoreWeave的亮眼成績重燃AI交易熱情，投資人在消費者物價指數公布前紛紛回籠。",
+      "title": "股市今日：股指期貨小幅上揚",
+      "fact": "亞股在人工智慧熱潮帶動下攀升，債券殖利率回落。科技樂觀情緒持續支撐市場表現，投資人對AI相關產業前景看好。整體而言，市場呈現溫和正成長的態勢。",
       "whyItMatters": "觀察 AI、雲端與資安支出是否影響大型科技股與半導體需求。",
       "relatedAssets": "NVDA、QQQ、META、GOOGL、台積電",
       "verification": [
         {
           "source": "WSJ 華爾街日報（財經）",
-          "url": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-08-12-2026?mod=rss_markets_main",
-          "publishedAt": "2026-08-12 16:25:27"
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-13-2026?mod=rss_markets_main",
+          "publishedAt": "2026-08-13 16:31:51"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "地緣風險",
-      "title": "中國經改總設計師朱鎔基逝世 享年97歲",
-      "fact": "這位前總理引領中國走向西方市場原則，並力推中國加入世界貿易組織，成為改革開放時期的重要推手。",
+      "title": "台灣將海巡署武裝化準備對抗中國",
+      "fact": "台北部署反艦飛彈與進行海上軍事演習，以深化防禦準備並對北京形成嚇阻。台灣國防現代化計畫正加速推進。這些具體軍事行動反映出台灣強化自我防禦的決心。",
       "whyItMatters": "觀察能源、航運、供應鏈與風險偏好是否出現突發性重估。",
       "relatedAssets": "漢翔、台積電、00947 ETF、USDT",
       "verification": [
         {
           "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/world/china/zhu-rongji-engineer-of-chinas-economic-overhaul-dies-at-97-0df84c86?mod=rss_worldnews",
-          "publishedAt": "2026-08-12 18:52:00"
+          "url": "https://www.wsj.com/world/asia/taiwan-weaponizes-coast-guard-to-prepare-for-battle-with-china-e7235080?mod=rss_worldnews",
+          "publishedAt": "2026-08-13 17:27:00"
         }
       ],
       "status": "當日已驗證來源"
