@@ -1,63 +1,63 @@
 {
-  "updatedAt": "2026-08-14 10:01:02",
+  "updatedAt": "2026-08-14 18:55:34",
   "date": "2026-08-14",
   "items": [
     {
-      "theme": "國際政治",
-      "title": "庫什納下週訪以色列討論加薩和平計畫",
-      "fact": "川普政府特使、總統女婿傑瑞德·庫什納計畫下週赴以色列進行談判，討論加薩局勢並推進長期延宕的中東和平方案進展，美國官員證實此行程。",
-      "whyItMatters": "觀察政策、制裁或貿易規則是否改變跨境需求與企業成本。",
-      "relatedAssets": "QQQ、META、GOOGL、台灣科技基金",
-      "verification": [
-        {
-          "source": "Bloomberg 彭博社（政治經濟）",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-14/kushner-to-visit-israel-next-week-for-talks-on-gaza-peace-plan",
-          "publishedAt": "2026-08-14 09:01:15"
-        }
-      ],
-      "status": "當日已驗證來源"
-    },
-    {
       "theme": "總體經濟",
-      "title": "通膨數據溫和推升股市創新高",
-      "fact": "華爾街現已預期聯準會將在下月維持利率不變，市場對經濟前景的信心提升，進一步帶動股價向上突破。",
+      "title": "企業罕見擁有如此高漲的預期",
+      "fact": "同時，升息機率出現重大轉變，市場對央行政策路徑的看法產生調整，影響投資者對未來經濟前景的評估。",
       "whyItMatters": "觀察利率與景氣預期如何影響評價、美元與風險偏好。",
       "relatedAssets": "QQQ、NVDA、00947 ETF",
       "verification": [
         {
           "source": "WSJ 華爾街日報（財經）",
-          "url": "https://www.wsj.com/finance/stocks/cool-inflation-data-propels-stocks-to-fresh-records-cf7e46a9?mod=rss_markets_main",
-          "publishedAt": "2026-08-14 04:47:00"
+          "url": "https://www.wsj.com/finance/stocks/companies-have-rarely-had-such-great-expectations-c5824f70?mod=rss_markets_main",
+          "publishedAt": "2026-08-14 18:29:00"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
-      "theme": "科技",
-      "title": "烏克蘭戰場創新科技正在改變俄烏戰爭局勢",
-      "fact": "科技應用協助烏克蘭在戰場上取得優勢，成為其對抗俄羅斯的重要戰術工具。",
-      "whyItMatters": "觀察 AI、雲端與資安支出是否影響大型科技股與半導體需求。",
-      "relatedAssets": "NVDA、QQQ、META、GOOGL、台積電",
+      "theme": "市場",
+      "title": "**標題：**\n比特幣看向八月新低，幣安多頭面臨「清倉」",
+      "fact": "Bitcoin 期貨在幣安的未平倉合約量隨著 BTC 價格下跌而下降，CryptoQuant 發佈的分析指出槓桿多頭面臨越來越大的壓力。",
+      "whyItMatters": "觀察風險資產的資金流與評價是否出現連鎖反應。",
+      "relatedAssets": "QQQ、META、GOOGL、00947 ETF",
       "verification": [
         {
-          "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/world/see-the-battlefield-innovations-reshaping-the-russia-ukraine-war-b8f58805?mod=rss_worldnews",
-          "publishedAt": "2026-08-14 10:00:00"
+          "source": "CoinTelegraph（數位貨幣）",
+          "url": "https://cointelegraph.com/markets/bitcoin-liquidation-cleanout-open-interest-falls-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedAt": "2026-08-14 18:43:57"
+        }
+      ],
+      "status": "當日已驗證來源"
+    },
+    {
+      "theme": "產業",
+      "title": "股市今日：標普期貨在創紀錄收盤後持穩",
+      "fact": "油價走高，布蘭特原油交投在每桶88美元附近，顯示能源市場仍保持強勢。",
+      "whyItMatters": "觀察供需、成本與供應鏈變化對產業獲利的傳導。",
+      "relatedAssets": "台積電、聯電、力積電、華邦電、南亞科",
+      "verification": [
+        {
+          "source": "WSJ 華爾街日報（財經）",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-14-2026?mod=rss_markets_main",
+          "publishedAt": "2026-08-14 16:27:38"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "地緣風險",
-      "title": "北韓指美國新核戰略將引發新一輪軍備競賽",
-      "fact": "北韓譴責美國和南韓計畫進行夏季軍事演習，並誓言行使自衛權，此聲明發表時機距平壤進行第二次導彈試射不足一週，官媒隨後證實此消息。",
+      "title": "戰場創新如何重塑俄烏戰爭",
+      "fact": "科技幫助烏克蘭在戰場上取得優勢地位，關鍵軍事創新正在改變這場衝突的進展。",
       "whyItMatters": "觀察能源、航運、供應鏈與風險偏好是否出現突發性重估。",
       "relatedAssets": "漢翔、台積電、00947 ETF、USDT",
       "verification": [
         {
-          "source": "Bloomberg 彭博社（政治經濟）",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-14/north-korea-says-new-us-nuclear-strategy-will-trigger-fresh-arms-race",
-          "publishedAt": "2026-08-14 09:05:36"
+          "source": "WSJ 華爾街日報（國際政經）",
+          "url": "https://www.wsj.com/world/see-the-battlefield-innovations-reshaping-the-russia-ukraine-war-b8f58805?mod=rss_worldnews",
+          "publishedAt": "2026-08-14 10:00:00"
         }
       ],
       "status": "當日已驗證來源"

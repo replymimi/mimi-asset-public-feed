@@ -1,19 +1,47 @@
 {
-  "updatedAt": "2026-08-14 10:01:02",
+  "updatedAt": "2026-08-14 18:55:34",
   "items": [
     {
-      "title": "通膨數據溫和推升股市創新高",
-      "fact": "華爾街現已預期聯準會將在下月維持利率不變，市場對經濟前景的信心提升，進一步帶動股價向上突破。",
-      "importance": "影響：聯準會、利率",
+      "title": "菲律賓表示若台灣爆發衝突將不允許美國在其領土發動攻擊",
+      "fact": "菲律賓總統小費迪南德·馬科斯週五表示，若台灣問題升級為衝突，菲律賓不會允許美國從其領土發動攻擊。",
+      "importance": "影響：台灣",
       "verification": [
         {
-          "source": "WSJ 華爾街日報（財經）",
-          "url": "https://www.wsj.com/finance/stocks/cool-inflation-data-propels-stocks-to-fresh-records-cf7e46a9?mod=rss_markets_main",
-          "publishedAt": "2026-08-14 04:47:00"
+          "source": "Bloomberg 彭博社（政治經濟）",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-14/marcos-says-energy-exploration-talks-with-china-moving-forward",
+          "publishedAt": "2026-08-14 12:30:41"
         }
       ],
       "status": "市場事實（單一可追溯來源）",
-      "score": 85
+      "score": 65
+    },
+    {
+      "title": "股市今日：標普期貨在創紀錄收盤後持穩",
+      "fact": "油價走高，布蘭特原油交投在每桶88美元附近，顯示能源市場仍保持強勢。",
+      "importance": "影響：油價",
+      "verification": [
+        {
+          "source": "WSJ 華爾街日報（財經）",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-14-2026?mod=rss_markets_main",
+          "publishedAt": "2026-08-14 16:27:38"
+        }
+      ],
+      "status": "市場事實（單一可追溯來源）",
+      "score": 65
+    },
+    {
+      "title": "標題：\n實時更新：比特幣跌破 63,000 美元，石油和收益率攀升",
+      "fact": "WTI原油突破每桶82美元，加劇通膨壓力，並隨著債券殖利率上升而對風險資產造成壓力。",
+      "importance": "影響：利率",
+      "verification": [
+        {
+          "source": "CoinDesk（數位貨幣）",
+          "url": "https://www.coindesk.com/tech/2026/08/14/live-updates-bitcoin-slips-below-usd63-000-as-oil-yields-climb",
+          "publishedAt": "2026-08-14 16:51:48"
+        }
+      ],
+      "status": "市場事實（單一可追溯來源）",
+      "score": 65
     }
   ],
   "method": "僅收當日、附來源網址與發布時間的新聞；依市場影響關鍵字排序。"
