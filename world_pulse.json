@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-08-15 13:32:00",
+  "updatedAt": "2026-08-15 13:45:06",
   "date": "2026-08-15",
   "items": [
     {
       "theme": "國際政治",
-      "title": "川普淡化「林肯號」航母艦上條件惡劣問題",
-      "fact": "川普政府對「亞伯拉罕·林肯號」航母艦上官兵生活條件不佳的關切表示不予重視。該艦部署中東近九個月，引發軍人家屬抗議。川普此舉遭批忽視軍人福利問題。",
+      "title": "伊朗戰爭演變成經濟壓力下的對峙",
+      "fact": "川普政府強化制裁和海上封鎖措施，德黑蘭則押注高油價將迫使華府妥協，雙方在經濟戰中互不相讓。",
       "whyItMatters": "觀察政策、制裁或貿易規則是否改變跨境需求與企業成本。",
       "relatedAssets": "QQQ、META、GOOGL、台灣科技基金",
       "verification": [
         {
-          "source": "Bloomberg 彭博社（政治經濟）",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-14/trump-dismisses-concerns-over-conditions-on-uss-lincoln-carrier",
-          "publishedAt": "2026-08-15 03:11:19"
+          "source": "WSJ 華爾街日報（國際政經）",
+          "url": "https://www.wsj.com/world/middle-east/iran-war-economic-pressure-738b52cf?mod=rss_worldnews",
+          "publishedAt": "2026-08-15 09:00:00"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "總體經濟",
-      "title": "50萬求職者爭奪583個職位：印度就業市場極度競爭",
-      "fact": "印度年輕人面臨嚴峻的就業環境，求職難度不斷攀升。該國失業率高企已成為日趨嚴重的政治與經濟問題。許多青年勞動力難以取得理想工作機會，進而威脅社會穩定與經濟發展。",
+      "title": "50萬求職者搶583個工作機會：印度就業困境加劇",
+      "fact": "印度南亞地區許多青年面臨極低的求職成功率，此問題已成為日益嚴峻的政治和經濟挑戰，影響國家發展前景。",
       "whyItMatters": "觀察利率與景氣預期如何影響評價、美元與風險偏好。",
       "relatedAssets": "QQQ、NVDA、00947 ETF",
       "verification": [
@@ -34,8 +34,8 @@
     },
     {
       "theme": "市場",
-      "title": "標題：\n達特茅斯大學捐贈基金的加密貨幣敞口在價格下跌中下降 200 萬美元",
-      "fact": "該大學捐贈基金在 Bitwise Solana staking ETF、Grayscale Ethereum staking ETF 和 BlackRock 的 iShares Bitcoin ETF 中的持股價值下跌至約 1,200 萬美元。",
+      "title": "達特茅斯大學捐贈基金加密貨幣敞口在價格下跌中下降200萬美元",
+      "fact": "該大學捐贈基金在 Bitwise Solana staking ETF、Grayscale Ethereum staking ETF 和 BlackRock 的 iShares Bitcoin ETF 中的持股價值下降到約 1,200 萬美元。",
       "whyItMatters": "觀察風險資產的資金流與評價是否出現連鎖反應。",
       "relatedAssets": "QQQ、META、GOOGL、00947 ETF",
       "verification": [
@@ -49,23 +49,23 @@
     },
     {
       "theme": "產業",
-      "title": "伊朗對美經濟戰：看誰先在壓力下屈服",
-      "fact": "川普政府加碼對伊朗的經濟制裁與海上封鎖力道，伊朗則寄望高油價迫使華盛頓讓步。雙方在經濟施壓上展開激烈較勁。美伊對立持續升溫，全球能源價格面臨更多不確定性。",
+      "title": "中國開闢首條北極定期貨運航線",
+      "fact": "受惠於油價高漲和氣候變遷，透過北極航線派遣貨櫃輪進行商業運輸現已具經濟效益，標誌著全球航運格局的重大轉變。",
       "whyItMatters": "觀察供需、成本與供應鏈變化對產業獲利的傳導。",
       "relatedAssets": "台積電、聯電、力積電、華邦電、南亞科",
       "verification": [
         {
           "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/world/middle-east/iran-war-economic-pressure-738b52cf?mod=rss_worldnews",
-          "publishedAt": "2026-08-15 09:00:00"
+          "url": "https://www.wsj.com/world/china-is-opening-the-first-regular-cargo-route-through-the-arctic-445245bc?mod=rss_worldnews",
+          "publishedAt": "2026-08-15 10:00:00"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "科技",
-      "title": "柏克夏海瑟威增持字母控股股份，收購建商並減持康絲坦利能源",
-      "fact": "由執行長兼首席選股官葛雷格·艾貝爾領導的柏克夏海瑟威，在第二季度調整投資組合，減少金融類股部位。公司增加對科技龍頭字母控股的持股，同時加碼住宅建築商股票。這些動作反映該公司對不同產業的投資策略調整。",
+      "title": "柏克夏增持Alphabet股份、買進房建商並退出星座能源",
+      "fact": "執行長兼首席選股人Greg Abel在第二季減少公司金融類股部位，同時加碼科技和房建等領域投資。",
       "whyItMatters": "觀察 AI、雲端與資安支出是否影響大型科技股與半導體需求。",
       "relatedAssets": "NVDA、QQQ、META、GOOGL、台積電",
       "verification": [
@@ -79,8 +79,8 @@
     },
     {
       "theme": "地緣風險",
-      "title": "日本防衛大臣參拜靖國神社，加劇中日關係緊張",
-      "fact": "日本防衛大臣造訪被鄰近國家視為日本軍國主義象徵的靖國神社，此舉恐進一步激化與中國及南韓的關係。該訪問行動引發區域地緣政治敏感議題。專家擔憂此舉將加深東亞局勢緊張。",
+      "title": "日防衛相在中日緊張情勢中參拜靖國神社",
+      "fact": "日本防衛大臣參拜被鄰國視為日本軍國主義象徵的靖國神社，引發中國強烈譴責，加劇兩國數月來的緊張關係。",
       "whyItMatters": "觀察能源、航運、供應鏈與風險偏好是否出現突發性重估。",
       "relatedAssets": "漢翔、台積電、00947 ETF、USDT",
       "verification": [
