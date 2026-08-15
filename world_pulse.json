@@ -1,63 +1,78 @@
 {
-  "updatedAt": "2026-08-14 18:55:34",
-  "date": "2026-08-14",
+  "updatedAt": "2026-08-15 10:03:16",
+  "date": "2026-08-15",
   "items": [
     {
+      "theme": "國際政治",
+      "title": "標題：\n據消息人士稱，川普預計將參加與加密貨幣首席執行官的白宮會議",
+      "fact": "參與一場來自加密貨幣、預測市場和人工智能領域的執行長會議的人士預期，唐納德·川普總統將參加下週的集會。",
+      "whyItMatters": "觀察政策、制裁或貿易規則是否改變跨境需求與企業成本。",
+      "relatedAssets": "QQQ、META、GOOGL、台灣科技基金",
+      "verification": [
+        {
+          "source": "CoinDesk（數位貨幣）",
+          "url": "https://www.coindesk.com/policy/2026/08/14/trump-expected-to-attend-white-house-meeting-with-crypto-ceos-sources-say",
+          "publishedAt": "2026-08-15 07:41:49"
+        }
+      ],
+      "status": "當日已驗證來源"
+    },
+    {
       "theme": "總體經濟",
-      "title": "企業罕見擁有如此高漲的預期",
-      "fact": "同時，升息機率出現重大轉變，市場對央行政策路徑的看法產生調整，影響投資者對未來經濟前景的評估。",
+      "title": "50萬應徵者、583個職位：印度求職競爭激烈",
+      "fact": "南亞國家數百萬青年面臨嚴峻的就業挑戰，這正逐漸演變為重要的政治與經濟問題。高失業率與結構性就業不足成為該國發展瓶頸，引發社會與政治層面的廣泛關注。",
       "whyItMatters": "觀察利率與景氣預期如何影響評價、美元與風險偏好。",
       "relatedAssets": "QQQ、NVDA、00947 ETF",
       "verification": [
         {
-          "source": "WSJ 華爾街日報（財經）",
-          "url": "https://www.wsj.com/finance/stocks/companies-have-rarely-had-such-great-expectations-c5824f70?mod=rss_markets_main",
-          "publishedAt": "2026-08-14 18:29:00"
+          "source": "WSJ 華爾街日報（國際政經）",
+          "url": "https://www.wsj.com/world/india/500-000-applicants-583-jobs-the-frantic-scramble-for-work-in-india-0fefa2b3?mod=rss_worldnews",
+          "publishedAt": "2026-08-15 10:00:00"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "市場",
-      "title": "**標題：**\n比特幣看向八月新低，幣安多頭面臨「清倉」",
-      "fact": "Bitcoin 期貨在幣安的未平倉合約量隨著 BTC 價格下跌而下降，CryptoQuant 發佈的分析指出槓桿多頭面臨越來越大的壓力。",
+      "title": "標題：\n達特茅斯捐贈基金加密貨幣敞口因價格下跌減少200萬美元",
+      "fact": "該大學捐贈基金在 Bitwise Solana 質押 ETF、Grayscale Ethereum 質押 ETF 和 BlackRock 的 iShares Bitcoin ETF 中的持股價值下跌至約 1,200 萬美元。",
       "whyItMatters": "觀察風險資產的資金流與評價是否出現連鎖反應。",
       "relatedAssets": "QQQ、META、GOOGL、00947 ETF",
       "verification": [
         {
           "source": "CoinTelegraph（數位貨幣）",
-          "url": "https://cointelegraph.com/markets/bitcoin-liquidation-cleanout-open-interest-falls-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedAt": "2026-08-14 18:43:57"
+          "url": "https://cointelegraph.com/news/dartmouth-endowment-crypto-investments-btc-eth-sol-dropped?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedAt": "2026-08-15 02:57:04"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "產業",
-      "title": "股市今日：標普期貨在創紀錄收盤後持穩",
-      "fact": "油價走高，布蘭特原油交投在每桶88美元附近，顯示能源市場仍保持強勢。",
+      "title": "中國開啟北冰洋首條常規貨運航線",
+      "fact": "受惠於油價高漲與氣候變遷，經北極航路運送貨櫃輪現已具經濟效益。此舉標誌全球貿易格局的重大轉變，也反映氣候變遷帶來的地緣政治與商業機會。",
       "whyItMatters": "觀察供需、成本與供應鏈變化對產業獲利的傳導。",
       "relatedAssets": "台積電、聯電、力積電、華邦電、南亞科",
       "verification": [
         {
-          "source": "WSJ 華爾街日報（財經）",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-14-2026?mod=rss_markets_main",
-          "publishedAt": "2026-08-14 16:27:38"
+          "source": "WSJ 華爾街日報（國際政經）",
+          "url": "https://www.wsj.com/world/china-is-opening-the-first-regular-cargo-route-through-the-arctic-445245bc?mod=rss_worldnews",
+          "publishedAt": "2026-08-15 10:00:00"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "地緣風險",
-      "title": "戰場創新如何重塑俄烏戰爭",
-      "fact": "科技幫助烏克蘭在戰場上取得優勢地位，關鍵軍事創新正在改變這場衝突的進展。",
+      "title": "伊朗對峙升溫為經濟壓力下的對峙",
+      "fact": "川普政府加強制裁與海上封鎖，伊朗則寄望高油價迫使華盛頓退讓。雙方在經濟與軍事壓力下進行高風險的戰略對抗，局勢緊張。",
       "whyItMatters": "觀察能源、航運、供應鏈與風險偏好是否出現突發性重估。",
       "relatedAssets": "漢翔、台積電、00947 ETF、USDT",
       "verification": [
         {
           "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/world/see-the-battlefield-innovations-reshaping-the-russia-ukraine-war-b8f58805?mod=rss_worldnews",
-          "publishedAt": "2026-08-14 10:00:00"
+          "url": "https://www.wsj.com/world/middle-east/iran-war-economic-pressure-738b52cf?mod=rss_worldnews",
+          "publishedAt": "2026-08-15 09:00:00"
         }
       ],
       "status": "當日已驗證來源"

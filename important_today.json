@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-08-14 18:55:34",
+  "updatedAt": "2026-08-15 10:03:16",
   "items": [
     {
-      "title": "菲律賓表示若台灣爆發衝突將不允許美國在其領土發動攻擊",
-      "fact": "菲律賓總統小費迪南德·馬科斯週五表示，若台灣問題升級為衝突，菲律賓不會允許美國從其領土發動攻擊。",
-      "importance": "影響：台灣",
-      "verification": [
-        {
-          "source": "Bloomberg 彭博社（政治經濟）",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-14/marcos-says-energy-exploration-talks-with-china-moving-forward",
-          "publishedAt": "2026-08-14 12:30:41"
-        }
-      ],
-      "status": "市場事實（單一可追溯來源）",
-      "score": 65
-    },
-    {
-      "title": "股市今日：標普期貨在創紀錄收盤後持穩",
-      "fact": "油價走高，布蘭特原油交投在每桶88美元附近，顯示能源市場仍保持強勢。",
+      "title": "川普對油價上漲：「我絕不道歉」",
+      "fact": "民主黨籍威斯康辛州眾議院議員葛溫．摩爾表示高油價加深美國民眾生活成本負擔，對川普主張民眾應為伊朗戰爭而接受油價「小幅上升」的言論進行反駁。共和黨籍內布拉斯加州議員麥克．弗勒德指出可負擔性持續成為選民關切，儘管川普將此議題駁為「騙局」。德州民主黨籍議員葛",
       "importance": "影響：油價",
       "verification": [
         {
-          "source": "WSJ 華爾街日報（財經）",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-14-2026?mod=rss_markets_main",
-          "publishedAt": "2026-08-14 16:27:38"
+          "source": "Bloomberg 彭博社（政治經濟）",
+          "url": "https://www.bloomberg.com/news/videos/2026-08-14/balance-of-power-late-edition-08-14-2026-video",
+          "publishedAt": "2026-08-15 07:53:09"
         }
       ],
       "status": "市場事實（單一可追溯來源）",
       "score": 65
     },
     {
-      "title": "標題：\n實時更新：比特幣跌破 63,000 美元，石油和收益率攀升",
-      "fact": "WTI原油突破每桶82美元，加劇通膨壓力，並隨著債券殖利率上升而對風險資產造成壓力。",
-      "importance": "影響：利率",
+      "title": "伊朗對峙升溫為經濟壓力下的對峙",
+      "fact": "川普政府加強制裁與海上封鎖，伊朗則寄望高油價迫使華盛頓退讓。雙方在經濟與軍事壓力下進行高風險的戰略對抗，局勢緊張。",
+      "importance": "影響：油價",
       "verification": [
         {
-          "source": "CoinDesk（數位貨幣）",
-          "url": "https://www.coindesk.com/tech/2026/08/14/live-updates-bitcoin-slips-below-usd63-000-as-oil-yields-climb",
-          "publishedAt": "2026-08-14 16:51:48"
+          "source": "WSJ 華爾街日報（國際政經）",
+          "url": "https://www.wsj.com/world/middle-east/iran-war-economic-pressure-738b52cf?mod=rss_worldnews",
+          "publishedAt": "2026-08-15 09:00:00"
+        }
+      ],
+      "status": "市場事實（單一可追溯來源）",
+      "score": 65
+    },
+    {
+      "title": "中國開啟北冰洋首條常規貨運航線",
+      "fact": "受惠於油價高漲與氣候變遷，經北極航路運送貨櫃輪現已具經濟效益。此舉標誌全球貿易格局的重大轉變，也反映氣候變遷帶來的地緣政治與商業機會。",
+      "importance": "影響：油價",
+      "verification": [
+        {
+          "source": "WSJ 華爾街日報（國際政經）",
+          "url": "https://www.wsj.com/world/china-is-opening-the-first-regular-cargo-route-through-the-arctic-445245bc?mod=rss_worldnews",
+          "publishedAt": "2026-08-15 10:00:00"
         }
       ],
       "status": "市場事實（單一可追溯來源）",
