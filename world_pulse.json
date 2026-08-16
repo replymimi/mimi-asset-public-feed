@@ -1,56 +1,26 @@
 {
-  "updatedAt": "2026-08-16 13:45:06",
+  "updatedAt": "2026-08-16 18:10:07",
   "date": "2026-08-16",
   "items": [
     {
-      "theme": "總體經濟",
-      "title": "英國求職者初入職場成本持續攀升",
-      "fact": "人工智能技術提高了職場新鮮人的競爭門檻，使初入職場的成本與難度達到歷史新高。這反映出英國就業市場對求職者教育投資需求的增加。",
-      "whyItMatters": "觀察利率與景氣預期如何影響評價、美元與風險偏好。",
-      "relatedAssets": "QQQ、NVDA、00947 ETF",
-      "verification": [
-        {
-          "source": "Bloomberg 彭博社（政治經濟）",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-16/landing-your-first-job-is-getting-more-expensive-in-the-uk",
-          "publishedAt": "2026-08-16 13:00:00"
-        }
-      ],
-      "status": "當日已驗證來源"
-    },
-    {
-      "theme": "產業",
-      "title": "烏克蘭無人機製造商幕後推手是千禧世代傢俱設計師",
-      "fact": "34歲的伊琳娜·特雷克曾從事長椅設計工作，如今已成為烏克蘭最大民營國防公司的執行長。她領導的企業生產的無人機正對俄軍造成持續打擊。",
-      "whyItMatters": "觀察供需、成本與供應鏈變化對產業獲利的傳導。",
-      "relatedAssets": "台積電、聯電、力積電、華邦電、南亞科",
-      "verification": [
-        {
-          "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/world/ukraine-fire-point-ceo-iryna-terekh-drones-d93ec97b?mod=rss_worldnews",
-          "publishedAt": "2026-08-16 07:00:00"
-        }
-      ],
-      "status": "當日已驗證來源"
-    },
-    {
       "theme": "科技",
-      "title": "川普家族旗下World Liberty Financial獲批籌設銀行",
-      "fact": "美國貨幣監理署(OCC)有條件核准該加密貨幣旗艦企業籌設信託銀行。這一批准標誌著川普家族在金融科技領域的重大進展，惟仍需符合相關監管條件。",
+      "title": "開放權重AI不會打壓挖掘工具需求",
+      "fact": "人工智慧熱潮的最大受惠者無論開源模型是否普及，都能從中獲利。無論市場走向如何，相關供應鏈廠商的需求韌性強勁。",
       "whyItMatters": "觀察 AI、雲端與資安支出是否影響大型科技股與半導體需求。",
       "relatedAssets": "NVDA、QQQ、META、GOOGL、台積電",
       "verification": [
         {
           "source": "WSJ 華爾街日報（財經）",
-          "url": "https://www.wsj.com/finance/trump-familys-world-liberty-financial-gets-preliminary-approval-to-launch-a-bank-dd518a2b?mod=rss_markets_main",
-          "publishedAt": "2026-08-16 03:39:00"
+          "url": "https://www.wsj.com/tech/ai/open-weight-ai-wont-crimp-demand-for-picks-and-shovels-523e6410?mod=rss_markets_main",
+          "publishedAt": "2026-08-16 17:30:00"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "地緣風險",
-      "title": "中國煉油巨頭恒力為伊朗提供資金",
-      "fact": "美國指控恒力集團是伊朗非法原油的主要進口商，但這家中國石化企業否認與伊朗進行貿易往來。該爭議涉及美國對伊朗的經濟制裁執行力度問題。",
+      "title": "中國大型煉油廠為伊朗籌資",
+      "fact": "亨基集團遭美國控訴係非法伊朗原油主要進口商，但該中國石化公司否認與伊朗進行貿易往來。",
       "whyItMatters": "觀察能源、航運、供應鏈與風險偏好是否出現突發性重估。",
       "relatedAssets": "漢翔、台積電、00947 ETF、USDT",
       "verification": [
