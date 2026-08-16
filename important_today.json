@@ -1,34 +1,5 @@
 {
-  "updatedAt": "2026-08-15 18:52:03",
-  "items": [
-    {
-      "title": "伊朗戰爭淪為經濟壓力下的互相對峙",
-      "fact": "川普政府加大制裁力度並強化海上封鎖，德黑蘭則寄望高油價迫使華府讓步。雙方陷入經濟與軍事籌碼的消耗戰，考驗誰的意志力更堅定。中東局勢的走向將決定區域能源政策與全球地緣政治格局。",
-      "importance": "影響：油價",
-      "verification": [
-        {
-          "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/world/middle-east/iran-war-economic-pressure-738b52cf?mod=rss_worldnews",
-          "publishedAt": "2026-08-15 09:00:00"
-        }
-      ],
-      "status": "市場事實（單一可追溯來源）",
-      "score": 65
-    },
-    {
-      "title": "中國開闢北極首條定期貨輪航線",
-      "fact": "由於油價高企與氣候變遷，透過北方海道運送貨櫃輪現已具備經濟效益。這條新航線大幅縮短運輸距離，降低船運時間與成本。該航線的開闢反映全球貿易路線因環境變化而產生的重大轉變。",
-      "importance": "影響：油價",
-      "verification": [
-        {
-          "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/world/china-is-opening-the-first-regular-cargo-route-through-the-arctic-445245bc?mod=rss_worldnews",
-          "publishedAt": "2026-08-15 10:00:00"
-        }
-      ],
-      "status": "市場事實（單一可追溯來源）",
-      "score": 65
-    }
-  ],
+  "updatedAt": "2026-08-16 13:45:06",
+  "items": [],
   "method": "僅收當日、附來源網址與發布時間的新聞；依市場影響關鍵字排序。"
 }

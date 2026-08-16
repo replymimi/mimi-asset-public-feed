@@ -1,78 +1,63 @@
 {
-  "updatedAt": "2026-08-15 18:52:03",
-  "date": "2026-08-15",
+  "updatedAt": "2026-08-16 13:45:06",
+  "date": "2026-08-16",
   "items": [
     {
-      "theme": "國際政治",
-      "title": "標題：\n據消息人士透露，川普預計將出席與加密貨幣執行長的白宮會議",
-      "fact": "參與來自加密貨幣、預測市場和人工智能領域CEO會議的人士預期，唐納德·川普總統將參加下週的聚會。",
-      "whyItMatters": "觀察政策、制裁或貿易規則是否改變跨境需求與企業成本。",
-      "relatedAssets": "QQQ、META、GOOGL、台灣科技基金",
-      "verification": [
-        {
-          "source": "CoinDesk（數位貨幣）",
-          "url": "https://www.coindesk.com/policy/2026/08/14/trump-expected-to-attend-white-house-meeting-with-crypto-ceos-sources-say",
-          "publishedAt": "2026-08-15 07:41:49"
-        }
-      ],
-      "status": "當日已驗證來源"
-    },
-    {
       "theme": "總體經濟",
-      "title": "50萬人競逐583個職缺：印度搶工作亂象叢生",
-      "fact": "印度南亞國家的許多年輕人在尋找優質工作時面臨極低的錄取機率，這已成為日益嚴重的政治與經濟課題。勞動市場的供需失衡現象持續惡化，加劇社會就業壓力。政府與企業面臨如何創造更多優質就業機會的重大挑戰。",
+      "title": "英國求職者初入職場成本持續攀升",
+      "fact": "人工智能技術提高了職場新鮮人的競爭門檻，使初入職場的成本與難度達到歷史新高。這反映出英國就業市場對求職者教育投資需求的增加。",
       "whyItMatters": "觀察利率與景氣預期如何影響評價、美元與風險偏好。",
       "relatedAssets": "QQQ、NVDA、00947 ETF",
       "verification": [
         {
-          "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/world/india/500-000-applicants-583-jobs-the-frantic-scramble-for-work-in-india-0fefa2b3?mod=rss_worldnews",
-          "publishedAt": "2026-08-15 10:00:00"
+          "source": "Bloomberg 彭博社（政治經濟）",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-16/landing-your-first-job-is-getting-more-expensive-in-the-uk",
+          "publishedAt": "2026-08-16 13:00:00"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "產業",
-      "title": "伊朗戰爭淪為經濟壓力下的互相對峙",
-      "fact": "川普政府加大制裁力度並強化海上封鎖，德黑蘭則寄望高油價迫使華府讓步。雙方陷入經濟與軍事籌碼的消耗戰，考驗誰的意志力更堅定。中東局勢的走向將決定區域能源政策與全球地緣政治格局。",
+      "title": "烏克蘭無人機製造商幕後推手是千禧世代傢俱設計師",
+      "fact": "34歲的伊琳娜·特雷克曾從事長椅設計工作，如今已成為烏克蘭最大民營國防公司的執行長。她領導的企業生產的無人機正對俄軍造成持續打擊。",
       "whyItMatters": "觀察供需、成本與供應鏈變化對產業獲利的傳導。",
       "relatedAssets": "台積電、聯電、力積電、華邦電、南亞科",
       "verification": [
         {
           "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/world/middle-east/iran-war-economic-pressure-738b52cf?mod=rss_worldnews",
-          "publishedAt": "2026-08-15 09:00:00"
+          "url": "https://www.wsj.com/world/ukraine-fire-point-ceo-iryna-terekh-drones-d93ec97b?mod=rss_worldnews",
+          "publishedAt": "2026-08-16 07:00:00"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "科技",
-      "title": "柏克夏增持字母表股份，買進建築商並退出星座集團",
-      "fact": "首席執行長兼首席選股人葛瑞格·亞伯在第二季度期間縮減公司金融類股的投資組合。柏克夏持續調整策略，增加科技股曝險度同時降低金融股比重。此舉反映該公司對不同產業前景的重新評估。",
+      "title": "川普家族旗下World Liberty Financial獲批籌設銀行",
+      "fact": "美國貨幣監理署(OCC)有條件核准該加密貨幣旗艦企業籌設信託銀行。這一批准標誌著川普家族在金融科技領域的重大進展，惟仍需符合相關監管條件。",
       "whyItMatters": "觀察 AI、雲端與資安支出是否影響大型科技股與半導體需求。",
       "relatedAssets": "NVDA、QQQ、META、GOOGL、台積電",
       "verification": [
         {
           "source": "WSJ 華爾街日報（財經）",
-          "url": "https://www.wsj.com/finance/stocks/berkshire-adds-to-alphabet-stake-buys-homebuilders-and-exits-constellation-746a5bdc?mod=rss_markets_main",
-          "publishedAt": "2026-08-15 05:54:00"
+          "url": "https://www.wsj.com/finance/trump-familys-world-liberty-financial-gets-preliminary-approval-to-launch-a-bank-dd518a2b?mod=rss_markets_main",
+          "publishedAt": "2026-08-16 03:39:00"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "地緣風險",
-      "title": "日本防衛大臣訪靖國神社引發中方譴責",
-      "fact": "在日中關係緊張之際，日本防衛大臣參拜被鄰國視為日本軍國主義象徵的靖國神社，引發中國強烈抗議。此舉進一步激化兩國間數月來的緊張局勢。該宗教聖地參拜問題持續成為區域外交的敏感議題。",
+      "title": "中國煉油巨頭恒力為伊朗提供資金",
+      "fact": "美國指控恒力集團是伊朗非法原油的主要進口商，但這家中國石化企業否認與伊朗進行貿易往來。該爭議涉及美國對伊朗的經濟制裁執行力度問題。",
       "whyItMatters": "觀察能源、航運、供應鏈與風險偏好是否出現突發性重估。",
       "relatedAssets": "漢翔、台積電、00947 ETF、USDT",
       "verification": [
         {
-          "source": "Bloomberg 彭博社（政治經濟）",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-15/japan-defense-minister-visits-yasukuni-as-china-tensions-simmer",
-          "publishedAt": "2026-08-15 08:47:22"
+          "source": "WSJ 華爾街日報（國際政經）",
+          "url": "https://www.wsj.com/world/china/hengli-china-oil-company-iran-c802475a?mod=rss_worldnews",
+          "publishedAt": "2026-08-16 10:00:00"
         }
       ],
       "status": "當日已驗證來源"
