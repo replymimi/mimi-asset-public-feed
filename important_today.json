@@ -1,5 +1,48 @@
 {
-  "updatedAt": "2026-08-17 10:06:36",
-  "items": [],
+  "updatedAt": "2026-08-17 18:14:35",
+  "items": [
+    {
+      "title": "股市今日：科技股有望上漲，油價持穩",
+      "fact": "本週將公布Target、沃爾瑪等零售商的財報，市場關注其營運表現與消費者需求狀況。科技股受惠於積極的市場預期，預料將延續上升走勢。油價則維持相對穩定，暫未見明顯波動跡象。",
+      "importance": "影響：油價、財報",
+      "verification": [
+        {
+          "source": "WSJ 華爾街日報（財經）",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-17-2026?mod=rss_markets_main",
+          "publishedAt": "2026-08-17 16:03:37"
+        }
+      ],
+      "status": "市場事實（單一可追溯來源）",
+      "score": 75
+    },
+    {
+      "title": "標題：\n實時更新：比特幣在63,500美元附近持平；美伊停火期限屆滿重燃石油威脅",
+      "fact": "隨著六十天休戰期結束且未達成協議，通過荷莫茲海峽的運輸已幾乎完全停止，這重新激發了整個夏季以來一直對加密貨幣造成壓制的油價風險。與此同時，ETF 資金流向正悄悄發生轉變。",
+      "importance": "影響：油價",
+      "verification": [
+        {
+          "source": "CoinDesk（數位貨幣）",
+          "url": "https://www.coindesk.com/markets/2026/08/17/live-updates-bitcoin-flat-near-usd63-500-but-the-flows-have-quietly-turned",
+          "publishedAt": "2026-08-17 16:38:26"
+        }
+      ],
+      "status": "市場事實（單一可追溯來源）",
+      "score": 65
+    },
+    {
+      "title": "標題：\nCoinbase-Circle USDC 合作、FOMC 會議紀要、油價：加密貨幣週展望",
+      "fact": "您對從8月17日開始的一周內將要發生的事情的展望",
+      "importance": "影響：油價",
+      "verification": [
+        {
+          "source": "CoinDesk（數位貨幣）",
+          "url": "https://www.coindesk.com/markets/2026/08/17/coinbase-circle-usdc-collaboration-fomc-minutes-oil-price-crypto-week-ahead",
+          "publishedAt": "2026-08-17 17:13:02"
+        }
+      ],
+      "status": "市場事實（單一可追溯來源）",
+      "score": 65
+    }
+  ],
   "method": "僅收當日、附來源網址與發布時間的新聞；依市場影響關鍵字排序。"
 }
