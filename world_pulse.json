@@ -1,33 +1,18 @@
 {
-  "updatedAt": "2026-08-16 18:10:07",
-  "date": "2026-08-16",
+  "updatedAt": "2026-08-17 10:06:36",
+  "date": "2026-08-17",
   "items": [
     {
-      "theme": "科技",
-      "title": "開放權重AI不會打壓挖掘工具需求",
-      "fact": "人工智慧熱潮的最大受惠者無論開源模型是否普及，都能從中獲利。無論市場走向如何，相關供應鏈廠商的需求韌性強勁。",
-      "whyItMatters": "觀察 AI、雲端與資安支出是否影響大型科技股與半導體需求。",
-      "relatedAssets": "NVDA、QQQ、META、GOOGL、台積電",
-      "verification": [
-        {
-          "source": "WSJ 華爾街日報（財經）",
-          "url": "https://www.wsj.com/tech/ai/open-weight-ai-wont-crimp-demand-for-picks-and-shovels-523e6410?mod=rss_markets_main",
-          "publishedAt": "2026-08-16 17:30:00"
-        }
-      ],
-      "status": "當日已驗證來源"
-    },
-    {
       "theme": "地緣風險",
-      "title": "中國大型煉油廠為伊朗籌資",
-      "fact": "亨基集團遭美國控訴係非法伊朗原油主要進口商，但該中國石化公司否認與伊朗進行貿易往來。",
+      "title": "伊朗祕密升級衝突計畫",
+      "fact": "截獲的通訊記錄及其他情報顯示，伊朗強硬派領導人正制定策略升級衝突，以提高美國及其區域盟友的代價。此舉反映伊朗對地緣政治局勢的重新評估。",
       "whyItMatters": "觀察能源、航運、供應鏈與風險偏好是否出現突發性重估。",
       "relatedAssets": "漢翔、台積電、00947 ETF、USDT",
       "verification": [
         {
           "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/world/china/hengli-china-oil-company-iran-c802475a?mod=rss_worldnews",
-          "publishedAt": "2026-08-16 10:00:00"
+          "url": "https://www.wsj.com/world/middle-east/iran-plan-escalate-war-cc657664?mod=rss_worldnews",
+          "publishedAt": "2026-08-17 09:00:00"
         }
       ],
       "status": "當日已驗證來源"
