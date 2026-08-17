@@ -1,5 +1,5 @@
 {
-  "syncTime": "2026-08-17 18:24:32",
+  "syncTime": "2026-08-17 18:46:06",
   "dataDate": "2026-08-14",
   "prices": {
     "2330": {
@@ -7,7 +7,7 @@
       "ticker": "2330",
       "date": "2026-08-14",
       "price": 2400.0,
-      "priceSource": "Yahoo Chart",
+      "priceSource": "Yahoo台股",
       "quoteTime": "",
       "signal": "HOLD",
       "previousSignal": "HOLD",
@@ -256,7 +256,7 @@
       "ticker": "2330",
       "date": "2026-08-14",
       "price": 2400.0,
-      "priceSource": "Yahoo Chart",
+      "priceSource": "Yahoo台股",
       "quoteTime": "",
       "signal": "HOLD",
       "previousSignal": "HOLD",
@@ -622,7 +622,7 @@
       "ticker": "2330",
       "date": "2026-08-14",
       "price": 2400.0,
-      "priceSource": "Yahoo Chart",
+      "priceSource": "Yahoo台股",
       "quoteTime": "",
       "signal": "HOLD",
       "previousSignal": "HOLD",
