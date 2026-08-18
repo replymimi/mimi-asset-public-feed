@@ -1,19 +1,47 @@
 {
-  "updatedAt": "2026-08-18 18:18:01",
+  "updatedAt": "2026-08-18 21:14:11",
   "items": [
     {
-      "title": "標題：\n即時更新：比特幣維持在 64,000 美元，殖利率飆升與油價下跌削弱風險胃口",
-      "fact": "30年期美國國債殖利率觸及2007年以來最高水準，布蘭特原油突破91美元，美國與伊朗衝突升溫對股市造成壓力。比特幣目前維持在區間內。",
-      "importance": "影響：利率、油價",
+      "title": "全球債市暴跌 美股期貨下滑",
+      "fact": "財政赤字擴大、通膨憂慮升溫及人工智慧龐大支出推升借貸成本，導致債殖率持續上升。那斯達克期貨應聲下滑，反映市場對利率環境的擔憂。",
+      "importance": "影響：利率",
       "verification": [
         {
-          "source": "CoinDesk（數位貨幣）",
-          "url": "https://www.coindesk.com/tech/2026/08/18/live-updates-bitcoin-holds-usd64-000-as-surging-yields-and-oil-drain-risk-appetite",
-          "publishedAt": "2026-08-18 16:16:11"
+          "source": "WSJ 華爾街日報（財經）",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-18-2026?mod=rss_markets_main",
+          "publishedAt": "2026-08-18 16:10:32"
         }
       ],
       "status": "市場事實（單一可追溯來源）",
-      "score": 80
+      "score": 65
+    },
+    {
+      "title": "石油大廠債務縮減 後續動向引關注",
+      "fact": "油價高漲帶動石油業者負債水位下降，惟債券殖率飆升卻讓投資人感到不安。",
+      "importance": "影響：油價",
+      "verification": [
+        {
+          "source": "WSJ 華爾街日報（財經）",
+          "url": "https://www.wsj.com/finance/stocks/big-oils-liabilities-are-shrinking-whats-next-c2242dbf?mod=rss_markets_main",
+          "publishedAt": "2026-08-18 18:28:00"
+        }
+      ],
+      "status": "市場事實（單一可追溯來源）",
+      "score": 65
+    },
+    {
+      "title": "美加關稅談判膠著 午夜期限逼近",
+      "fact": "加拿大正全力與川普政府在週二午夜截止前達成協議，以規避高達50%的關稅對數十億美元出口造成的衝擊。",
+      "importance": "影響：關稅",
+      "verification": [
+        {
+          "source": "Bloomberg 彭博社（政治經濟）",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-18/us-canada-barrel-toward-50-tariff-as-trump-deadline-approaches",
+          "publishedAt": "2026-08-18 19:23:34"
+        }
+      ],
+      "status": "市場事實（單一可追溯來源）",
+      "score": 65
     }
   ],
   "method": "僅收當日、附來源網址與發布時間的新聞；依市場影響關鍵字排序。"

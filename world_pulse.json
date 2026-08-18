@@ -1,43 +1,28 @@
 {
-  "updatedAt": "2026-08-18 18:18:01",
+  "updatedAt": "2026-08-18 21:14:11",
   "date": "2026-08-18",
   "items": [
     {
       "theme": "國際政治",
-      "title": "印尼普拉博沃推行務實政策安撫投資者",
-      "fact": "印尼新任總統普拉博沃改變過往做法，轉向務實政策以穩定市場預期。他試圖通過較為溫和的經濟改革方案，修復先前激進變革對市場造成的",
+      "title": "美加關稅談判膠著 午夜期限逼近",
+      "fact": "加拿大正全力與川普政府在週二午夜截止前達成協議，以規避高達50%的關稅對數十億美元出口造成的衝擊。",
       "whyItMatters": "觀察政策、制裁或貿易規則是否改變跨境需求與企業成本。",
       "relatedAssets": "QQQ、META、GOOGL、台灣科技基金",
       "verification": [
         {
           "source": "Bloomberg 彭博社（政治經濟）",
-          "url": "https://www.bloomberg.com/news/newsletters/2026-08-18/indonesia-s-prabowo-aims-for-boring-to-soothe-worried-investors",
-          "publishedAt": "2026-08-18 17:59:07"
+          "url": "https://www.bloomberg.com/news/articles/2026-08-18/us-canada-barrel-toward-50-tariff-as-trump-deadline-approaches",
+          "publishedAt": "2026-08-18 19:23:34"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "總體經濟",
-      "title": "汽車保險保費仍有下降空間",
-      "fact": "軟性保險市場環境令通膨監測者感到欣慰，卻對股東利益造成壓力。隨著市場競爭加劇，保費下行趨勢有望持續，但保險公司獲利可能面臨挑戰。保險業者正在尋求通過提升承保品質來維持利潤。",
+      "title": "全球債市暴跌 美股期貨下滑",
+      "fact": "財政赤字擴大、通膨憂慮升溫及人工智慧龐大支出推升借貸成本，導致債殖率持續上升。那斯達克期貨應聲下滑，反映市場對利率環境的擔憂。",
       "whyItMatters": "觀察利率與景氣預期如何影響評價、美元與風險偏好。",
       "relatedAssets": "QQQ、NVDA、00947 ETF",
-      "verification": [
-        {
-          "source": "WSJ 華爾街日報（財經）",
-          "url": "https://www.wsj.com/finance/auto-insurance-premiums-have-room-to-keep-falling-93243754?mod=rss_markets_main",
-          "publishedAt": "2026-08-18 17:30:00"
-        }
-      ],
-      "status": "當日已驗證來源"
-    },
-    {
-      "theme": "市場",
-      "title": "股市今日：全球債券拋售加劇",
-      "fact": "財政赤字擴大、通膨憂慮與龐大AI支出推升借貸成本，全球債券市場面臨嚴峻壓力。各國政府與企業的融資成本大幅上升，反映市場對經濟前景的擔憂加深。此波債券拋售潮已波及全球主要經濟體，成為近期金融市場的關鍵風險。",
-      "whyItMatters": "觀察風險資產的資金流與評價是否出現連鎖反應。",
-      "relatedAssets": "QQQ、META、GOOGL、00947 ETF",
       "verification": [
         {
           "source": "WSJ 華爾街日報（財經）",
@@ -48,24 +33,54 @@
       "status": "當日已驗證來源"
     },
     {
+      "theme": "市場",
+      "title": "標題：\n以下是今天加密貨幣市場發生的事情",
+      "fact": "需要了解加密貨幣今日發生了什麼事？以下是影響 Bitcoin 價格、區塊鏈、DeFi、Web3 和加密貨幣監管的每日趨勢與事件的最新消息。",
+      "whyItMatters": "觀察風險資產的資金流與評價是否出現連鎖反應。",
+      "relatedAssets": "QQQ、META、GOOGL、00947 ETF",
+      "verification": [
+        {
+          "source": "CoinTelegraph（數位貨幣）",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedAt": "2026-08-18 20:53:39"
+        }
+      ],
+      "status": "當日已驗證來源"
+    },
+    {
       "theme": "產業",
-      "title": "俄羅斯因英國無人機襲擊烏克蘭而威脅英國",
-      "fact": "俄羅斯警告英國將面臨「必須為其後果負責」，此前有報導稱基輔使用英國公司製造的無人機對俄羅斯領土進行襲擊。",
+      "title": "石油大廠債務縮減 後續動向引關注",
+      "fact": "油價高漲帶動石油業者負債水位下降，惟債券殖率飆升卻讓投資人感到不安。",
       "whyItMatters": "觀察供需、成本與供應鏈變化對產業獲利的傳導。",
       "relatedAssets": "台積電、聯電、力積電、華邦電、南亞科",
       "verification": [
         {
-          "source": "Bloomberg 彭博社（政治經濟）",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-18/russia-threatens-uk-over-ukraine-using-british-drones-in-attacks",
-          "publishedAt": "2026-08-18 15:01:02"
+          "source": "WSJ 華爾街日報（財經）",
+          "url": "https://www.wsj.com/finance/stocks/big-oils-liabilities-are-shrinking-whats-next-c2242dbf?mod=rss_markets_main",
+          "publishedAt": "2026-08-18 18:28:00"
+        }
+      ],
+      "status": "當日已驗證來源"
+    },
+    {
+      "theme": "科技",
+      "title": "以太坊升級打破「21,000燃料費」規則 錢包軟體面臨挑戰",
+      "fact": "向新地址轉帳以太幣的成本將高於向既有地址轉帳，導致依賴固定手續費的軟體計算出現偏差。",
+      "whyItMatters": "觀察 AI、雲端與資安支出是否影響大型科技股與半導體需求。",
+      "relatedAssets": "NVDA、QQQ、META、GOOGL、台積電",
+      "verification": [
+        {
+          "source": "CoinDesk（數位貨幣）",
+          "url": "https://www.coindesk.com/tech/2026/08/18/ethereum-s-next-upgrade-breaks-the-21-000-gas-rule-wallets-rely-on",
+          "publishedAt": "2026-08-18 20:17:05"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "地緣風險",
-      "title": "伊朗支持的胡塞武裝威脅紅海航道",
-      "fact": "伊朗背景的胡塞反政府武裝近日加劇在曼德海峽一帶的攻擊行動，並關閉了該戰略要地的港口營運。此舉對全球海上貿易通道造成重大威脅，引發國際社會高度關注。紅海航道作為全球最重要的商業運輸通道之一，其安全問題將持續影響國際貿易。",
+      "title": "伊朗支持的胡塞叛軍威脅紅海運輸走廊",
+      "fact": "反政府武裝勢力近日加強在曼德海峽附近的攻擊行動，並關閉了一處戰略性海港的營運。",
       "whyItMatters": "觀察能源、航運、供應鏈與風險偏好是否出現突發性重估。",
       "relatedAssets": "漢翔、台積電、00947 ETF、USDT",
       "verification": [
