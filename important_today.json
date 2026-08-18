@@ -1,43 +1,15 @@
 {
-  "updatedAt": "2026-08-18 21:14:11",
+  "updatedAt": "2026-08-18 21:49:50",
   "items": [
     {
-      "title": "全球債市暴跌 美股期貨下滑",
-      "fact": "財政赤字擴大、通膨憂慮升溫及人工智慧龐大支出推升借貸成本，導致債殖率持續上升。那斯達克期貨應聲下滑，反映市場對利率環境的擔憂。",
+      "title": "石油大廠負債縮減 後續發展待觀",
+      "fact": "除負債減少外，公債殖利率飆升也引發投資人恐慌，進一步衝擊油氣產業前景。",
       "importance": "影響：利率",
-      "verification": [
-        {
-          "source": "WSJ 華爾街日報（財經）",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-18-2026?mod=rss_markets_main",
-          "publishedAt": "2026-08-18 16:10:32"
-        }
-      ],
-      "status": "市場事實（單一可追溯來源）",
-      "score": 65
-    },
-    {
-      "title": "石油大廠債務縮減 後續動向引關注",
-      "fact": "油價高漲帶動石油業者負債水位下降，惟債券殖率飆升卻讓投資人感到不安。",
-      "importance": "影響：油價",
       "verification": [
         {
           "source": "WSJ 華爾街日報（財經）",
           "url": "https://www.wsj.com/finance/stocks/big-oils-liabilities-are-shrinking-whats-next-c2242dbf?mod=rss_markets_main",
           "publishedAt": "2026-08-18 18:28:00"
-        }
-      ],
-      "status": "市場事實（單一可追溯來源）",
-      "score": 65
-    },
-    {
-      "title": "美加關稅談判膠著 午夜期限逼近",
-      "fact": "加拿大正全力與川普政府在週二午夜截止前達成協議，以規避高達50%的關稅對數十億美元出口造成的衝擊。",
-      "importance": "影響：關稅",
-      "verification": [
-        {
-          "source": "Bloomberg 彭博社（政治經濟）",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-18/us-canada-barrel-toward-50-tariff-as-trump-deadline-approaches",
-          "publishedAt": "2026-08-18 19:23:34"
         }
       ],
       "status": "市場事實（單一可追溯來源）",

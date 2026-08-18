@@ -1,58 +1,13 @@
 {
-  "updatedAt": "2026-08-18 21:14:11",
+  "updatedAt": "2026-08-18 21:49:50",
   "date": "2026-08-18",
   "items": [
     {
-      "theme": "國際政治",
-      "title": "美加關稅談判膠著 午夜期限逼近",
-      "fact": "加拿大正全力與川普政府在週二午夜截止前達成協議，以規避高達50%的關稅對數十億美元出口造成的衝擊。",
-      "whyItMatters": "觀察政策、制裁或貿易規則是否改變跨境需求與企業成本。",
-      "relatedAssets": "QQQ、META、GOOGL、台灣科技基金",
-      "verification": [
-        {
-          "source": "Bloomberg 彭博社（政治經濟）",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-18/us-canada-barrel-toward-50-tariff-as-trump-deadline-approaches",
-          "publishedAt": "2026-08-18 19:23:34"
-        }
-      ],
-      "status": "當日已驗證來源"
-    },
-    {
       "theme": "總體經濟",
-      "title": "全球債市暴跌 美股期貨下滑",
-      "fact": "財政赤字擴大、通膨憂慮升溫及人工智慧龐大支出推升借貸成本，導致債殖率持續上升。那斯達克期貨應聲下滑，反映市場對利率環境的擔憂。",
+      "title": "石油大廠負債縮減 後續發展待觀",
+      "fact": "除負債減少外，公債殖利率飆升也引發投資人恐慌，進一步衝擊油氣產業前景。",
       "whyItMatters": "觀察利率與景氣預期如何影響評價、美元與風險偏好。",
       "relatedAssets": "QQQ、NVDA、00947 ETF",
-      "verification": [
-        {
-          "source": "WSJ 華爾街日報（財經）",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-18-2026?mod=rss_markets_main",
-          "publishedAt": "2026-08-18 16:10:32"
-        }
-      ],
-      "status": "當日已驗證來源"
-    },
-    {
-      "theme": "市場",
-      "title": "標題：\n以下是今天加密貨幣市場發生的事情",
-      "fact": "需要了解加密貨幣今日發生了什麼事？以下是影響 Bitcoin 價格、區塊鏈、DeFi、Web3 和加密貨幣監管的每日趨勢與事件的最新消息。",
-      "whyItMatters": "觀察風險資產的資金流與評價是否出現連鎖反應。",
-      "relatedAssets": "QQQ、META、GOOGL、00947 ETF",
-      "verification": [
-        {
-          "source": "CoinTelegraph（數位貨幣）",
-          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedAt": "2026-08-18 20:53:39"
-        }
-      ],
-      "status": "當日已驗證來源"
-    },
-    {
-      "theme": "產業",
-      "title": "石油大廠債務縮減 後續動向引關注",
-      "fact": "油價高漲帶動石油業者負債水位下降，惟債券殖率飆升卻讓投資人感到不安。",
-      "whyItMatters": "觀察供需、成本與供應鏈變化對產業獲利的傳導。",
-      "relatedAssets": "台積電、聯電、力積電、華邦電、南亞科",
       "verification": [
         {
           "source": "WSJ 華爾街日報（財經）",
@@ -63,24 +18,39 @@
       "status": "當日已驗證來源"
     },
     {
+      "theme": "市場",
+      "title": "花旗計畫推出機構級客戶比特幣託管服務",
+      "fact": "華爾街銀行計劃透過新推出的Custody+平台，讓客戶在持有傳統資產的同時託管比特幣。",
+      "whyItMatters": "觀察風險資產的資金流與評價是否出現連鎖反應。",
+      "relatedAssets": "QQQ、META、GOOGL、00947 ETF",
+      "verification": [
+        {
+          "source": "CoinDesk（數位貨幣）",
+          "url": "https://www.coindesk.com/markets/2026/08/18/citi-plans-to-launch-bitcoin-custody-for-institutional-clients-later-this-year",
+          "publishedAt": "2026-08-18 21:25:13"
+        }
+      ],
+      "status": "當日已驗證來源"
+    },
+    {
       "theme": "科技",
-      "title": "以太坊升級打破「21,000燃料費」規則 錢包軟體面臨挑戰",
-      "fact": "向新地址轉帳以太幣的成本將高於向既有地址轉帳，導致依賴固定手續費的軟體計算出現偏差。",
+      "title": "科技股重挫 全球債券風暴加劇",
+      "fact": "財政赤字擴大、通膨憂慮升溫及人工智慧龐大支出推升借貸成本，導致科技類股承壓下行，全球債券市場陷入混亂。",
       "whyItMatters": "觀察 AI、雲端與資安支出是否影響大型科技股與半導體需求。",
       "relatedAssets": "NVDA、QQQ、META、GOOGL、台積電",
       "verification": [
         {
-          "source": "CoinDesk（數位貨幣）",
-          "url": "https://www.coindesk.com/tech/2026/08/18/ethereum-s-next-upgrade-breaks-the-21-000-gas-rule-wallets-rely-on",
-          "publishedAt": "2026-08-18 20:17:05"
+          "source": "WSJ 華爾街日報（財經）",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-18-2026?mod=rss_markets_main",
+          "publishedAt": "2026-08-18 16:10:32"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "地緣風險",
-      "title": "伊朗支持的胡塞叛軍威脅紅海運輸走廊",
-      "fact": "反政府武裝勢力近日加強在曼德海峽附近的攻擊行動，並關閉了一處戰略性海港的營運。",
+      "title": "伊朗支持的胡塞武裝威脅紅海航道",
+      "fact": "叛軍最近加強在曼德海峽附近攻擊，並在近日關閉一處戰略性海港的運營。",
       "whyItMatters": "觀察能源、航運、供應鏈與風險偏好是否出現突發性重估。",
       "relatedAssets": "漢翔、台積電、00947 ETF、USDT",
       "verification": [
