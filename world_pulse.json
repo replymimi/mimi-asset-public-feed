@@ -1,78 +1,93 @@
 {
-  "updatedAt": "2026-08-17 18:14:35",
-  "date": "2026-08-17",
+  "updatedAt": "2026-08-18 10:10:01",
+  "date": "2026-08-18",
   "items": [
     {
       "theme": "國際政治",
-      "title": "巴西右翼陣營的新波索納洛",
-      "fact": "現任川普政權在拉丁美洲的最新盟友、前總統波索納洛之子弗拉維奧波索納洛已就任領導職位，而其父親因策劃政變罪名正在服刑27年。此人事更替象徵巴西政治版圖的進一步演變與右翼勢力的持續動員。",
+      "title": "川普稱金正恩回應了對話邀請",
+      "fact": "美國總統川普表示北韓領導人金正恩已回應兩國領導人進行對話的邀請，川普同時推動縮減美韓聯合軍演規模。此舉預示美國與北韓可能展開新一輪外交接觸。",
       "whyItMatters": "觀察政策、制裁或貿易規則是否改變跨境需求與企業成本。",
       "relatedAssets": "QQQ、META、GOOGL、台灣科技基金",
       "verification": [
         {
-          "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/world/americas/brazils-right-has-a-new-bolsonaro-60488a0f?mod=rss_worldnews",
-          "publishedAt": "2026-08-17 05:01:00"
+          "source": "Bloomberg 彭博社（政治經濟）",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-17/trump-says-north-korea-s-kim-jong-un-replied-to-call-for-talks",
+          "publishedAt": "2026-08-18 02:23:40"
+        }
+      ],
+      "status": "當日已驗證來源"
+    },
+    {
+      "theme": "總體經濟",
+      "title": "「蟑螂人民黨」：印度Z世代運動對莫迪政府的挑戰",
+      "fact": "始於社群媒體玩笑的「蟑螂人民黨」正演變成印度政治建制的一大隱憂，吸引對就業前景感到失望與教育系統爭議不滿的年輕人支持。這場非正式運動反映印度青年對現狀的深刻不滿。",
+      "whyItMatters": "觀察利率與景氣預期如何影響評價、美元與風險偏好。",
+      "relatedAssets": "QQQ、NVDA、00947 ETF",
+      "verification": [
+        {
+          "source": "Bloomberg 彭博社（政治經濟）",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-18/cockroach-janta-party-why-india-s-gen-z-movement-is-a-challenge-for-modi",
+          "publishedAt": "2026-08-18 10:04:36"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "市場",
-      "title": "股市今日：科技股有望上漲，油價持穩",
-      "fact": "本週將公布Target、沃爾瑪等零售商的財報，市場關注其營運表現與消費者需求狀況。科技股受惠於積極的市場預期，預料將延續上升走勢。油價則維持相對穩定，暫未見明顯波動跡象。",
+      "title": "標題：\n關於 BitMart 創辦人、Binance bStocks 的「虛構謠言」主導：亞洲快訊",
+      "fact": "Binance 的 bStocks 是在推出僅兩個月後成為第二大代幣化股票發行商，BitMart 的內部糾紛在其關閉前爆發成為焦點",
       "whyItMatters": "觀察風險資產的資金流與評價是否出現連鎖反應。",
       "relatedAssets": "QQQ、META、GOOGL、00947 ETF",
       "verification": [
         {
-          "source": "WSJ 華爾街日報（財經）",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-17-2026?mod=rss_markets_main",
-          "publishedAt": "2026-08-17 16:03:37"
+          "source": "CoinTelegraph（數位貨幣）",
+          "url": "https://cointelegraph.com/magazine/fabricated-rumors-about-bitmart-founder-binance-bstocks-dominate-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedAt": "2026-08-18 09:28:37"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "產業",
-      "title": "標題：\nCoinbase-Circle USDC 合作、FOMC 會議紀要、油價：加密貨幣週展望",
-      "fact": "您對從8月17日開始的一周內將要發生的事情的展望",
+      "title": "歐洲河流乾涸加劇經濟威脅",
+      "fact": "極端高溫和降雨不足導致歐洲大陸水位創歷史新低，威脅農業、能源及運輸產業。這場水資源危機將對歐盟經濟復甦構成嚴峻挑戰。",
       "whyItMatters": "觀察供需、成本與供應鏈變化對產業獲利的傳導。",
       "relatedAssets": "台積電、聯電、力積電、華邦電、南亞科",
       "verification": [
         {
-          "source": "CoinDesk（數位貨幣）",
-          "url": "https://www.coindesk.com/markets/2026/08/17/coinbase-circle-usdc-collaboration-fomc-minutes-oil-price-crypto-week-ahead",
-          "publishedAt": "2026-08-17 17:13:02"
+          "source": "WSJ 華爾街日報（國際政經）",
+          "url": "https://www.wsj.com/world/europe/see-how-europes-rivers-are-drying-up-and-threatening-its-economy-8447228a?mod=rss_worldnews",
+          "publishedAt": "2026-08-18 10:00:00"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "科技",
-      "title": "對立的AI政治委員會在佛州大筆支出爭奪川普州長人選",
-      "fact": "人工智慧產業的政治機構就技術監管問題對立交鋒，在全美初選中激烈爭戰後，如今採取新戰術在佛州進行數百萬美元級別投資。令人矚目的是，先前相互對抗的派系竟聯手支持同一候選人，反映產業政策立場出現微妙調整。",
+      "title": "Kraken母公司Payward加入Anthropic Project Glasswing安全計畫",
+      "fact": "Payward將運用Anthropic的網安模型發掘系統漏洞並分享開源研究成果。此合作展現加密貨幣產業與AI安全領導者的協",
       "whyItMatters": "觀察 AI、雲端與資安支出是否影響大型科技股與半導體需求。",
       "relatedAssets": "NVDA、QQQ、META、GOOGL、台積電",
       "verification": [
         {
-          "source": "Bloomberg 彭博社（政治經濟）",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-17/rival-ai-pacs-spend-big-in-florida-to-sway-trump-s-governor-pick",
-          "publishedAt": "2026-08-17 18:00:00"
+          "source": "CoinDesk（數位貨幣）",
+          "url": "https://www.coindesk.com/tech/2026/08/17/kraken-parent-payward-joins-anthropic-s-project-glasswing-for-ai-security-push",
+          "publishedAt": "2026-08-18 06:12:00"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "地緣風險",
-      "title": "伊朗升級戰爭的秘密計畫",
-      "fact": "根據截獲的通訊紀錄與情報分析，伊朗強硬派領導層計畫採取戰略轉變，提高對美國及其區域盟國的成本。此舉反映中東局勢的進一步複雜化與緊張升級的風險。該情報消息已引起相關方面的高度關注與應對準備。",
+      "title": "華爾街如何察覺Situational Awareness陷入困境",
+      "fact": "從Anthropic股權出售的傳言到異常選擇權交易，交易員捕捉到警訊並迅速行動。市場提前反映了內部人士掌握的消息，顯示華爾街資訊蒐集能力高超。",
       "whyItMatters": "觀察能源、航運、供應鏈與風險偏好是否出現突發性重估。",
       "relatedAssets": "漢翔、台積電、00947 ETF、USDT",
       "verification": [
         {
-          "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/world/middle-east/iran-plan-escalate-war-cc657664?mod=rss_worldnews",
-          "publishedAt": "2026-08-17 09:00:00"
+          "source": "WSJ 華爾街日報（財經）",
+          "url": "https://www.wsj.com/finance/investing/how-wall-street-sussed-out-that-situational-awareness-was-on-the-ropes-6aa8b39d?mod=rss_markets_main",
+          "publishedAt": "2026-08-18 07:24:00"
         }
       ],
       "status": "當日已驗證來源"
