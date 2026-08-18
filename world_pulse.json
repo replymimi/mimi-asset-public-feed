@@ -1,56 +1,41 @@
 {
-  "updatedAt": "2026-08-18 10:10:01",
+  "updatedAt": "2026-08-18 13:55:18",
   "date": "2026-08-18",
   "items": [
     {
       "theme": "國際政治",
-      "title": "川普稱金正恩回應了對話邀請",
-      "fact": "美國總統川普表示北韓領導人金正恩已回應兩國領導人進行對話的邀請，川普同時推動縮減美韓聯合軍演規模。此舉預示美國與北韓可能展開新一輪外交接觸。",
+      "title": "英國街邊飲酒管制激怒民眾 被批「禁樂警察」",
+      "fact": "倫敦某地方議會的提案威脅到英國最受歡迎的夏日活動——在街邊喝醉。此舉引發了公眾對政府監管過度的強烈不滿。",
       "whyItMatters": "觀察政策、制裁或貿易規則是否改變跨境需求與企業成本。",
       "relatedAssets": "QQQ、META、GOOGL、台灣科技基金",
       "verification": [
         {
-          "source": "Bloomberg 彭博社（政治經濟）",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-17/trump-says-north-korea-s-kim-jong-un-replied-to-call-for-talks",
-          "publishedAt": "2026-08-18 02:23:40"
-        }
-      ],
-      "status": "當日已驗證來源"
-    },
-    {
-      "theme": "總體經濟",
-      "title": "「蟑螂人民黨」：印度Z世代運動對莫迪政府的挑戰",
-      "fact": "始於社群媒體玩笑的「蟑螂人民黨」正演變成印度政治建制的一大隱憂，吸引對就業前景感到失望與教育系統爭議不滿的年輕人支持。這場非正式運動反映印度青年對現狀的深刻不滿。",
-      "whyItMatters": "觀察利率與景氣預期如何影響評價、美元與風險偏好。",
-      "relatedAssets": "QQQ、NVDA、00947 ETF",
-      "verification": [
-        {
-          "source": "Bloomberg 彭博社（政治經濟）",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-18/cockroach-janta-party-why-india-s-gen-z-movement-is-a-challenge-for-modi",
-          "publishedAt": "2026-08-18 10:04:36"
+          "source": "WSJ 華爾街日報（國際政經）",
+          "url": "https://www.wsj.com/world/uk/crackdown-on-sidewalk-drinking-pits-british-pubgoers-against-the-fun-police-5206b403?mod=rss_worldnews",
+          "publishedAt": "2026-08-18 11:00:00"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "市場",
-      "title": "標題：\n關於 BitMart 創辦人、Binance bStocks 的「虛構謠言」主導：亞洲快訊",
-      "fact": "Binance 的 bStocks 是在推出僅兩個月後成為第二大代幣化股票發行商，BitMart 的內部糾紛在其關閉前爆發成為焦點",
+      "title": "標題：\n比特幣升至64,000美元上方，而大多數主要加密貨幣下滑",
+      "fact": "礦工在三個季度內削減了五分之一的算力，以便為人工智能騰出空間，在該公司表示其年化收入突破1億美元後，Venice的代幣上漲了10%。",
       "whyItMatters": "觀察風險資產的資金流與評價是否出現連鎖反應。",
       "relatedAssets": "QQQ、META、GOOGL、00947 ETF",
       "verification": [
         {
-          "source": "CoinTelegraph（數位貨幣）",
-          "url": "https://cointelegraph.com/magazine/fabricated-rumors-about-bitmart-founder-binance-bstocks-dominate-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedAt": "2026-08-18 09:28:37"
+          "source": "CoinDesk（數位貨幣）",
+          "url": "https://www.coindesk.com/markets/2026/08/18/bitcoin-climbs-above-usd64-000-while-most-majors-slip",
+          "publishedAt": "2026-08-18 12:32:38"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "產業",
-      "title": "歐洲河流乾涸加劇經濟威脅",
-      "fact": "極端高溫和降雨不足導致歐洲大陸水位創歷史新低，威脅農業、能源及運輸產業。這場水資源危機將對歐盟經濟復甦構成嚴峻挑戰。",
+      "title": "歐洲河流乾涸 經濟前景堪憂",
+      "fact": "歐洲多地因高溫和降雨不足，導致河流水位跌至歷史低點。旱情對農業、能源供應和運輸等多個經濟部門構成嚴重威脅。",
       "whyItMatters": "觀察供需、成本與供應鏈變化對產業獲利的傳導。",
       "relatedAssets": "台積電、聯電、力積電、華邦電、南亞科",
       "verification": [
@@ -63,31 +48,16 @@
       "status": "當日已驗證來源"
     },
     {
-      "theme": "科技",
-      "title": "Kraken母公司Payward加入Anthropic Project Glasswing安全計畫",
-      "fact": "Payward將運用Anthropic的網安模型發掘系統漏洞並分享開源研究成果。此合作展現加密貨幣產業與AI安全領導者的協",
-      "whyItMatters": "觀察 AI、雲端與資安支出是否影響大型科技股與半導體需求。",
-      "relatedAssets": "NVDA、QQQ、META、GOOGL、台積電",
-      "verification": [
-        {
-          "source": "CoinDesk（數位貨幣）",
-          "url": "https://www.coindesk.com/tech/2026/08/17/kraken-parent-payward-joins-anthropic-s-project-glasswing-for-ai-security-push",
-          "publishedAt": "2026-08-18 06:12:00"
-        }
-      ],
-      "status": "當日已驗證來源"
-    },
-    {
       "theme": "地緣風險",
-      "title": "華爾街如何察覺Situational Awareness陷入困境",
-      "fact": "從Anthropic股權出售的傳言到異常選擇權交易，交易員捕捉到警訊並迅速行動。市場提前反映了內部人士掌握的消息，顯示華爾街資訊蒐集能力高超。",
+      "title": "日本同意在澳洲測試超音速飛彈等武器",
+      "fact": "日本將在澳洲測試超音速飛彈及其他軍事武器，凸顯兩國防禦合作的深化。此舉反映了印太地區地緣政治緊張局勢的升溫。",
       "whyItMatters": "觀察能源、航運、供應鏈與風險偏好是否出現突發性重估。",
       "relatedAssets": "漢翔、台積電、00947 ETF、USDT",
       "verification": [
         {
-          "source": "WSJ 華爾街日報（財經）",
-          "url": "https://www.wsj.com/finance/investing/how-wall-street-sussed-out-that-situational-awareness-was-on-the-ropes-6aa8b39d?mod=rss_markets_main",
-          "publishedAt": "2026-08-18 07:24:00"
+          "source": "Bloomberg 彭博社（政治經濟）",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-18/japan-agrees-to-test-hypersonics-other-missiles-in-australia",
+          "publishedAt": "2026-08-18 13:35:49"
         }
       ],
       "status": "當日已驗證來源"
