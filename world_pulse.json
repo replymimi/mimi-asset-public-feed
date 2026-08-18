@@ -1,63 +1,78 @@
 {
-  "updatedAt": "2026-08-18 13:55:18",
+  "updatedAt": "2026-08-18 18:18:01",
   "date": "2026-08-18",
   "items": [
     {
       "theme": "國際政治",
-      "title": "英國街邊飲酒管制激怒民眾 被批「禁樂警察」",
-      "fact": "倫敦某地方議會的提案威脅到英國最受歡迎的夏日活動——在街邊喝醉。此舉引發了公眾對政府監管過度的強烈不滿。",
+      "title": "印尼普拉博沃推行務實政策安撫投資者",
+      "fact": "印尼新任總統普拉博沃改變過往做法，轉向務實政策以穩定市場預期。他試圖通過較為溫和的經濟改革方案，修復先前激進變革對市場造成的",
       "whyItMatters": "觀察政策、制裁或貿易規則是否改變跨境需求與企業成本。",
       "relatedAssets": "QQQ、META、GOOGL、台灣科技基金",
       "verification": [
         {
-          "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/world/uk/crackdown-on-sidewalk-drinking-pits-british-pubgoers-against-the-fun-police-5206b403?mod=rss_worldnews",
-          "publishedAt": "2026-08-18 11:00:00"
+          "source": "Bloomberg 彭博社（政治經濟）",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-08-18/indonesia-s-prabowo-aims-for-boring-to-soothe-worried-investors",
+          "publishedAt": "2026-08-18 17:59:07"
+        }
+      ],
+      "status": "當日已驗證來源"
+    },
+    {
+      "theme": "總體經濟",
+      "title": "汽車保險保費仍有下降空間",
+      "fact": "軟性保險市場環境令通膨監測者感到欣慰，卻對股東利益造成壓力。隨著市場競爭加劇，保費下行趨勢有望持續，但保險公司獲利可能面臨挑戰。保險業者正在尋求通過提升承保品質來維持利潤。",
+      "whyItMatters": "觀察利率與景氣預期如何影響評價、美元與風險偏好。",
+      "relatedAssets": "QQQ、NVDA、00947 ETF",
+      "verification": [
+        {
+          "source": "WSJ 華爾街日報（財經）",
+          "url": "https://www.wsj.com/finance/auto-insurance-premiums-have-room-to-keep-falling-93243754?mod=rss_markets_main",
+          "publishedAt": "2026-08-18 17:30:00"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "市場",
-      "title": "標題：\n比特幣升至64,000美元上方，而大多數主要加密貨幣下滑",
-      "fact": "礦工在三個季度內削減了五分之一的算力，以便為人工智能騰出空間，在該公司表示其年化收入突破1億美元後，Venice的代幣上漲了10%。",
+      "title": "股市今日：全球債券拋售加劇",
+      "fact": "財政赤字擴大、通膨憂慮與龐大AI支出推升借貸成本，全球債券市場面臨嚴峻壓力。各國政府與企業的融資成本大幅上升，反映市場對經濟前景的擔憂加深。此波債券拋售潮已波及全球主要經濟體，成為近期金融市場的關鍵風險。",
       "whyItMatters": "觀察風險資產的資金流與評價是否出現連鎖反應。",
       "relatedAssets": "QQQ、META、GOOGL、00947 ETF",
       "verification": [
         {
-          "source": "CoinDesk（數位貨幣）",
-          "url": "https://www.coindesk.com/markets/2026/08/18/bitcoin-climbs-above-usd64-000-while-most-majors-slip",
-          "publishedAt": "2026-08-18 12:32:38"
+          "source": "WSJ 華爾街日報（財經）",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-18-2026?mod=rss_markets_main",
+          "publishedAt": "2026-08-18 16:10:32"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "產業",
-      "title": "歐洲河流乾涸 經濟前景堪憂",
-      "fact": "歐洲多地因高溫和降雨不足，導致河流水位跌至歷史低點。旱情對農業、能源供應和運輸等多個經濟部門構成嚴重威脅。",
+      "title": "俄羅斯因英國無人機襲擊烏克蘭而威脅英國",
+      "fact": "俄羅斯警告英國將面臨「必須為其後果負責」，此前有報導稱基輔使用英國公司製造的無人機對俄羅斯領土進行襲擊。",
       "whyItMatters": "觀察供需、成本與供應鏈變化對產業獲利的傳導。",
       "relatedAssets": "台積電、聯電、力積電、華邦電、南亞科",
       "verification": [
         {
-          "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/world/europe/see-how-europes-rivers-are-drying-up-and-threatening-its-economy-8447228a?mod=rss_worldnews",
-          "publishedAt": "2026-08-18 10:00:00"
+          "source": "Bloomberg 彭博社（政治經濟）",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-18/russia-threatens-uk-over-ukraine-using-british-drones-in-attacks",
+          "publishedAt": "2026-08-18 15:01:02"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "地緣風險",
-      "title": "日本同意在澳洲測試超音速飛彈等武器",
-      "fact": "日本將在澳洲測試超音速飛彈及其他軍事武器，凸顯兩國防禦合作的深化。此舉反映了印太地區地緣政治緊張局勢的升溫。",
+      "title": "伊朗支持的胡塞武裝威脅紅海航道",
+      "fact": "伊朗背景的胡塞反政府武裝近日加劇在曼德海峽一帶的攻擊行動，並關閉了該戰略要地的港口營運。此舉對全球海上貿易通道造成重大威脅，引發國際社會高度關注。紅海航道作為全球最重要的商業運輸通道之一，其安全問題將持續影響國際貿易。",
       "whyItMatters": "觀察能源、航運、供應鏈與風險偏好是否出現突發性重估。",
       "relatedAssets": "漢翔、台積電、00947 ETF、USDT",
       "verification": [
         {
-          "source": "Bloomberg 彭博社（政治經濟）",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-18/japan-agrees-to-test-hypersonics-other-missiles-in-australia",
-          "publishedAt": "2026-08-18 13:35:49"
+          "source": "WSJ 華爾街日報（國際政經）",
+          "url": "https://www.wsj.com/world/middle-east/iran-backed-houthis-threaten-coast-along-red-sea-chokepoint-01fba4cf?mod=rss_worldnews",
+          "publishedAt": "2026-08-18 11:00:00"
         }
       ],
       "status": "當日已驗證來源"
