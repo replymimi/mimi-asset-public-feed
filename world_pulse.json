@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-08-19 09:53:15",
+  "updatedAt": "2026-08-19 13:57:15",
   "date": "2026-08-19",
   "items": [
     {
       "theme": "國際政治",
-      "title": "川普推動金正恩會晤今年內舉辦",
-      "fact": "川普總統於第一任期間曾嘗試與獨裁者進行核武外交談判。然而自那時以來，北韓的核武計畫規模已大幅擴張，雙方談判難度亦隨之提升。",
+      "title": "川普暫停對部分加拿大產品徵收50%關稅",
+      "fact": "該關稅措施原本將影響加拿大5%的對美出口，並可能引發更廣泛的貿易衝突升級。川普政府此舉暫停實施，以緩和貿易緊張局勢。雙方貿易談判面臨更多變數。",
       "whyItMatters": "觀察政策、制裁或貿易規則是否改變跨境需求與企業成本。",
       "relatedAssets": "QQQ、META、GOOGL、台灣科技基金",
       "verification": [
         {
           "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/world/asia/trump-pushes-for-kim-jong-un-meeting-this-year-2a9f9ae0?mod=rss_worldnews",
-          "publishedAt": "2026-08-19 07:05:00"
+          "url": "https://www.wsj.com/economy/trade/trump-pauses-50-tariff-on-some-canadian-products-2b3fd404?mod=rss_worldnews",
+          "publishedAt": "2026-08-19 11:35:00"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "總體經濟",
-      "title": "債券遭重創，華爾街預警跌勢短期難止",
-      "fact": "美國30年期公債殖利率創19年新高，投資人預期債券市場將迎來新時代，景象酷似2007年金融危機前夕。此波債市拋售潮可能會持續一段時間，投資人面臨資產配置的重大調整壓力。",
+      "title": "債券遭重挫，華爾街預言跌勢恐持續",
+      "fact": "美國30年期公債殖利率創19年高點，投資人預期債市將進入新時代，情景酷似2007年。債市走勢轉向，長期債券投資面臨重大挑戰。此波跌勢可能在短期內難以反轉，預示金融市場面臨結構性轉變。",
       "whyItMatters": "觀察利率與景氣預期如何影響評價、美元與風險偏好。",
       "relatedAssets": "QQQ、NVDA、00947 ETF",
       "verification": [
@@ -34,8 +34,8 @@
     },
     {
       "theme": "市場",
-      "title": "華爾街預期全球債券拋售無終結之日",
-      "fact": "全球債券市場陷入困境，華爾街認為這波跌勢短期內難見底。此外，賓州限制資料中心建設，美國廣播公司對聯邦通訊委員會提起訴訟。",
+      "title": "華爾街認為全球債券拋售無止盡",
+      "fact": "美國債市持續走弱之際，賓州限制資料中心建設，美國廣播公司並對聯邦通訊委員會提起訴訟。多項政策變化同時衝擊市場，投資人面臨複雜的交易環境。",
       "whyItMatters": "觀察風險資產的資金流與評價是否出現連鎖反應。",
       "relatedAssets": "QQQ、META、GOOGL、00947 ETF",
       "verification": [
@@ -48,31 +48,31 @@
       "status": "當日已驗證來源"
     },
     {
-      "theme": "科技",
-      "title": "標題：\nFalconX、Interstice 連接 Canton 到 Ethereum、Solana 和 Robinhood Chain",
-      "fact": "該非託管跨鏈交換引擎將 Canton 的機構代幣化資產市場與主要公共區塊鏈上的流動性和交易活動連接起來。",
-      "whyItMatters": "觀察 AI、雲端與資安支出是否影響大型科技股與半導體需求。",
-      "relatedAssets": "NVDA、QQQ、META、GOOGL、台積電",
+      "theme": "產業",
+      "title": "加拿大禁酒令成為貿易談判的痛點",
+      "fact": "加州梅洛紅酒、肯塔基波本威士忌及田納西威士忌從加拿大架上消失，引發美國政界強烈不滿。美國酒類製造商及相關產業聲浪高漲。該爭議已成為兩國貿易談判的棘手議題。",
+      "whyItMatters": "觀察供需、成本與供應鏈變化對產業獲利的傳導。",
+      "relatedAssets": "台積電、聯電、力積電、華邦電、南亞科",
       "verification": [
         {
-          "source": "CoinTelegraph（數位貨幣）",
-          "url": "https://cointelegraph.com/news/interstice-falconx-cross-chain-swap-engine-canton-solana-ethereum-robinhood-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedAt": "2026-08-19 04:45:48"
+          "source": "WSJ 華爾街日報（國際政經）",
+          "url": "https://www.wsj.com/world/americas/why-canadas-booze-ban-is-such-a-sore-point-in-trade-talks-c6677014?mod=rss_worldnews",
+          "publishedAt": "2026-08-19 11:18:00"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "地緣風險",
-      "title": "伊朗在荷莫茲海峽攻擊船舶頻率增加，考驗美軍克制",
-      "fact": "川普政府採取經濟施壓策略，對荷莫茲海峽的挑釁行為採取迴避態度，海峽通行量大幅萎縮。這波攻擊行動不斷升級，考驗著美國軍方的戰略耐心與回應政策。",
+      "title": "馬來西亞對美支持菲律賓軍事基地表示關切",
+      "fact": "馬來西亞總理安瓦爾·易卜拉欣承諾強化國",
       "whyItMatters": "觀察能源、航運、供應鏈與風險偏好是否出現突發性重估。",
       "relatedAssets": "漢翔、台積電、00947 ETF、USDT",
       "verification": [
         {
-          "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/world/middle-east/irans-attacks-on-ships-in-hormuz-pile-up-testing-u-s-military-restraint-6ff9f5dd?mod=rss_worldnews",
-          "publishedAt": "2026-08-19 05:01:00"
+          "source": "Bloomberg 彭博社（政治經濟）",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-19/malaysia-raises-concerns-over-us-backed-philippine-military-base",
+          "publishedAt": "2026-08-19 12:34:53"
         }
       ],
       "status": "當日已驗證來源"
