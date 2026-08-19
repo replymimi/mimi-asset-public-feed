@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-08-19 13:57:15",
+  "updatedAt": "2026-08-19 18:19:09",
   "date": "2026-08-19",
   "items": [
     {
       "theme": "國際政治",
-      "title": "川普暫停對部分加拿大產品徵收50%關稅",
-      "fact": "該關稅措施原本將影響加拿大5%的對美出口，並可能引發更廣泛的貿易衝突升級。川普政府此舉暫停實施，以緩和貿易緊張局勢。雙方貿易談判面臨更多變數。",
+      "title": "川普暫停對部分加拿大產品課50%關稅",
+      "fact": "該關稅原定影響加拿大對美出口的5%，可能引發更廣泛的貿易衝突升級。川普政府的暫停決定暫時緩解了兩國間的貿易緊張局勢。此舉為後續談判留下協商空間，但兩國的貿易爭端仍未根本解決。",
       "whyItMatters": "觀察政策、制裁或貿易規則是否改變跨境需求與企業成本。",
       "relatedAssets": "QQQ、META、GOOGL、台灣科技基金",
       "verification": [
@@ -19,8 +19,8 @@
     },
     {
       "theme": "總體經濟",
-      "title": "債券遭重挫，華爾街預言跌勢恐持續",
-      "fact": "美國30年期公債殖利率創19年高點，投資人預期債市將進入新時代，情景酷似2007年。債市走勢轉向，長期債券投資面臨重大挑戰。此波跌勢可能在短期內難以反轉，預示金融市場面臨結構性轉變。",
+      "title": "債券遭重挫，華爾街預言跌勢短期難止",
+      "fact": "美國30年期公債殖利率創19年新高，投資人預期債券市場將進入新的時代。目前的市場環境與2007年金融危機前夕的情況相似，顯示市場可能面臨更深層次的調整風險。殖利率上升反映出通膨預期升溫與央行政策轉向，對債券市場造成持續的向下壓力。",
       "whyItMatters": "觀察利率與景氣預期如何影響評價、美元與風險偏好。",
       "relatedAssets": "QQQ、NVDA、00947 ETF",
       "verification": [
@@ -34,45 +34,30 @@
     },
     {
       "theme": "市場",
-      "title": "華爾街認為全球債券拋售無止盡",
-      "fact": "美國債市持續走弱之際，賓州限制資料中心建設，美國廣播公司並對聯邦通訊委員會提起訴訟。多項政策變化同時衝擊市場，投資人面臨複雜的交易環境。",
+      "title": "華爾街認為債券重挫才剛開始",
+      "fact": "除債市困境外，大型食品企業正力圖吸引食慾不振的GLP-1藥物使用者；同時LinkedIn平台意外成為約會網站。市場分析師普遍看空債市前景，並預估短期內跌勢將持續惡化。各界關注美國消費市場與金融市場的相互影響。",
       "whyItMatters": "觀察風險資產的資金流與評價是否出現連鎖反應。",
       "relatedAssets": "QQQ、META、GOOGL、00947 ETF",
       "verification": [
         {
-          "source": "WSJ 華爾街日報（財經）",
-          "url": "https://www.wsj.com/finance/investing/wall-street-sees-no-end-in-sight-to-the-global-bond-selloff-a1b5d1e3?mod=rss_markets_main",
-          "publishedAt": "2026-08-19 05:22:00"
-        }
-      ],
-      "status": "當日已驗證來源"
-    },
-    {
-      "theme": "產業",
-      "title": "加拿大禁酒令成為貿易談判的痛點",
-      "fact": "加州梅洛紅酒、肯塔基波本威士忌及田納西威士忌從加拿大架上消失，引發美國政界強烈不滿。美國酒類製造商及相關產業聲浪高漲。該爭議已成為兩國貿易談判的棘手議題。",
-      "whyItMatters": "觀察供需、成本與供應鏈變化對產業獲利的傳導。",
-      "relatedAssets": "台積電、聯電、力積電、華邦電、南亞科",
-      "verification": [
-        {
           "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/world/americas/why-canadas-booze-ban-is-such-a-sore-point-in-trade-talks-c6677014?mod=rss_worldnews",
-          "publishedAt": "2026-08-19 11:18:00"
+          "url": "https://www.wsj.com/world/why-wall-street-thinks-the-brutal-bond-rout-is-just-getting-started-c84e9131?mod=rss_worldnews",
+          "publishedAt": "2026-08-19 18:04:00"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
-      "theme": "地緣風險",
-      "title": "馬來西亞對美支持菲律賓軍事基地表示關切",
-      "fact": "馬來西亞總理安瓦爾·易卜拉欣承諾強化國",
-      "whyItMatters": "觀察能源、航運、供應鏈與風險偏好是否出現突發性重估。",
-      "relatedAssets": "漢翔、台積電、00947 ETF、USDT",
+      "theme": "科技",
+      "title": "股市今日：全球債券在拋售後趨於穩定",
+      "fact": "中國仿人機器人製造商在首次公開募股時大幅上漲，顯示市場對人工智慧相關產業的強勁需求。該公司的成功上市標誌著中國科技產業在國際資本市場的重要里程碑。此次IPO表現反映投資人對未來機器人技術商業應用前景的樂觀態度。",
+      "whyItMatters": "觀察 AI、雲端與資安支出是否影響大型科技股與半導體需求。",
+      "relatedAssets": "NVDA、QQQ、META、GOOGL、台積電",
       "verification": [
         {
-          "source": "Bloomberg 彭博社（政治經濟）",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-19/malaysia-raises-concerns-over-us-backed-philippine-military-base",
-          "publishedAt": "2026-08-19 12:34:53"
+          "source": "WSJ 華爾街日報（財經）",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-19-2026?mod=rss_markets_main",
+          "publishedAt": "2026-08-19 16:10:01"
         }
       ],
       "status": "當日已驗證來源"
