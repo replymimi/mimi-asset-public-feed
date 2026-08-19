@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-08-18 21:49:50",
+  "updatedAt": "2026-08-19 09:53:15",
   "items": [
     {
-      "title": "石油大廠負債縮減 後續發展待觀",
-      "fact": "除負債減少外，公債殖利率飆升也引發投資人恐慌，進一步衝擊油氣產業前景。",
+      "title": "債券遭重創，華爾街預警跌勢短期難止",
+      "fact": "美國30年期公債殖利率創19年新高，投資人預期債券市場將迎來新時代，景象酷似2007年金融危機前夕。此波債市拋售潮可能會持續一段時間，投資人面臨資產配置的重大調整壓力。",
       "importance": "影響：利率",
       "verification": [
         {
           "source": "WSJ 華爾街日報（財經）",
-          "url": "https://www.wsj.com/finance/stocks/big-oils-liabilities-are-shrinking-whats-next-c2242dbf?mod=rss_markets_main",
-          "publishedAt": "2026-08-18 18:28:00"
+          "url": "https://www.wsj.com/finance/investing/bonds-are-getting-hammered-and-wall-street-says-the-rout-wont-end-anytime-soon-895e0ad8?mod=rss_markets_main",
+          "publishedAt": "2026-08-19 04:45:00"
         }
       ],
       "status": "市場事實（單一可追溯來源）",

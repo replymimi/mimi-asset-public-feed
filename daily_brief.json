@@ -1,154 +1,169 @@
 {
-  "updatedAt": "2026-08-18 21:49:50",
+  "updatedAt": "2026-08-19 09:53:15",
   "news": [
     {
       "type": "news",
-      "title": "科技股重挫 全球債券風暴加劇",
+      "title": "股市新聞，2026年8月18日：科技股下滑，全球債券拋售加劇",
       "source": "WSJ 華爾街日報（財經） · 08/18 16:10",
-      "summary": "📰 科技股重挫 全球債券風暴加劇WSJ 華爾街日報（財經） · 08/18 16:10財政赤字擴大、通膨憂慮升溫及人工智慧龐大支出推升借貸成本，導致科技類股承壓下行，全球債券市場陷入混亂。"
+      "summary": "📰 股市新聞，2026年8月18日：科技股下滑，全球債券拋售加劇WSJ 華爾街日報（財經） · 08/18 16:10財政赤字擴大、通膨憂慮以及龐大的人工智慧支出推高借貸成本。美債殖利率持續上升，投資人擔憂這波債券市場動盪短期難見緩解跡象，恐將重現2007年金融危機前的市場亂象。"
     },
     {
       "type": "news",
-      "title": "石油大廠負債縮減 後續發展待觀",
-      "source": "WSJ 華爾街日報（財經） · 08/18 18:28",
-      "summary": "📰 石油大廠負債縮減 後續發展待觀WSJ 華爾街日報（財經） · 08/18 18:28除負債減少外，公債殖利率飆升也引發投資人恐慌，進一步衝擊油氣產業前景。"
+      "title": "華爾街預期全球債券拋售無終結之日",
+      "source": "WSJ 華爾街日報（財經） · 08/19 05:22",
+      "summary": "📰 華爾街預期全球債券拋售無終結之日WSJ 華爾街日報（財經） · 08/19 05:22全球債券市場陷入困境，華爾街認為這波跌勢短期內難見底。此外，賓州限制資料中心建設，美國廣播公司對聯邦通訊委員會提起訴訟。"
     },
     {
       "type": "news",
-      "title": "車險保費仍有下降空間",
-      "source": "WSJ 華爾街日報（財經） · 08/18 17:30",
-      "summary": "📰 車險保費仍有下降空間WSJ 華爾街日報（財經） · 08/18 17:30軟性保險市場環境雖有利於通膨觀察人士，卻對股東獲利造成壓力，保費仍存進一步調降可能。"
+      "title": "債券遭重創，華爾街預警跌勢短期難止",
+      "source": "WSJ 華爾街日報（財經） · 08/19 04:45",
+      "summary": "📰 債券遭重創，華爾街預警跌勢短期難止WSJ 華爾街日報（財經） · 08/19 04:45美國30年期公債殖利率創19年新高，投資人預期債券市場將迎來新時代，景象酷似2007年金融危機前夕。此波債市拋售潮可能會持續一段時間，投資人面臨資產配置的重大調整壓力。"
     },
     {
       "type": "news",
-      "title": "英國禁止路邊飲酒引發爭議 民眾批評「冷酷警察」",
-      "source": "WSJ 華爾街日報（國際政經） · 08/18 11:00",
-      "summary": "📰 英國禁止路邊飲酒引發爭議 民眾批評「冷酷警察」WSJ 華爾街日報（國際政經） · 08/18 11:00倫敦市議會的提案威脅英國人夏日傳統樂趣，恐禁止民眾在街邊站著喝酒的消遣活動。"
+      "title": "川普推動金正恩會晤今年內舉辦",
+      "source": "WSJ 華爾街日報（國際政經） · 08/19 07:05",
+      "summary": "📰 川普推動金正恩會晤今年內舉辦WSJ 華爾街日報（國際政經） · 08/19 07:05川普總統於第一任期間曾嘗試與獨裁者進行核武外交談判。然而自那時以來，北韓的核武計畫規模已大幅擴張，雙方談判難度亦隨之提升。"
     },
     {
       "type": "news",
-      "title": "伊朗支持的胡塞武裝威脅紅海航道",
-      "source": "WSJ 華爾街日報（國際政經） · 08/18 11:00",
-      "summary": "📰 伊朗支持的胡塞武裝威脅紅海航道WSJ 華爾街日報（國際政經） · 08/18 11:00叛軍最近加強在曼德海峽附近攻擊，並在近日關閉一處戰略性海港的運營。"
+      "title": "加拿大禁酒令成為貿易談判痛點",
+      "source": "WSJ 華爾街日報（國際政經） · 08/19 05:39",
+      "summary": "📰 加拿大禁酒令成為貿易談判痛點WSJ 華爾街日報（國際政經） · 08/19 05:39美國政界人士表示不滿，加州梅洛葡萄酒、肯塔基波本威士忌與田納西威士忌相繼從加拿大貨架上消失。此舉引發美加貿易緊張局勢，成為雙邊談判中的重要議題。"
     },
     {
       "type": "news",
-      "title": "歐洲河流乾涸加劇 威脅經濟前景",
-      "source": "WSJ 華爾街日報（國際政經） · 08/18 10:00",
-      "summary": "📰 歐洲河流乾涸加劇 威脅經濟前景WSJ 華爾街日報（國際政經） · 08/18 10:00極端高溫與降雨稀少導致歐洲各地水位創歷史新低，對經濟構成嚴峻挑戰。"
+      "title": "伊朗在荷莫茲海峽攻擊船舶頻率增加，考驗美軍克制",
+      "source": "WSJ 華爾街日報（國際政經） · 08/19 05:01",
+      "summary": "📰 伊朗在荷莫茲海峽攻擊船舶頻率增加，考驗美軍克制WSJ 華爾街日報（國際政經） · 08/19 05:01川普政府採取經濟施壓策略，對荷莫茲海峽的挑釁行為採取迴避態度，海峽通行量大幅萎縮。這波攻擊行動不斷升級，考驗著美國軍方的戰略耐心與回應政策。"
     },
     {
       "type": "news",
-      "title": "川普對伊朗強硬表態 荷莫茲海峽僵局膠著",
-      "source": "Bloomberg 彭博社（政治經濟） · 08/18 15:27",
-      "summary": "📰 川普對伊朗強硬表態 荷莫茲海峽僵局膠著Bloomberg 彭博社（政治經濟） · 08/18 15:27美國總統川普週二堅稱未與伊朗進行任何談判，導致中東局勢與荷莫茲海峽控制權陷入膠著狀態。"
+      "title": "南韓宣布與美聯合軍演將縮減規模",
+      "source": "Bloomberg 彭博社（政治經濟） · 08/19 09:16",
+      "summary": "📰 南韓宣布與美聯合軍演將縮減規模Bloomberg 彭博社（政治經濟） · 08/19 09:16美國與南韓同意在川普總統下令削減軍演規模後，縮小聯合軍事演習的規模。川普以其與平壤的良好關係作為理由，尋求降低朝鮮半島的軍事緊張局勢。"
     },
     {
       "type": "news",
-      "title": "英國首相柏納罕否認尷尬 坦言與川普幕僚冒充者通訊",
-      "source": "Bloomberg 彭博社（政治經濟） · 08/18 20:47",
-      "summary": "📰 英國首相柏納罕否認尷尬 坦言與川普幕僚冒充者通訊Bloomberg 彭博社（政治經濟） · 08/18 20:47英國首相柏納罕表示與冒充川普幕僚長者交換訊息並不感到尷尬，堅持自己「所做一切都正確無誤」。"
+      "title": "川普支持的唐納茲在佛州州長初選大勝",
+      "source": "Bloomberg 彭博社（政治經濟） · 08/19 08:00",
+      "summary": "📰 川普支持的唐納茲在佛州州長初選大勝Bloomberg 彭博社（政治經濟） · 08/19 08:00聯邦眾議員拜倫·唐納茲在佛州共和黨州長初選中輕鬆勝出，獲得川普總統的早期支持後，順利擊敗所有對手。這次勝利凸顯了川普在共和黨內部的持續影響力。"
     },
     {
       "type": "news",
-      "title": "史丹佛大學面臨司法部加強審查 涉及外國捐款",
-      "source": "Bloomberg 彭博社（政治經濟） · 08/18 05:54",
-      "summary": "📰 史丹佛大學面臨司法部加強審查 涉及外國捐款Bloomberg 彭博社（政治經濟） · 08/18 05:54史丹佛大學正面臨美國司法部加強審查，涉及外國捐款來源及其國際學生與招生實務做法。"
+      "title": "進步派人士尼克松在佛州參議院初選中擊敗文德曼",
+      "source": "Bloomberg 彭博社（政治經濟） · 08/19 08:23",
+      "summary": "📰 進步派人士尼克松在佛州參議院初選中擊敗文德曼Bloomberg 彭博社（政治經濟） · 08/19 08:23民主社會主義者安吉·尼克松為工會組織者及佛州州議員，在州民主黨美國參議院初選中爆冷勝出。她擊敗前白宮官員文德曼，後者因川普第一次遭彈劾事件而成為全國知名人物。"
     },
     {
       "type": "news",
-      "title": "花旗計畫推出機構級客戶比特幣託管服務",
-      "source": "CoinDesk（數位貨幣） · 08/18 21:25",
-      "summary": "📰 花旗計畫推出機構級客戶比特幣託管服務CoinDesk（數位貨幣） · 08/18 21:25華爾街銀行計劃透過新推出的Custody+平台，讓客戶在持有傳統資產的同時託管比特幣。"
+      "title": "標題：\n「必須通過」：Andrew Cuomo 警告美國在加密貨幣規則方面落後",
+      "source": "CoinDesk（數位貨幣） · 08/19 09:35",
+      "summary": "📰 標題：\n「必須通過」：Andrew Cuomo 警告美國在加密貨幣規則方面落後CoinDesk（數位貨幣） · 08/19 09:35前紐約州州長安德魯·庫莫表示，CLARITY Act 是連接加密貨幣和傳統市場的關鍵。"
     },
     {
       "type": "news",
-      "title": "加密貨幣「寬鬆時代」結束 迎來一波失敗潮",
-      "source": "CoinDesk（數位貨幣） · 08/18 21:22",
-      "summary": "📰 加密貨幣「寬鬆時代」結束 迎來一波失敗潮CoinDesk（數位貨幣） · 08/18 21:22全球結算網路執行長柯克利表示，高估的估值與薄弱的商業模式正推動加密產業整頓。"
+      "title": "標題：\nRobinhood 首席執行官敦促美國為代幣化股票開放道路，因海外市場領先",
+      "source": "CoinDesk（數位貨幣） · 08/19 07:11",
+      "summary": "📰 標題：\nRobinhood 首席執行官敦促美國為代幣化股票開放道路，因海外市場領先CoinDesk（數位貨幣） · 08/19 07:11Vlad Tenev 表示，代幣化股票可能帶來實時結算和全天候交易，但美國的監管規則仍然是一個障礙。"
     },
     {
       "type": "news",
-      "title": "Cash App加密貨幣支援擴展 透過MoonPay納入更多資產",
-      "source": "CoinDesk（數位貨幣） · 08/18 21:00",
-      "summary": "📰 Cash App加密貨幣支援擴展 透過MoonPay納入更多資產CoinDesk（數位貨幣） · 08/18 21:00符合條件的Cash App用戶將可使用帳戶餘額購買MoonPay提供的數位資產，包括以太坊、索拉納及穩定幣USDT。"
+      "title": "標題：\n美國會計準則委員會提議將穩定幣視為「現金等價物」的方式",
+      "source": "CoinDesk（數位貨幣） · 08/19 05:25",
+      "summary": "📰 標題：\n美國會計準則委員會提議將穩定幣視為「現金等價物」的方式CoinDesk（數位貨幣） · 08/19 05:25財務會計準則委員會是一個管理會計實踐的非營利組織，該委員會提議某些穩定幣應該符合類現金的條件。"
     },
     {
       "type": "news",
-      "title": "豐田金融推代幣化債券 零售投資人可透過行動支付應用購買",
-      "source": "CoinTelegraph（數位貨幣） · 08/18 21:41",
-      "summary": "📰 豐田金融推代幣化債券 零售投資人可透過行動支付應用購買CoinTelegraph（數位貨幣） · 08/18 21:41零售投資人可無需證券帳戶申購10億日圓債券，並透過豐田支付應用獲得相關優惠。"
+      "title": "標題：\n美國證券交易委員會在《CLARITY Act》缺席的情況下提出新的加密貨幣規則",
+      "source": "CoinTelegraph（數位貨幣） · 08/19 05:24",
+      "summary": "📰 標題：\n美國證券交易委員會在《CLARITY Act》缺席的情況下提出新的加密貨幣規則CoinTelegraph（數位貨幣） · 08/19 05:24美國證券監管機構提出的規則將為公司提供安全港，使代幣不被視為「投資合約」，並對代幣發行提供某些豁免。"
     },
     {
       "type": "news",
-      "title": "標題：\nMoonPay 添加 Cash App Pay 供美國客戶購買加密貨幣",
-      "source": "CoinTelegraph（數位貨幣） · 08/18 21:00",
-      "summary": "📰 標題：\nMoonPay 添加 Cash App Pay 供美國客戶購買加密貨幣CoinTelegraph（數位貨幣） · 08/18 21:00符合條件的美國用戶現在可以使用 Cash App 餘額來為 MoonPay 加密貨幣購買提供資金，因為這家支付公司正在擴展其核心入場業務之外的範圍。"
+      "title": "標題：\nFalconX、Interstice 連接 Canton 到 Ethereum、Solana 和 Robinhood Chain",
+      "source": "CoinTelegraph（數位貨幣） · 08/19 04:45",
+      "summary": "📰 標題：\nFalconX、Interstice 連接 Canton 到 Ethereum、Solana 和 Robinhood ChainCoinTelegraph（數位貨幣） · 08/19 04:45該非託管跨鏈交換引擎將 Canton 的機構代幣化資產市場與主要公共區塊鏈上的流動性和交易活動連接起來。"
     },
     {
       "type": "news",
-      "title": "標題：\n以下是加密貨幣今日發生的事件",
-      "source": "CoinTelegraph（數位貨幣） · 08/18 20:53",
-      "summary": "📰 標題：\n以下是加密貨幣今日發生的事件CoinTelegraph（數位貨幣） · 08/18 20:53想知道今天加密貨幣發生了什麼事？以下是關於日常趨勢和影響 Bitcoin 價格、blockchain、DeFi、Web3 和加密貨幣監管的最新新聞。"
+      "title": "標題：\n以下是今天加密貨幣發生的事情",
+      "source": "CoinTelegraph（數位貨幣） · 08/19 04:21",
+      "summary": "📰 標題：\n以下是今天加密貨幣發生的事情CoinTelegraph（數位貨幣） · 08/19 04:21想了解今天加密貨幣發生了什麼事？以下是關於影響比特幣價格、區塊鏈、DeFi、Web3 和加密貨幣監管的日常趨勢和事件的最新新聞。"
     }
   ],
   "worldPulse": [
     {
+      "theme": "國際政治",
+      "title": "川普推動金正恩會晤今年內舉辦",
+      "fact": "川普總統於第一任期間曾嘗試與獨裁者進行核武外交談判。然而自那時以來，北韓的核武計畫規模已大幅擴張，雙方談判難度亦隨之提升。",
+      "whyItMatters": "觀察政策、制裁或貿易規則是否改變跨境需求與企業成本。",
+      "relatedAssets": "QQQ、META、GOOGL、台灣科技基金",
+      "verification": [
+        {
+          "source": "WSJ 華爾街日報（國際政經）",
+          "url": "https://www.wsj.com/world/asia/trump-pushes-for-kim-jong-un-meeting-this-year-2a9f9ae0?mod=rss_worldnews",
+          "publishedAt": "2026-08-19 07:05:00"
+        }
+      ],
+      "status": "當日已驗證來源"
+    },
+    {
       "theme": "總體經濟",
-      "title": "石油大廠負債縮減 後續發展待觀",
-      "fact": "除負債減少外，公債殖利率飆升也引發投資人恐慌，進一步衝擊油氣產業前景。",
+      "title": "債券遭重創，華爾街預警跌勢短期難止",
+      "fact": "美國30年期公債殖利率創19年新高，投資人預期債券市場將迎來新時代，景象酷似2007年金融危機前夕。此波債市拋售潮可能會持續一段時間，投資人面臨資產配置的重大調整壓力。",
       "whyItMatters": "觀察利率與景氣預期如何影響評價、美元與風險偏好。",
       "relatedAssets": "QQQ、NVDA、00947 ETF",
       "verification": [
         {
           "source": "WSJ 華爾街日報（財經）",
-          "url": "https://www.wsj.com/finance/stocks/big-oils-liabilities-are-shrinking-whats-next-c2242dbf?mod=rss_markets_main",
-          "publishedAt": "2026-08-18 18:28:00"
+          "url": "https://www.wsj.com/finance/investing/bonds-are-getting-hammered-and-wall-street-says-the-rout-wont-end-anytime-soon-895e0ad8?mod=rss_markets_main",
+          "publishedAt": "2026-08-19 04:45:00"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "市場",
-      "title": "花旗計畫推出機構級客戶比特幣託管服務",
-      "fact": "華爾街銀行計劃透過新推出的Custody+平台，讓客戶在持有傳統資產的同時託管比特幣。",
+      "title": "華爾街預期全球債券拋售無終結之日",
+      "fact": "全球債券市場陷入困境，華爾街認為這波跌勢短期內難見底。此外，賓州限制資料中心建設，美國廣播公司對聯邦通訊委員會提起訴訟。",
       "whyItMatters": "觀察風險資產的資金流與評價是否出現連鎖反應。",
       "relatedAssets": "QQQ、META、GOOGL、00947 ETF",
       "verification": [
         {
-          "source": "CoinDesk（數位貨幣）",
-          "url": "https://www.coindesk.com/markets/2026/08/18/citi-plans-to-launch-bitcoin-custody-for-institutional-clients-later-this-year",
-          "publishedAt": "2026-08-18 21:25:13"
+          "source": "WSJ 華爾街日報（財經）",
+          "url": "https://www.wsj.com/finance/investing/wall-street-sees-no-end-in-sight-to-the-global-bond-selloff-a1b5d1e3?mod=rss_markets_main",
+          "publishedAt": "2026-08-19 05:22:00"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "科技",
-      "title": "科技股重挫 全球債券風暴加劇",
-      "fact": "財政赤字擴大、通膨憂慮升溫及人工智慧龐大支出推升借貸成本，導致科技類股承壓下行，全球債券市場陷入混亂。",
+      "title": "標題：\nFalconX、Interstice 連接 Canton 到 Ethereum、Solana 和 Robinhood Chain",
+      "fact": "該非託管跨鏈交換引擎將 Canton 的機構代幣化資產市場與主要公共區塊鏈上的流動性和交易活動連接起來。",
       "whyItMatters": "觀察 AI、雲端與資安支出是否影響大型科技股與半導體需求。",
       "relatedAssets": "NVDA、QQQ、META、GOOGL、台積電",
       "verification": [
         {
-          "source": "WSJ 華爾街日報（財經）",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-18-2026?mod=rss_markets_main",
-          "publishedAt": "2026-08-18 16:10:32"
+          "source": "CoinTelegraph（數位貨幣）",
+          "url": "https://cointelegraph.com/news/interstice-falconx-cross-chain-swap-engine-canton-solana-ethereum-robinhood-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedAt": "2026-08-19 04:45:48"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "地緣風險",
-      "title": "伊朗支持的胡塞武裝威脅紅海航道",
-      "fact": "叛軍最近加強在曼德海峽附近攻擊，並在近日關閉一處戰略性海港的運營。",
+      "title": "伊朗在荷莫茲海峽攻擊船舶頻率增加，考驗美軍克制",
+      "fact": "川普政府採取經濟施壓策略，對荷莫茲海峽的挑釁行為採取迴避態度，海峽通行量大幅萎縮。這波攻擊行動不斷升級，考驗著美國軍方的戰略耐心與回應政策。",
       "whyItMatters": "觀察能源、航運、供應鏈與風險偏好是否出現突發性重估。",
       "relatedAssets": "漢翔、台積電、00947 ETF、USDT",
       "verification": [
         {
           "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/world/middle-east/iran-backed-houthis-threaten-coast-along-red-sea-chokepoint-01fba4cf?mod=rss_worldnews",
-          "publishedAt": "2026-08-18 11:00:00"
+          "url": "https://www.wsj.com/world/middle-east/irans-attacks-on-ships-in-hormuz-pile-up-testing-u-s-military-restraint-6ff9f5dd?mod=rss_worldnews",
+          "publishedAt": "2026-08-19 05:01:00"
         }
       ],
       "status": "當日已驗證來源"
