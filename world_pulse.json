@@ -1,63 +1,63 @@
 {
-  "updatedAt": "2026-08-19 18:19:09",
-  "date": "2026-08-19",
+  "updatedAt": "2026-08-20 09:40:08",
+  "date": "2026-08-20",
   "items": [
     {
       "theme": "國際政治",
-      "title": "川普暫停對部分加拿大產品課50%關稅",
-      "fact": "該關稅原定影響加拿大對美出口的5%，可能引發更廣泛的貿易衝突升級。川普政府的暫停決定暫時緩解了兩國間的貿易緊張局勢。此舉為後續談判留下協商空間，但兩國的貿易爭端仍未根本解決。",
+      "title": "南韓李在明讚譚川普推動半島和平的「決心」",
+      "fact": "南韓總統李在明讚揚川普推動與北韓恢復對話的努力，儘管平壤否認兩國領導人有任何高層溝通，並反對美國縮減與南韓聯合演習。",
       "whyItMatters": "觀察政策、制裁或貿易規則是否改變跨境需求與企業成本。",
       "relatedAssets": "QQQ、META、GOOGL、台灣科技基金",
       "verification": [
         {
-          "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/economy/trade/trump-pauses-50-tariff-on-some-canadian-products-2b3fd404?mod=rss_worldnews",
-          "publishedAt": "2026-08-19 11:35:00"
-        }
-      ],
-      "status": "當日已驗證來源"
-    },
-    {
-      "theme": "總體經濟",
-      "title": "債券遭重挫，華爾街預言跌勢短期難止",
-      "fact": "美國30年期公債殖利率創19年新高，投資人預期債券市場將進入新的時代。目前的市場環境與2007年金融危機前夕的情況相似，顯示市場可能面臨更深層次的調整風險。殖利率上升反映出通膨預期升溫與央行政策轉向，對債券市場造成持續的向下壓力。",
-      "whyItMatters": "觀察利率與景氣預期如何影響評價、美元與風險偏好。",
-      "relatedAssets": "QQQ、NVDA、00947 ETF",
-      "verification": [
-        {
-          "source": "WSJ 華爾街日報（財經）",
-          "url": "https://www.wsj.com/finance/investing/bonds-are-getting-hammered-and-wall-street-says-the-rout-wont-end-anytime-soon-895e0ad8?mod=rss_markets_main",
-          "publishedAt": "2026-08-19 04:45:00"
+          "source": "Bloomberg 彭博社（政治經濟）",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-20/korea-s-lee-hails-trump-s-determination-for-peninsula-peace",
+          "publishedAt": "2026-08-20 08:30:04"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "市場",
-      "title": "華爾街認為債券重挫才剛開始",
-      "fact": "除債市困境外，大型食品企業正力圖吸引食慾不振的GLP-1藥物使用者；同時LinkedIn平台意外成為約會網站。市場分析師普遍看空債市前景，並預估短期內跌勢將持續惡化。各界關注美國消費市場與金融市場的相互影響。",
+      "title": "比特幣短暫突破7萬美元創6月來新高，原因在此",
+      "fact": "全球最大加密資產周三漲逾7%，受多項催化劑推動，加密資產普遍上漲。",
       "whyItMatters": "觀察風險資產的資金流與評價是否出現連鎖反應。",
       "relatedAssets": "QQQ、META、GOOGL、00947 ETF",
       "verification": [
         {
-          "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/world/why-wall-street-thinks-the-brutal-bond-rout-is-just-getting-started-c84e9131?mod=rss_worldnews",
-          "publishedAt": "2026-08-19 18:04:00"
+          "source": "CoinDesk（數位貨幣）",
+          "url": "https://www.coindesk.com/markets/2026/08/19/bitcoin-briefly-hits-usd70-000-for-the-first-time-since-june-here-is-why",
+          "publishedAt": "2026-08-20 06:26:01"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "科技",
-      "title": "股市今日：全球債券在拋售後趨於穩定",
-      "fact": "中國仿人機器人製造商在首次公開募股時大幅上漲，顯示市場對人工智慧相關產業的強勁需求。該公司的成功上市標誌著中國科技產業在國際資本市場的重要里程碑。此次IPO表現反映投資人對未來機器人技術商業應用前景的樂觀態度。",
+      "title": "精神航空空服員反對谷歌購買AI數據",
+      "fact": "空服員要求在出售已停業航空公司數位紀錄時，確保其機密資訊遭移除，拒絕讓個人敏感資料流向科技公司用於訓練人工智慧。",
       "whyItMatters": "觀察 AI、雲端與資安支出是否影響大型科技股與半導體需求。",
       "relatedAssets": "NVDA、QQQ、META、GOOGL、台積電",
       "verification": [
         {
           "source": "WSJ 華爾街日報（財經）",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-19-2026?mod=rss_markets_main",
-          "publishedAt": "2026-08-19 16:10:01"
+          "url": "https://www.wsj.com/pro/bankruptcy/spirit-flight-attendants-fight-googles-data-bid-for-ai-e939e049?mod=rss_markets_main",
+          "publishedAt": "2026-08-20 05:29:00"
+        }
+      ],
+      "status": "當日已驗證來源"
+    },
+    {
+      "theme": "地緣風險",
+      "title": "川普威脅伊朗面臨「經濟D日」",
+      "fact": "美國總統揚言將發動「有史以來最具摧毀性的經濟行動」，隨著衝突步入第六個月，對伊朗施加前所未有的經濟壓力。",
+      "whyItMatters": "觀察能源、航運、供應鏈與風險偏好是否出現突發性重估。",
+      "relatedAssets": "漢翔、台積電、00947 ETF、USDT",
+      "verification": [
+        {
+          "source": "WSJ 華爾街日報（國際政經）",
+          "url": "https://www.wsj.com/world/middle-east/trump-threatens-iran-with-economic-d-day-4d2f238c?mod=rss_worldnews",
+          "publishedAt": "2026-08-20 08:28:00"
         }
       ],
       "status": "當日已驗證來源"

@@ -1,34 +1,5 @@
 {
-  "updatedAt": "2026-08-19 18:19:09",
-  "items": [
-    {
-      "title": "債券遭重挫，華爾街預言跌勢短期難止",
-      "fact": "美國30年期公債殖利率創19年新高，投資人預期債券市場將進入新的時代。目前的市場環境與2007年金融危機前夕的情況相似，顯示市場可能面臨更深層次的調整風險。殖利率上升反映出通膨預期升溫與央行政策轉向，對債券市場造成持續的向下壓力。",
-      "importance": "影響：利率",
-      "verification": [
-        {
-          "source": "WSJ 華爾街日報（財經）",
-          "url": "https://www.wsj.com/finance/investing/bonds-are-getting-hammered-and-wall-street-says-the-rout-wont-end-anytime-soon-895e0ad8?mod=rss_markets_main",
-          "publishedAt": "2026-08-19 04:45:00"
-        }
-      ],
-      "status": "市場事實（單一可追溯來源）",
-      "score": 65
-    },
-    {
-      "title": "川普暫停對部分加拿大產品課50%關稅",
-      "fact": "該關稅原定影響加拿大對美出口的5%，可能引發更廣泛的貿易衝突升級。川普政府的暫停決定暫時緩解了兩國間的貿易緊張局勢。此舉為後續談判留下協商空間，但兩國的貿易爭端仍未根本解決。",
-      "importance": "影響：關稅",
-      "verification": [
-        {
-          "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/economy/trade/trump-pauses-50-tariff-on-some-canadian-products-2b3fd404?mod=rss_worldnews",
-          "publishedAt": "2026-08-19 11:35:00"
-        }
-      ],
-      "status": "市場事實（單一可追溯來源）",
-      "score": 65
-    }
-  ],
+  "updatedAt": "2026-08-20 09:40:08",
+  "items": [],
   "method": "僅收當日、附來源網址與發布時間的新聞；依市場影響關鍵字排序。"
 }
