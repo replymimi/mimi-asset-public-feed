@@ -1,5 +1,34 @@
 {
-  "updatedAt": "2026-08-20 13:45:08",
-  "items": [],
+  "updatedAt": "2026-08-20 18:10:06",
+  "items": [
+    {
+      "title": "台灣推出歷史新高防衛預算 向美中傳遞訊號",
+      "fact": "新預算顯示台灣致力於自我防衛投資，並準備採購更多美製武器，向國際社會表達堅定的防禦決心。",
+      "importance": "影響：台灣",
+      "verification": [
+        {
+          "source": "WSJ 華爾街日報（國際政經）",
+          "url": "https://www.wsj.com/world/china/taiwans-floats-record-defense-budget-sending-message-to-u-s-and-china-99a28e40?mod=rss_worldnews",
+          "publishedAt": "2026-08-20 14:56:00"
+        }
+      ],
+      "status": "市場事實（單一可追溯來源）",
+      "score": 65
+    },
+    {
+      "title": "美國公債避險資產地位逐漸褪色",
+      "fact": "最新兩項研究發現，投資人因公債安全性而願意接受低殖利率的意願正在下滑，反映市場對公債避險特性的信心減弱。",
+      "importance": "影響：利率",
+      "verification": [
+        {
+          "source": "WSJ 華爾街日報（財經）",
+          "url": "https://www.wsj.com/finance/investing/the-treasury-markets-coveted-status-as-a-safe-haven-is-fading-c68fed93?mod=rss_markets_main",
+          "publishedAt": "2026-08-20 17:30:00"
+        }
+      ],
+      "status": "市場事實（單一可追溯來源）",
+      "score": 65
+    }
+  ],
   "method": "僅收當日、附來源網址與發布時間的新聞；依市場影響關鍵字排序。"
 }
