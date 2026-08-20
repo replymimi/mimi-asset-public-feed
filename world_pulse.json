@@ -1,41 +1,56 @@
 {
-  "updatedAt": "2026-08-20 09:40:08",
+  "updatedAt": "2026-08-20 13:45:08",
   "date": "2026-08-20",
   "items": [
     {
       "theme": "國際政治",
-      "title": "南韓李在明讚譚川普推動半島和平的「決心」",
-      "fact": "南韓總統李在明讚揚川普推動與北韓恢復對話的努力，儘管平壤否認兩國領導人有任何高層溝通，並反對美國縮減與南韓聯合演習。",
+      "title": "川普以「經濟D-Day」威脅伊朗",
+      "fact": "美國總統川普揚言對伊朗發動「有史以來最具摧毀性的經濟行動」，隨著中東局勢邁入第六個月，美國預計將加強經濟制裁力道與外交施壓。該措施將對伊朗經濟造成全面性衝擊。",
       "whyItMatters": "觀察政策、制裁或貿易規則是否改變跨境需求與企業成本。",
       "relatedAssets": "QQQ、META、GOOGL、台灣科技基金",
       "verification": [
         {
-          "source": "Bloomberg 彭博社（政治經濟）",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-20/korea-s-lee-hails-trump-s-determination-for-peninsula-peace",
-          "publishedAt": "2026-08-20 08:30:04"
+          "source": "WSJ 華爾街日報（國際政經）",
+          "url": "https://www.wsj.com/world/middle-east/trump-threatens-iran-with-economic-d-day-4d2f238c?mod=rss_worldnews",
+          "publishedAt": "2026-08-20 08:28:00"
+        }
+      ],
+      "status": "當日已驗證來源"
+    },
+    {
+      "theme": "總體經濟",
+      "title": "標題：\nBitcoin.com 將阿聯酋註冊的美元穩定幣整合到自託管錢包中",
+      "fact": "該整合擴展了對 USDU 的訪問，USDU 是阿聯酋首個央行註冊的美元穩定幣，因為它在制度渠道之外建立分銷。",
+      "whyItMatters": "觀察利率與景氣預期如何影響評價、美元與風險偏好。",
+      "relatedAssets": "QQQ、NVDA、00947 ETF",
+      "verification": [
+        {
+          "source": "CoinTelegraph（數位貨幣）",
+          "url": "https://cointelegraph.com/news/bitcoincom-integrates-uae-registered-usdu-stablecoin-into-self-custodial-wallet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedAt": "2026-08-20 04:33:51"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "市場",
-      "title": "比特幣短暫突破7萬美元創6月來新高，原因在此",
-      "fact": "全球最大加密資產周三漲逾7%，受多項催化劑推動，加密資產普遍上漲。",
+      "title": "以太幣飆升18%至$2,250 比特幣突破$69,000 加密貨幣全面上漲",
+      "fact": "除了 Tron 以外，每個主要幣種都錄得兩位數的周漲幅，在財政部加倍其債券回購後，近 14 億美元的空頭頭寸被清空。",
       "whyItMatters": "觀察風險資產的資金流與評價是否出現連鎖反應。",
       "relatedAssets": "QQQ、META、GOOGL、00947 ETF",
       "verification": [
         {
           "source": "CoinDesk（數位貨幣）",
-          "url": "https://www.coindesk.com/markets/2026/08/19/bitcoin-briefly-hits-usd70-000-for-the-first-time-since-june-here-is-why",
-          "publishedAt": "2026-08-20 06:26:01"
+          "url": "https://www.coindesk.com/markets/2026/08/20/ether-jumps-18-to-usd2-250-as-bitcoin-tops-usd69-000-in-broad-crypto-rally",
+          "publishedAt": "2026-08-20 12:10:40"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "科技",
-      "title": "精神航空空服員反對谷歌購買AI數據",
-      "fact": "空服員要求在出售已停業航空公司數位紀錄時，確保其機密資訊遭移除，拒絕讓個人敏感資料流向科技公司用於訓練人工智慧。",
+      "title": "精神航空空服員反對谷歌AI數據收購案",
+      "fact": "已停運航空公司的空服員工會要求確保其機密資訊將從數位資料交易中移除，並獲得充分保障。該工會擔憂個人隱私資料被用於訓練人工智慧模型，對員工權益造成潛在風險。",
       "whyItMatters": "觀察 AI、雲端與資安支出是否影響大型科技股與半導體需求。",
       "relatedAssets": "NVDA、QQQ、META、GOOGL、台積電",
       "verification": [
@@ -49,15 +64,15 @@
     },
     {
       "theme": "地緣風險",
-      "title": "川普威脅伊朗面臨「經濟D日」",
-      "fact": "美國總統揚言將發動「有史以來最具摧毀性的經濟行動」，隨著衝突步入第六個月，對伊朗施加前所未有的經濟壓力。",
+      "title": "川普制裁伊朗計畫的勝敗將在杜拜決定",
+      "fact": "長期擔任伊朗全球貿易金融樞紐的阿聯酋已承諾加強經濟封鎖，但實際執行涉及複雜的地緣政治考量與商業利益衝突。該策略的實施成效將直接影響美國對伊朗的經濟制裁力度。",
       "whyItMatters": "觀察能源、航運、供應鏈與風險偏好是否出現突發性重估。",
       "relatedAssets": "漢翔、台積電、00947 ETF、USDT",
       "verification": [
         {
           "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/world/middle-east/trump-threatens-iran-with-economic-d-day-4d2f238c?mod=rss_worldnews",
-          "publishedAt": "2026-08-20 08:28:00"
+          "url": "https://www.wsj.com/world/middle-east/trumps-plan-to-squeeze-irans-economy-will-live-or-die-in-dubai-8f9f561e?mod=rss_worldnews",
+          "publishedAt": "2026-08-20 10:58:00"
         }
       ],
       "status": "當日已驗證來源"
