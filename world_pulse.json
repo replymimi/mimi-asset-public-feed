@@ -1,78 +1,78 @@
 {
-  "updatedAt": "2026-08-21 13:45:07",
+  "updatedAt": "2026-08-21 18:10:07",
   "date": "2026-08-21",
   "items": [
     {
       "theme": "國際政治",
-      "title": "標題：\n卡爾扎伊表示女性教育是阿富汗未來的關鍵",
-      "fact": "阿富汗前總統哈米德·卡爾扎伊表示，他繼續敦促塔利班官員允許女孩和婦女重返教育和工作崗位——這是該組織獲得國際合法性的關鍵障礙。他在接受米沙爾·侯賽因秀節目採訪時發表了這些評論。（來源：彭博社）",
+      "title": "俄羅斯導彈軍演激化與日本緊張局勢",
+      "fact": "軍演在日本聲稱主權的島嶼附近進行，時值俄羅斯總統普京近日訪問該爭議群島之後。此舉被視為俄羅斯加強在該地區軍事存在的信號。日本政府已對此提出抗議。",
       "whyItMatters": "觀察政策、制裁或貿易規則是否改變跨境需求與企業成本。",
       "relatedAssets": "QQQ、META、GOOGL、台灣科技基金",
       "verification": [
         {
-          "source": "Bloomberg 彭博社（政治經濟）",
-          "url": "https://www.bloomberg.com/news/videos/2026-08-21/karzai-says-education-of-women-is-key-for-afghanistan-video",
-          "publishedAt": "2026-08-21 12:01:19"
+          "source": "WSJ 華爾街日報（國際政經）",
+          "url": "https://www.wsj.com/world/asia/russian-missile-drills-stoke-tensions-with-japan-f0c62a31?mod=rss_worldnews",
+          "publishedAt": "2026-08-21 17:18:00"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "總體經濟",
-      "title": "美股美債同步下滑，財政部回購計畫難以扭轉局面",
-      "fact": "沃爾瑪等零售商的業績表現不佳，進一步打擊投資人對美國消費力度的信心。零售數據疲弱凸顯消費者購買力面臨壓力，經濟增長前景堪憂。財政部的回購政策尚未足以抵銷市場的悲觀情緒。",
+      "title": "標題：\n財政部最新措施既非量化寬鬆也非殖利率曲線控制。儘管如此，比特幣仍在飆升。原因如下。",
+      "fact": "硬資產的上漲不一定是關於美國財政部在做什麼，而是關於它的舉動向市場傳達了什麼信號。",
       "whyItMatters": "觀察利率與景氣預期如何影響評價、美元與風險偏好。",
       "relatedAssets": "QQQ、NVDA、00947 ETF",
       "verification": [
         {
-          "source": "WSJ 華爾街日報（財經）",
-          "url": "https://www.wsj.com/finance/stocks/u-s-stocks-and-bonds-slide-brushing-off-treasurys-buyback-plans-57ced23b?mod=rss_markets_main",
-          "publishedAt": "2026-08-21 05:32:00"
+          "source": "CoinDesk（數位貨幣）",
+          "url": "https://www.coindesk.com/markets/2026/08/21/treasury-s-latest-measure-isn-t-qe-or-ycc-still-bitcoin-is-skyrocketing-here-s-why",
+          "publishedAt": "2026-08-21 17:17:15"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "市場",
-      "title": "比特幣突破 $75,000，漲勢持續。",
-      "fact": "bitcoin 分析師 James Check 寫道：「熊市在痛苦中，就在現在。」",
+      "title": "股市今日：殖利率持穩；標普500指數週線面臨下跌",
+      "fact": "債券市場對於財政部抑制借貸成本的努力不為所動，投資者仍保持觀望態度。標普500指數本週表現疲軟，面臨週線下跌的局面。市場參與者持續關注利率走勢與經濟數據。",
       "whyItMatters": "觀察風險資產的資金流與評價是否出現連鎖反應。",
       "relatedAssets": "QQQ、META、GOOGL、00947 ETF",
       "verification": [
         {
-          "source": "CoinDesk（數位貨幣）",
-          "url": "https://www.coindesk.com/markets/2026/08/20/bitcoin-pushes-past-usd75-000-as-rally-continues",
-          "publishedAt": "2026-08-21 09:55:50"
+          "source": "WSJ 華爾街日報（財經）",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026?mod=rss_markets_main",
+          "publishedAt": "2026-08-21 16:31:00"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "科技",
-      "title": "標題：\nMANTRA 代幣在區塊鏈停止期間跌至 18% 創歷史新低",
-      "fact": "該代幣在創下新低後恢復至約 $0.0044，同時交易所暫停了來自停止運營的 MANTRA Chain 的存款和提款。",
+      "title": "奈及利亞非政府組織尋求利用AI提升選舉透明度",
+      "fact": "奈及利亞非營利組織計畫採用人工智慧技術，在總統大選中提高",
       "whyItMatters": "觀察 AI、雲端與資安支出是否影響大型科技股與半導體需求。",
       "relatedAssets": "NVDA、QQQ、META、GOOGL、台積電",
       "verification": [
         {
-          "source": "CoinTelegraph（數位貨幣）",
-          "url": "https://cointelegraph.com/markets/mantra-token-record-low-blockchain-halt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedAt": "2026-08-21 13:04:52"
+          "source": "Bloomberg 彭博社（政治經濟）",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-21/nigeria-non-profits-seek-to-use-ai-to-improve-election-transparency",
+          "publishedAt": "2026-08-21 16:25:32"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "地緣風險",
-      "title": "美國是否仍有能力維護世界秩序？",
-      "fact": "伊朗戰爭導致美國防空飛彈庫存大幅消耗，同盟國對華府應對多線衝突的能力信心下降。美國軍事實力面臨多重挑戰，全球戰略地位受到質疑。盟友國家愈加關注美國防禦承諾的可靠性。",
+      "title": "黑水公司創辦人艾瑞克·普林斯推出防空新創公司",
+      "fact": "這位私人安全承包商已與烏克蘭公司Swarmer合作，向遭伊朗轟炸的中東地點提供防禦技術。該防空技術旨在應對區域內日益頻繁的無人機襲擊威脅。這項合作凸顯了烏克蘭防禦科技在國際市場上的應用前景。",
       "whyItMatters": "觀察能源、航運、供應鏈與風險偏好是否出現突發性重估。",
       "relatedAssets": "漢翔、台積電、00947 ETF、USDT",
       "verification": [
         {
           "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/world/us-weapons-stockpile-d869e58a?mod=rss_worldnews",
-          "publishedAt": "2026-08-21 10:00:00"
+          "url": "https://www.wsj.com/business/blackwaters-erik-prince-launches-air-defense-startup-643c9298?mod=rss_worldnews",
+          "publishedAt": "2026-08-21 18:00:00"
         }
       ],
       "status": "當日已驗證來源"
