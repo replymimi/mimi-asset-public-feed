@@ -1,169 +1,169 @@
 {
-  "updatedAt": "2026-08-20 18:10:06",
+  "updatedAt": "2026-08-21 09:40:07",
   "news": [
     {
       "type": "news",
-      "title": "股市今日：公債市場在財政部干預後保持穩定",
+      "title": "股市新聞，2026年8月20日：債券殖利率重啟上升，股市應聲下跌",
       "source": "WSJ 華爾街日報（財經） · 08/20 16:12",
-      "summary": "📰 股市今日：公債市場在財政部干預後保持穩定WSJ 華爾街日報（財經） · 08/20 16:12布倫特原油上漲至每桶93美元。"
+      "summary": "📰 股市新聞，2026年8月20日：債券殖利率重啟上升，股市應聲下跌WSJ 華爾街日報（財經） · 08/20 16:12美國財政部長貝森特暗示公債回購規模可能超過40億美元，惟此舉未能阻止股市跌勢。債券殖利率的回升對股票估值構成壓力，投資人轉向較安全資產。市場對經濟前景的憂慮持續籠罩交易氣氛。"
     },
     {
       "type": "news",
-      "title": "超大規模數據中心離網電力推進面臨風險",
-      "source": "WSJ 華爾街日報（財經） · 08/20 17:30",
-      "summary": "📰 超大規模數據中心離網電力推進面臨風險WSJ 華爾街日報（財經） · 08/20 17:30數據中心龐大且波動的電力需求正在考驗離網電力系統的承載能力，對相關基礎設施構成重大挑戰。"
+      "title": "美股美債齊跌，財政部公債回購計畫未能挽救跌勢",
+      "source": "WSJ 華爾街日報（財經） · 08/21 05:32",
+      "summary": "📰 美股美債齊跌，財政部公債回購計畫未能挽救跌勢WSJ 華爾街日報（財經） · 08/21 05:32沃爾瑪等零售業者發布的業績表現欠佳，引發市場對美國消費者購買力的擔憂。混合型的零售數據凸顯經濟成長面臨的挑戰。投資人對消費韌性的信心進一步削弱，導致股債雙殺局面。"
     },
     {
       "type": "news",
-      "title": "美國公債避險資產地位逐漸褪色",
-      "source": "WSJ 華爾街日報（財經） · 08/20 17:30",
-      "summary": "📰 美國公債避險資產地位逐漸褪色WSJ 華爾街日報（財經） · 08/20 17:30最新兩項研究發現，投資人因公債安全性而願意接受低殖利率的意願正在下滑，反映市場對公債避險特性的信心減弱。"
+      "title": "英國私人養老基金成私募信貸下一個兆級新金礦",
+      "source": "WSJ 華爾街日報（財經） · 08/21 04:54",
+      "summary": "📰 英國私人養老基金成私募信貸下一個兆級新金礦WSJ 華爾街日報（財經） · 08/21 04:54一筆涵蓋標準人壽、CVC及高盛的交易案，反映出英國退休基金已成為日益熱門的投資資金來源。私募信貸基金紛紛瞄準這波龐大的資金需求，預期吸金規模將達1兆美元。此舉為另類投資管理業開啟嶄新的發展機會。"
     },
     {
       "type": "news",
-      "title": "美國債務飆升 財政部長貝瑟特成為美國債券市場操盤手",
-      "source": "WSJ 華爾街日報（國際政經） · 08/20 17:52",
-      "summary": "📰 美國債務飆升 財政部長貝瑟特成為美國債券市場操盤手WSJ 華爾街日報（國際政經） · 08/20 17:52此外，美國大學面臨招生懸崖危機，夏威夷則積極追逐新創浪潮，各項經濟議題備受關注。"
+      "title": "美國開始向賴比瑞亞遣送移民",
+      "source": "WSJ 華爾街日報（國際政經） · 08/21 03:40",
+      "summary": "📰 美國開始向賴比瑞亞遣送移民WSJ 華爾街日報（國際政經） · 08/21 03:40西非國家賴比瑞亞與川普政府近期達成協議，同意於未來一年內接納最多1,200名被遣返人士。此舉彰顯美國政府加強邊境管制的決心。該協議為美國移民政策的重大調整。"
     },
     {
       "type": "news",
-      "title": "台灣推出歷史新高防衛預算 向美中傳遞訊號",
-      "source": "WSJ 華爾街日報（國際政經） · 08/20 14:56",
-      "summary": "📰 台灣推出歷史新高防衛預算 向美中傳遞訊號WSJ 華爾街日報（國際政經） · 08/20 14:56新預算顯示台灣致力於自我防衛投資，並準備採購更多美製武器，向國際社會表達堅定的防禦決心。"
+      "title": "戰機摧毀黑海天然氣平台附近無人機，稱為保護生命",
+      "source": "WSJ 華爾街日報（國際政經） · 08/20 22:35",
+      "summary": "📰 戰機摧毀黑海天然氣平台附近無人機，稱為保護生命WSJ 華爾街日報（國際政經） · 08/20 22:35羅馬尼亞官員指控俄國發射該架爆炸性無人機，聲稱威脅數百名油氣平台員工安全。此事件凸顯烏克蘭戰爭對民間基礎設施的風險持續升高。該地區軍事衝突態勢變得更加緊張。"
     },
     {
       "type": "news",
-      "title": "川普擠壓伊朗經濟計畫的成敗在杜拜決定",
-      "source": "WSJ 華爾街日報（國際政經） · 08/20 10:58",
-      "summary": "📰 川普擠壓伊朗經濟計畫的成敗在杜拜決定WSJ 華爾街日報（國際政經） · 08/20 10:58阿聯酋長期作為伊朗進入全球商業與金融市場的通道，已承諾加強打擊，但其中涉及複雜的地緣政治考量。"
+      "title": "哈利王子與梅根的美國夢幕落",
+      "source": "WSJ 華爾街日報（國際政經） · 08/20 21:53",
+      "summary": "📰 哈利王子與梅根的美國夢幕落WSJ 華爾街日報（國際政經） · 08/20 21:53在簽訂Netflix合約、經營果醬事業及歷經多次爭議後，這對英國王室成員經過六年美國生活，最終選擇回歸英國。此舉標誌著這對夫婦在美國的公眾形象與商業計畫面臨重大轉變。他們的返英決定引發外界對其未來發展方向的關注。"
     },
     {
       "type": "news",
-      "title": "川普表示美國對伊朗發動經濟戰",
-      "source": "Bloomberg 彭博社（政治經濟） · 08/20 07:06",
-      "summary": "📰 川普表示美國對伊朗發動經濟戰Bloomberg 彭博社（政治經濟） · 08/20 07:06美國總統川普在軍事打擊和海上封鎖多月未能迫使德黑蘭屈服後，威脅對伊朗及其貿易夥伴進行經濟孤立。"
+      "title": "俄國在日本爭議島嶼附近進行罕見飛彈測試",
+      "source": "Bloomberg 彭博社（政治經濟） · 08/21 09:02",
+      "summary": "📰 俄國在日本爭議島嶼附近進行罕見飛彈測試Bloomberg 彭博社（政治經濟） · 08/21 09:02俄國在遠東地區進行罕見飛彈演習，涉及海軍艦艇及陸基發射系統，相關區域同時為日本所聲稱的領土。此舉進一步加劇俄日兩國間的緊張關係。軍事活動的升級凸顯區域地緣政治風險持續加溫。"
     },
     {
       "type": "news",
-      "title": "盧拉乘川普反彈浪潮 巴西政治走向歷史時刻",
-      "source": "Bloomberg 彭博社（政治經濟） · 08/20 17:59",
-      "summary": "📰 盧拉乘川普反彈浪潮 巴西政治走向歷史時刻Bloomberg 彭博社（政治經濟） · 08/20 17:59總統在博彩市場的連任勝率超過60%，但巴西政治仍呈現高度極化，選民態度難以預測。"
+      "title": "巴基斯坦法院下令後，伊姆蘭罕被轉送醫院",
+      "source": "Bloomberg 彭博社（政治經濟） · 08/21 07:38",
+      "summary": "📰 巴基斯坦法院下令後，伊姆蘭罕被轉送醫院Bloomberg 彭博社（政治經濟） · 08/21 07:38巴基斯坦前總理伊姆蘭罕在該國最高法院下令後，已從監獄轉送至醫院接受治療，根據其所屬的正義運動黨"
     },
     {
       "type": "news",
-      "title": "中國表示川普經濟戰不能解決伊朗危機",
-      "source": "Bloomberg 彭博社（政治經濟） · 08/20 17:36",
-      "summary": "📰 中國表示川普經濟戰不能解決伊朗危機Bloomberg 彭博社（政治經濟） · 08/20 17:36中國表示，美國總統川普威脅對伊朗及其貿易夥伴發動「經濟戰」的策略將無法奏效，呼籲各方保持理性態度。"
+      "title": "標題：\n金正恩妹妹嘲笑韓國為美國「傀儡」 因軍演削減",
+      "source": "Bloomberg 彭博社（政治經濟） · 08/21 08:54",
+      "summary": "📰 標題：\n金正恩妹妹嘲笑韓國為美國「傀儡」 因軍演削減Bloomberg 彭博社（政治經濟） · 08/21 08:54美國總統唐納德·川普單方面削減兩國聯合軍事演習後，北韓嘲笑南韓是美國的「傀儡」。"
     },
     {
       "type": "news",
-      "title": "馬斯克的X平台探索穩定幣支付網紅與內容創作者",
-      "source": "CoinDesk（數位貨幣） · 08/20 17:40",
-      "summary": "📰 馬斯克的X平台探索穩定幣支付網紅與內容創作者CoinDesk（數位貨幣） · 08/20 17:40根據同時與其他社群媒體平台合作的人士透露，X與多家穩定幣服務商正進行磋商，測試以穩定幣作為內容提供者報酬。"
+      "title": "標題：\n美國商品期貨交易委員會主席警告員工，若《澄清法案》失敗應制定加密貨幣監管規定",
+      "source": "CoinDesk（數位貨幣） · 08/21 02:54",
+      "summary": "📰 標題：\n美國商品期貨交易委員會主席警告員工，若《澄清法案》失敗應制定加密貨幣監管規定CoinDesk（數位貨幣） · 08/21 02:54商品期貨交易委員會主席 Mike Selig 在創新諮詢委員會的首次會議上表示，他的機構不會袖手旁觀。"
     },
     {
       "type": "news",
-      "title": "BitGo獲南韓虛擬資產執照 稱全球首家加密公司達成",
-      "source": "CoinDesk（數位貨幣） · 08/20 17:25",
-      "summary": "📰 BitGo獲南韓虛擬資產執照 稱全球首家加密公司達成CoinDesk（數位貨幣） · 08/20 17:25由韓亞金融集團和SK電訊支持的BitGo Korea從零開始建立本地註冊實體，以服務機構和企業客戶，而非採取收購路線。"
+      "title": "標題：\n財政部回購可能會促進比特幣向18萬美元邁進，策略師表示",
+      "source": "CoinDesk（數位貨幣） · 08/21 00:17",
+      "summary": "📰 標題：\n財政部回購可能會促進比特幣向18萬美元邁進，策略師表示CoinDesk（數位貨幣） · 08/21 00:17資深債券市場投資者 Mark Connors 認為，政府例行性的債券回購將改善流動性，並使比特幣的下一波漲勢更加臨近。"
     },
     {
       "type": "news",
-      "title": "比特幣逼近7.2萬美元 Strategy和Coinbase續漲",
-      "source": "CoinDesk（數位貨幣） · 08/20 17:25",
-      "summary": "📰 比特幣逼近7.2萬美元 Strategy和Coinbase續漲CoinDesk（數位貨幣） · 08/20 17:25比特幣自週一以來上漲15%，重新收復多個關鍵技術位與鏈上水位，市場看漲動能不斷增強。"
+      "title": "標題：\n比特幣突破7.1萬美元，形成看漲黃金交叉格局",
+      "source": "CoinDesk（數位貨幣） · 08/20 23:16",
+      "summary": "📰 標題：\n比特幣突破7.1萬美元，形成看漲黃金交叉格局CoinDesk（數位貨幣） · 08/20 23:16比特幣不斷向好的動能可能會產生黃金交叉，但這波漲勢仍面臨重要考驗。"
     },
     {
       "type": "news",
-      "title": "GnosisDAO通過Gnosis Chain納入以太坊經濟區",
-      "source": "CoinTelegraph（數位貨幣） · 08/20 16:59",
-      "summary": "📰 GnosisDAO通過Gnosis Chain納入以太坊經濟區CoinTelegraph（數位貨幣） · 08/20 16:59Gnosis Chain獲批轉換為EEZ Rollup架構，使其能直接在以太坊上結算，而無需繼續運行獨立驗證人集合。"
+      "title": "標題：\n比特幣首次突破 200 日移動平均線，創下自 11 月以來新高",
+      "source": "CoinTelegraph（數位貨幣） · 08/21 05:03",
+      "summary": "📰 標題：\n比特幣首次突破 200 日移動平均線，創下自 11 月以來新高CoinTelegraph（數位貨幣） · 08/21 05:03BTC 價格在美國財政部擴大債券回購後，其漲勢獲得動能，並在九個月以來首次收復其 200 日移動平均線。"
     },
     {
       "type": "news",
-      "title": "標題：\nBitGo Korea 獲得機構加密貨幣託管的 VASP 註冊",
-      "source": "CoinTelegraph（數位貨幣） · 08/20 15:48",
-      "summary": "📰 標題：\nBitGo Korea 獲得機構加密貨幣託管的 VASP 註冊CoinTelegraph（數位貨幣） · 08/20 15:48監管機構據報於週二接受了 BitGo Korea 的註冊，這是在更嚴格的 VASP 進入要求生效的前兩天。"
+      "title": "標題：\nCFTC主席表示，如果《CLARITY法案》失敗，該機構將推進加密貨幣監管",
+      "source": "CoinTelegraph（數位貨幣） · 08/21 04:56",
+      "summary": "📰 標題：\nCFTC主席表示，如果《CLARITY法案》失敗，該機構將推進加密貨幣監管CoinTelegraph（數位貨幣） · 08/21 04:56Michael Selig 在創新諮詢委員會的會議上表示，他已指示 CFTC 工作人員探索開發者保護和其他加密貨幣相關政策。"
     },
     {
       "type": "news",
-      "title": "標題：\n這是加密貨幣今日發生的事情",
-      "source": "CoinTelegraph（數位貨幣） · 08/20 14:03",
-      "summary": "📰 標題：\n這是加密貨幣今日發生的事情CoinTelegraph（數位貨幣） · 08/20 14:03想知道今天加密貨幣發生了什麼？以下是影響比特幣價格、區塊鏈、DeFi、Web3 和加密貨幣監管的每日趨勢和事件的最新新聞。"
+      "title": "標題：\n幣安向AI代理開放加密貨幣交易，並設有用戶控制功能",
+      "source": "CoinTelegraph（數位貨幣） · 08/21 04:26",
+      "summary": "📰 標題：\n幣安向AI代理開放加密貨幣交易，並設有用戶控制功能CoinTelegraph（數位貨幣） · 08/21 04:26Binance的Agent OS讓AI代理能夠存取市場數據、執行交易和進行支付，同時讓用戶能夠控制權限和帳戶存取。"
     }
   ],
   "worldPulse": [
     {
       "theme": "國際政治",
-      "title": "盧拉乘川普反彈浪潮 巴西政治走向歷史時刻",
-      "fact": "總統在博彩市場的連任勝率超過60%，但巴西政治仍呈現高度極化，選民態度難以預測。",
+      "title": "美國開始向賴比瑞亞遣送移民",
+      "fact": "西非國家賴比瑞亞與川普政府近期達成協議，同意於未來一年內接納最多1,200名被遣返人士。此舉彰顯美國政府加強邊境管制的決心。該協議為美國移民政策的重大調整。",
       "whyItMatters": "觀察政策、制裁或貿易規則是否改變跨境需求與企業成本。",
       "relatedAssets": "QQQ、META、GOOGL、台灣科技基金",
       "verification": [
         {
-          "source": "Bloomberg 彭博社（政治經濟）",
-          "url": "https://www.bloomberg.com/news/newsletters/2026-08-20/brazil-president-lula-rides-trump-backlash-to-cusp-of-history",
-          "publishedAt": "2026-08-20 17:59:11"
+          "source": "WSJ 華爾街日報（國際政經）",
+          "url": "https://www.wsj.com/world/africa/liberia-us-deportations-begin-b7b78e6a?mod=rss_worldnews",
+          "publishedAt": "2026-08-21 03:40:00"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "總體經濟",
-      "title": "美國公債避險資產地位逐漸褪色",
-      "fact": "最新兩項研究發現，投資人因公債安全性而願意接受低殖利率的意願正在下滑，反映市場對公債避險特性的信心減弱。",
+      "title": "美股美債齊跌，財政部公債回購計畫未能挽救跌勢",
+      "fact": "沃爾瑪等零售業者發布的業績表現欠佳，引發市場對美國消費者購買力的擔憂。混合型的零售數據凸顯經濟成長面臨的挑戰。投資人對消費韌性的信心進一步削弱，導致股債雙殺局面。",
       "whyItMatters": "觀察利率與景氣預期如何影響評價、美元與風險偏好。",
       "relatedAssets": "QQQ、NVDA、00947 ETF",
       "verification": [
         {
           "source": "WSJ 華爾街日報（財經）",
-          "url": "https://www.wsj.com/finance/investing/the-treasury-markets-coveted-status-as-a-safe-haven-is-fading-c68fed93?mod=rss_markets_main",
-          "publishedAt": "2026-08-20 17:30:00"
+          "url": "https://www.wsj.com/finance/stocks/u-s-stocks-and-bonds-slide-brushing-off-treasurys-buyback-plans-57ced23b?mod=rss_markets_main",
+          "publishedAt": "2026-08-21 05:32:00"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "市場",
-      "title": "股市今日：公債市場在財政部干預後保持穩定",
-      "fact": "布倫特原油上漲至每桶93美元。",
+      "title": "標題：\n財政部回購可能會促進比特幣向18萬美元邁進，策略師表示",
+      "fact": "資深債券市場投資者 Mark Connors 認為，政府例行性的債券回購將改善流動性，並使比特幣的下一波漲勢更加臨近。",
       "whyItMatters": "觀察風險資產的資金流與評價是否出現連鎖反應。",
       "relatedAssets": "QQQ、META、GOOGL、00947 ETF",
       "verification": [
         {
-          "source": "WSJ 華爾街日報（財經）",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-20-2026?mod=rss_markets_main",
-          "publishedAt": "2026-08-20 16:12:24"
+          "source": "CoinDesk（數位貨幣）",
+          "url": "https://www.coindesk.com/markets/2026/08/20/treasury-buybacks-could-set-up-bitcoin-s-next-move-toward-usd180-000",
+          "publishedAt": "2026-08-21 00:17:32"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "科技",
-      "title": "GnosisDAO通過Gnosis Chain納入以太坊經濟區",
-      "fact": "Gnosis Chain獲批轉換為EEZ Rollup架構，使其能直接在以太坊上結算，而無需繼續運行獨立驗證人集合。",
+      "title": "標題：\n幣安向AI代理開放加密貨幣交易，並設有用戶控制功能",
+      "fact": "Binance的Agent OS讓AI代理能夠存取市場數據、執行交易和進行支付，同時讓用戶能夠控制權限和帳戶存取。",
       "whyItMatters": "觀察 AI、雲端與資安支出是否影響大型科技股與半導體需求。",
       "relatedAssets": "NVDA、QQQ、META、GOOGL、台積電",
       "verification": [
         {
           "source": "CoinTelegraph（數位貨幣）",
-          "url": "https://cointelegraph.com/news/gnosisdao-approves-gnosis-chain-ethereum-economic-zone?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedAt": "2026-08-20 16:59:40"
+          "url": "https://cointelegraph.com/news/binance-opens-crypto-trading-to-ai-agents-with-user-set-controls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedAt": "2026-08-21 04:26:28"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "地緣風險",
-      "title": "川普表示美國對伊朗發動經濟戰",
-      "fact": "美國總統川普在軍事打擊和海上封鎖多月未能迫使德黑蘭屈服後，威脅對伊朗及其貿易夥伴進行經濟孤立。",
+      "title": "俄國在日本爭議島嶼附近進行罕見飛彈測試",
+      "fact": "俄國在遠東地區進行罕見飛彈演習，涉及海軍艦艇及陸基發射系統，相關區域同時為日本所聲稱的領土。此舉進一步加劇俄日兩國間的緊張關係。軍事活動的升級凸顯區域地緣政治風險持續加溫。",
       "whyItMatters": "觀察能源、航運、供應鏈與風險偏好是否出現突發性重估。",
       "relatedAssets": "漢翔、台積電、00947 ETF、USDT",
       "verification": [
         {
           "source": "Bloomberg 彭博社（政治經濟）",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-19/trump-says-us-starting-economic-warfare-operation-against-iran",
-          "publishedAt": "2026-08-20 07:06:49"
+          "url": "https://www.bloomberg.com/news/articles/2026-08-21/russia-holds-rare-missile-test-near-islands-claimed-by-japan",
+          "publishedAt": "2026-08-21 09:02:53"
         }
       ],
       "status": "當日已驗證來源"
