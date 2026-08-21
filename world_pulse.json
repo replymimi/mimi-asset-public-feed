@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-08-21 09:40:07",
+  "updatedAt": "2026-08-21 13:45:07",
   "date": "2026-08-21",
   "items": [
     {
       "theme": "國際政治",
-      "title": "美國開始向賴比瑞亞遣送移民",
-      "fact": "西非國家賴比瑞亞與川普政府近期達成協議，同意於未來一年內接納最多1,200名被遣返人士。此舉彰顯美國政府加強邊境管制的決心。該協議為美國移民政策的重大調整。",
+      "title": "標題：\n卡爾扎伊表示女性教育是阿富汗未來的關鍵",
+      "fact": "阿富汗前總統哈米德·卡爾扎伊表示，他繼續敦促塔利班官員允許女孩和婦女重返教育和工作崗位——這是該組織獲得國際合法性的關鍵障礙。他在接受米沙爾·侯賽因秀節目採訪時發表了這些評論。（來源：彭博社）",
       "whyItMatters": "觀察政策、制裁或貿易規則是否改變跨境需求與企業成本。",
       "relatedAssets": "QQQ、META、GOOGL、台灣科技基金",
       "verification": [
         {
-          "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/world/africa/liberia-us-deportations-begin-b7b78e6a?mod=rss_worldnews",
-          "publishedAt": "2026-08-21 03:40:00"
+          "source": "Bloomberg 彭博社（政治經濟）",
+          "url": "https://www.bloomberg.com/news/videos/2026-08-21/karzai-says-education-of-women-is-key-for-afghanistan-video",
+          "publishedAt": "2026-08-21 12:01:19"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "總體經濟",
-      "title": "美股美債齊跌，財政部公債回購計畫未能挽救跌勢",
-      "fact": "沃爾瑪等零售業者發布的業績表現欠佳，引發市場對美國消費者購買力的擔憂。混合型的零售數據凸顯經濟成長面臨的挑戰。投資人對消費韌性的信心進一步削弱，導致股債雙殺局面。",
+      "title": "美股美債同步下滑，財政部回購計畫難以扭轉局面",
+      "fact": "沃爾瑪等零售商的業績表現不佳，進一步打擊投資人對美國消費力度的信心。零售數據疲弱凸顯消費者購買力面臨壓力，經濟增長前景堪憂。財政部的回購政策尚未足以抵銷市場的悲觀情緒。",
       "whyItMatters": "觀察利率與景氣預期如何影響評價、美元與風險偏好。",
       "relatedAssets": "QQQ、NVDA、00947 ETF",
       "verification": [
@@ -34,45 +34,45 @@
     },
     {
       "theme": "市場",
-      "title": "標題：\n財政部回購可能會促進比特幣向18萬美元邁進，策略師表示",
-      "fact": "資深債券市場投資者 Mark Connors 認為，政府例行性的債券回購將改善流動性，並使比特幣的下一波漲勢更加臨近。",
+      "title": "比特幣突破 $75,000，漲勢持續。",
+      "fact": "bitcoin 分析師 James Check 寫道：「熊市在痛苦中，就在現在。」",
       "whyItMatters": "觀察風險資產的資金流與評價是否出現連鎖反應。",
       "relatedAssets": "QQQ、META、GOOGL、00947 ETF",
       "verification": [
         {
           "source": "CoinDesk（數位貨幣）",
-          "url": "https://www.coindesk.com/markets/2026/08/20/treasury-buybacks-could-set-up-bitcoin-s-next-move-toward-usd180-000",
-          "publishedAt": "2026-08-21 00:17:32"
+          "url": "https://www.coindesk.com/markets/2026/08/20/bitcoin-pushes-past-usd75-000-as-rally-continues",
+          "publishedAt": "2026-08-21 09:55:50"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "科技",
-      "title": "標題：\n幣安向AI代理開放加密貨幣交易，並設有用戶控制功能",
-      "fact": "Binance的Agent OS讓AI代理能夠存取市場數據、執行交易和進行支付，同時讓用戶能夠控制權限和帳戶存取。",
+      "title": "標題：\nMANTRA 代幣在區塊鏈停止期間跌至 18% 創歷史新低",
+      "fact": "該代幣在創下新低後恢復至約 $0.0044，同時交易所暫停了來自停止運營的 MANTRA Chain 的存款和提款。",
       "whyItMatters": "觀察 AI、雲端與資安支出是否影響大型科技股與半導體需求。",
       "relatedAssets": "NVDA、QQQ、META、GOOGL、台積電",
       "verification": [
         {
           "source": "CoinTelegraph（數位貨幣）",
-          "url": "https://cointelegraph.com/news/binance-opens-crypto-trading-to-ai-agents-with-user-set-controls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedAt": "2026-08-21 04:26:28"
+          "url": "https://cointelegraph.com/markets/mantra-token-record-low-blockchain-halt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedAt": "2026-08-21 13:04:52"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "地緣風險",
-      "title": "俄國在日本爭議島嶼附近進行罕見飛彈測試",
-      "fact": "俄國在遠東地區進行罕見飛彈演習，涉及海軍艦艇及陸基發射系統，相關區域同時為日本所聲稱的領土。此舉進一步加劇俄日兩國間的緊張關係。軍事活動的升級凸顯區域地緣政治風險持續加溫。",
+      "title": "美國是否仍有能力維護世界秩序？",
+      "fact": "伊朗戰爭導致美國防空飛彈庫存大幅消耗，同盟國對華府應對多線衝突的能力信心下降。美國軍事實力面臨多重挑戰，全球戰略地位受到質疑。盟友國家愈加關注美國防禦承諾的可靠性。",
       "whyItMatters": "觀察能源、航運、供應鏈與風險偏好是否出現突發性重估。",
       "relatedAssets": "漢翔、台積電、00947 ETF、USDT",
       "verification": [
         {
-          "source": "Bloomberg 彭博社（政治經濟）",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-21/russia-holds-rare-missile-test-near-islands-claimed-by-japan",
-          "publishedAt": "2026-08-21 09:02:53"
+          "source": "WSJ 華爾街日報（國際政經）",
+          "url": "https://www.wsj.com/world/us-weapons-stockpile-d869e58a?mod=rss_worldnews",
+          "publishedAt": "2026-08-21 10:00:00"
         }
       ],
       "status": "當日已驗證來源"
