@@ -1,29 +1,43 @@
 {
-  "updatedAt": "2026-08-21 18:10:07",
+  "updatedAt": "2026-08-22 09:40:07",
   "items": [
     {
-      "title": "股市今日：殖利率持穩；標普500指數週線面臨下跌",
-      "fact": "債券市場對於財政部抑制借貸成本的努力不為所動，投資者仍保持觀望態度。標普500指數本週表現疲軟，面臨週線下跌的局面。市場參與者持續關注利率走勢與經濟數據。",
-      "importance": "影響：利率",
+      "title": "標題：\n盧拉呼籲川普恢復關於美國對巴西關稅的談判",
+      "fact": "總統 Luiz Inácio Lula da Silva 在週五的通話中敦促 Donald Trump 恢復有關美國對巴西關稅的談判，希望在該國十月選舉前緩和與華盛頓的關係。",
+      "importance": "影響：關稅",
       "verification": [
         {
-          "source": "WSJ 華爾街日報（財經）",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026?mod=rss_markets_main",
-          "publishedAt": "2026-08-21 16:31:00"
+          "source": "Bloomberg 彭博社（政治經濟）",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-21/lula-calls-trump-to-seek-renewed-talks-over-us-tariffs-on-brazil",
+          "publishedAt": "2026-08-22 00:54:52"
         }
       ],
       "status": "市場事實（單一可追溯來源）",
       "score": 65
     },
     {
-      "title": "標題：\n財政部最新措施既非量化寬鬆也非殖利率曲線控制。儘管如此，比特幣仍在飆升。原因如下。",
-      "fact": "硬資產的上漲不一定是關於美國財政部在做什麼，而是關於它的舉動向市場傳達了什麼信號。",
+      "title": "債券殖利率上升，儘管財政部努力遏制借貸成本",
+      "fact": "加密貨幣上漲，股票反彈。美國公債殖利率持續走高，反映投資者對經濟前景和政府債務的擔憂。在此背景下，避險資產如比特幣獲得買盤支撐，股市也在週五出現技術性反彈。",
       "importance": "影響：利率",
       "verification": [
         {
-          "source": "CoinDesk（數位貨幣）",
-          "url": "https://www.coindesk.com/markets/2026/08/21/treasury-s-latest-measure-isn-t-qe-or-ycc-still-bitcoin-is-skyrocketing-here-s-why",
-          "publishedAt": "2026-08-21 17:17:15"
+          "source": "WSJ 華爾街日報（財經）",
+          "url": "https://www.wsj.com/finance/investing/bond-yields-rise-despite-treasury-efforts-to-curb-borrowing-costs-8aed2b0f?mod=rss_markets_main",
+          "publishedAt": "2026-08-22 04:27:00"
+        }
+      ],
+      "status": "市場事實（單一可追溯來源）",
+      "score": 65
+    },
+    {
+      "title": "標題：\n美國和加拿大爭分奪秒制定貿易協議",
+      "fact": "美國和加拿大的談判代表週五就一項貿易協議的條款進行了激烈討論，該協議將削減這兩個主要貿易夥伴之間的關稅和報復措施。有跡象表明協議將在華盛頓的午夜截止時間前敲定。",
+      "importance": "影響：關稅",
+      "verification": [
+        {
+          "source": "Bloomberg 彭博社（政治經濟）",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-21/us-and-canada-race-to-beat-tariff-deadline-with-metals-a-focus",
+          "publishedAt": "2026-08-22 05:57:13"
         }
       ],
       "status": "市場事實（單一可追溯來源）",
