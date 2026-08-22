@@ -1,48 +1,93 @@
 {
-  "updatedAt": "2026-08-22 13:45:08",
+  "updatedAt": "2026-08-22 18:10:08",
   "date": "2026-08-22",
   "items": [
     {
       "theme": "國際政治",
-      "title": "美國對加拿大實施50%關稅，卡尼誓言報復",
-      "fact": "美加貿易談判在最後一刻破裂，美國對價值數十億加元的加拿大商品實施新的50%關稅，加拿大總理馬克·卡尼隨即承諾將進行報復措施。",
+      "title": "遭美國起訴的墨西哥州長重返州政府",
+      "fact": "錫那羅亞州州長魯本．羅查遭美國檢察官指控與頂級毒梟卡特爾首腦關係密切，但其已重返州政府職位。此舉引發國際關注，涉及美墨跨國毒品走私及司法管轄權問題。",
       "whyItMatters": "觀察政策、制裁或貿易規則是否改變跨境需求與企業成本。",
       "relatedAssets": "QQQ、META、GOOGL、台灣科技基金",
       "verification": [
         {
-          "source": "Bloomberg 彭博社（政治經濟）",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-22/us-canada-trade-talks-collapse-triggering-trump-s-50-tariffs",
-          "publishedAt": "2026-08-22 11:37:06"
+          "source": "WSJ 華爾街日報（國際政經）",
+          "url": "https://www.wsj.com/world/americas/mexican-governor-indicted-by-u-s-vows-return-to-office-fe6ecff7?mod=rss_worldnews",
+          "publishedAt": "2026-08-22 06:08:00"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "總體經濟",
-      "title": "標題：\n財政部回購微調如何助推比特幣在數天內飆升25%至近8萬美元",
-      "fact": "財政部回購並非量化寬鬆，分析師表示，但此舉有助於拉低已達19年高點的長期殖利率，並在一個市場已過度看空的情況下，引發了創紀錄的軋空。",
+      "title": "債券殖利率攀升，美國財政部遏抑借貸成本努力受挫",
+      "fact": "儘管財政部採取相關措施，長期債券殖利率仍持續上升，反映市場對通膨前景的擔憂。同時加密貨幣表現強勢，股市也出現反彈，顯示市場風險偏好有所改善。",
       "whyItMatters": "觀察利率與景氣預期如何影響評價、美元與風險偏好。",
       "relatedAssets": "QQQ、NVDA、00947 ETF",
       "verification": [
         {
-          "source": "CoinDesk（數位貨幣）",
-          "url": "https://www.coindesk.com/markets/2026/08/22/how-a-treasury-buyback-tweak-helped-bitcoin-surge-nearly-25-in-days",
-          "publishedAt": "2026-08-22 13:05:13"
+          "source": "WSJ 華爾街日報（財經）",
+          "url": "https://www.wsj.com/finance/investing/bond-yields-rise-despite-treasury-efforts-to-curb-borrowing-costs-8aed2b0f?mod=rss_markets_main",
+          "publishedAt": "2026-08-22 04:27:00"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "市場",
-      "title": "儘管財政部努力抑制借貸成本，債券殖利率仍上升",
-      "fact": "加密貨幣上漲，股市反彈。市場對於聯邦政府的干預政策適應性有限，投資人仍聚焦於基本面因素。",
+      "title": "標題：\nRay Dalio 表示在潛在債務危機中應買入「一些」比特幣",
+      "fact": "這位對沖基金創始人的估計淨資產為150億美元，他建議投資者增持比特幣和黃金，而不是債券。",
       "whyItMatters": "觀察風險資產的資金流與評價是否出現連鎖反應。",
       "relatedAssets": "QQQ、META、GOOGL、00947 ETF",
       "verification": [
         {
-          "source": "WSJ 華爾街日報（財經）",
-          "url": "https://www.wsj.com/finance/investing/bond-yields-rise-despite-treasury-efforts-to-curb-borrowing-costs-8aed2b0f?mod=rss_markets_main",
-          "publishedAt": "2026-08-22 04:27:00"
+          "source": "CoinTelegraph（數位貨幣）",
+          "url": "https://cointelegraph.com/news/ray-dalio-buy-bitcoin-debt-crisis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedAt": "2026-08-22 04:00:47"
+        }
+      ],
+      "status": "當日已驗證來源"
+    },
+    {
+      "theme": "產業",
+      "title": "烏克蘭無人機襲擊俄羅斯薩馬拉煉油廠及電商倉庫",
+      "fact": "俄烏雙方夜間持續交換基礎設施設施打擊，烏克蘭無人機密集轟炸擊中位於俄羅斯深處的煉油廠及主要電商公司倉庫。這波攻擊顯示烏克蘭無人機戰術的有效性，對俄羅斯能源",
+      "whyItMatters": "觀察供需、成本與供應鏈變化對產業獲利的傳導。",
+      "relatedAssets": "台積電、聯電、力積電、華邦電、南亞科",
+      "verification": [
+        {
+          "source": "Bloomberg 彭博社（政治經濟）",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-22/ukraine-drones-strike-samara-oil-refinery-e-commerce-warehouse",
+          "publishedAt": "2026-08-22 16:53:19"
+        }
+      ],
+      "status": "當日已驗證來源"
+    },
+    {
+      "theme": "科技",
+      "title": "標題：\n加密貨幣倡導者加入對伊利諾州數位資產稅的訴訟",
+      "fact": "Crypto Council for Innovation 和 Blockchain Association 因該州最近批准的 0.2% 加密貨幣稅，又對該州提起了另一項訴訟。",
+      "whyItMatters": "觀察 AI、雲端與資安支出是否影響大型科技股與半導體需求。",
+      "relatedAssets": "NVDA、QQQ、META、GOOGL、台積電",
+      "verification": [
+        {
+          "source": "CoinDesk（數位貨幣）",
+          "url": "https://www.coindesk.com/policy/2026/08/21/crypto-advocates-join-in-suing-illinois-over-digital-asset-tax",
+          "publishedAt": "2026-08-22 06:10:28"
+        }
+      ],
+      "status": "當日已驗證來源"
+    },
+    {
+      "theme": "地緣風險",
+      "title": "伊朗高層政界人士敦促結束戰爭",
+      "fact": "伊朗總統與國會議長表示，德黑蘭需要在仍握有籌碼的情況下談判尋求戰爭出口，並優先發展經濟以緩解國家困境。兩位領導人的呼籲反映出伊朗對於軍事衝突持續升級的憂慮。",
+      "whyItMatters": "觀察能源、航運、供應鏈與風險偏好是否出現突發性重估。",
+      "relatedAssets": "漢翔、台積電、00947 ETF、USDT",
+      "verification": [
+        {
+          "source": "WSJ 華爾街日報（國際政經）",
+          "url": "https://www.wsj.com/world/middle-east/irans-top-politicians-urge-an-end-to-the-war-d0936e12?mod=rss_worldnews",
+          "publishedAt": "2026-08-22 17:15:00"
         }
       ],
       "status": "當日已驗證來源"
