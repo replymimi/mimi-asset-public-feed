@@ -1,23 +1,9 @@
 {
-  "updatedAt": "2026-08-22 09:40:07",
+  "updatedAt": "2026-08-22 13:45:08",
   "items": [
     {
-      "title": "標題：\n盧拉呼籲川普恢復關於美國對巴西關稅的談判",
-      "fact": "總統 Luiz Inácio Lula da Silva 在週五的通話中敦促 Donald Trump 恢復有關美國對巴西關稅的談判，希望在該國十月選舉前緩和與華盛頓的關係。",
-      "importance": "影響：關稅",
-      "verification": [
-        {
-          "source": "Bloomberg 彭博社（政治經濟）",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-21/lula-calls-trump-to-seek-renewed-talks-over-us-tariffs-on-brazil",
-          "publishedAt": "2026-08-22 00:54:52"
-        }
-      ],
-      "status": "市場事實（單一可追溯來源）",
-      "score": 65
-    },
-    {
-      "title": "債券殖利率上升，儘管財政部努力遏制借貸成本",
-      "fact": "加密貨幣上漲，股票反彈。美國公債殖利率持續走高，反映投資者對經濟前景和政府債務的擔憂。在此背景下，避險資產如比特幣獲得買盤支撐，股市也在週五出現技術性反彈。",
+      "title": "儘管財政部努力抑制借貸成本，債券殖利率仍上升",
+      "fact": "加密貨幣上漲，股市反彈。市場對於聯邦政府的干預政策適應性有限，投資人仍聚焦於基本面因素。",
       "importance": "影響：利率",
       "verification": [
         {
@@ -30,14 +16,28 @@
       "score": 65
     },
     {
-      "title": "標題：\n美國和加拿大爭分奪秒制定貿易協議",
-      "fact": "美國和加拿大的談判代表週五就一項貿易協議的條款進行了激烈討論，該協議將削減這兩個主要貿易夥伴之間的關稅和報復措施。有跡象表明協議將在華盛頓的午夜截止時間前敲定。",
+      "title": "美國對加拿大實施50%關稅，卡尼誓言報復",
+      "fact": "美加貿易談判在最後一刻破裂，美國對價值數十億加元的加拿大商品實施新的50%關稅，加拿大總理馬克·卡尼隨即承諾將進行報復措施。",
       "importance": "影響：關稅",
       "verification": [
         {
           "source": "Bloomberg 彭博社（政治經濟）",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-21/us-and-canada-race-to-beat-tariff-deadline-with-metals-a-focus",
-          "publishedAt": "2026-08-22 05:57:13"
+          "url": "https://www.bloomberg.com/news/articles/2026-08-22/us-canada-trade-talks-collapse-triggering-trump-s-50-tariffs",
+          "publishedAt": "2026-08-22 11:37:06"
+        }
+      ],
+      "status": "市場事實（單一可追溯來源）",
+      "score": 65
+    },
+    {
+      "title": "標題：\n財政部回購微調如何助推比特幣在數天內飆升25%至近8萬美元",
+      "fact": "財政部回購並非量化寬鬆，分析師表示，但此舉有助於拉低已達19年高點的長期殖利率，並在一個市場已過度看空的情況下，引發了創紀錄的軋空。",
+      "importance": "影響：利率",
+      "verification": [
+        {
+          "source": "CoinDesk（數位貨幣）",
+          "url": "https://www.coindesk.com/markets/2026/08/22/how-a-treasury-buyback-tweak-helped-bitcoin-surge-nearly-25-in-days",
+          "publishedAt": "2026-08-22 13:05:13"
         }
       ],
       "status": "市場事實（單一可追溯來源）",
