@@ -1,28 +1,13 @@
 {
-  "updatedAt": "2026-08-23 09:40:07",
+  "updatedAt": "2026-08-23 13:45:06",
   "date": "2026-08-23",
   "items": [
     {
       "theme": "國際政治",
-      "title": "美加貿易戰一觸即發",
-      "fact": "加拿大以對等關稅回應美國新關稅，雙方各執一詞指責談判破裂。兩國針對農產品、汽車零件等重點商品的稅率調整陷入僵局，談判已宣告失敗。此舉恐進一步加劇北美區域貿易緊張局勢。",
+      "title": "川普披露6月進行1,000筆股票交易",
+      "fact": "白宮表示總統的帳戶投資於「電腦模型投資組合」，以複製股票指數表現。",
       "whyItMatters": "觀察政策、制裁或貿易規則是否改變跨境需求與企業成本。",
       "relatedAssets": "QQQ、META、GOOGL、台灣科技基金",
-      "verification": [
-        {
-          "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/economy/trade/canada-announces-new-post-labor-day-tariffs-ef1de8e1?mod=rss_worldnews",
-          "publishedAt": "2026-08-23 06:50:00"
-        }
-      ],
-      "status": "當日已驗證來源"
-    },
-    {
-      "theme": "市場",
-      "title": "川普揭露6月進行逾1000筆股票交易",
-      "fact": "白宮表示總統的帳戶係由電腦模型投資組合管理，以複製股市指數走勢。根據公開的財務申報文件，川普在該月進行了超過1000筆證券交易，涉及規模龐大。此舉旨在釋除潛在利益衝突的疑慮。",
-      "whyItMatters": "觀察風險資產的資金流與評價是否出現連鎖反應。",
-      "relatedAssets": "QQQ、META、GOOGL、00947 ETF",
       "verification": [
         {
           "source": "WSJ 華爾街日報（財經）",
@@ -34,8 +19,8 @@
     },
     {
       "theme": "科技",
-      "title": "我們造訪華爾街的私人荒野營地，每個人都對人工智能感到擔憂",
-      "fact": "在釣魚郊遊和撲克遊戲之間，資深金融專業人士分享了他們對人工智能交易領域的憂慮。與會者普遍認為AI相關投資已過熱，市場風險不容小覷。這場集聚業界菁英的活動反映出華爾街對科技產業未來發展方向的深度焦慮。",
+      "title": "我們造訪華爾街獨家野外度假營地，每個人都被AI嚇到",
+      "fact": "在釣魚活動和撲克遊戲之間，資深金融專業人士分享了他們對人工智能交易熱潮的擔憂。",
       "whyItMatters": "觀察 AI、雲端與資安支出是否影響大型科技股與半導體需求。",
       "relatedAssets": "NVDA、QQQ、META、GOOGL、台積電",
       "verification": [
@@ -49,15 +34,15 @@
     },
     {
       "theme": "地緣風險",
-      "title": "標題：\n共和黨議員敦促川普恢復美韓軍事演習",
-      "fact": "一位共和黨議員質疑唐納德·川普總統決定縮短與南韓聯合軍事演習的做法，表示美國應該對這個長期的亞洲盟國表現出更多的忠誠。",
+      "title": "古老寺廟成為中國年輕人祈求好工作的聖地",
+      "fact": "中國年輕人參與各種儀式，期望能帶來實際利益，例如通過考試或增加收入。",
       "whyItMatters": "觀察能源、航運、供應鏈與風險偏好是否出現突發性重估。",
       "relatedAssets": "漢翔、台積電、00947 ETF、USDT",
       "verification": [
         {
-          "source": "Bloomberg 彭博社（政治經濟）",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-22/gop-lawmaker-urges-trump-to-restore-south-korea-military-drills",
-          "publishedAt": "2026-08-23 03:51:06"
+          "source": "WSJ 華爾街日報（國際政經）",
+          "url": "https://www.wsj.com/world/china/this-ancient-temple-is-where-chinas-young-people-go-to-pray-for-a-good-job-21ff191e?mod=rss_worldnews",
+          "publishedAt": "2026-08-23 10:00:00"
         }
       ],
       "status": "當日已驗證來源"
