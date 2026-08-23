@@ -1,43 +1,15 @@
 {
-  "updatedAt": "2026-08-22 18:10:08",
+  "updatedAt": "2026-08-23 09:40:07",
   "items": [
     {
-      "title": "債券殖利率攀升，美國財政部遏抑借貸成本努力受挫",
-      "fact": "儘管財政部採取相關措施，長期債券殖利率仍持續上升，反映市場對通膨前景的擔憂。同時加密貨幣表現強勢，股市也出現反彈，顯示市場風險偏好有所改善。",
-      "importance": "影響：利率",
+      "title": "美加貿易戰一觸即發",
+      "fact": "加拿大以對等關稅回應美國新關稅，雙方各執一詞指責談判破裂。兩國針對農產品、汽車零件等重點商品的稅率調整陷入僵局，談判已宣告失敗。此舉恐進一步加劇北美區域貿易緊張局勢。",
+      "importance": "影響：關稅",
       "verification": [
         {
-          "source": "WSJ 華爾街日報（財經）",
-          "url": "https://www.wsj.com/finance/investing/bond-yields-rise-despite-treasury-efforts-to-curb-borrowing-costs-8aed2b0f?mod=rss_markets_main",
-          "publishedAt": "2026-08-22 04:27:00"
-        }
-      ],
-      "status": "市場事實（單一可追溯來源）",
-      "score": 65
-    },
-    {
-      "title": "史考特．貝森特的慘痛一週：遭債券市場狠狠教訓",
-      "fact": "美國財政部宣布實施債券回購計畫，暫時緩解了拋售局面，但效果並未持續。貝森特領導的財政部最初試圖透過此舉穩定市場，卻未能長期扭轉債券殖利率上升的趨勢。",
-      "importance": "影響：利率",
-      "verification": [
-        {
-          "source": "WSJ 華爾街日報（財經）",
-          "url": "https://www.wsj.com/finance/investing/the-wild-week-when-scott-bessent-was-schooled-by-the-bond-market-a244aca2?mod=rss_markets_main",
-          "publishedAt": "2026-08-22 07:34:00"
-        }
-      ],
-      "status": "市場事實（單一可追溯來源）",
-      "score": 65
-    },
-    {
-      "title": "標題：\n財政部回購調整如何助力比特幣在數天內飆升25%至接近8萬美元",
-      "fact": "分析人士表示，財政部回購並非量化寬鬆，但此舉有助於將長期殖利率從19年高位拉低，並在一個已經過度看空的市場中引發了創紀錄的軋空行情。",
-      "importance": "影響：利率",
-      "verification": [
-        {
-          "source": "CoinDesk（數位貨幣）",
-          "url": "https://www.coindesk.com/markets/2026/08/22/how-a-treasury-buyback-tweak-helped-bitcoin-surge-nearly-25-in-days",
-          "publishedAt": "2026-08-22 13:05:13"
+          "source": "WSJ 華爾街日報（國際政經）",
+          "url": "https://www.wsj.com/economy/trade/canada-announces-new-post-labor-day-tariffs-ef1de8e1?mod=rss_worldnews",
+          "publishedAt": "2026-08-23 06:50:00"
         }
       ],
       "status": "市場事實（單一可追溯來源）",
