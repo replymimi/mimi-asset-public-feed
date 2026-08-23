@@ -1,26 +1,41 @@
 {
-  "updatedAt": "2026-08-23 13:45:06",
+  "updatedAt": "2026-08-23 18:10:06",
   "date": "2026-08-23",
   "items": [
     {
       "theme": "國際政治",
-      "title": "川普披露6月進行1,000筆股票交易",
-      "fact": "白宮表示總統的帳戶投資於「電腦模型投資組合」，以複製股票指數表現。",
+      "title": "美國與加拿大螺旋式陷入貿易戰",
+      "fact": "加拿大針對美國新關稅祭出報復性關稅，雙方互相指責導致談判破裂。",
       "whyItMatters": "觀察政策、制裁或貿易規則是否改變跨境需求與企業成本。",
       "relatedAssets": "QQQ、META、GOOGL、台灣科技基金",
       "verification": [
         {
-          "source": "WSJ 華爾街日報（財經）",
-          "url": "https://www.wsj.com/finance/investing/trump-discloses-1-000-stock-trades-in-june-2e5b0773?mod=rss_markets_main",
-          "publishedAt": "2026-08-23 08:41:00"
+          "source": "WSJ 華爾街日報（國際政經）",
+          "url": "https://www.wsj.com/economy/trade/canada-announces-new-post-labor-day-tariffs-ef1de8e1?mod=rss_worldnews",
+          "publishedAt": "2026-08-23 06:50:00"
+        }
+      ],
+      "status": "當日已驗證來源"
+    },
+    {
+      "theme": "產業",
+      "title": "澤連斯基稱普亭拒絕黑海運輸停火提議",
+      "fact": "烏克蘭曾提議與俄羅斯達成停火協議，暫停對運載農產品通過黑海船隻的攻擊，但烏克蘭總統澤連斯基表示，莫斯科因要求獲得防止能源基礎設施遭襲擊的保障而拒絕此項協議。",
+      "whyItMatters": "觀察供需、成本與供應鏈變化對產業獲利的傳導。",
+      "relatedAssets": "台積電、聯電、力積電、華邦電、南亞科",
+      "verification": [
+        {
+          "source": "Bloomberg 彭博社（政治經濟）",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-23/zelenskyy-says-putin-rejected-offer-of-black-sea-shipping-truce",
+          "publishedAt": "2026-08-23 16:03:23"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "科技",
-      "title": "我們造訪華爾街獨家野外度假營地，每個人都被AI嚇到",
-      "fact": "在釣魚活動和撲克遊戲之間，資深金融專業人士分享了他們對人工智能交易熱潮的擔憂。",
+      "title": "我們走訪華爾街頂級荒野營地，每個人都為人工智慧所擾",
+      "fact": "在釣魚和撲克遊戲之餘，資深金融專業人士分享他們對人工智慧交易浪潮的憂慮。",
       "whyItMatters": "觀察 AI、雲端與資安支出是否影響大型科技股與半導體需求。",
       "relatedAssets": "NVDA、QQQ、META、GOOGL、台積電",
       "verification": [
@@ -34,15 +49,15 @@
     },
     {
       "theme": "地緣風險",
-      "title": "古老寺廟成為中國年輕人祈求好工作的聖地",
-      "fact": "中國年輕人參與各種儀式，期望能帶來實際利益，例如通過考試或增加收入。",
+      "title": "俄羅斯測試新一輪軍事動員準備就緒度",
+      "fact": "俄國近期進行的演習評估軍方在克里姆林宮下令自2022年以來首次新一輪動員時，吸收大批新兵的能力。",
       "whyItMatters": "觀察能源、航運、供應鏈與風險偏好是否出現突發性重估。",
       "relatedAssets": "漢翔、台積電、00947 ETF、USDT",
       "verification": [
         {
           "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/world/china/this-ancient-temple-is-where-chinas-young-people-go-to-pray-for-a-good-job-21ff191e?mod=rss_worldnews",
-          "publishedAt": "2026-08-23 10:00:00"
+          "url": "https://www.wsj.com/world/russia/russia-tests-readiness-for-new-round-of-military-mobilization-87d61b96?mod=rss_worldnews",
+          "publishedAt": "2026-08-23 17:30:00"
         }
       ],
       "status": "當日已驗證來源"
