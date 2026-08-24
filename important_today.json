@@ -1,15 +1,29 @@
 {
-  "updatedAt": "2026-08-24 18:49:24",
+  "updatedAt": "2026-08-24 18:39:31",
   "items": [
     {
-      "title": "股市今日：油價下跌 投資人等待貝森特對伊朗的計畫",
-      "fact": "科技股開盤承壓。美國財政部長貝森特預期將宣布針對伊朗的新一輪經濟措施，華盛頓正從軍事威脅轉向更強硬的制裁，作為結束近六個月戰爭的手段。",
+      "title": "股市今日：油價下跌，投資人等待貝森特制裁伊朗計畫",
+      "fact": "科技股開啟本周疲弱走勢。美國財政部長貝森特(Scott Bessent)預期將宣布針對伊朗的新一輪經濟制裁措施，華盛頓已從軍事威脅轉向更嚴厲的制裁手段，以期結束近六個月的戰爭局面。油價因此承壓下行。",
       "importance": "影響：油價",
       "verification": [
         {
           "source": "WSJ 華爾街日報（財經）",
           "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-24-2026?mod=rss_markets_main",
           "publishedAt": "2026-08-24 16:06:51"
+        }
+      ],
+      "status": "市場事實（單一可追溯來源）",
+      "score": 65
+    },
+    {
+      "title": "山姆叔叔四十兆美元帳單在你的房貸利息中租住免費",
+      "fact": "美國龐大的聯邦債務對房市造成長期壓力，亞洲科技公司表現不佳，莫德納公司(Moderna)則開啟第二章發展。市場關注債務問題如何影響未來利率走向與房貸成本。",
+      "importance": "影響：利率",
+      "verification": [
+        {
+          "source": "WSJ 華爾街日報（財經）",
+          "url": "https://www.wsj.com/finance/investing/uncle-sams-40-trillion-tab-is-living-rent-free-in-your-mortgage-payment-ec2ff19d?mod=rss_markets_main",
+          "publishedAt": "2026-08-24 18:12:00"
         }
       ],
       "status": "市場事實（單一可追溯來源）",
