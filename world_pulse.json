@@ -1,63 +1,48 @@
 {
-  "updatedAt": "2026-08-23 18:10:06",
-  "date": "2026-08-23",
+  "updatedAt": "2026-08-24 09:53:26",
+  "date": "2026-08-24",
   "items": [
     {
       "theme": "國際政治",
-      "title": "美國與加拿大螺旋式陷入貿易戰",
-      "fact": "加拿大針對美國新關稅祭出報復性關稅，雙方互相指責導致談判破裂。",
+      "title": "伯納姆以烏克蘭之行開啟外交首秀",
+      "fact": "英國新任首相安迪·伯納姆周一赴烏克蘭進行就職後首次國際訪問，旨在展示他將在俄烏戰爭進入決定性階段時維持對基輔的外交與軍事支持。此舉被視為新政府對盟友關係的重申。",
       "whyItMatters": "觀察政策、制裁或貿易規則是否改變跨境需求與企業成本。",
       "relatedAssets": "QQQ、META、GOOGL、台灣科技基金",
       "verification": [
         {
-          "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/economy/trade/canada-announces-new-post-labor-day-tariffs-ef1de8e1?mod=rss_worldnews",
-          "publishedAt": "2026-08-23 06:50:00"
+          "source": "Bloomberg 彭博社（政治經濟）",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-23/burnham-enters-world-stage-with-debut-foreign-trip-to-ukraine",
+          "publishedAt": "2026-08-24 07:01:00"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
-      "theme": "產業",
-      "title": "澤連斯基稱普亭拒絕黑海運輸停火提議",
-      "fact": "烏克蘭曾提議與俄羅斯達成停火協議，暫停對運載農產品通過黑海船隻的攻擊，但烏克蘭總統澤連斯基表示，莫斯科因要求獲得防止能源基礎設施遭襲擊的保障而拒絕此項協議。",
-      "whyItMatters": "觀察供需、成本與供應鏈變化對產業獲利的傳導。",
-      "relatedAssets": "台積電、聯電、力積電、華邦電、南亞科",
+      "theme": "市場",
+      "title": "標題：\n我們回來了！比特幣在美國債務政策上的23%漲幅：持幣者文摘",
+      "fact": "根據Ray Dalio的說法，美國可能在三年內面臨債務危機，而債務相關問題幫助推動了比特幣的上漲，這可能標誌著新週期的開始。",
+      "whyItMatters": "觀察風險資產的資金流與評價是否出現連鎖反應。",
+      "relatedAssets": "QQQ、META、GOOGL、00947 ETF",
       "verification": [
         {
-          "source": "Bloomberg 彭博社（政治經濟）",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-23/zelenskyy-says-putin-rejected-offer-of-black-sea-shipping-truce",
-          "publishedAt": "2026-08-23 16:03:23"
+          "source": "CoinTelegraph（數位貨幣）",
+          "url": "https://cointelegraph.com/magazine/we-are-back-bitcoins-23-rally-on-us-debt-policy-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedAt": "2026-08-24 07:56:00"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "科技",
-      "title": "我們走訪華爾街頂級荒野營地，每個人都為人工智慧所擾",
-      "fact": "在釣魚和撲克遊戲之餘，資深金融專業人士分享他們對人工智慧交易浪潮的憂慮。",
+      "title": "華爾街寄望輝達延續AI榮景",
+      "fact": "輝達的財報表現可能對科技產業乃至整體股市產生衝擊波。該公司的業績將成為決定AI產業後續發展方向的關鍵指標。分析師密切關注其營收成長與前瞻指引是否能維持市場信心。",
       "whyItMatters": "觀察 AI、雲端與資安支出是否影響大型科技股與半導體需求。",
       "relatedAssets": "NVDA、QQQ、META、GOOGL、台積電",
       "verification": [
         {
           "source": "WSJ 華爾街日報（財經）",
-          "url": "https://www.wsj.com/finance/investing/we-went-to-wall-streets-exclusive-wilderness-camp-everyone-was-spooked-by-ai-e16dbe10?mod=rss_markets_main",
-          "publishedAt": "2026-08-23 09:00:00"
-        }
-      ],
-      "status": "當日已驗證來源"
-    },
-    {
-      "theme": "地緣風險",
-      "title": "俄羅斯測試新一輪軍事動員準備就緒度",
-      "fact": "俄國近期進行的演習評估軍方在克里姆林宮下令自2022年以來首次新一輪動員時，吸收大批新兵的能力。",
-      "whyItMatters": "觀察能源、航運、供應鏈與風險偏好是否出現突發性重估。",
-      "relatedAssets": "漢翔、台積電、00947 ETF、USDT",
-      "verification": [
-        {
-          "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/world/russia/russia-tests-readiness-for-new-round-of-military-mobilization-87d61b96?mod=rss_worldnews",
-          "publishedAt": "2026-08-23 17:30:00"
+          "url": "https://www.wsj.com/finance/stocks/wall-street-is-counting-on-nvidia-to-keep-the-ai-party-going-7e7caf0c?mod=rss_markets_main",
+          "publishedAt": "2026-08-24 09:00:00"
         }
       ],
       "status": "當日已驗證來源"

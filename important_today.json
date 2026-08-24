@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-08-23 18:10:06",
+  "updatedAt": "2026-08-24 10:49:57",
   "items": [
     {
-      "title": "美國與加拿大螺旋式陷入貿易戰",
-      "fact": "加拿大針對美國新關稅祭出報復性關稅，雙方互相指責導致談判破裂。",
+      "title": "加拿大卡尼將「無協議好過壞協議」主張付諸實踐",
+      "fact": "總理卡尼的談判立場獲得加拿大民眾和政治對手的廣泛支持，但此舉並非毫無風險。其強硬的談判策略可能面臨美國報復性關稅的威脅。未來談判結果將攸關加拿大經濟前景。",
       "importance": "影響：關稅",
       "verification": [
         {
           "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/economy/trade/canada-announces-new-post-labor-day-tariffs-ef1de8e1?mod=rss_worldnews",
-          "publishedAt": "2026-08-23 06:50:00"
+          "url": "https://www.wsj.com/world/americas/canadas-carney-puts-his-no-deal-is-better-than-a-bad-deal-doctrine-to-the-test-9d9b5f6e?mod=rss_worldnews",
+          "publishedAt": "2026-08-24 08:34:00"
         }
       ],
       "status": "市場事實（單一可追溯來源）",
