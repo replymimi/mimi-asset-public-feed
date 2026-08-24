@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-08-24 10:49:57",
+  "updatedAt": "2026-08-24 14:24:17",
   "items": [
     {
-      "title": "加拿大卡尼將「無協議好過壞協議」主張付諸實踐",
-      "fact": "總理卡尼的談判立場獲得加拿大民眾和政治對手的廣泛支持，但此舉並非毫無風險。其強硬的談判策略可能面臨美國報復性關稅的威脅。未來談判結果將攸關加拿大經濟前景。",
+      "title": "加拿大預期與美國進行長期貿易戰",
+      "fact": "根據知情人士透露，加拿大對在中期選舉前恢復與美國貿易談判抱持悲觀態度，正準備應對川普任期剩餘時間的貿易衝擊。美國週六對加拿大商品祭出50%新關稅，涵蓋家具、",
       "importance": "影響：關稅",
       "verification": [
         {
-          "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/world/americas/canadas-carney-puts-his-no-deal-is-better-than-a-bad-deal-doctrine-to-the-test-9d9b5f6e?mod=rss_worldnews",
-          "publishedAt": "2026-08-24 08:34:00"
+          "source": "Bloomberg 彭博社（政治經濟）",
+          "url": "https://www.bloomberg.com/news/videos/2026-08-24/canada-sees-long-trade-war-with-us-video",
+          "publishedAt": "2026-08-24 13:54:54"
         }
       ],
       "status": "市場事實（單一可追溯來源）",
