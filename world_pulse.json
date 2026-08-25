@@ -1,48 +1,63 @@
 {
-  "updatedAt": "2026-08-24 18:39:31",
-  "date": "2026-08-24",
+  "updatedAt": "2026-08-25 09:40:06",
+  "date": "2026-08-25",
   "items": [
     {
-      "theme": "總體經濟",
-      "title": "山姆叔叔四十兆美元帳單在你的房貸利息中租住免費",
-      "fact": "美國龐大的聯邦債務對房市造成長期壓力，亞洲科技公司表現不佳，莫德納公司(Moderna)則開啟第二章發展。市場關注債務問題如何影響未來利率走向與房貸成本。",
-      "whyItMatters": "觀察利率與景氣預期如何影響評價、美元與風險偏好。",
-      "relatedAssets": "QQQ、NVDA、00947 ETF",
+      "theme": "國際政治",
+      "title": "貝森特推動「經濟孤立行動」以孤立與施壓伊朗",
+      "fact": "美國財政部長貝森特宣布新一波制裁，目標瞄準伊朗的經濟支持者，意圖對伊朗政權造成經濟上的重創。這項政策被視為拜登政府對伊朗強硬立場的延續。相關制裁措施預期將在近期陸續實施。",
+      "whyItMatters": "觀察政策、制裁或貿易規則是否改變跨境需求與企業成本。",
+      "relatedAssets": "QQQ、META、GOOGL、台灣科技基金",
       "verification": [
         {
-          "source": "WSJ 華爾街日報（財經）",
-          "url": "https://www.wsj.com/finance/investing/uncle-sams-40-trillion-tab-is-living-rent-free-in-your-mortgage-payment-ec2ff19d?mod=rss_markets_main",
-          "publishedAt": "2026-08-24 18:12:00"
+          "source": "WSJ 華爾街日報（國際政經）",
+          "url": "https://www.wsj.com/world/middle-east/bessent-launches-operation-economic-outcast-to-isolate-iran-0e4db091?mod=rss_worldnews",
+          "publishedAt": "2026-08-25 02:57:00"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "市場",
-      "title": "川普加密貨幣推動與貝森特財政部動作息息相關",
-      "fact": "穩定幣需求可能帶動短期公債買盤。貝森特領導的財政部透過債券買回及相關政策，間接支撐加密貨幣市場的發展，形成政策聯動效應。",
+      "title": "# 比特幣逼近 8 萬美元，但分析師表示下一次回調將是關鍵\n\n比特幣價格接近 8 萬美元大關，但市場分析師警告，即將到來的價格回調將對整個加密貨幣市場的走勢至關重要。\n\n許多專家認為，這次回調的力度和方向將決定比特幣是否能繼續上漲，還是面臨更大幅度的下跌。分析人士指出，投資者應密切關注支撐位和阻力位，以判斷市場的真實趨勢。\n\n一些樂觀派認為，即使出現回調，比特幣長期仍將保持上升趨勢。而持謹慎態度的分析師則建議投資者謹慎行動，因為市場面臨多項不確定性因",
+      "fact": "分析師表示，整合可能會強化比特幣的漲勢，而在八萬美元以上的交易清淡可能會導致更劇烈的價格波動。",
       "whyItMatters": "觀察風險資產的資金流與評價是否出現連鎖反應。",
       "relatedAssets": "QQQ、META、GOOGL、00947 ETF",
       "verification": [
         {
+          "source": "CoinDesk（數位貨幣）",
+          "url": "https://www.coindesk.com/markets/2026/08/24/bitcoin-nears-usd80-000-but-analysts-say-the-next-pullback-will-be-key",
+          "publishedAt": "2026-08-25 03:36:36"
+        }
+      ],
+      "status": "當日已驗證來源"
+    },
+    {
+      "theme": "科技",
+      "title": "全球最狂股市已淪為驚悚之旅",
+      "fact": "南韓KOSPI指數陷入慢速崩盤，股市市值蒸發2.5兆美元，重創看好AI榮景的投資人。該指數從高點至今已大幅回檔，造成大量散戶與機構投資者的虧損。南韓股市的急速反轉凸顯全球科技股泡沫風險。",
+      "whyItMatters": "觀察 AI、雲端與資安支出是否影響大型科技股與半導體需求。",
+      "relatedAssets": "NVDA、QQQ、META、GOOGL、台積電",
+      "verification": [
+        {
           "source": "WSJ 華爾街日報（財經）",
-          "url": "https://www.wsj.com/finance/currencies/how-trumps-crypto-push-is-linked-to-bessents-treasury-moves-809defdc?mod=rss_markets_main",
-          "publishedAt": "2026-08-24 17:30:00"
+          "url": "https://www.wsj.com/finance/stocks/stock-market-crash-south-korea-ai-ccb00cba?mod=rss_markets_main",
+          "publishedAt": "2026-08-25 09:00:00"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "地緣風險",
-      "title": "美國準備宣布新一輪伊朗制裁，伊朗里亞爾創歷史低點",
-      "fact": "美國財政部長貝森特預期將宣布一系列新的經濟措施制裁伊朗，華盛頓已從軍事威脅轉向經濟制裁作為解決近六個月衝突的手段。伊朗貨幣因制裁預期大幅貶值。",
+      "title": "最高法院就川普郵寄投票令做出裁決",
+      "fact": "美國最高法院對川普總統限制郵寄投票計畫給予暫時勝利，允許其使用郵政服務限制11月中期選舉的郵寄投票發放。此舉在政治圈引發廣泛討論。此外，美加貿易衝突再升溫，多項焦點議題持續受關注。",
       "whyItMatters": "觀察能源、航運、供應鏈與風險偏好是否出現突發性重估。",
       "relatedAssets": "漢翔、台積電、00947 ETF、USDT",
       "verification": [
         {
-          "source": "Bloomberg 彭博社（政治經濟）",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-24/us-set-to-unveil-fresh-iran-sanctions-as-rial-hits-record-low",
-          "publishedAt": "2026-08-24 17:59:50"
+          "source": "WSJ 華爾街日報（國際政經）",
+          "url": "https://www.wsj.com/world/asia/supreme-court-rules-on-trumps-mail-in-ballot-order-9fd77f1a?mod=rss_worldnews",
+          "publishedAt": "2026-08-25 05:31:00"
         }
       ],
       "status": "當日已驗證來源"

@@ -1,19 +1,33 @@
 {
-  "updatedAt": "2026-08-25 07:45:13",
+  "updatedAt": "2026-08-25 09:40:06",
   "items": [
     {
-      "title": "人工智慧擔憂與地緣政治威脅籠罩繁忙交易週開局",
-      "fact": "晶片製造商與科技股對美股主要指數造成壓力。市場因AI前景不確定和全球政治風險升溫而波動。本週多項經濟數據與企業財報將考驗市場信心。",
-      "importance": "影響：晶片、財報",
+      "title": "盧特尼克介入加拿大談判引讚美與批評",
+      "fact": "據知情人士透露，美加貿易談判因商務部長盧特尼克(Howard Lutnik)的臨時施壓而破裂，導致川普政府祭出新關稅，加拿大總理卡尼(Mark Carney)隨",
+      "importance": "影響：關稅",
       "verification": [
         {
-          "source": "WSJ 華爾街日報（財經）",
-          "url": "https://www.wsj.com/finance/investing/ai-jitters-and-geopolitical-threats-mark-start-of-busy-week-in-markets-a192c22a?mod=rss_markets_main",
-          "publishedAt": "2026-08-25 04:51:00"
+          "source": "Bloomberg 彭博社（政治經濟）",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-24/lutnick-s-intervention-in-canada-talks-draws-praise-and-blame",
+          "publishedAt": "2026-08-25 06:40:50"
         }
       ],
       "status": "市場事實（單一可追溯來源）",
-      "score": 80
+      "score": 65
+    },
+    {
+      "title": "標題：\n加拿大將推出特朗普關稅應對措施，包括貸款和福利",
+      "fact": "加拿大政府週二將宣布一系列措施，以「保護和支持」其工人和企業，以應對週六對其年度出口額約200億美元商品實施的50%美國關稅。",
+      "importance": "影響：關稅",
+      "verification": [
+        {
+          "source": "Bloomberg 彭博社（政治經濟）",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-25/canada-to-unveil-trump-tariff-response-including-loans-benefits",
+          "publishedAt": "2026-08-25 08:00:59"
+        }
+      ],
+      "status": "市場事實（單一可追溯來源）",
+      "score": 65
     }
   ],
   "method": "僅收當日、附來源網址與發布時間的新聞；依市場影響關鍵字排序。"
