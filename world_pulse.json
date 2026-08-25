@@ -1,13 +1,43 @@
 {
-  "updatedAt": "2026-08-25 09:40:06",
+  "updatedAt": "2026-08-25 13:45:07",
   "date": "2026-08-25",
   "items": [
     {
       "theme": "國際政治",
-      "title": "貝森特推動「經濟孤立行動」以孤立與施壓伊朗",
-      "fact": "美國財政部長貝森特宣布新一波制裁，目標瞄準伊朗的經濟支持者，意圖對伊朗政權造成經濟上的重創。這項政策被視為拜登政府對伊朗強硬立場的延續。相關制裁措施預期將在近期陸續實施。",
+      "title": "關於美國對伊朗及其盟國的威脅須知",
+      "fact": "美國財政部長貝森特威脅對與伊朗進行商業往來的任何國家採取經濟制裁，但對於新倡議如何實現川普政府的目標（即完全開放荷莫茲海峽）提供的細節甚少。此舉標誌著美國對伊朗政策的新轉向，但具體執行方式仍需進一步觀察。",
       "whyItMatters": "觀察政策、制裁或貿易規則是否改變跨境需求與企業成本。",
       "relatedAssets": "QQQ、META、GOOGL、台灣科技基金",
+      "verification": [
+        {
+          "source": "Bloomberg 彭博社（政治經濟）",
+          "url": "https://www.bloomberg.com/news/videos/2026-08-25/what-to-know-about-us-threats-on-iran-and-its-partners-video",
+          "publishedAt": "2026-08-25 13:41:01"
+        }
+      ],
+      "status": "當日已驗證來源"
+    },
+    {
+      "theme": "市場",
+      "title": "標題：\n比特幣突破8萬美元，Solana躍升8%，但漲勢現已面臨超買警告",
+      "fact": "BTC 在本週上漲超過 25%，此前美國財政部公債回購計劃擴張引發了漲勢，而 Solana 在週二領漲主要加密貨幣，因為驗證者正投票贊成減緩新 SOL 創建並提高每日銷毀量的提案。",
+      "whyItMatters": "觀察風險資產的資金流與評價是否出現連鎖反應。",
+      "relatedAssets": "QQQ、META、GOOGL、00947 ETF",
+      "verification": [
+        {
+          "source": "CoinDesk（數位貨幣）",
+          "url": "https://www.coindesk.com/markets/2026/08/25/bitcoin-tops-usd80-000-solana-jumps-8-but-rally-now-runs-into-overbought-warning",
+          "publishedAt": "2026-08-25 13:25:11"
+        }
+      ],
+      "status": "當日已驗證來源"
+    },
+    {
+      "theme": "產業",
+      "title": "貝森特啟動「經濟孤立行動」隔離並制裁伊朗",
+      "fact": "美國財政部長推出新制裁措施，目標為摧毀伊朗的經濟支持網絡。該計畫旨在切斷伊朗與其經濟夥伴的聯繫，對中東地緣政治和全球能源市場造成深遠影響。",
+      "whyItMatters": "觀察供需、成本與供應鏈變化對產業獲利的傳導。",
+      "relatedAssets": "台積電、聯電、力積電、華邦電、南亞科",
       "verification": [
         {
           "source": "WSJ 華爾街日報（國際政經）",
@@ -18,24 +48,9 @@
       "status": "當日已驗證來源"
     },
     {
-      "theme": "市場",
-      "title": "# 比特幣逼近 8 萬美元，但分析師表示下一次回調將是關鍵\n\n比特幣價格接近 8 萬美元大關，但市場分析師警告，即將到來的價格回調將對整個加密貨幣市場的走勢至關重要。\n\n許多專家認為，這次回調的力度和方向將決定比特幣是否能繼續上漲，還是面臨更大幅度的下跌。分析人士指出，投資者應密切關注支撐位和阻力位，以判斷市場的真實趨勢。\n\n一些樂觀派認為，即使出現回調，比特幣長期仍將保持上升趨勢。而持謹慎態度的分析師則建議投資者謹慎行動，因為市場面臨多項不確定性因",
-      "fact": "分析師表示，整合可能會強化比特幣的漲勢，而在八萬美元以上的交易清淡可能會導致更劇烈的價格波動。",
-      "whyItMatters": "觀察風險資產的資金流與評價是否出現連鎖反應。",
-      "relatedAssets": "QQQ、META、GOOGL、00947 ETF",
-      "verification": [
-        {
-          "source": "CoinDesk（數位貨幣）",
-          "url": "https://www.coindesk.com/markets/2026/08/24/bitcoin-nears-usd80-000-but-analysts-say-the-next-pullback-will-be-key",
-          "publishedAt": "2026-08-25 03:36:36"
-        }
-      ],
-      "status": "當日已驗證來源"
-    },
-    {
       "theme": "科技",
-      "title": "全球最狂股市已淪為驚悚之旅",
-      "fact": "南韓KOSPI指數陷入慢速崩盤，股市市值蒸發2.5兆美元，重創看好AI榮景的投資人。該指數從高點至今已大幅回檔，造成大量散戶與機構投資者的虧損。南韓股市的急速反轉凸顯全球科技股泡沫風險。",
+      "title": "全球最瘋狂的股市已淪為驚悚過山車",
+      "fact": "南韓綜合股價指數（Kospi）緩慢崩跌，蒸發了2.5兆美元的市值，重創在AI熱潮中押注的投資者。該股市的劇烈波動反映出市場對科技股估值過高的擔憂，投資人信心明顯動搖。",
       "whyItMatters": "觀察 AI、雲端與資安支出是否影響大型科技股與半導體需求。",
       "relatedAssets": "NVDA、QQQ、META、GOOGL、台積電",
       "verification": [
@@ -49,15 +64,15 @@
     },
     {
       "theme": "地緣風險",
-      "title": "最高法院就川普郵寄投票令做出裁決",
-      "fact": "美國最高法院對川普總統限制郵寄投票計畫給予暫時勝利，允許其使用郵政服務限制11月中期選舉的郵寄投票發放。此舉在政治圈引發廣泛討論。此外，美加貿易衝突再升溫，多項焦點議題持續受關注。",
+      "title": "巴基斯坦陸軍總司令結束德黑蘭訪問以推進美伊調解",
+      "fact": "巴基斯坦陸軍總司令穆尼爾上將完成為期一日的伊朗訪問，旨在緩解德黑蘭與華盛頓之間的緊張局勢並化解雙方衝突。該訪問反映巴基斯坦在中東地區衝突中扮演的重要調解角色。",
       "whyItMatters": "觀察能源、航運、供應鏈與風險偏好是否出現突發性重估。",
       "relatedAssets": "漢翔、台積電、00947 ETF、USDT",
       "verification": [
         {
-          "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/world/asia/supreme-court-rules-on-trumps-mail-in-ballot-order-9fd77f1a?mod=rss_worldnews",
-          "publishedAt": "2026-08-25 05:31:00"
+          "source": "Bloomberg 彭博社（政治經濟）",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-25/pakistan-army-chief-ends-tehran-visit-us-iran-mediation-push",
+          "publishedAt": "2026-08-25 10:35:39"
         }
       ],
       "status": "當日已驗證來源"
