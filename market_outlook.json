@@ -1,6 +1,78 @@
 {
-  "status": "unavailable",
-  "updatedAt": "2026-08-22 18:57:36",
-  "message": "今日尚無同時通過美台市場資料與新聞驗證的市場判讀：<urlopen error [Errno 8] nodename nor servname provided, or not known>",
-  "method": "不以舊資料補位；資料驗證完成後才顯示配置建議。"
+  "status": "verified",
+  "updatedAt": "2026-08-26 07:48:18",
+  "horizon": "未來 1–3 個月",
+  "stance": "保守",
+  "summary": "保守：美台市場同步走弱，先守住現金與部位上限。",
+  "action": "核心部位分批配置；不追單日反彈。高波動題材不得超過題材上限，並在市場轉弱時優先降低。",
+  "invalidates": "若美、台兩地的五日趨勢同步轉弱，或新的已驗證利率／地緣事件明顯惡化，重新降低股票比重。",
+  "allocation": {
+    "taiwanCore": 20,
+    "usCore": 20,
+    "defensive": 25,
+    "cash": 35,
+    "themeLimit": 0
+  },
+  "indexes": [
+    {
+      "name": "S&P 500",
+      "ticker": "^GSPC",
+      "close": 7677.28,
+      "date": "2026-08-25",
+      "dayChange": 0.32,
+      "weekChange": -0.19,
+      "source": "Yahoo Finance chart"
+    },
+    {
+      "name": "NASDAQ",
+      "ticker": "^IXIC",
+      "close": 26151.3,
+      "date": "2026-08-25",
+      "dayChange": 0.66,
+      "weekChange": -0.53,
+      "source": "Yahoo Finance chart"
+    },
+    {
+      "name": "台灣加權",
+      "ticker": "^TWII",
+      "close": 44762.32,
+      "date": "2026-08-24",
+      "dayChange": -1.02,
+      "weekChange": -2.39,
+      "source": "Yahoo Finance chart"
+    }
+  ],
+  "news": [
+    {
+      "title": "加拿大對美國鋼鐵產品關稅翻倍至50%",
+      "sources": [
+        {
+          "source": "Bloomberg 彭博社（政治經濟）",
+          "url": "https://www.bloomberg.com/news/videos/2026-08-25/balance-of-power-late-edition-08-25-2026-video",
+          "publishedAt": "2026-08-26 07:18:17"
+        }
+      ]
+    },
+    {
+      "title": "加拿大反擊",
+      "sources": [
+        {
+          "source": "WSJ 華爾街日報（財經）",
+          "url": "https://www.wsj.com/finance/stocks/canada-strikes-back-2eba01b9?mod=rss_markets_main",
+          "publishedAt": "2026-08-26 04:23:00"
+        }
+      ]
+    },
+    {
+      "title": "加拿大對美祭關稅 瞄準中期選舉熱點州",
+      "sources": [
+        {
+          "source": "WSJ 華爾街日報（國際政經）",
+          "url": "https://www.wsj.com/world/americas/canada-targets-u-s-metals-foods-motorcycles-in-retaliatory-tariff-package-f677222b?mod=rss_worldnews",
+          "publishedAt": "2026-08-26 04:55:00"
+        }
+      ]
+    }
+  ],
+  "method": "以美國與台灣主要指數的收盤趨勢，加上具原始連結與發布時間的近期新聞做情境判讀；非保證報酬或個人投資建議。"
 }

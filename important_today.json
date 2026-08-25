@@ -1,29 +1,43 @@
 {
-  "updatedAt": "2026-08-25 18:10:02",
+  "updatedAt": "2026-08-26 07:47:32",
   "items": [
     {
-      "title": "最高法院裁定川普郵寄選票命令",
-      "fact": "加拿大貿易衝突升級為針鋒相對，求職者可利用技巧讓履歷重獲人資青睞。最高法院針對川普郵寄投票相關命令做出裁決，影響2024年大選程序。美加之間貿易糾紛持續惡化，雙方陷入報復性關稅戰。",
+      "title": "加拿大對美國鋼鐵產品關稅翻倍至50%",
+      "fact": "在《權力制衡晚間版》節目中，安大略省長福特表示加拿大應該「以關稅對關稅、以美元對美元」回應；同時敦促川普與總理卡尼達成公平協議。美國財政部前副部長福倫德主張，聯準會新主席應強化將通膨降至2%的承諾，並認為能源驅動的漲價壓力不足以成為升息理由。",
+      "importance": "影響：聯準會、關稅",
+      "verification": [
+        {
+          "source": "Bloomberg 彭博社（政治經濟）",
+          "url": "https://www.bloomberg.com/news/videos/2026-08-25/balance-of-power-late-edition-08-25-2026-video",
+          "publishedAt": "2026-08-26 07:18:17"
+        }
+      ],
+      "status": "市場事實（單一可追溯來源）",
+      "score": 85
+    },
+    {
+      "title": "加拿大反擊",
+      "fact": "油價下跌，迪克體育用品公司股價慘遭重創。加拿大祭出關稅報復措施，拖累能源股表現，消費類股也因應商環境惡化而承壓。",
+      "importance": "影響：油價、關稅",
+      "verification": [
+        {
+          "source": "WSJ 華爾街日報（財經）",
+          "url": "https://www.wsj.com/finance/stocks/canada-strikes-back-2eba01b9?mod=rss_markets_main",
+          "publishedAt": "2026-08-26 04:23:00"
+        }
+      ],
+      "status": "市場事實（單一可追溯來源）",
+      "score": 80
+    },
+    {
+      "title": "加拿大對美祭關稅 瞄準中期選舉熱點州",
+      "fact": "新課稅涵蓋約200億美元商品，關稅稅率介於15%至50%，旨在保護國內廠商的市場佔有率。加國此舉針對性明確，將對美國政治敏感地區的產業造成直接衝擊。",
       "importance": "影響：關稅",
       "verification": [
         {
           "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/world/asia/supreme-court-rules-on-trumps-mail-in-ballot-order-9fd77f1a?mod=rss_worldnews",
-          "publishedAt": "2026-08-25 05:31:00"
-        }
-      ],
-      "status": "市場事實（單一可追溯來源）",
-      "score": 65
-    },
-    {
-      "title": "比特幣漲勢延續突破8萬美元關卡，股市今日走勢",
-      "fact": "加密貨幣過去一週漲幅超過20%，油價則呈現回檔。比特幣延續強勁漲勢，突破8萬美元心理關卡，顯示市場對數位資產的需求持續旺盛。同期內原油價格出現調整，反映全球能源市場的波動。",
-      "importance": "影響：油價",
-      "verification": [
-        {
-          "source": "WSJ 華爾街日報（財經）",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-25-2026?mod=rss_markets_main",
-          "publishedAt": "2026-08-25 16:19:42"
+          "url": "https://www.wsj.com/world/americas/canada-targets-u-s-metals-foods-motorcycles-in-retaliatory-tariff-package-f677222b?mod=rss_worldnews",
+          "publishedAt": "2026-08-26 04:55:00"
         }
       ],
       "status": "市場事實（單一可追溯來源）",
