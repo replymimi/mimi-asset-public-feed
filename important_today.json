@@ -1,5 +1,20 @@
 {
-  "updatedAt": "2026-08-26 18:47:51",
-  "items": [],
+  "updatedAt": "2026-08-26 18:10:06",
+  "items": [
+    {
+      "title": "股市今日：布蘭特原油回檔至85美元，輝達財報在即",
+      "fact": "投資人今日上午將關注個人消費支出(PCE)通膨數據，同時密切追蹤輝達的季度財務表現，原油價格的回檔反映出市場對經濟前景的擔憂。",
+      "importance": "影響：油價、財報",
+      "verification": [
+        {
+          "source": "WSJ 華爾街日報（財經）",
+          "url": "https://www.wsj.com/livecoverage/nvidia-earnings-stock-market-today-08-26-2026?mod=rss_markets_main",
+          "publishedAt": "2026-08-26 16:11:58"
+        }
+      ],
+      "status": "市場事實（單一可追溯來源）",
+      "score": 75
+    }
+  ],
   "method": "僅收當日、附來源網址與發布時間的新聞；依市場影響關鍵字排序。"
 }
