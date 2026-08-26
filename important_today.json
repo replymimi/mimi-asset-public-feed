@@ -1,34 +1,5 @@
 {
-  "updatedAt": "2026-08-26 10:51:26",
-  "items": [
-    {
-      "title": "科技股領漲主要指數",
-      "fact": "基準公債殖利率創下6月以來最大跌幅。市場風險偏好上升帶動科技類股表現強勢，相關指數漲幅明顯優於其他板塊。",
-      "importance": "影響：利率",
-      "verification": [
-        {
-          "source": "WSJ 華爾街日報（財經）",
-          "url": "https://www.wsj.com/finance/stocks/tech-stocks-lead-major-indexes-higher-6291aac9?mod=rss_markets_main",
-          "publishedAt": "2026-08-26 05:05:00"
-        }
-      ],
-      "status": "市場事實（單一可追溯來源）",
-      "score": 65
-    },
-    {
-      "title": "加拿大強硬派領導人站上美國貿易戰前線",
-      "fact": "安大略省領導人道格．福特敦促總理馬克．卡尼對華盛頓採取強硬立場，並對川普總統發表不少尖銳言論。福特的強勢態度反映了加拿大對美國新關稅政策的強烈反彈，也凸顯了兩國間貿易談判的緊張局面。",
-      "importance": "影響：關稅",
-      "verification": [
-        {
-          "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/world/americas/the-canadian-bad-cop-on-the-front-lines-of-the-u-s-trade-war-23cc7454?mod=rss_worldnews",
-          "publishedAt": "2026-08-26 09:00:00"
-        }
-      ],
-      "status": "市場事實（單一可追溯來源）",
-      "score": 65
-    }
-  ],
+  "updatedAt": "2026-08-26 13:45:07",
+  "items": [],
   "method": "僅收當日、附來源網址與發布時間的新聞；依市場影響關鍵字排序。"
 }
