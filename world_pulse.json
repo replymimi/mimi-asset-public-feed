@@ -1,78 +1,78 @@
 {
-  "updatedAt": "2026-08-26 13:45:07",
+  "updatedAt": "2026-08-26 18:10:06",
   "date": "2026-08-26",
   "items": [
     {
       "theme": "國際政治",
-      "title": "美加貿易戰前線上的加拿大強硬派",
-      "fact": "安大略省領導人道格‧福特敦促總理馬克‧卡尼對華盛頓採取強硬立場，並對川普總統發表辱罵言論。福特成為加拿大對美貿易談判的關鍵人物，其態度將影響雙邊談判走向。安省政府正推動聯邦政府採取更積極的談判策略。",
+      "title": "印度學生抗爭持續升溫　對莫迪政府構成挑戰",
+      "fact": "印度全國爆發考試醜聞示威後一個月，學生抗爭仍在各地蔓延，迫使教育部長辭職，深刻反映出民眾對國家教育制度和招聘系統公正性的持久不滿。",
       "whyItMatters": "觀察政策、制裁或貿易規則是否改變跨境需求與企業成本。",
       "relatedAssets": "QQQ、META、GOOGL、台灣科技基金",
       "verification": [
         {
-          "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/world/americas/the-canadian-bad-cop-on-the-front-lines-of-the-u-s-trade-war-23cc7454?mod=rss_worldnews",
-          "publishedAt": "2026-08-26 09:00:00"
+          "source": "Bloomberg 彭博社（政治經濟）",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-26/india-student-anger-spreads-with-fresh-clashes-in-eastern-state",
+          "publishedAt": "2026-08-26 15:39:46"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "總體經濟",
-      "title": "科技股領漲主要指數",
-      "fact": "基準美債殖率創下6月以來最大跌幅。科技類股表現強勁，帶動大盤整體上揚，投資人風險偏好回升。債券市場走強反映出市場對經濟前景的謹慎態度。",
+      "title": "烏克蘭俄羅斯穀倉重鎮遭戰火與高溫重創",
+      "fact": "玉米和小麥價格創下多年新高，引發全球糧食安全預警與通膨隱憂，兩國作為全球主要糧食生產國的困境正衝擊國際農產品市場。",
       "whyItMatters": "觀察利率與景氣預期如何影響評價、美元與風險偏好。",
       "relatedAssets": "QQQ、NVDA、00947 ETF",
       "verification": [
         {
-          "source": "WSJ 華爾街日報（財經）",
-          "url": "https://www.wsj.com/finance/stocks/tech-stocks-lead-major-indexes-higher-6291aac9?mod=rss_markets_main",
-          "publishedAt": "2026-08-26 05:05:00"
+          "source": "Bloomberg 彭博社（政治經濟）",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-08-26/breadbasket-states-ukraine-and-russia-hammered-by-war-and-heat",
+          "publishedAt": "2026-08-26 17:59:01"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "市場",
-      "title": "標題：\n比特幣持守 79,000 美元，以太坊、Solana 下跌，交易者獲利了結本週漲幅",
-      "fact": "在過去24小時內，除了HYPE外，每個主要代幣都下跌了，儘管比特幣保持著23%的週漲幅，而XRP則接近45%。",
+      "title": "股市今日：布蘭特原油回檔至85美元，輝達財報在即",
+      "fact": "投資人今日上午將關注個人消費支出(PCE)通膨數據，同時密切追蹤輝達的季度財務表現，原油價格的回檔反映出市場對經濟前景的擔憂。",
       "whyItMatters": "觀察風險資產的資金流與評價是否出現連鎖反應。",
       "relatedAssets": "QQQ、META、GOOGL、00947 ETF",
       "verification": [
         {
-          "source": "CoinDesk（數位貨幣）",
-          "url": "https://www.coindesk.com/markets/2026/08/26/bitcoin-holds-usd79-000-ether-solana-slip-4-as-traders-bank-a-week-of-gains",
-          "publishedAt": "2026-08-26 12:13:10"
+          "source": "WSJ 華爾街日報（財經）",
+          "url": "https://www.wsj.com/livecoverage/nvidia-earnings-stock-market-today-08-26-2026?mod=rss_markets_main",
+          "publishedAt": "2026-08-26 16:11:58"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "科技",
-      "title": "標題：\n美國銀行集團計劃於2027年建立全國區塊鏈網絡",
-      "fact": "BankChain 加入了一個不斷擴大的銀行主導網絡領域，這些網絡為代幣化存款和鏈上支付建設共享基礎設施。",
+      "title": "微軟在AI業務上對投資人隱瞞真相",
+      "fact": "從資本支出到旗艦雲端平台，微軟因缺乏透明度而備受關注，投資人無法準確評估其人工智慧相關業務的實際進展與投資回報，這成為市場對公司估值的重大疑慮。",
       "whyItMatters": "觀察 AI、雲端與資安支出是否影響大型科技股與半導體需求。",
       "relatedAssets": "NVDA、QQQ、META、GOOGL、台積電",
       "verification": [
         {
-          "source": "CoinTelegraph（數位貨幣）",
-          "url": "https://cointelegraph.com/news/us-banking-groups-nationwide-blockchain-network-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedAt": "2026-08-26 12:17:39"
+          "source": "WSJ 華爾街日報（財經）",
+          "url": "https://www.wsj.com/tech/ai/microsoft-is-leaving-investors-flying-blind-on-its-ai-businesses-3607360a?mod=rss_markets_main",
+          "publishedAt": "2026-08-26 17:30:00"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "地緣風險",
-      "title": "伊朗沙赫德無人機如何改變戰爭—得助於中國",
-      "fact": "廉價一次性攻擊無人機的迅速崛起，係由一條複雜的全球供應鏈所推動，而該供應鏈的各環節均指向中國。中國成為該型無人機的關鍵零組件供應者，協助伊朗軍事能力升級。此一發展對區域安全局勢造成重大影響。",
+      "title": "美國欲勒死伊朗經濟　德黑蘭如何絕處逢生",
+      "fact": "伊朗多年來建構複雜的石油銷售和隱蔽影子銀行系統，冀圖維持國家經濟和軍事運作，面對美國層層制裁仍設法另闢蹊徑。",
       "whyItMatters": "觀察能源、航運、供應鏈與風險偏好是否出現突發性重估。",
       "relatedAssets": "漢翔、台積電、00947 ETF、USDT",
       "verification": [
         {
           "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/world/how-the-iranian-shahed-drone-transformed-warwith-chinas-help-2671bb43?mod=rss_worldnews",
-          "publishedAt": "2026-08-26 10:00:00"
+          "url": "https://www.wsj.com/world/middle-east/the-u-s-is-trying-to-strangle-irans-economy-heres-how-tehran-is-surviving-ca3d4cae?mod=rss_worldnews",
+          "publishedAt": "2026-08-26 17:06:00"
         }
       ],
       "status": "當日已驗證來源"

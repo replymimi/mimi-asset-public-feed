@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-08-26 14:05:36",
+  "updatedAt": "2026-08-26 18:10:06",
   "items": [
     {
-      "title": "科技股領漲主要股指",
-      "fact": "美國基準10年期公債殖利率創下自6月來最大跌幅，反映市場對經濟前景的重新評估。在聯準會政策信號轉變背景下，科技類股表現領先各板塊，帶動整體股市上揚。",
-      "importance": "影響：聯準會、利率",
+      "title": "股市今日：布蘭特原油回檔至85美元，輝達財報在即",
+      "fact": "投資人今日上午將關注個人消費支出(PCE)通膨數據，同時密切追蹤輝達的季度財務表現，原油價格的回檔反映出市場對經濟前景的擔憂。",
+      "importance": "影響：油價、財報",
       "verification": [
         {
           "source": "WSJ 華爾街日報（財經）",
-          "url": "https://www.wsj.com/finance/stocks/tech-stocks-lead-major-indexes-higher-6291aac9?mod=rss_markets_main",
-          "publishedAt": "2026-08-26 05:05:00"
+          "url": "https://www.wsj.com/livecoverage/nvidia-earnings-stock-market-today-08-26-2026?mod=rss_markets_main",
+          "publishedAt": "2026-08-26 16:11:58"
         }
       ],
       "status": "市場事實（單一可追溯來源）",
-      "score": 85
+      "score": 75
     }
   ],
   "method": "僅收當日、附來源網址與發布時間的新聞；依市場影響關鍵字排序。"
