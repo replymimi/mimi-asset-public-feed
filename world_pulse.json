@@ -1,63 +1,78 @@
 {
-  "updatedAt": "2026-08-25 18:10:02",
-  "date": "2026-08-25",
+  "updatedAt": "2026-08-26 09:40:07",
+  "date": "2026-08-26",
   "items": [
     {
-      "theme": "市場",
-      "title": "標題：\n實時更新：比特幣ETF連續第六天淨流入，漲勢維持在8萬美元上方",
-      "fact": "現貨比特幣基金在8月24日吸納了3億3756萬美元，延續了不間斷的淨流入紀錄，這已經為始於軋空的漲勢注入了真實資金。",
-      "whyItMatters": "觀察風險資產的資金流與評價是否出現連鎖反應。",
-      "relatedAssets": "QQQ、META、GOOGL、00947 ETF",
+      "theme": "國際政治",
+      "title": "加拿大強硬派站在美國貿易戰最前線",
+      "fact": "加拿大官員在美加貿易談判中採取強硬立場，與美國政府針鋒相對進行談判。該國對美國最新的關稅政策進行對等報復，顯示談判陷入膠著狀態。",
+      "whyItMatters": "觀察政策、制裁或貿易規則是否改變跨境需求與企業成本。",
+      "relatedAssets": "QQQ、META、GOOGL、台灣科技基金",
       "verification": [
         {
-          "source": "CoinDesk（數位貨幣）",
-          "url": "https://www.coindesk.com/business/2026/08/25/live-updates-bitcoin-etfs-draw-a-seventh-straight-day-of-inflows-as-the-rally-holds-above-usd80-000",
-          "publishedAt": "2026-08-25 15:40:11"
+          "source": "WSJ 華爾街日報（國際政經）",
+          "url": "https://www.wsj.com/world/americas/the-canadian-bad-cop-on-the-front-lines-of-the-u-s-trade-war-23cc7454?mod=rss_worldnews",
+          "publishedAt": "2026-08-26 09:00:00"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
-      "theme": "產業",
-      "title": "比特幣漲勢延續突破8萬美元關卡，股市今日走勢",
-      "fact": "加密貨幣過去一週漲幅超過20%，油價則呈現回檔。比特幣延續強勁漲勢，突破8萬美元心理關卡，顯示市場對數位資產的需求持續旺盛。同期內原油價格出現調整，反映全球能源市場的波動。",
-      "whyItMatters": "觀察供需、成本與供應鏈變化對產業獲利的傳導。",
-      "relatedAssets": "台積電、聯電、力積電、華邦電、南亞科",
+      "theme": "總體經濟",
+      "title": "科技股領漲主要指數上揚",
+      "fact": "美國基準公債殖利率創下自6月以來最大跌幅，反映市場對於利率前景的預期調整。科技股因此受惠於融資成本下降而表現突出，帶動主要股指集體走高。",
+      "whyItMatters": "觀察利率與景氣預期如何影響評價、美元與風險偏好。",
+      "relatedAssets": "QQQ、NVDA、00947 ETF",
       "verification": [
         {
           "source": "WSJ 華爾街日報（財經）",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-25-2026?mod=rss_markets_main",
-          "publishedAt": "2026-08-25 16:19:42"
+          "url": "https://www.wsj.com/finance/stocks/tech-stocks-lead-major-indexes-higher-6291aac9?mod=rss_markets_main",
+          "publishedAt": "2026-08-26 05:05:00"
+        }
+      ],
+      "status": "當日已驗證來源"
+    },
+    {
+      "theme": "市場",
+      "title": "標題：\n以下是今天加密貨幣市場發生的事情",
+      "fact": "想知道今天的加密貨幣發生了什麼？這裡是關於影響比特幣價格、區塊鏈、DeFi、Web3 和加密貨幣監管的日常趨勢和事件的最新新聞。",
+      "whyItMatters": "觀察風險資產的資金流與評價是否出現連鎖反應。",
+      "relatedAssets": "QQQ、META、GOOGL、00947 ETF",
+      "verification": [
+        {
+          "source": "CoinTelegraph（數位貨幣）",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedAt": "2026-08-26 02:34:20"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "科技",
-      "title": "Oura與Dunkin'計畫推出新股，華爾街IPO熱潮持續升溫",
-      "fact": "瑪姆達尼砲轟亞馬遜，矽谷出現新的社會地位象徵。隨著更多企業籌備上市，華爾街的首次公開發行市場再現活力。科技業與消費品牌的上市進展，吸引投資人高度關注。",
+      "title": "標題：美國各州銀行協會計劃推出自己的全國區塊鏈網絡",
+      "fact": "「BankChain Alliance」以2027年推出為目標，將在銀行系統的監管範圍內促進穩定幣、支付和代幣化存款的發展。",
       "whyItMatters": "觀察 AI、雲端與資安支出是否影響大型科技股與半導體需求。",
       "relatedAssets": "NVDA、QQQ、META、GOOGL、台積電",
       "verification": [
         {
-          "source": "WSJ 華爾街日報（財經）",
-          "url": "https://www.wsj.com/finance/stocks/oura-and-dunkin-eye-offerings-as-wall-streets-ipo-boom-builds-d9bc787d?mod=rss_markets_main",
-          "publishedAt": "2026-08-25 17:59:00"
+          "source": "CoinDesk（數位貨幣）",
+          "url": "https://www.coindesk.com/policy/2026/08/25/u-s-state-banking-associations-plan-to-launch-their-own-nationwide-blockchain-network",
+          "publishedAt": "2026-08-26 05:56:57"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "地緣風險",
-      "title": "最高法院裁定川普郵寄選票命令",
-      "fact": "加拿大貿易衝突升級為針鋒相對，求職者可利用技巧讓履歷重獲人資青睞。最高法院針對川普郵寄投票相關命令做出裁決，影響2024年大選程序。美加之間貿易糾紛持續惡化，雙方陷入報復性關稅戰。",
+      "title": "中國法院判刑諷刺毛澤東的藝術家",
+      "fact": "高真因為創作早年2000年代作品中辱罵中國英雄罪名遭法院定罪。該藝術家創作多件涉及政治敏感議題的作品，引起中國官方關注並遭起訴。",
       "whyItMatters": "觀察能源、航運、供應鏈與風險偏好是否出現突發性重估。",
       "relatedAssets": "漢翔、台積電、00947 ETF、USDT",
       "verification": [
         {
           "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/world/asia/supreme-court-rules-on-trumps-mail-in-ballot-order-9fd77f1a?mod=rss_worldnews",
-          "publishedAt": "2026-08-25 05:31:00"
+          "url": "https://www.wsj.com/world/china/chinese-court-sentences-artist-who-lampooned-mao-218aca0d?mod=rss_worldnews",
+          "publishedAt": "2026-08-26 08:27:00"
         }
       ],
       "status": "當日已驗證來源"
