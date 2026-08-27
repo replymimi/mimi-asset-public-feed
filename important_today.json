@@ -1,20 +1,5 @@
 {
-  "updatedAt": "2026-08-27 20:00:18",
-  "items": [
-    {
-      "title": "輝達樂觀展望提振投資人信心，股市今日上漲",
-      "fact": "晶片巨頭的財報顯示，人工智慧榮景仍有相當成長空間。輝達的獲利表現超越預期，印證了市場對AI產業長期發展的看好態度。此項消息激勵投資人買氣，帶動相關科技股走揚。",
-      "importance": "影響：晶片、財報",
-      "verification": [
-        {
-          "source": "WSJ 華爾街日報（財經）",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-27-2026?mod=rss_markets_main",
-          "publishedAt": "2026-08-27 16:25:49"
-        }
-      ],
-      "status": "市場事實（單一可追溯來源）",
-      "score": 80
-    }
-  ],
+  "updatedAt": "2026-08-28 00:49:39",
+  "items": [],
   "method": "僅收當日、附來源網址與發布時間的新聞；依市場影響關鍵字排序。"
 }
