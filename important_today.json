@@ -1,19 +1,33 @@
 {
-  "updatedAt": "2026-08-28 04:21:26",
+  "updatedAt": "2026-08-27 18:10:06",
   "items": [
     {
-      "title": "聚焦聯準會主席凱文．沃什",
-      "fact": "聯準會主席凱文．沃什將於本週五在懷俄明州傑克遜霍爾聯準會研討會發表主題演講，面臨經濟及政治逆風，同",
-      "importance": "影響：聯準會",
+      "title": "股市今日：輝達樂觀前景提振市場信心",
+      "fact": "晶片巨擘的財報顯示人工智慧熱潮仍有更大成長空間。輝達強勁的業績表現激勵了整體科技股走勢。投資人對AI產業的長期前景持續看好。",
+      "importance": "影響：晶片、財報",
       "verification": [
         {
-          "source": "Bloomberg 彭博社（政治經濟）",
-          "url": "https://www.bloomberg.com/news/videos/2026-08-27/big-take-all-ears-on-fed-chair-kevin-warsh-video",
-          "publishedAt": "2026-08-28 03:59:05"
+          "source": "WSJ 華爾街日報（財經）",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-27-2026?mod=rss_markets_main",
+          "publishedAt": "2026-08-27 16:25:49"
         }
       ],
       "status": "市場事實（單一可追溯來源）",
-      "score": 70
+      "score": 80
+    },
+    {
+      "title": "中國權衡應對美國下一輪關稅的對策",
+      "fact": "中國表示將監控美國與關稅相關的舉動，特別是涉及過度產能的指控，可能採取反制措施。此舉突顯雙方在貿易休兵期間仍存在摩擦。中美貿易談判前景仍待觀察。",
+      "importance": "影響：關稅",
+      "verification": [
+        {
+          "source": "Bloomberg 彭博社（政治經濟）",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-27/china-weighs-response-to-possible-next-round-of-us-tariffs",
+          "publishedAt": "2026-08-27 17:52:02"
+        }
+      ],
+      "status": "市場事實（單一可追溯來源）",
+      "score": 65
     }
   ],
   "method": "僅收當日、附來源網址與發布時間的新聞；依市場影響關鍵字排序。"
