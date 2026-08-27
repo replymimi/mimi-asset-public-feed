@@ -1,78 +1,78 @@
 {
-  "updatedAt": "2026-08-26 18:10:06",
-  "date": "2026-08-26",
+  "updatedAt": "2026-08-27 09:40:05",
+  "date": "2026-08-27",
   "items": [
     {
       "theme": "國際政治",
-      "title": "印度學生抗爭持續升溫　對莫迪政府構成挑戰",
-      "fact": "印度全國爆發考試醜聞示威後一個月，學生抗爭仍在各地蔓延，迫使教育部長辭職，深刻反映出民眾對國家教育制度和招聘系統公正性的持久不滿。",
+      "title": "美證管會重啟前政府未能推行的加密貨幣託管規則",
+      "fact": "美國證交會在 2023 年曾試圖狹義限制投資顧問存放客戶加密資產的地點，新方案目前仍處於保密階段，待進一步公開。",
       "whyItMatters": "觀察政策、制裁或貿易規則是否改變跨境需求與企業成本。",
       "relatedAssets": "QQQ、META、GOOGL、台灣科技基金",
       "verification": [
         {
-          "source": "Bloomberg 彭博社（政治經濟）",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-26/india-student-anger-spreads-with-fresh-clashes-in-eastern-state",
-          "publishedAt": "2026-08-26 15:39:46"
+          "source": "CoinDesk（數位貨幣）",
+          "url": "https://www.coindesk.com/news-analysis/2026/08/26/sec-resurrecting-u-s-crypto-custody-rule-the-previous-administration-failed-to-land",
+          "publishedAt": "2026-08-27 07:01:44"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "總體經濟",
-      "title": "烏克蘭俄羅斯穀倉重鎮遭戰火與高溫重創",
-      "fact": "玉米和小麥價格創下多年新高，引發全球糧食安全預警與通膨隱憂，兩國作為全球主要糧食生產國的困境正衝擊國際農產品市場。",
+      "title": "美聯儲理事庫克否認不當行為 川普重新推動罷免動作",
+      "fact": "聯準會理事莉莎·庫克再度否認川普總統提出的未經證實抵押貸款詐欺指控，川普正考慮重啟罷免努力，這將可能引發關於央行獨立性的又一場法律戰。",
       "whyItMatters": "觀察利率與景氣預期如何影響評價、美元與風險偏好。",
       "relatedAssets": "QQQ、NVDA、00947 ETF",
       "verification": [
         {
           "source": "Bloomberg 彭博社（政治經濟）",
-          "url": "https://www.bloomberg.com/news/newsletters/2026-08-26/breadbasket-states-ukraine-and-russia-hammered-by-war-and-heat",
-          "publishedAt": "2026-08-26 17:59:01"
+          "url": "https://www.bloomberg.com/news/articles/2026-08-26/fed-s-cook-denies-wrongdoing-as-trump-revives-push-to-fire-her",
+          "publishedAt": "2026-08-27 07:04:39"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "市場",
-      "title": "股市今日：布蘭特原油回檔至85美元，輝達財報在即",
-      "fact": "投資人今日上午將關注個人消費支出(PCE)通膨數據，同時密切追蹤輝達的季度財務表現，原油價格的回檔反映出市場對經濟前景的擔憂。",
+      "title": "投資人為輝達財報不如預期做準備 拖累大盤走低",
+      "fact": "美股主要指數在週三輕量交易中小幅下滑，投資人預先為輝達可能不盡理想的財務數據做出防守性布局。",
       "whyItMatters": "觀察風險資產的資金流與評價是否出現連鎖反應。",
       "relatedAssets": "QQQ、META、GOOGL、00947 ETF",
       "verification": [
         {
           "source": "WSJ 華爾街日報（財經）",
-          "url": "https://www.wsj.com/livecoverage/nvidia-earnings-stock-market-today-08-26-2026?mod=rss_markets_main",
-          "publishedAt": "2026-08-26 16:11:58"
+          "url": "https://www.wsj.com/finance/stocks/investors-brace-for-less-than-perfect-nvidia-results-pull-stocks-lower-2ef52443?mod=rss_markets_main",
+          "publishedAt": "2026-08-27 05:13:00"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "科技",
-      "title": "微軟在AI業務上對投資人隱瞞真相",
-      "fact": "從資本支出到旗艦雲端平台，微軟因缺乏透明度而備受關注，投資人無法準確評估其人工智慧相關業務的實際進展與投資回報，這成為市場對公司估值的重大疑慮。",
+      "title": "輝達財報超預期股價上揚 下季營收指引達 1,080 億美元",
+      "fact": "這家科技指標企業在週三盤後公布第二財",
       "whyItMatters": "觀察 AI、雲端與資安支出是否影響大型科技股與半導體需求。",
       "relatedAssets": "NVDA、QQQ、META、GOOGL、台積電",
       "verification": [
         {
-          "source": "WSJ 華爾街日報（財經）",
-          "url": "https://www.wsj.com/tech/ai/microsoft-is-leaving-investors-flying-blind-on-its-ai-businesses-3607360a?mod=rss_markets_main",
-          "publishedAt": "2026-08-26 17:30:00"
+          "source": "CoinDesk（數位貨幣）",
+          "url": "https://www.coindesk.com/markets/2026/08/26/nvidia-tops-earnings-estimates-guides-to-usd108-billion-in-revenue-next-quarter",
+          "publishedAt": "2026-08-27 04:24:31"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "地緣風險",
-      "title": "美國欲勒死伊朗經濟　德黑蘭如何絕處逢生",
-      "fact": "伊朗多年來建構複雜的石油銷售和隱蔽影子銀行系統，冀圖維持國家經濟和軍事運作，面對美國層層制裁仍設法另闢蹊徑。",
+      "title": "俄烏空戰進入新階段 死傷加劇",
+      "fact": "俄烏雙方持續以遠程無人機和飛彈進行攻擊，造成破壞日益加重，然而雙方距離達成突破性進展仍遙遙無期。",
       "whyItMatters": "觀察能源、航運、供應鏈與風險偏好是否出現突發性重估。",
       "relatedAssets": "漢翔、台積電、00947 ETF、USDT",
       "verification": [
         {
           "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/world/middle-east/the-u-s-is-trying-to-strangle-irans-economy-heres-how-tehran-is-surviving-ca3d4cae?mod=rss_worldnews",
-          "publishedAt": "2026-08-26 17:06:00"
+          "url": "https://www.wsj.com/world/the-russia-ukraine-air-war-has-entered-a-new-deadlier-phase-6d15cce1?mod=rss_worldnews",
+          "publishedAt": "2026-08-27 09:00:00"
         }
       ],
       "status": "當日已驗證來源"
