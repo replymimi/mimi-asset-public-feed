@@ -1,41 +1,41 @@
 {
-  "updatedAt": "2026-08-27 09:40:05",
+  "updatedAt": "2026-08-27 13:45:07",
   "date": "2026-08-27",
   "items": [
     {
       "theme": "國際政治",
-      "title": "美證管會重啟前政府未能推行的加密貨幣託管規則",
-      "fact": "美國證交會在 2023 年曾試圖狹義限制投資顧問存放客戶加密資產的地點，新方案目前仍處於保密階段，待進一步公開。",
+      "title": "毒品暴力失控在哥斯大黎加引發政治地震",
+      "fact": "長期被視為民主穩定堡壘的哥斯大黎加正面臨毒品走私激增帶來的嚴重衝擊，引發廣泛的政治及社會動盪。該國政府面臨控制日益惡化的暴力局勢的巨大挑戰。|",
       "whyItMatters": "觀察政策、制裁或貿易規則是否改變跨境需求與企業成本。",
       "relatedAssets": "QQQ、META、GOOGL、台灣科技基金",
       "verification": [
         {
-          "source": "CoinDesk（數位貨幣）",
-          "url": "https://www.coindesk.com/news-analysis/2026/08/26/sec-resurrecting-u-s-crypto-custody-rule-the-previous-administration-failed-to-land",
-          "publishedAt": "2026-08-27 07:01:44"
+          "source": "WSJ 華爾街日報（國際政經）",
+          "url": "https://www.wsj.com/world/americas/costa-rica-drug-violence-political-earthquake-e2094f2e?mod=rss_worldnews",
+          "publishedAt": "2026-08-27 09:00:00"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "總體經濟",
-      "title": "美聯儲理事庫克否認不當行為 川普重新推動罷免動作",
-      "fact": "聯準會理事莉莎·庫克再度否認川普總統提出的未經證實抵押貸款詐欺指控，川普正考慮重啟罷免努力，這將可能引發關於央行獨立性的又一場法律戰。",
+      "title": "# 比特幣跌破7.9萬美元，XRP領跌，交易員開始押注聯準會升息",
+      "fact": "除了 Solana 和 BNB 之外，每個主要代幣在過去 24 小時內都呈現平盤或下跌，其中比特幣保持週漲幅 14%，XRP 則為 28%。",
       "whyItMatters": "觀察利率與景氣預期如何影響評價、美元與風險偏好。",
       "relatedAssets": "QQQ、NVDA、00947 ETF",
       "verification": [
         {
-          "source": "Bloomberg 彭博社（政治經濟）",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-26/fed-s-cook-denies-wrongdoing-as-trump-revives-push-to-fire-her",
-          "publishedAt": "2026-08-27 07:04:39"
+          "source": "CoinDesk（數位貨幣）",
+          "url": "https://www.coindesk.com/markets/2026/08/27/bitcoin-below-usd79-000-xrp-leads-losses-as-traders-start-betting-on-a-fed-hike",
+          "publishedAt": "2026-08-27 12:35:18"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "市場",
-      "title": "投資人為輝達財報不如預期做準備 拖累大盤走低",
-      "fact": "美股主要指數在週三輕量交易中小幅下滑，投資人預先為輝達可能不盡理想的財務數據做出防守性布局。",
+      "title": "投資人為輝達業績不如預期作準備，股市走低",
+      "fact": "受到投資人對輝達財報表現擔憂的影響，美股主要指數在周三交易中小幅下滑，交易量相對清淡。市場對該科技巨擘能否延續亮麗成績單持保留態度。|",
       "whyItMatters": "觀察風險資產的資金流與評價是否出現連鎖反應。",
       "relatedAssets": "QQQ、META、GOOGL、00947 ETF",
       "verification": [
@@ -48,24 +48,9 @@
       "status": "當日已驗證來源"
     },
     {
-      "theme": "科技",
-      "title": "輝達財報超預期股價上揚 下季營收指引達 1,080 億美元",
-      "fact": "這家科技指標企業在週三盤後公布第二財",
-      "whyItMatters": "觀察 AI、雲端與資安支出是否影響大型科技股與半導體需求。",
-      "relatedAssets": "NVDA、QQQ、META、GOOGL、台積電",
-      "verification": [
-        {
-          "source": "CoinDesk（數位貨幣）",
-          "url": "https://www.coindesk.com/markets/2026/08/26/nvidia-tops-earnings-estimates-guides-to-usd108-billion-in-revenue-next-quarter",
-          "publishedAt": "2026-08-27 04:24:31"
-        }
-      ],
-      "status": "當日已驗證來源"
-    },
-    {
       "theme": "地緣風險",
-      "title": "俄烏空戰進入新階段 死傷加劇",
-      "fact": "俄烏雙方持續以遠程無人機和飛彈進行攻擊，造成破壞日益加重，然而雙方距離達成突破性進展仍遙遙無期。",
+      "title": "俄烏空戰進入新的致命階段",
+      "fact": "俄烏雙方正透過長程無人機及飛彈造成持續增加的破壞，但雙方暫無一方接近戰爭終局。雙方都在持續升級空中作戰能力，導致衝突加劇。|",
       "whyItMatters": "觀察能源、航運、供應鏈與風險偏好是否出現突發性重估。",
       "relatedAssets": "漢翔、台積電、00947 ETF、USDT",
       "verification": [

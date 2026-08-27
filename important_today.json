@@ -1,9 +1,23 @@
 {
-  "updatedAt": "2026-08-27 12:36:46",
+  "updatedAt": "2026-08-27 13:45:07",
   "items": [
     {
-      "title": "加拿大自報復關稅清單中移除美國海產品",
-      "fact": "加拿大在宣佈對美國商品課徵報復關稅後隔日，即將魚類和海產品自反制清單中移除，聲稱係根據市場反饋意見做出調整。此舉凸顯貿易戰談判過程的複雜性與利益團體壓力的影響。",
+      "title": "# 比特幣跌破7.9萬美元，XRP領跌，交易員開始押注聯準會升息",
+      "fact": "除了 Solana 和 BNB 之外，每個主要代幣在過去 24 小時內都呈現平盤或下跌，其中比特幣保持週漲幅 14%，XRP 則為 28%。",
+      "importance": "影響：聯準會",
+      "verification": [
+        {
+          "source": "CoinDesk（數位貨幣）",
+          "url": "https://www.coindesk.com/markets/2026/08/27/bitcoin-below-usd79-000-xrp-leads-losses-as-traders-start-betting-on-a-fed-hike",
+          "publishedAt": "2026-08-27 12:35:18"
+        }
+      ],
+      "status": "市場事實（單一可追溯來源）",
+      "score": 70
+    },
+    {
+      "title": "加拿大從反制關稅清單中移除美國海鮮商品",
+      "fact": "加拿大在宣布對美國商品課徵進口關稅後一天，就將魚類及海鮮商品從反制關稅清單中移除，理由是收到相關回饋意見。此舉反映兩國在貿易談判上尋求緩和的態度。|",
       "importance": "影響：關稅",
       "verification": [
         {
