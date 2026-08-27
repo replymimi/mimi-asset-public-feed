@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-08-27 09:40:05",
+  "updatedAt": "2026-08-27 12:36:46",
   "items": [
     {
-      "title": "美聯儲理事庫克否認不當行為 川普重新推動罷免動作",
-      "fact": "聯準會理事莉莎·庫克再度否認川普總統提出的未經證實抵押貸款詐欺指控，川普正考慮重啟罷免努力，這將可能引發關於央行獨立性的又一場法律戰。",
-      "importance": "影響：聯準會",
+      "title": "加拿大自報復關稅清單中移除美國海產品",
+      "fact": "加拿大在宣佈對美國商品課徵報復關稅後隔日，即將魚類和海產品自反制清單中移除，聲稱係根據市場反饋意見做出調整。此舉凸顯貿易戰談判過程的複雜性與利益團體壓力的影響。",
+      "importance": "影響：關稅",
       "verification": [
         {
           "source": "Bloomberg 彭博社（政治經濟）",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-26/fed-s-cook-denies-wrongdoing-as-trump-revives-push-to-fire-her",
-          "publishedAt": "2026-08-27 07:04:39"
+          "url": "https://www.bloomberg.com/news/articles/2026-08-27/canada-removes-us-seafood-from-counter-tariffs-citing-feedback",
+          "publishedAt": "2026-08-27 11:50:13"
         }
       ],
       "status": "市場事實（單一可追溯來源）",
-      "score": 70
+      "score": 65
     }
   ],
   "method": "僅收當日、附來源網址與發布時間的新聞；依市場影響關鍵字排序。"
