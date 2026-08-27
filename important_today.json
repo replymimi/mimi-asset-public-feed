@@ -1,5 +1,20 @@
 {
-  "updatedAt": "2026-08-28 00:49:39",
-  "items": [],
+  "updatedAt": "2026-08-28 04:21:26",
+  "items": [
+    {
+      "title": "聚焦聯準會主席凱文．沃什",
+      "fact": "聯準會主席凱文．沃什將於本週五在懷俄明州傑克遜霍爾聯準會研討會發表主題演講，面臨經濟及政治逆風，同",
+      "importance": "影響：聯準會",
+      "verification": [
+        {
+          "source": "Bloomberg 彭博社（政治經濟）",
+          "url": "https://www.bloomberg.com/news/videos/2026-08-27/big-take-all-ears-on-fed-chair-kevin-warsh-video",
+          "publishedAt": "2026-08-28 03:59:05"
+        }
+      ],
+      "status": "市場事實（單一可追溯來源）",
+      "score": 70
+    }
+  ],
   "method": "僅收當日、附來源網址與發布時間的新聞；依市場影響關鍵字排序。"
 }
