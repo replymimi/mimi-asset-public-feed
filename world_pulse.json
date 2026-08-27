@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-08-27 13:45:07",
+  "updatedAt": "2026-08-27 18:10:06",
   "date": "2026-08-27",
   "items": [
     {
       "theme": "國際政治",
-      "title": "毒品暴力失控在哥斯大黎加引發政治地震",
-      "fact": "長期被視為民主穩定堡壘的哥斯大黎加正面臨毒品走私激增帶來的嚴重衝擊，引發廣泛的政治及社會動盪。該國政府面臨控制日益惡化的暴力局勢的巨大挑戰。|",
+      "title": "哥斯大黎加毒品暴力失控引發政治地震",
+      "fact": "作為民主穩定堡壘的中美洲國家正應對毒品販運激增的連鎖影響。該國政府面臨維持治安與經濟發展的雙重挑戰。區域安全局勢引發國際關注。",
       "whyItMatters": "觀察政策、制裁或貿易規則是否改變跨境需求與企業成本。",
       "relatedAssets": "QQQ、META、GOOGL、台灣科技基金",
       "verification": [
@@ -19,45 +19,60 @@
     },
     {
       "theme": "總體經濟",
-      "title": "# 比特幣跌破7.9萬美元，XRP領跌，交易員開始押注聯準會升息",
-      "fact": "除了 Solana 和 BNB 之外，每個主要代幣在過去 24 小時內都呈現平盤或下跌，其中比特幣保持週漲幅 14%，XRP 則為 28%。",
+      "title": "美債度過難熬夏季？海外更加險峻",
+      "fact": "法國、義大利、英國、日本等債務負擔沉重的國家在近月來面臨最大壓力。國際債市波動性高於美債市場。全球債市前景仍存在不確定性。",
       "whyItMatters": "觀察利率與景氣預期如何影響評價、美元與風險偏好。",
       "relatedAssets": "QQQ、NVDA、00947 ETF",
       "verification": [
         {
-          "source": "CoinDesk（數位貨幣）",
-          "url": "https://www.coindesk.com/markets/2026/08/27/bitcoin-below-usd79-000-xrp-leads-losses-as-traders-start-betting-on-a-fed-hike",
-          "publishedAt": "2026-08-27 12:35:18"
+          "source": "WSJ 華爾街日報（財經）",
+          "url": "https://www.wsj.com/economy/global/think-treasurys-are-having-a-rough-summer-its-even-uglier-abroad-7224cf70?mod=rss_markets_main",
+          "publishedAt": "2026-08-27 17:30:00"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "市場",
-      "title": "投資人為輝達業績不如預期作準備，股市走低",
-      "fact": "受到投資人對輝達財報表現擔憂的影響，美股主要指數在周三交易中小幅下滑，交易量相對清淡。市場對該科技巨擘能否延續亮麗成績單持保留態度。|",
+      "title": "標題：\nBlackRock 的 Mitchnick 表示在創紀錄交易的積極一週後，比特幣的宏觀理由正在加強",
+      "fact": "BlackRock 數位資產主管在公司現貨 BTC ETF（IBIT）創下單週成交量紀錄後，分享了他對比特幣的看法。",
       "whyItMatters": "觀察風險資產的資金流與評價是否出現連鎖反應。",
       "relatedAssets": "QQQ、META、GOOGL、00947 ETF",
       "verification": [
         {
+          "source": "CoinDesk（數位貨幣）",
+          "url": "https://www.coindesk.com/markets/2026/08/27/blackrock-s-mitchnick-says-macro-case-for-bitcoin-is-strengthening-after-record-trading-in-positive-week",
+          "publishedAt": "2026-08-27 17:19:39"
+        }
+      ],
+      "status": "當日已驗證來源"
+    },
+    {
+      "theme": "科技",
+      "title": "股市今日：輝達樂觀前景提振市場信心",
+      "fact": "晶片巨擘的財報顯示人工智慧熱潮仍有更大成長空間。輝達強勁的業績表現激勵了整體科技股走勢。投資人對AI產業的長期前景持續看好。",
+      "whyItMatters": "觀察 AI、雲端與資安支出是否影響大型科技股與半導體需求。",
+      "relatedAssets": "NVDA、QQQ、META、GOOGL、台積電",
+      "verification": [
+        {
           "source": "WSJ 華爾街日報（財經）",
-          "url": "https://www.wsj.com/finance/stocks/investors-brace-for-less-than-perfect-nvidia-results-pull-stocks-lower-2ef52443?mod=rss_markets_main",
-          "publishedAt": "2026-08-27 05:13:00"
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-27-2026?mod=rss_markets_main",
+          "publishedAt": "2026-08-27 16:25:49"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "地緣風險",
-      "title": "俄烏空戰進入新的致命階段",
-      "fact": "俄烏雙方正透過長程無人機及飛彈造成持續增加的破壞，但雙方暫無一方接近戰爭終局。雙方都在持續升級空中作戰能力，導致衝突加劇。|",
+      "title": "尼泊爾和中國洪災逾1,400人失蹤，疑因冰川決裂",
+      "fact": "至少180人已確認罹難，強大水流將許多民眾沖過150多英里距離。這是該地區近年來最嚴重的自然災害之一。搜救工作仍在進行中。",
       "whyItMatters": "觀察能源、航運、供應鏈與風險偏好是否出現突發性重估。",
       "relatedAssets": "漢翔、台積電、00947 ETF、USDT",
       "verification": [
         {
           "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/world/the-russia-ukraine-air-war-has-entered-a-new-deadlier-phase-6d15cce1?mod=rss_worldnews",
-          "publishedAt": "2026-08-27 09:00:00"
+          "url": "https://www.wsj.com/world/india/more-than-1-400-missing-in-nepal-and-china-in-floods-likely-sparked-by-glacier-break-39fb0cac?mod=rss_worldnews",
+          "publishedAt": "2026-08-27 16:40:00"
         }
       ],
       "status": "當日已驗證來源"
