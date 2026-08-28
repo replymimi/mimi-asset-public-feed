@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-08-28 09:40:07",
+  "updatedAt": "2026-08-28 13:45:06",
   "date": "2026-08-28",
   "items": [
     {
       "theme": "國際政治",
-      "title": "白宮高級助手對拉特克利夫俄羅斯之行毫不知情",
-      "fact": "川普總統派遣中情局局長出訪俄羅斯，藉此採取新策略抑制俄國侵略行為。這項決策繞過既有的政策協商流程，反映政府內部對俄烏衝突處理方式的戰略調整。",
+      "title": "白宮高層對拉特克里夫俄羅斯之行一無所知",
+      "fact": "川普派遣中情局局長採取新戰術以遏制俄羅斯侵略。這一行動代表川普政府在對俄外交上轉變策略方向。白宮內部溝通協調的缺失引發關注。",
       "whyItMatters": "觀察政策、制裁或貿易規則是否改變跨境需求與企業成本。",
       "relatedAssets": "QQQ、META、GOOGL、台灣科技基金",
       "verification": [
@@ -20,7 +20,7 @@
     {
       "theme": "總體經濟",
       "title": "川普家族加密銀行獲阿布達比皇室支持",
-      "fact": "這項合作案涉及新創「美洲湖」概念，同時也突顯了財政政策與聯準會獨立性之間的界限日趨模糊。該計畫反映出川普政府對加密資產的積極推動，預計在傑克森霍爾會議前成為焦點議題。",
+      "fact": "此外，新創造的「美洲湖」概念及財政策略與聯準會獨立性之間模糊界線成為焦點，為傑克森霍爾會議增添議題。中東資本對川普集團加密金融事業的介入引發各界關注。皇室資金的投入象徵區域經濟影響力的轉變。",
       "whyItMatters": "觀察利率與景氣預期如何影響評價、美元與風險偏好。",
       "relatedAssets": "QQQ、NVDA、00947 ETF",
       "verification": [
@@ -34,45 +34,30 @@
     },
     {
       "theme": "市場",
-      "title": "標題：\nVirtu 與 Tradeweb 利用馬紹爾群島數位債券完成鏈上回購交易",
-      "fact": "該交易以馬紹爾群島發行的 USDM1 債券作為抵押品，並在 Canton Network 上以不到 10 分鐘的時間完成了完整的回購周期。",
+      "title": "標題：\nBitcoin在Coinbase上經歷長期後再次溢價交易。以下是其含義",
+      "fact": "指標自五月以來首次轉為正值，因為 BTC 尋求在 $80,000 上方建立立足點。",
       "whyItMatters": "觀察風險資產的資金流與評價是否出現連鎖反應。",
       "relatedAssets": "QQQ、META、GOOGL、00947 ETF",
       "verification": [
         {
-          "source": "CoinTelegraph（數位貨幣）",
-          "url": "https://cointelegraph.com/news/virtu-tradeweb-complete-onchain-repo-using-marshall-islands-digital-bond?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedAt": "2026-08-28 04:39:40"
+          "source": "CoinDesk（數位貨幣）",
+          "url": "https://www.coindesk.com/markets/2026/08/28/bitcoin-is-trading-at-a-premium-on-coinbase-after-a-long-time",
+          "publishedAt": "2026-08-28 13:02:22"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "產業",
-      "title": "伊朗戰爭爆發後全球局勢如何改變",
-      "fact": "從油價到區域聯盟，這場已持續六個月的衝突突破市場預期，撼動全球地緣政治版圖。戰爭衝擊波及能源市場、國際貿易與地區安全格局，重塑全球權力平衡。",
+      "title": "伊朗戰爭爆發以來全球局勢如何改變",
+      "fact": "從油價到區域聯盟，這場六個月大的衝突已超出預期，撼動全球力量平衡。國際能源市場波動加劇，地緣政治風險重新評估。中東局勢升溫對全球經貿格局產生深遠影響。",
       "whyItMatters": "觀察供需、成本與供應鏈變化對產業獲利的傳導。",
       "relatedAssets": "台積電、聯電、力積電、華邦電、南亞科",
       "verification": [
         {
           "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/world/middle-east/see-how-the-world-has-changed-since-the-start-of-the-iran-war-dd90b2d0?mod=rss_worldnews",
+          "url": "https://www.wsj.com/world/middle-east/iran-war-impact-dd90b2d0?mod=rss_worldnews",
           "publishedAt": "2026-08-28 09:00:00"
-        }
-      ],
-      "status": "當日已驗證來源"
-    },
-    {
-      "theme": "科技",
-      "title": "標題：\n以下是今天加密貨幣市場發生的情況",
-      "fact": "需要了解今天加密貨幣市場發生了什麼事？這裡提供最新的每日趨勢新聞和影響 Bitcoin 價格、blockchain、DeFi、Web3 和加密貨幣監管的事件。",
-      "whyItMatters": "觀察 AI、雲端與資安支出是否影響大型科技股與半導體需求。",
-      "relatedAssets": "NVDA、QQQ、META、GOOGL、台積電",
-      "verification": [
-        {
-          "source": "CoinTelegraph（數位貨幣）",
-          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedAt": "2026-08-28 03:27:53"
         }
       ],
       "status": "當日已驗證來源"

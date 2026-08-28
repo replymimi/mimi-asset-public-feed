@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-28 09:40:07",
+  "updatedAt": "2026-08-28 13:45:06",
   "items": [
     {
       "title": "川普家族加密銀行獲阿布達比皇室支持",
-      "fact": "這項合作案涉及新創「美洲湖」概念，同時也突顯了財政政策與聯準會獨立性之間的界限日趨模糊。該計畫反映出川普政府對加密資產的積極推動，預計在傑克森霍爾會議前成為焦點議題。",
+      "fact": "此外，新創造的「美洲湖」概念及財政策略與聯準會獨立性之間模糊界線成為焦點，為傑克森霍爾會議增添議題。中東資本對川普集團加密金融事業的介入引發各界關注。皇室資金的投入象徵區域經濟影響力的轉變。",
       "importance": "影響：聯準會",
       "verification": [
         {
@@ -16,13 +16,13 @@
       "score": 70
     },
     {
-      "title": "伊朗戰爭爆發後全球局勢如何改變",
-      "fact": "從油價到區域聯盟，這場已持續六個月的衝突突破市場預期，撼動全球地緣政治版圖。戰爭衝擊波及能源市場、國際貿易與地區安全格局，重塑全球權力平衡。",
+      "title": "伊朗戰爭爆發以來全球局勢如何改變",
+      "fact": "從油價到區域聯盟，這場六個月大的衝突已超出預期，撼動全球力量平衡。國際能源市場波動加劇，地緣政治風險重新評估。中東局勢升溫對全球經貿格局產生深遠影響。",
       "importance": "影響：油價",
       "verification": [
         {
           "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/world/middle-east/see-how-the-world-has-changed-since-the-start-of-the-iran-war-dd90b2d0?mod=rss_worldnews",
+          "url": "https://www.wsj.com/world/middle-east/iran-war-impact-dd90b2d0?mod=rss_worldnews",
           "publishedAt": "2026-08-28 09:00:00"
         }
       ],
