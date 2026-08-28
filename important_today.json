@@ -1,48 +1,5 @@
 {
-  "updatedAt": "2026-08-28 21:20:56",
-  "items": [
-    {
-      "title": "股市今日：股指期貨震盪 投資人靜候沃什演說",
-      "fact": "美國聯準會主席將於美東時間上午10時在傑克遜洞發表演說；布蘭特原油上漲2%。市場投資人密切關注聯準會官員發言以尋求政策信號。",
-      "importance": "影響：聯準會",
-      "verification": [
-        {
-          "source": "WSJ 華爾街日報（財經）",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-jackson-hole-08-28-2026?mod=rss_markets_main",
-          "publishedAt": "2026-08-28 16:33:46"
-        }
-      ],
-      "status": "市場事實（單一可追溯來源）",
-      "score": 70
-    },
-    {
-      "title": "安德森-霍洛維茲推出「機器時代基金」 力求突破AI供應瓶頸",
-      "fact": "這家曾支持SpaceX及Anduril的創投業者欲擴大對晶片、機器人等硬體的投資規模。該基金瞄準解決AI產業面臨的關鍵硬體短缺問題。",
-      "importance": "影響：晶片",
-      "verification": [
-        {
-          "source": "WSJ 華爾街日報（財經）",
-          "url": "https://www.wsj.com/finance/investing/andreessen-horowitz-hardware-fund-ai-supply-chain-887774c5?mod=rss_markets_main",
-          "publishedAt": "2026-08-28 21:00:00"
-        }
-      ],
-      "status": "市場事實（單一可追溯來源）",
-      "score": 70
-    },
-    {
-      "title": "伊朗戰爭爆發以來 全球局勢如何改變",
-      "fact": "從油價到區域聯盟，這場已持續六個月的衝突已超越各界預期並動搖全球權力平衡。經貿和地緣政治格局正經歷深刻重組。",
-      "importance": "影響：油價",
-      "verification": [
-        {
-          "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/world/middle-east/iran-war-impact-dd90b2d0?mod=rss_worldnews",
-          "publishedAt": "2026-08-28 09:00:00"
-        }
-      ],
-      "status": "市場事實（單一可追溯來源）",
-      "score": 65
-    }
-  ],
+  "updatedAt": "2026-08-29 01:43:07",
+  "items": [],
   "method": "僅收當日、附來源網址與發布時間的新聞；依市場影響關鍵字排序。"
 }
