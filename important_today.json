@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-08-27 18:10:06",
+  "updatedAt": "2026-08-28 09:40:07",
   "items": [
     {
-      "title": "股市今日：輝達樂觀前景提振市場信心",
-      "fact": "晶片巨擘的財報顯示人工智慧熱潮仍有更大成長空間。輝達強勁的業績表現激勵了整體科技股走勢。投資人對AI產業的長期前景持續看好。",
-      "importance": "影響：晶片、財報",
+      "title": "川普家族加密銀行獲阿布達比皇室支持",
+      "fact": "這項合作案涉及新創「美洲湖」概念，同時也突顯了財政政策與聯準會獨立性之間的界限日趨模糊。該計畫反映出川普政府對加密資產的積極推動，預計在傑克森霍爾會議前成為焦點議題。",
+      "importance": "影響：聯準會",
       "verification": [
         {
           "source": "WSJ 華爾街日報（財經）",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-27-2026?mod=rss_markets_main",
-          "publishedAt": "2026-08-27 16:25:49"
+          "url": "https://www.wsj.com/finance/investing/trump-family-crypto-bank-backed-by-abu-dhabi-royal-f18bb424?mod=rss_markets_main",
+          "publishedAt": "2026-08-28 05:23:00"
         }
       ],
       "status": "市場事實（單一可追溯來源）",
-      "score": 80
+      "score": 70
     },
     {
-      "title": "中國權衡應對美國下一輪關稅的對策",
-      "fact": "中國表示將監控美國與關稅相關的舉動，特別是涉及過度產能的指控，可能採取反制措施。此舉突顯雙方在貿易休兵期間仍存在摩擦。中美貿易談判前景仍待觀察。",
-      "importance": "影響：關稅",
+      "title": "伊朗戰爭爆發後全球局勢如何改變",
+      "fact": "從油價到區域聯盟，這場已持續六個月的衝突突破市場預期，撼動全球地緣政治版圖。戰爭衝擊波及能源市場、國際貿易與地區安全格局，重塑全球權力平衡。",
+      "importance": "影響：油價",
       "verification": [
         {
-          "source": "Bloomberg 彭博社（政治經濟）",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-27/china-weighs-response-to-possible-next-round-of-us-tariffs",
-          "publishedAt": "2026-08-27 17:52:02"
+          "source": "WSJ 華爾街日報（國際政經）",
+          "url": "https://www.wsj.com/world/middle-east/see-how-the-world-has-changed-since-the-start-of-the-iran-war-dd90b2d0?mod=rss_worldnews",
+          "publishedAt": "2026-08-28 09:00:00"
         }
       ],
       "status": "市場事實（單一可追溯來源）",
