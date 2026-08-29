@@ -1,78 +1,63 @@
 {
-  "updatedAt": "2026-08-28 18:10:05",
-  "date": "2026-08-28",
+  "updatedAt": "2026-08-29 09:40:07",
+  "date": "2026-08-29",
   "items": [
     {
       "theme": "國際政治",
-      "title": "Kraken用戶因受制裁加密貨幣交易激增遭短暫鎖定",
-      "fact": "該異常活動出現於8月17日至8月24日期間，涉及將受制裁資金分散轉帳以觸發帳戶限制機制。交易所已採取措施應對此情況。",
+      "title": "謝恩鮑姆掌權加強 應對美國施壓",
+      "fact": "左翼總統謝恩鮑姆近日撤換遭美方指控毒品走私的州長，排除導師盟友的勢力，展現其對墨西哥的掌控力度。",
       "whyItMatters": "觀察政策、制裁或貿易規則是否改變跨境需求與企業成本。",
       "relatedAssets": "QQQ、META、GOOGL、台灣科技基金",
       "verification": [
         {
-          "source": "CoinDesk（數位貨幣）",
-          "url": "https://www.coindesk.com/business/2026/08/28/kraken-users-briefly-locked-out-after-a-flood-of-sanctioned-crypto-transactions",
-          "publishedAt": "2026-08-28 17:10:40"
+          "source": "WSJ 華爾街日報（國際政經）",
+          "url": "https://www.wsj.com/world/americas/claudia-sheinbaum-is-taking-more-control-as-u-s-pressures-mexico-926e4e00?mod=rss_worldnews",
+          "publishedAt": "2026-08-29 06:00:00"
+        }
+      ],
+      "status": "當日已驗證來源"
+    },
+    {
+      "theme": "總體經濟",
+      "title": "沃什轉鷹派 市場為可能升息做準備",
+      "fact": "聯準會主席強調通膨疑慮後，公債殖利率上升，股市小幅下滑，市場為升息做好應對準備。",
+      "whyItMatters": "觀察利率與景氣預期如何影響評價、美元與風險偏好。",
+      "relatedAssets": "QQQ、NVDA、00947 ETF",
+      "verification": [
+        {
+          "source": "WSJ 華爾街日報（財經）",
+          "url": "https://www.wsj.com/finance/investing/markets-brace-for-possible-rate-hike-after-kevin-warshs-hawkish-turn-f2611e6f?mod=rss_markets_main",
+          "publishedAt": "2026-08-29 05:30:00"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "市場",
-      "title": "比特幣期權644億美元到期 現貨價格徘徊在8萬美元附近",
-      "fact": "644億美元期權合約在比特幣自約6.2萬美元飆升至8萬美元後到期，交易員須在全新價位帶重新調整持倉。",
+      "title": "以下是今天加密貨幣發生的事情",
+      "fact": "想了解今天加密貨幣領域發生了什麼？以下是影響比特幣價格、區塊鏈、DeFi、Web3 和加密貨幣監管的每日趨勢和事件的最新新聞。",
       "whyItMatters": "觀察風險資產的資金流與評價是否出現連鎖反應。",
       "relatedAssets": "QQQ、META、GOOGL、00947 ETF",
       "verification": [
         {
-          "source": "CoinDesk（數位貨幣）",
-          "url": "https://www.coindesk.com/business/2026/08/28/live-updates-bitcoin-options-worth-usd6-4-billion-just-expired-as-prices-hover-near-usd80-000",
-          "publishedAt": "2026-08-28 17:09:07"
-        }
-      ],
-      "status": "當日已驗證來源"
-    },
-    {
-      "theme": "產業",
-      "title": "股市今日：股指期貨震盪 投資人靜待沃什演講",
-      "fact": "美聯準主席將於美東時間上午10時在傑克遜霍爾發表演說；布倫特油價上漲2%。投資人密切關注此次演講對市場的影響。",
-      "whyItMatters": "觀察供需、成本與供應鏈變化對產業獲利的傳導。",
-      "relatedAssets": "台積電、聯電、力積電、華邦電、南亞科",
-      "verification": [
-        {
-          "source": "WSJ 華爾街日報（財經）",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-jackson-hole-08-28-2026?mod=rss_markets_main",
-          "publishedAt": "2026-08-28 16:33:46"
-        }
-      ],
-      "status": "當日已驗證來源"
-    },
-    {
-      "theme": "科技",
-      "title": "IREN股價下跌8% 高成本AI轉型拖累獲利",
-      "fact": "公司獲利能力走弱，蓋過其轉型為",
-      "whyItMatters": "觀察 AI、雲端與資安支出是否影響大型科技股與半導體需求。",
-      "relatedAssets": "NVDA、QQQ、META、GOOGL、台積電",
-      "verification": [
-        {
-          "source": "CoinDesk（數位貨幣）",
-          "url": "https://www.coindesk.com/markets/2026/08/28/iren-shares-fall-8-as-costly-ai-transition-weighs-on-earnings",
-          "publishedAt": "2026-08-28 17:07:00"
+          "source": "CoinTelegraph（數位貨幣）",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedAt": "2026-08-29 04:42:54"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "地緣風險",
-      "title": "伊朗戰爭爆發以來全球局勢大變",
-      "fact": "從油價到區域聯盟，這場歷時半年的衝突已挑戰預期，撼動全球權力平衡。該衝突帶來的地緣政治影響持續擴大。",
+      "title": "伊朗戰爭對美軍彈藥庫存構成威脅 引發美國對抗中俄能力的擔憂",
+      "fact": "國防部長海斯思正依照五角大廈既定程序，以「訂單簿」方式監管彈藥調配，美國對維持對華俄威懾力的能力提出疑慮。",
       "whyItMatters": "觀察能源、航運、供應鏈與風險偏好是否出現突發性重估。",
       "relatedAssets": "漢翔、台積電、00947 ETF、USDT",
       "verification": [
         {
           "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/world/middle-east/iran-war-impact-dd90b2d0?mod=rss_worldnews",
-          "publishedAt": "2026-08-28 09:00:00"
+          "url": "https://www.wsj.com/politics/national-security/drain-on-u-s-munitions-from-iran-war-raises-fears-over-ability-to-deter-china-russia-c7d4512d?mod=rss_worldnews",
+          "publishedAt": "2026-08-29 09:00:00"
         }
       ],
       "status": "當日已驗證來源"
