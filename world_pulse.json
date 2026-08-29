@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-08-29 09:40:07",
+  "updatedAt": "2026-08-29 13:45:07",
   "date": "2026-08-29",
   "items": [
     {
       "theme": "國際政治",
-      "title": "謝恩鮑姆掌權加強 應對美國施壓",
-      "fact": "左翼總統謝恩鮑姆近日撤換遭美方指控毒品走私的州長，排除導師盟友的勢力，展現其對墨西哥的掌控力度。",
+      "title": "改革英國淡化加密貨幣 展示外交實力",
+      "fact": "奈傑爾‧法拉奇領導的民粹政黨改革英國正強調外交能力並淡化加密貨幣公司支持。該黨試圖向選民展示其治國準備，以爭取領導英國的機會。",
       "whyItMatters": "觀察政策、制裁或貿易規則是否改變跨境需求與企業成本。",
       "relatedAssets": "QQQ、META、GOOGL、台灣科技基金",
       "verification": [
         {
-          "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/world/americas/claudia-sheinbaum-is-taking-more-control-as-u-s-pressures-mexico-926e4e00?mod=rss_worldnews",
-          "publishedAt": "2026-08-29 06:00:00"
+          "source": "Bloomberg 彭博社（政治經濟）",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-29/reform-uk-seeks-to-play-down-crypto-show-off-diplomatic-clout",
+          "publishedAt": "2026-08-29 12:00:00"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "總體經濟",
-      "title": "沃什轉鷹派 市場為可能升息做準備",
-      "fact": "聯準會主席強調通膨疑慮後，公債殖利率上升，股市小幅下滑，市場為升息做好應對準備。",
+      "title": "沃什轉向鷹派 市場防範升息可能",
+      "fact": "聯準會主席強調通膨憂慮，公債殖利率上升，股市小幅走低。投資人對升息風險的擔憂升溫，市場交易氛圍轉趨謹慎。",
       "whyItMatters": "觀察利率與景氣預期如何影響評價、美元與風險偏好。",
       "relatedAssets": "QQQ、NVDA、00947 ETF",
       "verification": [
@@ -34,23 +34,38 @@
     },
     {
       "theme": "市場",
-      "title": "以下是今天加密貨幣發生的事情",
-      "fact": "想了解今天加密貨幣領域發生了什麼？以下是影響比特幣價格、區塊鏈、DeFi、Web3 和加密貨幣監管的每日趨勢和事件的最新新聞。",
+      "title": "10年未動用的比特幣錢包轉移4000萬美元 多數避開交易所",
+      "fact": "6個已沉寂十年的錢包本月共轉移4000萬美元，惟根據Galaxy數據，休眠幣交易活動創2022年以來新低，2026年全年轉移額預估不及去年的一半。",
       "whyItMatters": "觀察風險資產的資金流與評價是否出現連鎖反應。",
       "relatedAssets": "QQQ、META、GOOGL、00947 ETF",
       "verification": [
         {
-          "source": "CoinTelegraph（數位貨幣）",
-          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedAt": "2026-08-29 04:42:54"
+          "source": "CoinDesk（數位貨幣）",
+          "url": "https://www.coindesk.com/markets/2026/08/28/bitcoin-wallets-untouched-for-10-years-moved-usd40-million-most-avoided-exchanges",
+          "publishedAt": "2026-08-29 12:30:00"
+        }
+      ],
+      "status": "當日已驗證來源"
+    },
+    {
+      "theme": "產業",
+      "title": "習近平如何將石油從弱點轉為地緣政治武器",
+      "fact": "中國龐大的原油儲備賦予其對全球石油市場的掌控力量，並成為對抗西方的重要防禦機制。北京透過戰略性的能源政策，強化其國際談判籌碼。",
+      "whyItMatters": "觀察供需、成本與供應鏈變化對產業獲利的傳導。",
+      "relatedAssets": "台積電、聯電、力積電、華邦電、南亞科",
+      "verification": [
+        {
+          "source": "WSJ 華爾街日報（國際政經）",
+          "url": "https://www.wsj.com/world/china/china-oil-market-edf57588?mod=rss_worldnews",
+          "publishedAt": "2026-08-29 11:00:00"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "地緣風險",
-      "title": "伊朗戰爭對美軍彈藥庫存構成威脅 引發美國對抗中俄能力的擔憂",
-      "fact": "國防部長海斯思正依照五角大廈既定程序，以「訂單簿」方式監管彈藥調配，美國對維持對華俄威懾力的能力提出疑慮。",
+      "title": "伊朗戰爭耗盡美軍彈藥庫 引發對抗中俄能力的憂慮",
+      "fact": "美國國防部長海斯思正監督軍火調撥工作，依循國防部長期程序透過「訂單簿」機制進行。美軍在全球多個衝突區域的同時部署面臨挑戰，恐削弱對中俄的嚇阻能力。",
       "whyItMatters": "觀察能源、航運、供應鏈與風險偏好是否出現突發性重估。",
       "relatedAssets": "漢翔、台積電、00947 ETF、USDT",
       "verification": [
