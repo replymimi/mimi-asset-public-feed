@@ -1,26 +1,41 @@
 {
-  "updatedAt": "2026-08-30 13:45:07",
+  "updatedAt": "2026-08-30 18:10:07",
   "date": "2026-08-30",
   "items": [
     {
       "theme": "國際政治",
-      "title": "南韓李在明提名新任財長和國防部長",
-      "fact": "南韓總統李在明將副財長提升為國家經濟首長，並任命新的國防部長，通過內閣改組以振興經濟成長並加速投資步伐。此次人事異動旨在推動政府施政重點。",
+      "title": "亞洲最宜居城市之一面臨新威脅：蟬災",
+      "fact": "新加坡以效率聞名，但政府首次遭遇數萬隻鳴叫不止、舉止笨拙的蟬蟲大軍，陷入城市管理的窘境。",
       "whyItMatters": "觀察政策、制裁或貿易規則是否改變跨境需求與企業成本。",
       "relatedAssets": "QQQ、META、GOOGL、台灣科技基金",
       "verification": [
         {
-          "source": "Bloomberg 彭博社（政治經濟）",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-30/south-korea-s-lee-nominates-new-finance-defense-ministers",
-          "publishedAt": "2026-08-30 11:12:53"
+          "source": "WSJ 華爾街日報（國際政經）",
+          "url": "https://www.wsj.com/world/asia/singapore-cicada-swarms-ebddd127?mod=rss_worldnews",
+          "publishedAt": "2026-08-30 17:30:00"
+        }
+      ],
+      "status": "當日已驗證來源"
+    },
+    {
+      "theme": "市場",
+      "title": "標題：\n俄羅斯 Sber 尋求 USDT 貸款，質疑數位盧布需求",
+      "fact": "俄羅斯最大銀行Sber計畫接受USDT和以太幣以及比特幣作為貸款擔保品，因為該國根據新法律推出受監管的加密貨幣交易。",
+      "whyItMatters": "觀察風險資產的資金流與評價是否出現連鎖反應。",
+      "relatedAssets": "QQQ、META、GOOGL、00947 ETF",
+      "verification": [
+        {
+          "source": "CoinTelegraph（數位貨幣）",
+          "url": "https://cointelegraph.com/news/russia-sber-bank-bitcoin-ether-usdt-crypto-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedAt": "2026-08-30 17:45:01"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "地緣風險",
-      "title": "俄羅斯對歐洲發動新一波「灰色地帶」攻擊",
-      "fact": "北約國家觀察到莫斯科在烏克蘭戰事不利之際，對衝突的胃口反而增加。俄羅斯持續採取軍事以外的混合戰術對歐洲施壓。",
+      "title": "俄羅斯對歐洲發動新一波「灰色地帶」攻擊浪潮",
+      "fact": "北約國家觀察到莫斯科在烏克蘭戰事陷入困境之際，其衝突胃口持續升溫，對盟國發動混合戰爭型態的騷擾活動。",
       "whyItMatters": "觀察能源、航運、供應鏈與風險偏好是否出現突發性重估。",
       "relatedAssets": "漢翔、台積電、00947 ETF、USDT",
       "verification": [
