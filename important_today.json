@@ -1,20 +1,5 @@
 {
-  "updatedAt": "2026-08-30 09:43:12",
-  "items": [
-    {
-      "title": "巴西右翼堡壘遭川普關稅重創",
-      "fact": "美國對機械設備徵收關稅，重創該國保守派政治人物在總統大選中的支持度。關稅政策對巴西政局造成波及。",
-      "importance": "影響：關稅",
-      "verification": [
-        {
-          "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/world/americas/this-right-wing-stronghold-in-brazil-is-getting-pummeled-by-trumps-tariffs-059aa7db?mod=rss_worldnews",
-          "publishedAt": "2026-08-30 01:00:00"
-        }
-      ],
-      "status": "市場事實（單一可追溯來源）",
-      "score": 65
-    }
-  ],
+  "updatedAt": "2026-08-30 13:45:07",
+  "items": [],
   "method": "僅收當日、附來源網址與發布時間的新聞；依市場影響關鍵字排序。"
 }
