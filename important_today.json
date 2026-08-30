@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-08-29 23:01:45",
+  "updatedAt": "2026-08-30 09:43:12",
   "items": [
     {
-      "title": "沃什鷹派轉向後 市場備戰可能升息",
-      "fact": "聯準會主席強調通膨隱憂導致公債殖利率上升、股市小幅下跌。投資人對升息政策的預期明顯升溫，風險資產面臨調整壓力。",
-      "importance": "影響：聯準會、利率",
+      "title": "巴西右翼堡壘遭川普關稅重創",
+      "fact": "美國對機械設備徵收關稅，重創該國保守派政治人物在總統大選中的支持度。關稅政策對巴西政局造成波及。",
+      "importance": "影響：關稅",
       "verification": [
         {
-          "source": "WSJ 華爾街日報（財經）",
-          "url": "https://www.wsj.com/finance/investing/markets-brace-for-possible-rate-hike-after-kevin-warshs-hawkish-turn-f2611e6f?mod=rss_markets_main",
-          "publishedAt": "2026-08-29 05:30:00"
+          "source": "WSJ 華爾街日報（國際政經）",
+          "url": "https://www.wsj.com/world/americas/this-right-wing-stronghold-in-brazil-is-getting-pummeled-by-trumps-tariffs-059aa7db?mod=rss_worldnews",
+          "publishedAt": "2026-08-30 01:00:00"
         }
       ],
       "status": "市場事實（單一可追溯來源）",
-      "score": 85
+      "score": 65
     }
   ],
   "method": "僅收當日、附來源網址與發布時間的新聞；依市場影響關鍵字排序。"
