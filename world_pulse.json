@@ -1,48 +1,93 @@
 {
-  "updatedAt": "2026-08-31 13:45:07",
+  "updatedAt": "2026-08-31 18:10:06",
   "date": "2026-08-31",
   "items": [
     {
       "theme": "國際政治",
-      "title": "冰島延後歐盟入會談判計畫，公投結果反對",
-      "fact": "冰島政府承諾尊重週六舉行的公投結果，該次投票激烈且具分歧性，投票者因擔憂漁業控制權，以微弱多數反對重啟與歐盟的會員談判。",
+      "title": "巴西大選：魯拉領先幅度縮小 波索納洛之子面臨貪污調查",
+      "fact": "巴西總統盧拉在該國10月大選前領先幅度縮小，這位左翼領導人面臨其子遭控貪污的負面風波。隨著調查推進，選情變數增加。",
       "whyItMatters": "觀察政策、制裁或貿易規則是否改變跨境需求與企業成本。",
       "relatedAssets": "QQQ、META、GOOGL、台灣科技基金",
       "verification": [
         {
           "source": "Bloomberg 彭博社（政治經濟）",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-31/iceland-to-hold-off-from-eu-accession-talks-as-voters-say-no",
-          "publishedAt": "2026-08-31 12:00:00"
+          "url": "https://www.bloomberg.com/news/articles/2026-08-31/brazil-election-lula-lead-over-bolsonaro-shrinks-as-son-faces-corruption-probe",
+          "publishedAt": "2026-08-31 16:00:00"
+        }
+      ],
+      "status": "當日已驗證來源"
+    },
+    {
+      "theme": "總體經濟",
+      "title": "美國就業報告、俄羅斯數位盧布推出：加密貨幣周前瞻",
+      "fact": "本周起從8月31日開始，帶您掌握加密貨幣市場重要事件與動向。",
+      "whyItMatters": "觀察利率與景氣預期如何影響評價、美元與風險偏好。",
+      "relatedAssets": "QQQ、NVDA、00947 ETF",
+      "verification": [
+        {
+          "source": "CoinDesk（數位貨幣）",
+          "url": "https://www.coindesk.com/markets/2026/08/31/u-s-jobs-report-russia-s-digital-ruble-rollout-crypto-week-ahead",
+          "publishedAt": "2026-08-31 16:22:28"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "市場",
-      "title": "標題：\n比特幣基本無動於衷 美國打擊伊朗導致油價上升股市下跌",
-      "fact": "BTC 在最新地緣政治局勢升級後，仍是八月表現最佳的資產。",
+      "title": "比特幣守住78,000美元 日圓跌破160 升息預期推升美元",
+      "fact": "8月尾聲比特幣維持在78,000美元下方盤整。美元走強推動日圓跌破干預水位，同一股力量也正抑制加密貨幣漲勢。",
       "whyItMatters": "觀察風險資產的資金流與評價是否出現連鎖反應。",
       "relatedAssets": "QQQ、META、GOOGL、00947 ETF",
       "verification": [
         {
           "source": "CoinDesk（數位貨幣）",
-          "url": "https://www.coindesk.com/markets/2026/08/31/bitcoin-barely-blinks-as-u-s-hits-iran-sending-oil-higher-and-stocks-lower",
-          "publishedAt": "2026-08-31 12:29:10"
+          "url": "https://www.coindesk.com/tech/2026/08/31/live-updates-bitcoin-holds-usd78-000-as-yen-breaks-160-and-rate-hike-bets-lift-the-dollar",
+          "publishedAt": "2026-08-31 16:18:03"
+        }
+      ],
+      "status": "當日已驗證來源"
+    },
+    {
+      "theme": "產業",
+      "title": "股市今日：中東局勢升溫 油價攀升",
+      "fact": "中東霍爾木茲海峽戰事再起，布蘭特原油期貨回升至每桶90美元。標普500期貨維持穩定走勢。",
+      "whyItMatters": "觀察供需、成本與供應鏈變化對產業獲利的傳導。",
+      "relatedAssets": "台積電、聯電、力積電、華邦電、南亞科",
+      "verification": [
+        {
+          "source": "WSJ 華爾街日報（財經）",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-31-2026?mod=rss_markets_main",
+          "publishedAt": "2026-08-31 15:14:21"
+        }
+      ],
+      "status": "當日已驗證來源"
+    },
+    {
+      "theme": "科技",
+      "title": "# 標題：\nMore Markets 借貸準備金被抽取 930 萬美元：Blockaid",
+      "fact": "Blockaid 表示，攻擊者利用 Ankr 流動性質押代幣和 E-mode 從 More Markets 過度借款，並從借貸準備金中竊取約 930 萬美元的 WFLOW。",
+      "whyItMatters": "觀察 AI、雲端與資安支出是否影響大型科技股與半導體需求。",
+      "relatedAssets": "NVDA、QQQ、META、GOOGL、台積電",
+      "verification": [
+        {
+          "source": "CoinTelegraph（數位貨幣）",
+          "url": "https://cointelegraph.com/news/more-markets-lending-reserve-drained-93m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedAt": "2026-08-31 16:57:10"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "地緣風險",
-      "title": "美國空襲伊朗火箭發射器後中東衝突升溫",
-      "fact": "美軍隨後防禦了針對駐紮近4,000名美軍的約旦發動的飛彈攻擊，美軍官員表示。中東地區局勢緊張局面再度升級。",
+      "title": "日本防衛支出創新高 應對中國壓力升溫",
+      "fact": "日本防衛省尋求增加無人機與飛彈採購，以因應中國威脅持續升高。不過防衛支出增長速度可能仍不足以滿足華盛頓期待。",
       "whyItMatters": "觀察能源、航運、供應鏈與風險偏好是否出現突發性重估。",
       "relatedAssets": "漢翔、台積電、00947 ETF、USDT",
       "verification": [
         {
           "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/world/middle-east/u-s-strikes-two-iranian-rocket-launchers-in-first-attack-in-weeks-17602dcf?mod=rss_worldnews",
-          "publishedAt": "2026-08-31 09:03:00"
+          "url": "https://www.wsj.com/world/asia/japan-targets-record-defense-spend-as-china-pressure-grows-c30a382e?mod=rss_worldnews",
+          "publishedAt": "2026-08-31 17:33:00"
         }
       ],
       "status": "當日已驗證來源"
