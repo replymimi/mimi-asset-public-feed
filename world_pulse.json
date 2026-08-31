@@ -1,48 +1,48 @@
 {
-  "updatedAt": "2026-08-30 18:10:07",
-  "date": "2026-08-30",
+  "updatedAt": "2026-08-31 09:40:06",
+  "date": "2026-08-31",
   "items": [
     {
       "theme": "國際政治",
-      "title": "亞洲最宜居城市之一面臨新威脅：蟬災",
-      "fact": "新加坡以效率聞名，但政府首次遭遇數萬隻鳴叫不止、舉止笨拙的蟬蟲大軍，陷入城市管理的窘境。",
+      "title": "川普委內瑞拉石油掠奪行為重現產業新殖民時代",
+      "fact": "川普總統計劃直接控制委內瑞拉石油儲備的計畫引發警告，恐使這個拉美國家淪為當代資源殖民地，如同百年前的香蕉共和國。此舉可能為在當地營運的油企帶來長期風險。",
       "whyItMatters": "觀察政策、制裁或貿易規則是否改變跨境需求與企業成本。",
       "relatedAssets": "QQQ、META、GOOGL、台灣科技基金",
       "verification": [
         {
-          "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/world/asia/singapore-cicada-swarms-ebddd127?mod=rss_worldnews",
-          "publishedAt": "2026-08-30 17:30:00"
+          "source": "Bloomberg 彭博社（政治經濟）",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-30/trump-s-venezuela-oil-grab-reprises-industry-s-neocolonial-past",
+          "publishedAt": "2026-08-31 03:31:55"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "市場",
-      "title": "標題：\n俄羅斯 Sber 尋求 USDT 貸款，質疑數位盧布需求",
-      "fact": "俄羅斯最大銀行Sber計畫接受USDT和以太幣以及比特幣作為貸款擔保品，因為該國根據新法律推出受監管的加密貨幣交易。",
+      "title": "標題：\n比特幣的新量子防禦、1890萬SOL被取消：持幣者摘要",
+      "fact": "Bitcoin 邁向後量子時代，Solana 驗證人同意遏制猖獗的通膨，而 Bernstein 看漲論點是 Bitcoin 在本週期高峰達到 50 萬美元。",
       "whyItMatters": "觀察風險資產的資金流與評價是否出現連鎖反應。",
       "relatedAssets": "QQQ、META、GOOGL、00947 ETF",
       "verification": [
         {
           "source": "CoinTelegraph（數位貨幣）",
-          "url": "https://cointelegraph.com/news/russia-sber-bank-bitcoin-ether-usdt-crypto-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedAt": "2026-08-30 17:45:01"
+          "url": "https://cointelegraph.com/magazine/bitcoins-new-quantum-defenses-189m-sol-cancelled-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedAt": "2026-08-31 07:36:16"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "地緣風險",
-      "title": "俄羅斯對歐洲發動新一波「灰色地帶」攻擊浪潮",
-      "fact": "北約國家觀察到莫斯科在烏克蘭戰事陷入困境之際，其衝突胃口持續升溫，對盟國發動混合戰爭型態的騷擾活動。",
+      "title": "美國轟炸伊朗火箭發射器後中東衝突升溫",
+      "fact": "美軍隨後防禦了針對約旦發射的飛彈攻擊，該國駐有近4000名美軍。雙方軍事對峙局勢持續升級，區域緊張情勢加劇。",
       "whyItMatters": "觀察能源、航運、供應鏈與風險偏好是否出現突發性重估。",
       "relatedAssets": "漢翔、台積電、00947 ETF、USDT",
       "verification": [
         {
           "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/world/europe/russia-is-bombarding-europe-with-a-new-wave-of-gray-zone-attacks-c5eab3fa?mod=rss_worldnews",
-          "publishedAt": "2026-08-30 11:00:00"
+          "url": "https://www.wsj.com/world/middle-east/u-s-strikes-two-iranian-rocket-launchers-in-first-attack-in-weeks-17602dcf?mod=rss_worldnews",
+          "publishedAt": "2026-08-31 09:03:00"
         }
       ],
       "status": "當日已驗證來源"
