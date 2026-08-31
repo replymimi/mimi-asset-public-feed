@@ -1,41 +1,41 @@
 {
-  "updatedAt": "2026-08-31 09:40:06",
+  "updatedAt": "2026-08-31 13:45:07",
   "date": "2026-08-31",
   "items": [
     {
       "theme": "國際政治",
-      "title": "川普委內瑞拉石油掠奪行為重現產業新殖民時代",
-      "fact": "川普總統計劃直接控制委內瑞拉石油儲備的計畫引發警告，恐使這個拉美國家淪為當代資源殖民地，如同百年前的香蕉共和國。此舉可能為在當地營運的油企帶來長期風險。",
+      "title": "冰島延後歐盟入會談判計畫，公投結果反對",
+      "fact": "冰島政府承諾尊重週六舉行的公投結果，該次投票激烈且具分歧性，投票者因擔憂漁業控制權，以微弱多數反對重啟與歐盟的會員談判。",
       "whyItMatters": "觀察政策、制裁或貿易規則是否改變跨境需求與企業成本。",
       "relatedAssets": "QQQ、META、GOOGL、台灣科技基金",
       "verification": [
         {
           "source": "Bloomberg 彭博社（政治經濟）",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-30/trump-s-venezuela-oil-grab-reprises-industry-s-neocolonial-past",
-          "publishedAt": "2026-08-31 03:31:55"
+          "url": "https://www.bloomberg.com/news/articles/2026-08-31/iceland-to-hold-off-from-eu-accession-talks-as-voters-say-no",
+          "publishedAt": "2026-08-31 12:00:00"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "市場",
-      "title": "標題：\n比特幣的新量子防禦、1890萬SOL被取消：持幣者摘要",
-      "fact": "Bitcoin 邁向後量子時代，Solana 驗證人同意遏制猖獗的通膨，而 Bernstein 看漲論點是 Bitcoin 在本週期高峰達到 50 萬美元。",
+      "title": "標題：\n比特幣基本無動於衷 美國打擊伊朗導致油價上升股市下跌",
+      "fact": "BTC 在最新地緣政治局勢升級後，仍是八月表現最佳的資產。",
       "whyItMatters": "觀察風險資產的資金流與評價是否出現連鎖反應。",
       "relatedAssets": "QQQ、META、GOOGL、00947 ETF",
       "verification": [
         {
-          "source": "CoinTelegraph（數位貨幣）",
-          "url": "https://cointelegraph.com/magazine/bitcoins-new-quantum-defenses-189m-sol-cancelled-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedAt": "2026-08-31 07:36:16"
+          "source": "CoinDesk（數位貨幣）",
+          "url": "https://www.coindesk.com/markets/2026/08/31/bitcoin-barely-blinks-as-u-s-hits-iran-sending-oil-higher-and-stocks-lower",
+          "publishedAt": "2026-08-31 12:29:10"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "地緣風險",
-      "title": "美國轟炸伊朗火箭發射器後中東衝突升溫",
-      "fact": "美軍隨後防禦了針對約旦發射的飛彈攻擊，該國駐有近4000名美軍。雙方軍事對峙局勢持續升級，區域緊張情勢加劇。",
+      "title": "美國空襲伊朗火箭發射器後中東衝突升溫",
+      "fact": "美軍隨後防禦了針對駐紮近4,000名美軍的約旦發動的飛彈攻擊，美軍官員表示。中東地區局勢緊張局面再度升級。",
       "whyItMatters": "觀察能源、航運、供應鏈與風險偏好是否出現突發性重估。",
       "relatedAssets": "漢翔、台積電、00947 ETF、USDT",
       "verification": [

@@ -1,5 +1,34 @@
 {
-  "updatedAt": "2026-08-31 09:40:06",
-  "items": [],
+  "updatedAt": "2026-08-31 13:45:07",
+  "items": [
+    {
+      "title": "莫迪普亭會晤：川普關稅考驗印度與俄國關係",
+      "fact": "總理莫迪長期尋求平衡與俄國和美國的關係，作為印度更廣泛戰略自主政策的一部分。自川普回任白宮後，維持這種平衡變得更具挑戰。",
+      "importance": "影響：關稅",
+      "verification": [
+        {
+          "source": "Bloomberg 彭博社（政治經濟）",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-31/modi-putin-meeting-how-trump-tariffs-test-india-s-russia-ties",
+          "publishedAt": "2026-08-31 11:33:36"
+        }
+      ],
+      "status": "市場事實（單一可追溯來源）",
+      "score": 65
+    },
+    {
+      "title": "標題：\n比特幣基本無動於衷 美國打擊伊朗導致油價上升股市下跌",
+      "fact": "BTC 在最新地緣政治局勢升級後，仍是八月表現最佳的資產。",
+      "importance": "影響：油價",
+      "verification": [
+        {
+          "source": "CoinDesk（數位貨幣）",
+          "url": "https://www.coindesk.com/markets/2026/08/31/bitcoin-barely-blinks-as-u-s-hits-iran-sending-oil-higher-and-stocks-lower",
+          "publishedAt": "2026-08-31 12:29:10"
+        }
+      ],
+      "status": "市場事實（單一可追溯來源）",
+      "score": 65
+    }
+  ],
   "method": "僅收當日、附來源網址與發布時間的新聞；依市場影響關鍵字排序。"
 }
