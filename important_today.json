@@ -1,5 +1,20 @@
 {
-  "updatedAt": "2026-09-01 14:45:24",
-  "items": [],
+  "updatedAt": "2026-09-01 18:27:54",
+  "items": [
+    {
+      "title": "股市今日：債券殖利率走高，股指期貨下跌",
+      "fact": "日本十年期公債殖利率觸及三十年來高點，帶動全球債市波動。股票期貨因應債市變化出現下跌走勢。市場投資人關注央行貨幣政策對資產價格的影響。",
+      "importance": "影響：利率",
+      "verification": [
+        {
+          "source": "WSJ 華爾街日報（財經）",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-01-2026?mod=rss_markets_main",
+          "publishedAt": "2026-09-01 16:25:50"
+        }
+      ],
+      "status": "市場事實（單一可追溯來源）",
+      "score": 65
+    }
+  ],
   "method": "僅收當日、附來源網址與發布時間的新聞；依市場影響關鍵字排序。"
 }
