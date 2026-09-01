@@ -1,34 +1,5 @@
 {
-  "updatedAt": "2026-08-31 18:10:06",
-  "items": [
-    {
-      "title": "股市今日：中東局勢升溫 油價攀升",
-      "fact": "中東霍爾木茲海峽戰事再起，布蘭特原油期貨回升至每桶90美元。標普500期貨維持穩定走勢。",
-      "importance": "影響：油價",
-      "verification": [
-        {
-          "source": "WSJ 華爾街日報（財經）",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-31-2026?mod=rss_markets_main",
-          "publishedAt": "2026-08-31 15:14:21"
-        }
-      ],
-      "status": "市場事實（單一可追溯來源）",
-      "score": 65
-    },
-    {
-      "title": "別急著看衰希音 還有翻身機會",
-      "fact": "儘管激烈競爭與關稅衝擊使希音的成長故事面臨挑戰，但這家企業仍有可能扭轉局面。業界人士認為其在供應鏈與成本控制上仍具優勢，後續發展值得關注。",
-      "importance": "影響：關稅",
-      "verification": [
-        {
-          "source": "WSJ 華爾街日報（財經）",
-          "url": "https://www.wsj.com/business/retail/dont-count-shein-out-just-yet-37acc559?mod=rss_markets_main",
-          "publishedAt": "2026-08-31 17:30:00"
-        }
-      ],
-      "status": "市場事實（單一可追溯來源）",
-      "score": 65
-    }
-  ],
+  "updatedAt": "2026-09-01 09:56:33",
+  "items": [],
   "method": "僅收當日、附來源網址與發布時間的新聞；依市場影響關鍵字排序。"
 }

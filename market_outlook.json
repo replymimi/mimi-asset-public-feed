@@ -1,6 +1,6 @@
 {
   "status": "unavailable",
-  "updatedAt": "2026-08-22 18:57:36",
-  "message": "今日尚無同時通過美台市場資料與新聞驗證的市場判讀：<urlopen error [Errno 8] nodename nor servname provided, or not known>",
+  "updatedAt": "2026-09-01 09:57:25",
+  "message": "今日尚無同時通過美台市場資料與新聞驗證的市場判讀：缺少附發布時間與原始連結的近期新聞",
   "method": "不以舊資料補位；資料驗證完成後才顯示配置建議。"
 }
