@@ -1,58 +1,13 @@
 {
-  "updatedAt": "2026-09-01 09:58:10",
+  "updatedAt": "2026-09-01 14:02:00",
   "date": "2026-09-01",
   "items": [
     {
       "theme": "國際政治",
-      "title": "華盛頓新隱憂：蓋達組織與胡塞武裝恐怖聯盟",
-      "fact": "一名人物促成蓋達組織與胡塞武裝間的軍火交易，該聯盟威脅中東另一條重要石油運輸路線的安全，引發美國政府對恐怖分子結盟的高度警惕。",
+      "title": "推動槓桿型ETF的南韓政策高官因內閣改組而下台",
+      "fact": "南韓總統顧問金永範曾力推槓桿單一股票ETF上市，並提出以AI榮景稅收盈餘資助「公民配息」，因政府民調評分下滑而辭職。其離職反映政府在經濟政策方面面臨的政治壓力與市場爭議。",
       "whyItMatters": "觀察政策、制裁或貿易規則是否改變跨境需求與企業成本。",
       "relatedAssets": "QQQ、META、GOOGL、台灣科技基金",
-      "verification": [
-        {
-          "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/world/middle-east/iran-oil-houthis-shipping-terrorism-bfa4fd9b?mod=rss_worldnews",
-          "publishedAt": "2026-09-01 09:00:00"
-        }
-      ],
-      "status": "當日已驗證來源"
-    },
-    {
-      "theme": "市場",
-      "title": "標題：\n朝鮮黑客在 Hyperliquid 上轉移數千萬資金 川普推動將加密貨幣平台轉移到美國",
-      "fact": "根據 CoinDesk 審查的區塊鏈數據，與北韓 Lazarus Group 相關的錢包在該平台上僅在過去三週內就售出了超過 3,000 萬美元的比特幣。",
-      "whyItMatters": "觀察風險資產的資金流與評價是否出現連鎖反應。",
-      "relatedAssets": "QQQ、META、GOOGL、00947 ETF",
-      "verification": [
-        {
-          "source": "CoinDesk（數位貨幣）",
-          "url": "https://www.coindesk.com/business/2026/08/31/north-korean-hackers-are-moving-tens-of-millions-on-hyperliquid-as-trump-pushes-to-onshore-the-crypto-platform",
-          "publishedAt": "2026-09-01 04:48:40"
-        }
-      ],
-      "status": "當日已驗證來源"
-    },
-    {
-      "theme": "產業",
-      "title": "伊朗布雷戰術阻撓美國爭奪荷莫茲海峽控制權",
-      "fact": "美國欲加速荷莫茲海峽通航的任務受水下地雷威脅阻礙，面臨著懸殊不對稱的對抗局面，美軍掃雷行動困難重重，威脅全球能源運輸安全。",
-      "whyItMatters": "觀察供需、成本與供應鏈變化對產業獲利的傳導。",
-      "relatedAssets": "台積電、聯電、力積電、華邦電、南亞科",
-      "verification": [
-        {
-          "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/world/europe/mine-warfare-with-iran-hampers-u-s-efforts-to-win-control-of-hormuz-45abc6b0?mod=rss_worldnews",
-          "publishedAt": "2026-09-01 09:00:00"
-        }
-      ],
-      "status": "當日已驗證來源"
-    },
-    {
-      "theme": "科技",
-      "title": "支持槓桿ETF的南韓政策官員下台",
-      "fact": "曾力挺引進槓桿單一股票ETF並提議以AI稅收紅利推動「國民配息」的南",
-      "whyItMatters": "觀察 AI、雲端與資安支出是否影響大型科技股與半導體需求。",
-      "relatedAssets": "NVDA、QQQ、META、GOOGL、台積電",
       "verification": [
         {
           "source": "Bloomberg 彭博社（政治經濟）",
@@ -63,16 +18,61 @@
       "status": "當日已驗證來源"
     },
     {
-      "theme": "地緣風險",
-      "title": "美陸軍部長德里斯科爾因與赫格斯衝突後辭職",
-      "fact": "美陸軍部長丹·德里斯科爾因與防長皮特·赫格斯發生多次衝突而宣布辭職，陸軍正面臨領導層空缺問題，在與伊朗的持續對峙中喪失多位資深將領。",
-      "whyItMatters": "觀察能源、航運、供應鏈與風險偏好是否出現突發性重估。",
-      "relatedAssets": "漢翔、台積電、00947 ETF、USDT",
+      "theme": "總體經濟",
+      "title": "標題：\n比特幣穩定在78,000美元以上，HYPE領漲，主流幣因鷹派聯準會預期下滑",
+      "fact": "以太幣、Solana、Tron 和狗狗幣在過去 24 小時內都有所下跌，而 HYPE 則上漲約 4%，比特幣在經歷 8 月 24% 的漲幅後，本週持平。",
+      "whyItMatters": "觀察利率與景氣預期如何影響評價、美元與風險偏好。",
+      "relatedAssets": "QQQ、NVDA、00947 ETF",
       "verification": [
         {
-          "source": "Bloomberg 彭博社（政治經濟）",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-31/us-army-secretary-dan-driscoll-submits-resignation-to-trump",
-          "publishedAt": "2026-09-01 06:12:13"
+          "source": "CoinDesk（數位貨幣）",
+          "url": "https://www.coindesk.com/markets/2026/09/01/bitcoin-steady-above-usd78-000-hype-leads-as-majors-slip-on-hawkish-fed-bets",
+          "publishedAt": "2026-09-01 12:30:28"
+        }
+      ],
+      "status": "當日已驗證來源"
+    },
+    {
+      "theme": "市場",
+      "title": "標題：\n小唐納德·川普的公司領導 Polymarket 10 億美元融資，估值 210 億美元：報導",
+      "fact": "1789 Capital is putting in about $300 million, adding to a roughly $200 million stake, as the prediction market's valuation rises from $15 billion.",
+      "whyItMatters": "觀察風險資產的資金流與評價是否出現連鎖反應。",
+      "relatedAssets": "QQQ、META、GOOGL、00947 ETF",
+      "verification": [
+        {
+          "source": "CoinDesk（數位貨幣）",
+          "url": "https://www.coindesk.com/business/2026/09/01/trump-jr-s-firm-leads-usd1-billion-polymarket-raise-at-usd21-billion-value-report",
+          "publishedAt": "2026-09-01 12:19:54"
+        }
+      ],
+      "status": "當日已驗證來源"
+    },
+    {
+      "theme": "產業",
+      "title": "華盛頓新危機：蓋達組織與胡塞武裝聯手",
+      "fact": "一名中間人促成兩個激進組織的武器交易，威脅中東另一條關鍵石油運輸路線安全。此聯盟結合了蓋達與胡塞武裝的能力，對美國及全球能源供應造成嚴重隱患。",
+      "whyItMatters": "觀察供需、成本與供應鏈變化對產業獲利的傳導。",
+      "relatedAssets": "台積電、聯電、力積電、華邦電、南亞科",
+      "verification": [
+        {
+          "source": "WSJ 華爾街日報（國際政經）",
+          "url": "https://www.wsj.com/world/middle-east/iran-oil-houthis-shipping-terrorism-bfa4fd9b?mod=rss_worldnews",
+          "publishedAt": "2026-09-01 09:00:00"
+        }
+      ],
+      "status": "當日已驗證來源"
+    },
+    {
+      "theme": "科技",
+      "title": "標題：\n以下是加密貨幣今日發生的事情",
+      "fact": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "whyItMatters": "觀察 AI、雲端與資安支出是否影響大型科技股與半導體需求。",
+      "relatedAssets": "NVDA、QQQ、META、GOOGL、台積電",
+      "verification": [
+        {
+          "source": "CoinTelegraph（數位貨幣）",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedAt": "2026-09-01 13:58:48"
         }
       ],
       "status": "當日已驗證來源"
