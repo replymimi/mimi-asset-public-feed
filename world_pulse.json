@@ -1,93 +1,78 @@
 {
-  "updatedAt": "2026-08-31 18:10:06",
-  "date": "2026-08-31",
+  "updatedAt": "2026-09-01 09:58:10",
+  "date": "2026-09-01",
   "items": [
     {
       "theme": "國際政治",
-      "title": "巴西大選：魯拉領先幅度縮小 波索納洛之子面臨貪污調查",
-      "fact": "巴西總統盧拉在該國10月大選前領先幅度縮小，這位左翼領導人面臨其子遭控貪污的負面風波。隨著調查推進，選情變數增加。",
+      "title": "華盛頓新隱憂：蓋達組織與胡塞武裝恐怖聯盟",
+      "fact": "一名人物促成蓋達組織與胡塞武裝間的軍火交易，該聯盟威脅中東另一條重要石油運輸路線的安全，引發美國政府對恐怖分子結盟的高度警惕。",
       "whyItMatters": "觀察政策、制裁或貿易規則是否改變跨境需求與企業成本。",
       "relatedAssets": "QQQ、META、GOOGL、台灣科技基金",
       "verification": [
         {
-          "source": "Bloomberg 彭博社（政治經濟）",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-31/brazil-election-lula-lead-over-bolsonaro-shrinks-as-son-faces-corruption-probe",
-          "publishedAt": "2026-08-31 16:00:00"
-        }
-      ],
-      "status": "當日已驗證來源"
-    },
-    {
-      "theme": "總體經濟",
-      "title": "美國就業報告、俄羅斯數位盧布推出：加密貨幣周前瞻",
-      "fact": "本周起從8月31日開始，帶您掌握加密貨幣市場重要事件與動向。",
-      "whyItMatters": "觀察利率與景氣預期如何影響評價、美元與風險偏好。",
-      "relatedAssets": "QQQ、NVDA、00947 ETF",
-      "verification": [
-        {
-          "source": "CoinDesk（數位貨幣）",
-          "url": "https://www.coindesk.com/markets/2026/08/31/u-s-jobs-report-russia-s-digital-ruble-rollout-crypto-week-ahead",
-          "publishedAt": "2026-08-31 16:22:28"
+          "source": "WSJ 華爾街日報（國際政經）",
+          "url": "https://www.wsj.com/world/middle-east/iran-oil-houthis-shipping-terrorism-bfa4fd9b?mod=rss_worldnews",
+          "publishedAt": "2026-09-01 09:00:00"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "市場",
-      "title": "比特幣守住78,000美元 日圓跌破160 升息預期推升美元",
-      "fact": "8月尾聲比特幣維持在78,000美元下方盤整。美元走強推動日圓跌破干預水位，同一股力量也正抑制加密貨幣漲勢。",
+      "title": "標題：\n朝鮮黑客在 Hyperliquid 上轉移數千萬資金 川普推動將加密貨幣平台轉移到美國",
+      "fact": "根據 CoinDesk 審查的區塊鏈數據，與北韓 Lazarus Group 相關的錢包在該平台上僅在過去三週內就售出了超過 3,000 萬美元的比特幣。",
       "whyItMatters": "觀察風險資產的資金流與評價是否出現連鎖反應。",
       "relatedAssets": "QQQ、META、GOOGL、00947 ETF",
       "verification": [
         {
           "source": "CoinDesk（數位貨幣）",
-          "url": "https://www.coindesk.com/tech/2026/08/31/live-updates-bitcoin-holds-usd78-000-as-yen-breaks-160-and-rate-hike-bets-lift-the-dollar",
-          "publishedAt": "2026-08-31 16:18:03"
+          "url": "https://www.coindesk.com/business/2026/08/31/north-korean-hackers-are-moving-tens-of-millions-on-hyperliquid-as-trump-pushes-to-onshore-the-crypto-platform",
+          "publishedAt": "2026-09-01 04:48:40"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "產業",
-      "title": "股市今日：中東局勢升溫 油價攀升",
-      "fact": "中東霍爾木茲海峽戰事再起，布蘭特原油期貨回升至每桶90美元。標普500期貨維持穩定走勢。",
+      "title": "伊朗布雷戰術阻撓美國爭奪荷莫茲海峽控制權",
+      "fact": "美國欲加速荷莫茲海峽通航的任務受水下地雷威脅阻礙，面臨著懸殊不對稱的對抗局面，美軍掃雷行動困難重重，威脅全球能源運輸安全。",
       "whyItMatters": "觀察供需、成本與供應鏈變化對產業獲利的傳導。",
       "relatedAssets": "台積電、聯電、力積電、華邦電、南亞科",
       "verification": [
         {
-          "source": "WSJ 華爾街日報（財經）",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-31-2026?mod=rss_markets_main",
-          "publishedAt": "2026-08-31 15:14:21"
+          "source": "WSJ 華爾街日報（國際政經）",
+          "url": "https://www.wsj.com/world/europe/mine-warfare-with-iran-hampers-u-s-efforts-to-win-control-of-hormuz-45abc6b0?mod=rss_worldnews",
+          "publishedAt": "2026-09-01 09:00:00"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "科技",
-      "title": "# 標題：\nMore Markets 借貸準備金被抽取 930 萬美元：Blockaid",
-      "fact": "Blockaid 表示，攻擊者利用 Ankr 流動性質押代幣和 E-mode 從 More Markets 過度借款，並從借貸準備金中竊取約 930 萬美元的 WFLOW。",
+      "title": "支持槓桿ETF的南韓政策官員下台",
+      "fact": "曾力挺引進槓桿單一股票ETF並提議以AI稅收紅利推動「國民配息」的南",
       "whyItMatters": "觀察 AI、雲端與資安支出是否影響大型科技股與半導體需求。",
       "relatedAssets": "NVDA、QQQ、META、GOOGL、台積電",
       "verification": [
         {
-          "source": "CoinTelegraph（數位貨幣）",
-          "url": "https://cointelegraph.com/news/more-markets-lending-reserve-drained-93m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedAt": "2026-08-31 16:57:10"
+          "source": "Bloomberg 彭博社（政治經濟）",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-01/south-korea-s-presidential-policy-chief-kim-yong-beom-steps-down",
+          "publishedAt": "2026-09-01 08:01:03"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "地緣風險",
-      "title": "日本防衛支出創新高 應對中國壓力升溫",
-      "fact": "日本防衛省尋求增加無人機與飛彈採購，以因應中國威脅持續升高。不過防衛支出增長速度可能仍不足以滿足華盛頓期待。",
+      "title": "美陸軍部長德里斯科爾因與赫格斯衝突後辭職",
+      "fact": "美陸軍部長丹·德里斯科爾因與防長皮特·赫格斯發生多次衝突而宣布辭職，陸軍正面臨領導層空缺問題，在與伊朗的持續對峙中喪失多位資深將領。",
       "whyItMatters": "觀察能源、航運、供應鏈與風險偏好是否出現突發性重估。",
       "relatedAssets": "漢翔、台積電、00947 ETF、USDT",
       "verification": [
         {
-          "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/world/asia/japan-targets-record-defense-spend-as-china-pressure-grows-c30a382e?mod=rss_worldnews",
-          "publishedAt": "2026-08-31 17:33:00"
+          "source": "Bloomberg 彭博社（政治經濟）",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-31/us-army-secretary-dan-driscoll-submits-resignation-to-trump",
+          "publishedAt": "2026-09-01 06:12:13"
         }
       ],
       "status": "當日已驗證來源"
