@@ -1,43 +1,15 @@
 {
-  "updatedAt": "2026-09-01 22:48:03",
+  "updatedAt": "2026-09-01 18:23:19",
   "items": [
     {
-      "title": "這間加油站連鎖店正在蠶食達美樂的市場",
-      "fact": "油價與全球債券殖利率持續走高。汽油零售商正藉由油價上升帶動客流量增長，搶食披薩外送市場的客戶基礎。",
-      "importance": "影響：利率、油價",
-      "verification": [
-        {
-          "source": "WSJ 華爾街日報（財經）",
-          "url": "https://www.wsj.com/finance/stocks/the-gas-station-chain-that-is-eating-dominos-lunch-7a727d6a?mod=rss_markets_main",
-          "publishedAt": "2026-09-01 18:35:00"
-        }
-      ],
-      "status": "市場事實（單一可追溯來源）",
-      "score": 80
-    },
-    {
-      "title": "股市今日：全球債券拋售加劇 投資人為升息做準備",
-      "fact": "日本十年期公債殖利率創三十年新高；那斯達克指數大幅下滑。債券市場持續承壓，反映市場對央行進一步升息政策的預期增強。",
+      "title": "股市今日：債券殖利率升溫，股指期貨下跌",
+      "fact": "日本10年期公債殖利率創近30年新高，帶動全球債券市場波動。股市投資人對升息預期升溫感到擔憂，導致股指期貨應聲走軟。此波債券殖利率上升反映市場對央行政策路徑的重新評估。",
       "importance": "影響：利率",
       "verification": [
         {
           "source": "WSJ 華爾街日報（財經）",
           "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-01-2026?mod=rss_markets_main",
           "publishedAt": "2026-09-01 16:25:50"
-        }
-      ],
-      "status": "市場事實（單一可追溯來源）",
-      "score": 65
-    },
-    {
-      "title": "台灣美食探險發現中華飲食文化 無需浮誇表演",
-      "fact": "深度探訪台灣在地餐飲文化，展現傳統中華飲食的精髓。此外，中國否認其對尼泊爾致命洪災預警不足的指控，且圖表分析中國如何度過伊朗石油衝擊。",
-      "importance": "影響：台灣",
-      "verification": [
-        {
-          "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/world/china/a-food-crawl-in-taiwan-finds-chinese-tradition-without-the-spectacle-239d8da6?mod=rss_worldnews",
-          "publishedAt": "2026-09-01 18:55:00"
         }
       ],
       "status": "市場事實（單一可追溯來源）",
