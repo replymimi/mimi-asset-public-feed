@@ -1,43 +1,29 @@
 {
-  "updatedAt": "2026-09-02 14:23:53",
+  "updatedAt": "2026-09-02 17:55:23",
   "items": [
     {
-      "title": "全球債券殖利率飆升 政府舉債壓力倍增",
-      "fact": "國際利率大幅上升對全球經濟造成深遠影響，對從房貸購屋者到信用卡持有人乃至各國政府都帶來沉重壓力。這波殖利率上揚反映市場對通膨和央行政策的擔憂，各國政府的債務融資成本大幅攀升。",
-      "importance": "影響：利率",
-      "verification": [
-        {
-          "source": "WSJ 華爾街日報（財經）",
-          "url": "https://www.wsj.com/finance/investing/bond-yields-around-the-world-soar-in-challenge-to-government-borrowing-c519c53f?mod=rss_markets_main",
-          "publishedAt": "2026-09-02 04:39:00"
-        }
-      ],
-      "status": "市場事實（單一可追溯來源）",
-      "score": 65
-    },
-    {
-      "title": "債券大跌時期的投資指南",
-      "fact": "顧問建議即使全球債市陷入困境，固定收益資產仍應在多元化投資組合中占據一席之地。債券殖利率走高雖衝擊債市表現，但長期投資人應重新評估債券配置策略，以維持投資組合的風險平衡。",
-      "importance": "影響：利率",
-      "verification": [
-        {
-          "source": "WSJ 華爾街日報（財經）",
-          "url": "https://www.wsj.com/finance/investing/a-guide-to-owning-bonds-when-they-are-selling-off-be8e0a2b?mod=rss_markets_main",
-          "publishedAt": "2026-09-02 06:38:00"
-        }
-      ],
-      "status": "市場事實（單一可追溯來源）",
-      "score": 65
-    },
-    {
-      "title": "G20峰會內訌加劇 全球債市危機雪上加霜",
-      "fact": "財政部長會議於全球債市拋售、貿易關稅爭議與各國互嗆聲浪中閉幕。本次G20聚會未能達成共識，反映主要經濟體在貿易、金融等議題上的深刻分歧，市場擔憂全球政策協調能力下降。",
+      "title": "G20峰會內鬨頻頻，全球債市壓力籠罩",
+      "fact": "財政部長會議在全球債券市場拋售、關稅爭議與公開言辭交鋒中閉幕，各國分歧嚴重。",
       "importance": "影響：關稅",
       "verification": [
         {
           "source": "WSJ 華爾街日報（國際政經）",
           "url": "https://www.wsj.com/world/g-20-squabbling-overshadows-summit-as-global-bond-markets-strain-dd61e2ef?mod=rss_worldnews",
           "publishedAt": "2026-09-02 09:00:00"
+        }
+      ],
+      "status": "市場事實（單一可追溯來源）",
+      "score": 65
+    },
+    {
+      "title": "股市今日：全球債券拋售加劇，歐洲受創最深",
+      "fact": "美國10年期公債殖利率走升，朝著三年高點邁進，全球債券市場出現大幅拋售潮。",
+      "importance": "影響：利率",
+      "verification": [
+        {
+          "source": "WSJ 華爾街日報（財經）",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-02-2026?mod=rss_markets_main",
+          "publishedAt": "2026-09-02 16:23:21"
         }
       ],
       "status": "市場事實（單一可追溯來源）",
