@@ -1,63 +1,78 @@
 {
-  "updatedAt": "2026-09-01 18:23:19",
-  "date": "2026-09-01",
+  "updatedAt": "2026-09-02 09:58:45",
+  "date": "2026-09-02",
   "items": [
     {
       "theme": "國際政治",
-      "title": "美國遊客赴尼泊爾靈修之旅，現已下落不明",
-      "fact": "喜馬拉雅山區災難發生後，約85名美國公民失蹤，其中許多人正參加朝聖之旅。當地搜救工作仍在進行中，失蹤人數仍不斷更新。美國政府已啟動外交管道與尼泊爾當局協調救援事宜。",
+      "title": "川普施壓煉油廠提升汽柴油產能以緩解油價",
+      "fact": "美國總統川普於周二召開閉門會議，促請煉油廠提高國內汽油及柴油產能。在11月中期選舉前夕，川普政府致力於控制油價上漲並舒緩民眾生活成本負擔。",
       "whyItMatters": "觀察政策、制裁或貿易規則是否改變跨境需求與企業成本。",
       "relatedAssets": "QQQ、META、GOOGL、台灣科技基金",
       "verification": [
         {
-          "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/world/these-americans-went-to-nepal-on-a-spiritual-journey-now-they-are-missing-985b3104?mod=rss_worldnews",
-          "publishedAt": "2026-09-01 17:52:00"
+          "source": "Bloomberg 彭博社（政治經濟）",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-01/trump-ramps-up-pressure-on-squeezed-refiners-to-ease-pump-prices",
+          "publishedAt": "2026-09-02 06:25:26"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "總體經濟",
-      "title": "股市今日：債券殖利率升溫，股指期貨下跌",
-      "fact": "日本10年期公債殖利率創近30年新高，帶動全球債券市場波動。股市投資人對升息預期升溫感到擔憂，導致股指期貨應聲走軟。此波債券殖利率上升反映市場對央行政策路徑的重新評估。",
+      "title": "全球債券殖利率飆升，政府借款面臨挑戰",
+      "fact": "利率上升對全球經濟造成深遠影響，對房貸購屋者、信用卡持卡人及各國政府均構成沉重壓力。殖利率攀升導致政府債務融資成本上升，恐加劇通膨預期並衝擊經濟成長前景。",
       "whyItMatters": "觀察利率與景氣預期如何影響評價、美元與風險偏好。",
       "relatedAssets": "QQQ、NVDA、00947 ETF",
       "verification": [
         {
           "source": "WSJ 華爾街日報（財經）",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-01-2026?mod=rss_markets_main",
-          "publishedAt": "2026-09-01 16:25:50"
+          "url": "https://www.wsj.com/finance/investing/bond-yields-around-the-world-soar-in-challenge-to-government-borrowing-c519c53f?mod=rss_markets_main",
+          "publishedAt": "2026-09-02 04:39:00"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "市場",
-      "title": "即時更新：比特幣 ETF 恢復買盤，以太幣基金連續11天淨流入",
-      "fact": "比特幣基金週一吸入2.17億美元，在資金流出結束其九天連漲的一個交易日後。以太幣ETF自八月中旬以來未出現過單日下跌。",
+      "title": "債券大幅下跌時期的持有指南",
+      "fact": "投資顧問指出，儘管全球債券市場面臨拋售壓力，固定收益投資仍應納入分散投資組合中。專家建議投資人不應恐慌拋售債券部位，而應重新評估長期投資策略與資產配置。",
       "whyItMatters": "觀察風險資產的資金流與評價是否出現連鎖反應。",
       "relatedAssets": "QQQ、META、GOOGL、00947 ETF",
       "verification": [
         {
-          "source": "CoinDesk（數位貨幣）",
-          "url": "https://www.coindesk.com/business/2026/09/01/live-updates-bitcoin-etfs-resume-buying-as-ether-funds-stretch-streak-to-11-days",
-          "publishedAt": "2026-09-01 16:35:57"
+          "source": "WSJ 華爾街日報（財經）",
+          "url": "https://www.wsj.com/finance/investing/a-guide-to-owning-bonds-when-they-are-selling-off-be8e0a2b?mod=rss_markets_main",
+          "publishedAt": "2026-09-02 06:38:00"
+        }
+      ],
+      "status": "當日已驗證來源"
+    },
+    {
+      "theme": "科技",
+      "title": "標題：\n加密貨幣支持的政治行動委員會縮減麻薩諸塞州初選廣告支出",
+      "fact": "這筆189,000美元的媒體支出用於支持眾議院議員Jake Auchincloss，標誌著Fairshake最新嘗試以加密貨幣產業資金影響2026年選舉。",
+      "whyItMatters": "觀察 AI、雲端與資安支出是否影響大型科技股與半導體需求。",
+      "relatedAssets": "NVDA、QQQ、META、GOOGL、台積電",
+      "verification": [
+        {
+          "source": "CoinTelegraph（數位貨幣）",
+          "url": "https://cointelegraph.com/news/crypto-pac-protect-progress-spending-massachusetts-primary?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedAt": "2026-09-02 05:25:27"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "地緣風險",
-      "title": "倫敦民眾怨聲載道：富豪跑車觀光客停車亂象叢生",
-      "fact": "中東牌照的法拉利、藍寶堅尼、邁凱倫等超級跑車充斥倫敦高級社區，停車位置隨意且車主拒繳罰單。當地居民對此交通亂象怨聲連連，盼市府加強執法。該現象反映出國際富豪旅客與在地社區的日益衝突。",
+      "title": "美國與伊朗在荷莫茲海峽爆發新一輪衝突",
+      "fact": "川普總統表示此次軍事行動是對伊朗試圖封鎖海峽及襲擊美軍人員的回應。中東地區地緣政治緊張局勢再度升溫，可能影響全球能源供應與油價走勢。",
       "whyItMatters": "觀察能源、航運、供應鏈與風險偏好是否出現突發性重估。",
       "relatedAssets": "漢翔、台積電、00947 ETF、USDT",
       "verification": [
         {
           "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/world/uk/london-middle-east-luxury-cars-parking-tickets-b1fb0f0c?mod=rss_worldnews",
-          "publishedAt": "2026-09-01 17:30:00"
+          "url": "https://www.wsj.com/world/middle-east/iran-strikes-us-1d263f3f?mod=rss_worldnews",
+          "publishedAt": "2026-09-02 08:20:00"
         }
       ],
       "status": "當日已驗證來源"

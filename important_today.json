@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-02 09:11:23",
+  "updatedAt": "2026-09-02 09:58:45",
   "items": [
     {
-      "title": "全球債券殖利率飆升衝擊政府融資",
-      "fact": "利率急速上升對全球經濟帶來深遠影響，對從購屋者、信用卡持有人到各國政府等各類經濟主體造成沉重壓力。利率升勢迫使各國政府面臨更高的融資成本，進而影響公債發行計畫。此波利率上行亦牽動企業投資意願和消費者購買力。",
+      "title": "全球債券殖利率飆升，政府借款面臨挑戰",
+      "fact": "利率上升對全球經濟造成深遠影響，對房貸購屋者、信用卡持卡人及各國政府均構成沉重壓力。殖利率攀升導致政府債務融資成本上升，恐加劇通膨預期並衝擊經濟成長前景。",
       "importance": "影響：利率",
       "verification": [
         {
@@ -16,28 +16,28 @@
       "score": 65
     },
     {
-      "title": "債券拋售時期的投資指南",
-      "fact": "顧問建議，儘管全球債券市場經歷大幅調整，固定收益資產仍應在分散投資組合中保有一席之地。在利率上升的環境下，債券投資人應採取長期視角。投資專家強調維持投資紀律的重要性，避免受短期波動影響決策。",
-      "importance": "影響：利率",
+      "title": "川普施壓煉油廠提升汽柴油產能以緩解油價",
+      "fact": "美國總統川普於周二召開閉門會議，促請煉油廠提高國內汽油及柴油產能。在11月中期選舉前夕，川普政府致力於控制油價上漲並舒緩民眾生活成本負擔。",
+      "importance": "影響：油價",
       "verification": [
         {
-          "source": "WSJ 華爾街日報（財經）",
-          "url": "https://www.wsj.com/finance/investing/a-guide-to-owning-bonds-when-they-are-selling-off-be8e0a2b?mod=rss_markets_main",
-          "publishedAt": "2026-09-02 06:38:00"
+          "source": "Bloomberg 彭博社（政治經濟）",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-01/trump-ramps-up-pressure-on-squeezed-refiners-to-ease-pump-prices",
+          "publishedAt": "2026-09-02 06:25:26"
         }
       ],
       "status": "市場事實（單一可追溯來源）",
       "score": 65
     },
     {
-      "title": "標題：\n眾議院法案撥款支持政府運作至選舉日",
-      "fact": "「力量均衡」(Balance of Power)聚焦於政治與全球商業的交匯點。在今天的節目中，美國眾議院議員 Brad Sherman (民主黨-加州)表示，石油市場預示美國和伊朗將回歸外交談判，儘管他對衝突最終如何結束仍感到不確定。眾議院議員 Chip Roy (共和黨-德州)表示，他反對參議院加入他不同意的條款的繼續決議案，主張國會應改為專注於撥款法案和支出節制。現任美國航空公司協會(Airlines for America)總裁兼執行長、前新罕布夏州共和黨州長 Chris Sununu 表示，高航空燃油價格正在「摧毀」航空業，儘管旅遊需求仍然強勁。(",
+      "title": "美國與伊朗在荷莫茲海峽爆發新一輪衝突",
+      "fact": "川普總統表示此次軍事行動是對伊朗試圖封鎖海峽及襲擊美軍人員的回應。中東地區地緣政治緊張局勢再度升溫，可能影響全球能源供應與油價走勢。",
       "importance": "影響：油價",
       "verification": [
         {
-          "source": "Bloomberg 彭博社（政治經濟）",
-          "url": "https://www.bloomberg.com/news/videos/2026-09-01/balance-of-power-late-edition-09-01-2026-video",
-          "publishedAt": "2026-09-02 07:46:16"
+          "source": "WSJ 華爾街日報（國際政經）",
+          "url": "https://www.wsj.com/world/middle-east/iran-strikes-us-1d263f3f?mod=rss_worldnews",
+          "publishedAt": "2026-09-02 08:20:00"
         }
       ],
       "status": "市場事實（單一可追溯來源）",
