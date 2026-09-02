@@ -1,15 +1,43 @@
 {
-  "updatedAt": "2026-09-01 18:23:19",
+  "updatedAt": "2026-09-02 09:11:23",
   "items": [
     {
-      "title": "股市今日：債券殖利率升溫，股指期貨下跌",
-      "fact": "日本10年期公債殖利率創近30年新高，帶動全球債券市場波動。股市投資人對升息預期升溫感到擔憂，導致股指期貨應聲走軟。此波債券殖利率上升反映市場對央行政策路徑的重新評估。",
+      "title": "全球債券殖利率飆升衝擊政府融資",
+      "fact": "利率急速上升對全球經濟帶來深遠影響，對從購屋者、信用卡持有人到各國政府等各類經濟主體造成沉重壓力。利率升勢迫使各國政府面臨更高的融資成本，進而影響公債發行計畫。此波利率上行亦牽動企業投資意願和消費者購買力。",
       "importance": "影響：利率",
       "verification": [
         {
           "source": "WSJ 華爾街日報（財經）",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-01-2026?mod=rss_markets_main",
-          "publishedAt": "2026-09-01 16:25:50"
+          "url": "https://www.wsj.com/finance/investing/bond-yields-around-the-world-soar-in-challenge-to-government-borrowing-c519c53f?mod=rss_markets_main",
+          "publishedAt": "2026-09-02 04:39:00"
+        }
+      ],
+      "status": "市場事實（單一可追溯來源）",
+      "score": 65
+    },
+    {
+      "title": "債券拋售時期的投資指南",
+      "fact": "顧問建議，儘管全球債券市場經歷大幅調整，固定收益資產仍應在分散投資組合中保有一席之地。在利率上升的環境下，債券投資人應採取長期視角。投資專家強調維持投資紀律的重要性，避免受短期波動影響決策。",
+      "importance": "影響：利率",
+      "verification": [
+        {
+          "source": "WSJ 華爾街日報（財經）",
+          "url": "https://www.wsj.com/finance/investing/a-guide-to-owning-bonds-when-they-are-selling-off-be8e0a2b?mod=rss_markets_main",
+          "publishedAt": "2026-09-02 06:38:00"
+        }
+      ],
+      "status": "市場事實（單一可追溯來源）",
+      "score": 65
+    },
+    {
+      "title": "標題：\n眾議院法案撥款支持政府運作至選舉日",
+      "fact": "「力量均衡」(Balance of Power)聚焦於政治與全球商業的交匯點。在今天的節目中，美國眾議院議員 Brad Sherman (民主黨-加州)表示，石油市場預示美國和伊朗將回歸外交談判，儘管他對衝突最終如何結束仍感到不確定。眾議院議員 Chip Roy (共和黨-德州)表示，他反對參議院加入他不同意的條款的繼續決議案，主張國會應改為專注於撥款法案和支出節制。現任美國航空公司協會(Airlines for America)總裁兼執行長、前新罕布夏州共和黨州長 Chris Sununu 表示，高航空燃油價格正在「摧毀」航空業，儘管旅遊需求仍然強勁。(",
+      "importance": "影響：油價",
+      "verification": [
+        {
+          "source": "Bloomberg 彭博社（政治經濟）",
+          "url": "https://www.bloomberg.com/news/videos/2026-09-01/balance-of-power-late-edition-09-01-2026-video",
+          "publishedAt": "2026-09-02 07:46:16"
         }
       ],
       "status": "市場事實（單一可追溯來源）",
