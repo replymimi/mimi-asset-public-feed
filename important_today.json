@@ -1,23 +1,9 @@
 {
-  "updatedAt": "2026-09-02 13:46:18",
+  "updatedAt": "2026-09-02 14:23:53",
   "items": [
     {
-      "title": "# 標題：\n比特幣挺過90美元油價和上升收益率，而黃金下滑。堅挺美元是陷阱\n\n# 正文：\nBitcoin has proved resilient in the face of headwinds that typically weigh on risk assets. The leading cryptocurrency is up about 18% for the month, even as crude oil prices have climbed toward $90 a barrel and Treasury yields have surged higher—moves that typically create a challenging environment for speculative bets.\n\nGold, which often acts as a safe haven during times of risk-off sentiment, has slid 3% this month, reflecting some of the weakness in commodities broadly. But gold's decline has more to do with a surging U.S. dollar.\n\nThe dollar index has gained nearly 4% in November, the strongest month since May 2023. The strength in the U.S. currency is likely one reason why Bitcoin investors have remained relatively unfazed.\n\nHistorically, Bitcoin and the dollar have had a negative correlation, meaning they tend to move in opposite directions. But that relationship has weakened considerably during this particular rally in the dollar",
-      "fact": "BTC 因油價 90 美元和債券殖利率上升對股票和黃金造成壓力而交投震盪。",
-      "importance": "影響：利率、油價",
-      "verification": [
-        {
-          "source": "CoinDesk（數位貨幣）",
-          "url": "https://www.coindesk.com/markets/2026/09/02/bitcoin-withstands-usd90-oil-and-rising-yields-as-gold-slides-a-firm-dollar-is-the-catch",
-          "publishedAt": "2026-09-02 12:40:36"
-        }
-      ],
-      "status": "市場事實（單一可追溯來源）",
-      "score": 80
-    },
-    {
-      "title": "全球債券殖利率飆升 政府借貸面臨挑戰",
-      "fact": "利率上升浪潮對全球經濟造成深遠影響，從購屋者、信用卡持有人到各國政府都面臨沉重壓力。政府融資成本上升將限制財政支出空間，可能進一步衝擊經濟成長。",
+      "title": "全球債券殖利率飆升 政府舉債壓力倍增",
+      "fact": "國際利率大幅上升對全球經濟造成深遠影響，對從房貸購屋者到信用卡持有人乃至各國政府都帶來沉重壓力。這波殖利率上揚反映市場對通膨和央行政策的擔憂，各國政府的債務融資成本大幅攀升。",
       "importance": "影響：利率",
       "verification": [
         {
@@ -30,8 +16,22 @@
       "score": 65
     },
     {
-      "title": "G20峰會因全球債市危機陷入爭執",
-      "fact": "財政部長會議在全球債券市場拋售、關稅爭議及各國公開言詞衝突的背景下結束。各國在地緣政治和貿易政策上的立場分歧愈發明顯，影響國際經濟合作。",
+      "title": "債券大跌時期的投資指南",
+      "fact": "顧問建議即使全球債市陷入困境，固定收益資產仍應在多元化投資組合中占據一席之地。債券殖利率走高雖衝擊債市表現，但長期投資人應重新評估債券配置策略，以維持投資組合的風險平衡。",
+      "importance": "影響：利率",
+      "verification": [
+        {
+          "source": "WSJ 華爾街日報（財經）",
+          "url": "https://www.wsj.com/finance/investing/a-guide-to-owning-bonds-when-they-are-selling-off-be8e0a2b?mod=rss_markets_main",
+          "publishedAt": "2026-09-02 06:38:00"
+        }
+      ],
+      "status": "市場事實（單一可追溯來源）",
+      "score": 65
+    },
+    {
+      "title": "G20峰會內訌加劇 全球債市危機雪上加霜",
+      "fact": "財政部長會議於全球債市拋售、貿易關稅爭議與各國互嗆聲浪中閉幕。本次G20聚會未能達成共識，反映主要經濟體在貿易、金融等議題上的深刻分歧，市場擔憂全球政策協調能力下降。",
       "importance": "影響：關稅",
       "verification": [
         {
