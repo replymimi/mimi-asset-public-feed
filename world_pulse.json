@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-09-02 09:58:45",
+  "updatedAt": "2026-09-02 13:46:18",
   "date": "2026-09-02",
   "items": [
     {
       "theme": "國際政治",
-      "title": "川普施壓煉油廠提升汽柴油產能以緩解油價",
-      "fact": "美國總統川普於周二召開閉門會議，促請煉油廠提高國內汽油及柴油產能。在11月中期選舉前夕，川普政府致力於控制油價上漲並舒緩民眾生活成本負擔。",
+      "title": "馬爾地夫：天堂島國成俄羅斯規避制裁樞紐",
+      "fact": "馬爾地夫已成為數億美元西方商品流向莫斯科的管道。該島國利用其特殊地位，成為俄烏戰爭期間俄羅斯規避西方制裁的重要中轉站。",
       "whyItMatters": "觀察政策、制裁或貿易規則是否改變跨境需求與企業成本。",
       "relatedAssets": "QQQ、META、GOOGL、台灣科技基金",
       "verification": [
         {
-          "source": "Bloomberg 彭博社（政治經濟）",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-01/trump-ramps-up-pressure-on-squeezed-refiners-to-ease-pump-prices",
-          "publishedAt": "2026-09-02 06:25:26"
+          "source": "WSJ 華爾街日報（國際政經）",
+          "url": "https://www.wsj.com/world/the-island-paradise-that-is-a-secret-hub-for-russian-sanctions-evasion-c2c103ed?mod=rss_worldnews",
+          "publishedAt": "2026-09-02 09:00:00"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "總體經濟",
-      "title": "全球債券殖利率飆升，政府借款面臨挑戰",
-      "fact": "利率上升對全球經濟造成深遠影響，對房貸購屋者、信用卡持卡人及各國政府均構成沉重壓力。殖利率攀升導致政府債務融資成本上升，恐加劇通膨預期並衝擊經濟成長前景。",
+      "title": "全球債券殖利率飆升 政府借貸面臨挑戰",
+      "fact": "利率上升浪潮對全球經濟造成深遠影響，從購屋者、信用卡持有人到各國政府都面臨沉重壓力。政府融資成本上升將限制財政支出空間，可能進一步衝擊經濟成長。",
       "whyItMatters": "觀察利率與景氣預期如何影響評價、美元與風險偏好。",
       "relatedAssets": "QQQ、NVDA、00947 ETF",
       "verification": [
@@ -34,8 +34,8 @@
     },
     {
       "theme": "市場",
-      "title": "債券大幅下跌時期的持有指南",
-      "fact": "投資顧問指出，儘管全球債券市場面臨拋售壓力，固定收益投資仍應納入分散投資組合中。專家建議投資人不應恐慌拋售債券部位，而應重新評估長期投資策略與資產配置。",
+      "title": "債券賣壓期間持有債券投資指南",
+      "fact": "顧問表示，儘管全球債券市場遭受拋售，固定收益資產仍應在多元化投資組合中保有一席之地。專家建議投資人在市場波動時期應保持冷靜，評估長期投資價值。",
       "whyItMatters": "觀察風險資產的資金流與評價是否出現連鎖反應。",
       "relatedAssets": "QQQ、META、GOOGL、00947 ETF",
       "verification": [
@@ -49,23 +49,23 @@
     },
     {
       "theme": "科技",
-      "title": "標題：\n加密貨幣支持的政治行動委員會縮減麻薩諸塞州初選廣告支出",
-      "fact": "這筆189,000美元的媒體支出用於支持眾議院議員Jake Auchincloss，標誌著Fairshake最新嘗試以加密貨幣產業資金影響2026年選舉。",
+      "title": "OpenAI新型AI「Astra」可自主開發攻擊程式",
+      "fact": "Astra是首款達到OpenAI「關鍵」網路安全臨界值的模型，能夠發現未知漏洞並開發跨越強化系統的攻擊方法。此技術進",
       "whyItMatters": "觀察 AI、雲端與資安支出是否影響大型科技股與半導體需求。",
       "relatedAssets": "NVDA、QQQ、META、GOOGL、台積電",
       "verification": [
         {
-          "source": "CoinTelegraph（數位貨幣）",
-          "url": "https://cointelegraph.com/news/crypto-pac-protect-progress-spending-massachusetts-primary?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedAt": "2026-09-02 05:25:27"
+          "source": "CoinDesk（數位貨幣）",
+          "url": "https://www.coindesk.com/tech/2026/09/02/openai-says-its-new-astra-ai-can-build-attacks-without-human-help",
+          "publishedAt": "2026-09-02 13:28:51"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "地緣風險",
-      "title": "美國與伊朗在荷莫茲海峽爆發新一輪衝突",
-      "fact": "川普總統表示此次軍事行動是對伊朗試圖封鎖海峽及襲擊美軍人員的回應。中東地區地緣政治緊張局勢再度升溫，可能影響全球能源供應與油價走勢。",
+      "title": "美伊爭奪荷姆茲海峽控制權 衝突升級",
+      "fact": "美國總統川普表示軍事行動是對伊朗試圖阻礙航運及襲擊美軍人員的回應。中東地區局勢緊張升溫，威脅全球能源供應安全。",
       "whyItMatters": "觀察能源、航運、供應鏈與風險偏好是否出現突發性重估。",
       "relatedAssets": "漢翔、台積電、00947 ETF、USDT",
       "verification": [
