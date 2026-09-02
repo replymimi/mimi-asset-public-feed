@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-02 13:46:18",
+  "updatedAt": "2026-09-02 18:28:09",
   "date": "2026-09-02",
   "items": [
     {
       "theme": "國際政治",
-      "title": "馬爾地夫：天堂島國成俄羅斯規避制裁樞紐",
-      "fact": "馬爾地夫已成為數億美元西方商品流向莫斯科的管道。該島國利用其特殊地位，成為俄烏戰爭期間俄羅斯規避西方制裁的重要中轉站。",
+      "title": "天堂島嶼暗藏俄羅斯規避制裁的祕密樞紐",
+      "fact": "馬爾地夫已成為數億美元西方商品運往莫斯科的管道，協助俄羅斯規避國際制裁。",
       "whyItMatters": "觀察政策、制裁或貿易規則是否改變跨境需求與企業成本。",
       "relatedAssets": "QQQ、META、GOOGL、台灣科技基金",
       "verification": [
@@ -19,23 +19,23 @@
     },
     {
       "theme": "總體經濟",
-      "title": "全球債券殖利率飆升 政府借貸面臨挑戰",
-      "fact": "利率上升浪潮對全球經濟造成深遠影響，從購屋者、信用卡持有人到各國政府都面臨沉重壓力。政府融資成本上升將限制財政支出空間，可能進一步衝擊經濟成長。",
+      "title": "全球債券拋售加劇，歐洲首當其衝",
+      "fact": "美國公債殖利率走升，10年期公債殖利率朝向三年高點推進，全球債券市場面臨廣泛賣壓。",
       "whyItMatters": "觀察利率與景氣預期如何影響評價、美元與風險偏好。",
       "relatedAssets": "QQQ、NVDA、00947 ETF",
       "verification": [
         {
           "source": "WSJ 華爾街日報（財經）",
-          "url": "https://www.wsj.com/finance/investing/bond-yields-around-the-world-soar-in-challenge-to-government-borrowing-c519c53f?mod=rss_markets_main",
-          "publishedAt": "2026-09-02 04:39:00"
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-02-2026?mod=rss_markets_main",
+          "publishedAt": "2026-09-02 16:23:21"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "市場",
-      "title": "債券賣壓期間持有債券投資指南",
-      "fact": "顧問表示，儘管全球債券市場遭受拋售，固定收益資產仍應在多元化投資組合中保有一席之地。專家建議投資人在市場波動時期應保持冷靜，評估長期投資價值。",
+      "title": "債券拋售期間的持債指南",
+      "fact": "投資顧問表示，儘管全球債券市場遭遇重創，固定收益資產仍應保留在多元化投資組合中。",
       "whyItMatters": "觀察風險資產的資金流與評價是否出現連鎖反應。",
       "relatedAssets": "QQQ、META、GOOGL、00947 ETF",
       "verification": [
@@ -48,31 +48,31 @@
       "status": "當日已驗證來源"
     },
     {
-      "theme": "科技",
-      "title": "OpenAI新型AI「Astra」可自主開發攻擊程式",
-      "fact": "Astra是首款達到OpenAI「關鍵」網路安全臨界值的模型，能夠發現未知漏洞並開發跨越強化系統的攻擊方法。此技術進",
-      "whyItMatters": "觀察 AI、雲端與資安支出是否影響大型科技股與半導體需求。",
-      "relatedAssets": "NVDA、QQQ、META、GOOGL、台積電",
+      "theme": "產業",
+      "title": "馬斯克欲進軍動力渦輪組件製造，前景堪憂",
+      "fact": "葉片及葉片製造商股價應聲下跌，但這些廠商面臨的威脅仍相距遙遠。",
+      "whyItMatters": "觀察供需、成本與供應鏈變化對產業獲利的傳導。",
+      "relatedAssets": "台積電、聯電、力積電、華邦電、南亞科",
       "verification": [
         {
-          "source": "CoinDesk（數位貨幣）",
-          "url": "https://www.coindesk.com/tech/2026/09/02/openai-says-its-new-astra-ai-can-build-attacks-without-human-help",
-          "publishedAt": "2026-09-02 13:28:51"
+          "source": "WSJ 華爾街日報（財經）",
+          "url": "https://www.wsj.com/business/elon-musk-wants-to-make-power-turbine-components-it-wont-be-easy-6821757b?mod=rss_markets_main",
+          "publishedAt": "2026-09-02 17:30:00"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "地緣風險",
-      "title": "美伊爭奪荷姆茲海峽控制權 衝突升級",
-      "fact": "美國總統川普表示軍事行動是對伊朗試圖阻礙航運及襲擊美軍人員的回應。中東地區局勢緊張升溫，威脅全球能源供應安全。",
+      "title": "美伊衝突升溫，延長衝突風險引發擔憂",
+      "fact": "美國與伊朗為爭奪荷姆茲海峽控制權的戰事在相對平靜後再度加劇，引發油價大幅上漲，市場擔憂這場衝突可能無限期延長。",
       "whyItMatters": "觀察能源、航運、供應鏈與風險偏好是否出現突發性重估。",
       "relatedAssets": "漢翔、台積電、00947 ETF、USDT",
       "verification": [
         {
-          "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/world/middle-east/iran-strikes-us-1d263f3f?mod=rss_worldnews",
-          "publishedAt": "2026-09-02 08:20:00"
+          "source": "Bloomberg 彭博社（政治經濟）",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-02/us-attacks-prompt-iranian-retaliation-as-fighting-intensifies",
+          "publishedAt": "2026-09-02 16:10:36"
         }
       ],
       "status": "當日已驗證來源"

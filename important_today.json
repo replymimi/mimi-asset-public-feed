@@ -1,29 +1,43 @@
 {
-  "updatedAt": "2026-09-02 17:55:23",
+  "updatedAt": "2026-09-02 18:28:09",
   "items": [
     {
-      "title": "G20峰會內鬨頻頻，全球債市壓力籠罩",
-      "fact": "財政部長會議在全球債券市場拋售、關稅爭議與公開言辭交鋒中閉幕，各國分歧嚴重。",
-      "importance": "影響：關稅",
+      "title": "美伊衝突升溫，延長衝突風險引發擔憂",
+      "fact": "美國與伊朗為爭奪荷姆茲海峽控制權的戰事在相對平靜後再度加劇，引發油價大幅上漲，市場擔憂這場衝突可能無限期延長。",
+      "importance": "影響：油價",
       "verification": [
         {
-          "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/world/g-20-squabbling-overshadows-summit-as-global-bond-markets-strain-dd61e2ef?mod=rss_worldnews",
-          "publishedAt": "2026-09-02 09:00:00"
+          "source": "Bloomberg 彭博社（政治經濟）",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-02/us-attacks-prompt-iranian-retaliation-as-fighting-intensifies",
+          "publishedAt": "2026-09-02 16:10:36"
         }
       ],
       "status": "市場事實（單一可追溯來源）",
       "score": 65
     },
     {
-      "title": "股市今日：全球債券拋售加劇，歐洲受創最深",
-      "fact": "美國10年期公債殖利率走升，朝著三年高點邁進，全球債券市場出現大幅拋售潮。",
+      "title": "全球債券拋售加劇，歐洲首當其衝",
+      "fact": "美國公債殖利率走升，10年期公債殖利率朝向三年高點推進，全球債券市場面臨廣泛賣壓。",
       "importance": "影響：利率",
       "verification": [
         {
           "source": "WSJ 華爾街日報（財經）",
           "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-02-2026?mod=rss_markets_main",
           "publishedAt": "2026-09-02 16:23:21"
+        }
+      ],
+      "status": "市場事實（單一可追溯來源）",
+      "score": 65
+    },
+    {
+      "title": "公債殖利率創新高，G20峰會陷入分裂而領袖互相指責",
+      "fact": "同時，福斯汽車與董事會展開生存之戰，俄羅斯戰時「棺材金」改變最貧困地區的面貌。",
+      "importance": "影響：利率",
+      "verification": [
+        {
+          "source": "WSJ 華爾街日報（國際政經）",
+          "url": "https://www.wsj.com/world/treasury-yields-hit-new-highs-as-world-leaders-squabble-at-fractured-g-20-bfad9027?mod=rss_worldnews",
+          "publishedAt": "2026-09-02 17:56:00"
         }
       ],
       "status": "市場事實（單一可追溯來源）",
