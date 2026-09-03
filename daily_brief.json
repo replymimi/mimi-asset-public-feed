@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-03 09:16:37",
+  "updatedAt": "2026-09-03 14:28:14",
   "news": [
     {
       "type": "news",
       "title": "",
       "source": "WSJ 華爾街日報（財經） · 09/02 16:23",
-      "summary": "📰 WSJ 華爾街日報（財經） · 09/02 16:2310 年期殖利率觸及自 2023 年以來的最高水準；全球債券殖利率持續上升"
+      "summary": "📰 WSJ 華爾街日報（財經） · 09/02 16:23"
     },
     {
       "type": "news",
@@ -22,8 +22,8 @@
     {
       "type": "news",
       "title": "",
-      "source": "WSJ 華爾街日報（國際政經） · 09/03 09:00",
-      "summary": "📰 WSJ 華爾街日報（國際政經） · 09/03 09:00"
+      "source": "WSJ 華爾街日報（國際政經） · 09/03 11:33",
+      "summary": "📰 WSJ 華爾街日報（國際政經） · 09/03 11:33"
     },
     {
       "type": "news",
@@ -34,44 +34,44 @@
     {
       "type": "news",
       "title": "",
-      "source": "WSJ 華爾街日報（國際政經） · 09/03 08:00",
-      "summary": "📰 WSJ 華爾街日報（國際政經） · 09/03 08:00"
+      "source": "WSJ 華爾街日報（國際政經） · 09/03 09:00",
+      "summary": "📰 WSJ 華爾街日報（國際政經） · 09/03 09:00"
     },
     {
       "type": "news",
       "title": "",
-      "source": "Bloomberg 彭博社（政治經濟） · 09/03 03:15",
-      "summary": "📰 Bloomberg 彭博社（政治經濟） · 09/03 03:15"
+      "source": "Bloomberg 彭博社（政治經濟） · 09/02 19:09",
+      "summary": "📰 Bloomberg 彭博社（政治經濟） · 09/02 19:09"
     },
     {
       "type": "news",
       "title": "",
-      "source": "Bloomberg 彭博社（政治經濟） · 09/03 07:25",
-      "summary": "📰 Bloomberg 彭博社（政治經濟） · 09/03 07:25"
+      "source": "Bloomberg 彭博社（政治經濟） · 09/03 13:12",
+      "summary": "📰 Bloomberg 彭博社（政治經濟） · 09/03 13:12"
     },
     {
       "type": "news",
       "title": "",
-      "source": "Bloomberg 彭博社（政治經濟） · 09/03 08:00",
-      "summary": "📰 Bloomberg 彭博社（政治經濟） · 09/03 08:00"
+      "source": "Bloomberg 彭博社（政治經濟） · 09/03 12:55",
+      "summary": "📰 Bloomberg 彭博社（政治經濟） · 09/03 12:55"
+    },
+    {
+      "type": "news",
+      "title": "",
+      "source": "CoinTelegraph（數位貨幣） · 09/03 14:10",
+      "summary": "📰 CoinTelegraph（數位貨幣） · 09/03 14:10"
+    },
+    {
+      "type": "news",
+      "title": "",
+      "source": "CoinTelegraph（數位貨幣） · 09/03 12:57",
+      "summary": "📰 CoinTelegraph（數位貨幣） · 09/03 12:57"
     },
     {
       "type": "news",
       "title": "",
       "source": "CoinTelegraph（數位貨幣） · 09/03 05:27",
       "summary": "📰 CoinTelegraph（數位貨幣） · 09/03 05:27"
-    },
-    {
-      "type": "news",
-      "title": "Coinbase 在加拿大推出受監管的加密衍生品",
-      "source": "CoinTelegraph（數位貨幣） · 09/03 04:55",
-      "summary": "📰 Coinbase 在加拿大推出受監管的加密衍生品CoinTelegraph（數位貨幣） · 09/03 04:55"
-    },
-    {
-      "type": "news",
-      "title": "",
-      "source": "CoinTelegraph（數位貨幣） · 09/03 03:11",
-      "summary": "📰 CoinTelegraph（數位貨幣） · 09/03 03:11"
     }
   ],
   "videos": []
