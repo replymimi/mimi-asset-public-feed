@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03 18:05:48",
+  "updatedAt": "2026-09-03 22:31:28",
   "news": [
     {
       "type": "news",
@@ -10,14 +10,20 @@
     {
       "type": "news",
       "title": "",
-      "source": "WSJ 華爾街日報（財經） · 09/03 17:30",
-      "summary": "📰 WSJ 華爾街日報（財經） · 09/03 17:30"
+      "source": "WSJ 華爾街日報（財經） · 09/03 19:00",
+      "summary": "📰 WSJ 華爾街日報（財經） · 09/03 19:00"
     },
     {
       "type": "news",
       "title": "",
-      "source": "WSJ 華爾街日報（財經） · 09/03 09:00",
-      "summary": "📰 WSJ 華爾街日報（財經） · 09/03 09:00"
+      "source": "WSJ 華爾街日報（財經） · 09/03 18:21",
+      "summary": "📰 WSJ 華爾街日報（財經） · 09/03 18:21"
+    },
+    {
+      "type": "news",
+      "title": "",
+      "source": "WSJ 華爾街日報（國際政經） · 09/03 19:05",
+      "summary": "📰 WSJ 華爾街日報（國際政經） · 09/03 19:05"
     },
     {
       "type": "news",
@@ -34,44 +40,38 @@
     {
       "type": "news",
       "title": "",
-      "source": "WSJ 華爾街日報（國際政經） · 09/03 09:00",
-      "summary": "📰 WSJ 華爾街日報（國際政經） · 09/03 09:00"
+      "source": "Bloomberg 彭博社（政治經濟） · 09/03 06:11",
+      "summary": "📰 Bloomberg 彭博社（政治經濟） · 09/03 06:11"
     },
     {
       "type": "news",
       "title": "",
-      "source": "Bloomberg 彭博社（政治經濟） · 09/03 16:08",
-      "summary": "📰 Bloomberg 彭博社（政治經濟） · 09/03 16:08"
+      "source": "Bloomberg 彭博社（政治經濟） · 09/03 22:20",
+      "summary": "📰 Bloomberg 彭博社（政治經濟） · 09/03 22:20"
     },
     {
       "type": "news",
       "title": "",
-      "source": "Bloomberg 彭博社（政治經濟） · 09/03 12:55",
-      "summary": "📰 Bloomberg 彭博社（政治經濟） · 09/03 12:55"
+      "source": "Bloomberg 彭博社（政治經濟） · 09/03 22:00",
+      "summary": "📰 Bloomberg 彭博社（政治經濟） · 09/03 22:00"
     },
     {
       "type": "news",
       "title": "",
-      "source": "Bloomberg 彭博社（政治經濟） · 09/03 17:59",
-      "summary": "📰 Bloomberg 彭博社（政治經濟） · 09/03 17:59"
+      "source": "CoinTelegraph（數位貨幣） · 09/03 21:30",
+      "summary": "📰 CoinTelegraph（數位貨幣） · 09/03 21:30"
     },
     {
       "type": "news",
       "title": "",
-      "source": "CoinTelegraph（數位貨幣） · 09/03 17:31",
-      "summary": "📰 CoinTelegraph（數位貨幣） · 09/03 17:31"
+      "source": "CoinTelegraph（數位貨幣） · 09/03 21:00",
+      "summary": "📰 CoinTelegraph（數位貨幣） · 09/03 21:00"
     },
     {
       "type": "news",
       "title": "",
-      "source": "CoinTelegraph（數位貨幣） · 09/03 17:28",
-      "summary": "📰 CoinTelegraph（數位貨幣） · 09/03 17:28"
-    },
-    {
-      "type": "news",
-      "title": "",
-      "source": "CoinTelegraph（數位貨幣） · 09/03 15:47",
-      "summary": "📰 CoinTelegraph（數位貨幣） · 09/03 15:47"
+      "source": "CoinTelegraph（數位貨幣） · 09/03 21:00",
+      "summary": "📰 CoinTelegraph（數位貨幣） · 09/03 21:00"
     }
   ],
   "videos": []
