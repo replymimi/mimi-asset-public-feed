@@ -1,43 +1,29 @@
 {
-  "updatedAt": "2026-09-02 18:28:09",
+  "updatedAt": "2026-09-04 14:31:18",
   "items": [
     {
-      "title": "美伊衝突升溫，延長衝突風險引發擔憂",
-      "fact": "美國與伊朗為爭奪荷姆茲海峽控制權的戰事在相對平靜後再度加劇，引發油價大幅上漲，市場擔憂這場衝突可能無限期延長。",
-      "importance": "影響：油價",
+      "title": "鴿派聯準會言論後，股票與債券齊揚",
+      "fact": "在聯準會理事克里斯托弗·沃勒表示他可能支持利率暫時維持後，道瓊指數單日上漲逾600點。此番表態不僅帶動股市，也令債券價格走高、殖利率下挫。市場普遍解讀為貨幣政策短期趨於穩定，風�",
+      "importance": "影響：聯準會、利率",
       "verification": [
         {
-          "source": "Bloomberg 彭博社（政治經濟）",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-02/us-attacks-prompt-iranian-retaliation-as-fighting-intensifies",
-          "publishedAt": "2026-09-02 16:10:36"
+          "source": "WSJ 華爾街日報（財經）",
+          "url": "https://www.wsj.com/finance/stocks/stocks-bonds-rally-after-dovish-fed-comments-b95763ae?mod=rss_markets_main",
+          "publishedAt": "2026-09-04 05:03:00"
         }
       ],
       "status": "市場事實（單一可追溯來源）",
-      "score": 65
+      "score": 85
     },
     {
-      "title": "全球債券拋售加劇，歐洲首當其衝",
-      "fact": "美國公債殖利率走升，10年期公債殖利率朝向三年高點推進，全球債券市場面臨廣泛賣壓。",
+      "title": "Oura上市案揭露智慧戒指製造商高成長",
+      "fact": "智慧戒指廠商Oura在申請上市文件中顯示公司近期已轉為獲利，並在截至6月的九個月內營收年增74%。公司產品以健康監測為主，市場需求推動毛利與淨利改善。投資人關注公司持續擴張用戶基礎及毛利率能否維持。",
       "importance": "影響：利率",
       "verification": [
         {
           "source": "WSJ 華爾街日報（財經）",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-02-2026?mod=rss_markets_main",
-          "publishedAt": "2026-09-02 16:23:21"
-        }
-      ],
-      "status": "市場事實（單一可追溯來源）",
-      "score": 65
-    },
-    {
-      "title": "公債殖利率創新高，G20峰會陷入分裂而領袖互相指責",
-      "fact": "同時，福斯汽車與董事會展開生存之戰，俄羅斯戰時「棺材金」改變最貧困地區的面貌。",
-      "importance": "影響：利率",
-      "verification": [
-        {
-          "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/world/treasury-yields-hit-new-highs-as-world-leaders-squabble-at-fractured-g-20-bfad9027?mod=rss_worldnews",
-          "publishedAt": "2026-09-02 17:56:00"
+          "url": "https://www.wsj.com/finance/stocks/ouras-ipo-reveals-high-growth-for-smart-ring-maker-9ce3e4c9?mod=rss_markets_main",
+          "publishedAt": "2026-09-04 06:09:00"
         }
       ],
       "status": "市場事實（單一可追溯來源）",
