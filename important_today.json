@@ -1,43 +1,15 @@
 {
-  "updatedAt": "2026-09-02 18:28:09",
+  "updatedAt": "2026-09-04 09:08:18",
   "items": [
     {
-      "title": "美伊衝突升溫，延長衝突風險引發擔憂",
-      "fact": "美國與伊朗為爭奪荷姆茲海峽控制權的戰事在相對平靜後再度加劇，引發油價大幅上漲，市場擔憂這場衝突可能無限期延長。",
+      "title": "油價在亞洲早盤上漲，因中東供應中斷疑慮升溫",
+      "fact": "油價在亞洲早盤走高，市場對中東可能的供應中斷表示高度擔憂。交易員指出，地緣政治風險使得原油避險需求增加，推升價格走勢。若局",
       "importance": "影響：油價",
       "verification": [
         {
-          "source": "Bloomberg 彭博社（政治經濟）",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-02/us-attacks-prompt-iranian-retaliation-as-fighting-intensifies",
-          "publishedAt": "2026-09-02 16:10:36"
-        }
-      ],
-      "status": "市場事實（單一可追溯來源）",
-      "score": 65
-    },
-    {
-      "title": "全球債券拋售加劇，歐洲首當其衝",
-      "fact": "美國公債殖利率走升，10年期公債殖利率朝向三年高點推進，全球債券市場面臨廣泛賣壓。",
-      "importance": "影響：利率",
-      "verification": [
-        {
           "source": "WSJ 華爾街日報（財經）",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-02-2026?mod=rss_markets_main",
-          "publishedAt": "2026-09-02 16:23:21"
-        }
-      ],
-      "status": "市場事實（單一可追溯來源）",
-      "score": 65
-    },
-    {
-      "title": "公債殖利率創新高，G20峰會陷入分裂而領袖互相指責",
-      "fact": "同時，福斯汽車與董事會展開生存之戰，俄羅斯戰時「棺材金」改變最貧困地區的面貌。",
-      "importance": "影響：利率",
-      "verification": [
-        {
-          "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/world/treasury-yields-hit-new-highs-as-world-leaders-squabble-at-fractured-g-20-bfad9027?mod=rss_worldnews",
-          "publishedAt": "2026-09-02 17:56:00"
+          "url": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-elevated-supply-disruption-concerns-fa01461e?mod=rss_markets_main",
+          "publishedAt": "2026-09-04 08:27:00"
         }
       ],
       "status": "市場事實（單一可追溯來源）",
