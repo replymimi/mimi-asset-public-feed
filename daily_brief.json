@@ -1,15 +1,5 @@
 {
-  "updatedAt": "2026-09-05 17:22:37",
+  "updatedAt": "2026-09-05 17:38:19",
   "news": [],
-  "videos": [
-    {
-      "type": "video",
-      "source": "Gooaye 股癌",
-      "title": "EP694 | 🥖",
-      "summary": [],
-      "url": "https://www.youtube.com/watch?v=aOwBYre2B5k",
-      "publishedAt": "20260905",
-      "status": "等待可用字幕或轉寫"
-    }
-  ]
+  "videos": []
 }
