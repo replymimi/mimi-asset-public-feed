@@ -1,5 +1,5 @@
 {
-  "syncTime": "2026-09-04 22:19:59",
+  "syncTime": "2026-09-05 14:20:17",
   "dataDate": "2026-09-04",
   "prices": {
     "2330": {
@@ -12,8 +12,8 @@
       "signal": "ADD",
       "previousSignal": "BUY",
       "strategyEq": 2.139560592109574,
-      "buyHoldEq": 2.710911136107987,
-      "edge": -57.13505439984128
+      "buyHoldEq": 2.671840354767182,
+      "edge": -53.227976265760766
     },
     "00947": {
       "name": "00947 ETF",
@@ -25,60 +25,60 @@
       "signal": "HOLD",
       "previousSignal": "HOLD",
       "strategyEq": 2.732773104128656,
-      "buyHoldEq": 2.7725926151982,
-      "edge": -3.9819511069544067
+      "buyHoldEq": 2.727880977472931,
+      "edge": 0.48921266557249155
     },
     "NVDA": {
       "name": "NVIDIA (NVDA)",
       "ticker": "NVDA",
-      "date": "2026-09-03",
-      "price": 234.23,
+      "date": "2026-09-04",
+      "price": 230.36,
       "priceSource": "Yahoo台股",
       "quoteTime": "",
       "signal": "HOLD",
-      "previousSignal": "HOLD",
-      "strategyEq": 1.2295825938380769,
-      "buyHoldEq": 2.1128896111149325,
-      "edge": -88.33070172768555
+      "previousSignal": "ADD",
+      "strategyEq": 1.2621836925482928,
+      "buyHoldEq": 2.148680184474648,
+      "edge": -88.64964919263554
     },
     "QQQ": {
       "name": "QQQ (美股)",
       "ticker": "QQQ",
-      "date": "2026-09-03",
-      "price": 719.89,
+      "date": "2026-09-04",
+      "price": 718.96,
       "priceSource": "Yahoo台股",
       "quoteTime": "",
       "signal": "HOLD",
-      "previousSignal": "HOLD",
-      "strategyEq": 1.167755245377599,
-      "buyHoldEq": 1.5397842269811963,
-      "edge": -37.20289816035973
+      "previousSignal": "BUY",
+      "strategyEq": 1.1837591625338548,
+      "buyHoldEq": 1.5594308707431905,
+      "edge": -37.56717082093357
     },
     "META": {
       "name": "META (美股)",
       "ticker": "META",
-      "date": "2026-09-03",
-      "price": 609.37,
+      "date": "2026-09-04",
+      "price": 616.77,
       "priceSource": "Yahoo台股",
       "quoteTime": "",
       "signal": "HOLD",
       "previousSignal": "HOLD",
       "strategyEq": 1.1169019667603315,
-      "buyHoldEq": 1.1562390039344173,
-      "edge": -3.9337037174085765
+      "buyHoldEq": 1.19330193284692,
+      "edge": -7.639996608658861
     },
     "GOOGL": {
       "name": "Alphabet A (GOOGL)",
       "ticker": "GOOGL",
-      "date": "2026-09-03",
-      "price": 339.84,
+      "date": "2026-09-04",
+      "price": 338.46,
       "priceSource": "Yahoo台股",
       "quoteTime": "",
       "signal": "HOLD",
       "previousSignal": "HOLD",
       "strategyEq": 2.03520773305152,
-      "buyHoldEq": 2.154809854222725,
-      "edge": -11.960212117120506
+      "buyHoldEq": 2.152505594193661,
+      "edge": -11.729786114214091
     },
     "2303": {
       "name": "聯電 (2303)",
@@ -90,8 +90,8 @@
       "signal": "HOLD",
       "previousSignal": "HOLD",
       "strategyEq": 1.4749238309327724,
-      "buyHoldEq": 2.439024425156247,
-      "edge": -96.41005942234746
+      "buyHoldEq": 2.411873772166471,
+      "edge": -93.69499412336988
     },
     "2634": {
       "name": "漢翔 (2634)",
@@ -103,8 +103,8 @@
       "signal": "HOLD",
       "previousSignal": "HOLD",
       "strategyEq": 1.2106446156341568,
-      "buyHoldEq": 1.3815090553455425,
-      "edge": -17.086443971138564
+      "buyHoldEq": 1.3933547239851967,
+      "edge": -18.271010835103986
     },
     "2886": {
       "name": "兆豐金 (2886)",
@@ -116,8 +116,8 @@
       "signal": "HOLD",
       "previousSignal": "HOLD",
       "strategyEq": 1.2765239765751257,
-      "buyHoldEq": 1.303947348343703,
-      "edge": -2.742337176857723
+      "buyHoldEq": 1.2853437151154345,
+      "edge": -0.8819738540308819
     },
     "2327": {
       "name": "國巨 (2327)",
@@ -129,8 +129,8 @@
       "signal": "HOLD",
       "previousSignal": "HOLD",
       "strategyEq": 2.1251034615465745,
-      "buyHoldEq": 3.6973684210526305,
-      "edge": -157.2264959506056
+      "buyHoldEq": 3.709570957095708,
+      "edge": -158.44674955491334
     },
     "6209": {
       "name": "今國光 (6209)",
@@ -142,8 +142,8 @@
       "signal": "HOLD",
       "previousSignal": "HOLD",
       "strategyEq": 2.068389564419914,
-      "buyHoldEq": 3.2665329662458227,
-      "edge": -119.81434018259085
+      "buyHoldEq": 3.2600000000000047,
+      "edge": -119.16104355800906
     },
     "5309": {
       "name": "系統電 (5309)",
@@ -155,8 +155,8 @@
       "signal": "HOLD",
       "previousSignal": "HOLD",
       "strategyEq": 1.9406055193690919,
-      "buyHoldEq": 1.4484679050087292,
-      "edge": 49.213761436036265
+      "buyHoldEq": 1.4647887323943642,
+      "edge": 47.58167869747276
     },
     "6770": {
       "name": "力積電 (6770)",
@@ -168,8 +168,8 @@
       "signal": "HOLD",
       "previousSignal": "HOLD",
       "strategyEq": 2.032362459946449,
-      "buyHoldEq": 3.459596092902137,
-      "edge": -142.72336329556882
+      "buyHoldEq": 3.366093302994462,
+      "edge": -133.37308430480132
     },
     "2344": {
       "name": "華邦電 (2344)",
@@ -181,8 +181,8 @@
       "signal": "HOLD",
       "previousSignal": "HOLD",
       "strategyEq": 0.888511382232869,
-      "buyHoldEq": 7.8733030315191455,
-      "edge": -698.4791649286277
+      "buyHoldEq": 8.130841266433157,
+      "edge": -724.2329884200287
     },
     "2408": {
       "name": "南亞科 (2408)",
@@ -194,8 +194,8 @@
       "signal": "HOLD",
       "previousSignal": "HOLD",
       "strategyEq": 0.9134438305709025,
-      "buyHoldEq": 10.431125298807958,
-      "edge": -951.7681468237056
+      "buyHoldEq": 10.78260869565216,
+      "edge": -986.9164865081258
     },
     "6285": {
       "name": "啟碁 (6285)",
@@ -207,8 +207,8 @@
       "signal": "HOLD",
       "previousSignal": "HOLD",
       "strategyEq": 1.242526130621455,
-      "buyHoldEq": 2.1453744493392044,
-      "edge": -90.28483187177494
+      "buyHoldEq": 2.174107142857145,
+      "edge": -93.158101223569
     },
     "安聯台灣科技基金": {
       "name": "安聯台灣科技基金",
@@ -261,8 +261,8 @@
       "signal": "ADD",
       "previousSignal": "BUY",
       "strategyEq": 2.139560592109574,
-      "buyHoldEq": 2.710911136107987,
-      "edge": -57.13505439984128
+      "buyHoldEq": 2.671840354767182,
+      "edge": -53.227976265760766
     },
     {
       "name": "00947 ETF",
@@ -274,60 +274,60 @@
       "signal": "HOLD",
       "previousSignal": "HOLD",
       "strategyEq": 2.732773104128656,
-      "buyHoldEq": 2.7725926151982,
-      "edge": -3.9819511069544067
+      "buyHoldEq": 2.727880977472931,
+      "edge": 0.48921266557249155
     },
     {
       "name": "NVIDIA (NVDA)",
       "ticker": "NVDA",
-      "date": "2026-09-03",
-      "price": 234.23,
+      "date": "2026-09-04",
+      "price": 230.36,
       "priceSource": "Yahoo台股",
       "quoteTime": "",
       "signal": "HOLD",
-      "previousSignal": "HOLD",
-      "strategyEq": 1.2295825938380769,
-      "buyHoldEq": 2.1128896111149325,
-      "edge": -88.33070172768555
+      "previousSignal": "ADD",
+      "strategyEq": 1.2621836925482928,
+      "buyHoldEq": 2.148680184474648,
+      "edge": -88.64964919263554
     },
     {
       "name": "QQQ (美股)",
       "ticker": "QQQ",
-      "date": "2026-09-03",
-      "price": 719.89,
+      "date": "2026-09-04",
+      "price": 718.96,
       "priceSource": "Yahoo台股",
       "quoteTime": "",
       "signal": "HOLD",
-      "previousSignal": "HOLD",
-      "strategyEq": 1.167755245377599,
-      "buyHoldEq": 1.5397842269811963,
-      "edge": -37.20289816035973
+      "previousSignal": "BUY",
+      "strategyEq": 1.1837591625338548,
+      "buyHoldEq": 1.5594308707431905,
+      "edge": -37.56717082093357
     },
     {
       "name": "META (美股)",
       "ticker": "META",
-      "date": "2026-09-03",
-      "price": 609.37,
+      "date": "2026-09-04",
+      "price": 616.77,
       "priceSource": "Yahoo台股",
       "quoteTime": "",
       "signal": "HOLD",
       "previousSignal": "HOLD",
       "strategyEq": 1.1169019667603315,
-      "buyHoldEq": 1.1562390039344173,
-      "edge": -3.9337037174085765
+      "buyHoldEq": 1.19330193284692,
+      "edge": -7.639996608658861
     },
     {
       "name": "Alphabet A (GOOGL)",
       "ticker": "GOOGL",
-      "date": "2026-09-03",
-      "price": 339.84,
+      "date": "2026-09-04",
+      "price": 338.46,
       "priceSource": "Yahoo台股",
       "quoteTime": "",
       "signal": "HOLD",
       "previousSignal": "HOLD",
       "strategyEq": 2.03520773305152,
-      "buyHoldEq": 2.154809854222725,
-      "edge": -11.960212117120506
+      "buyHoldEq": 2.152505594193661,
+      "edge": -11.729786114214091
     },
     {
       "name": "聯電 (2303)",
@@ -339,8 +339,8 @@
       "signal": "HOLD",
       "previousSignal": "HOLD",
       "strategyEq": 1.4749238309327724,
-      "buyHoldEq": 2.439024425156247,
-      "edge": -96.41005942234746
+      "buyHoldEq": 2.411873772166471,
+      "edge": -93.69499412336988
     },
     {
       "name": "漢翔 (2634)",
@@ -352,8 +352,8 @@
       "signal": "HOLD",
       "previousSignal": "HOLD",
       "strategyEq": 1.2106446156341568,
-      "buyHoldEq": 1.3815090553455425,
-      "edge": -17.086443971138564
+      "buyHoldEq": 1.3933547239851967,
+      "edge": -18.271010835103986
     },
     {
       "name": "兆豐金 (2886)",
@@ -365,8 +365,8 @@
       "signal": "HOLD",
       "previousSignal": "HOLD",
       "strategyEq": 1.2765239765751257,
-      "buyHoldEq": 1.303947348343703,
-      "edge": -2.742337176857723
+      "buyHoldEq": 1.2853437151154345,
+      "edge": -0.8819738540308819
     },
     {
       "name": "國巨 (2327)",
@@ -378,8 +378,8 @@
       "signal": "HOLD",
       "previousSignal": "HOLD",
       "strategyEq": 2.1251034615465745,
-      "buyHoldEq": 3.6973684210526305,
-      "edge": -157.2264959506056
+      "buyHoldEq": 3.709570957095708,
+      "edge": -158.44674955491334
     },
     {
       "name": "今國光 (6209)",
@@ -391,8 +391,8 @@
       "signal": "HOLD",
       "previousSignal": "HOLD",
       "strategyEq": 2.068389564419914,
-      "buyHoldEq": 3.2665329662458227,
-      "edge": -119.81434018259085
+      "buyHoldEq": 3.2600000000000047,
+      "edge": -119.16104355800906
     },
     {
       "name": "系統電 (5309)",
@@ -404,8 +404,8 @@
       "signal": "HOLD",
       "previousSignal": "HOLD",
       "strategyEq": 1.9406055193690919,
-      "buyHoldEq": 1.4484679050087292,
-      "edge": 49.213761436036265
+      "buyHoldEq": 1.4647887323943642,
+      "edge": 47.58167869747276
     },
     {
       "name": "力積電 (6770)",
@@ -417,8 +417,8 @@
       "signal": "HOLD",
       "previousSignal": "HOLD",
       "strategyEq": 2.032362459946449,
-      "buyHoldEq": 3.459596092902137,
-      "edge": -142.72336329556882
+      "buyHoldEq": 3.366093302994462,
+      "edge": -133.37308430480132
     },
     {
       "name": "華邦電 (2344)",
@@ -430,8 +430,8 @@
       "signal": "HOLD",
       "previousSignal": "HOLD",
       "strategyEq": 0.888511382232869,
-      "buyHoldEq": 7.8733030315191455,
-      "edge": -698.4791649286277
+      "buyHoldEq": 8.130841266433157,
+      "edge": -724.2329884200287
     },
     {
       "name": "南亞科 (2408)",
@@ -443,8 +443,8 @@
       "signal": "HOLD",
       "previousSignal": "HOLD",
       "strategyEq": 0.9134438305709025,
-      "buyHoldEq": 10.431125298807958,
-      "edge": -951.7681468237056
+      "buyHoldEq": 10.78260869565216,
+      "edge": -986.9164865081258
     },
     {
       "name": "啟碁 (6285)",
@@ -456,8 +456,8 @@
       "signal": "HOLD",
       "previousSignal": "HOLD",
       "strategyEq": 1.242526130621455,
-      "buyHoldEq": 2.1453744493392044,
-      "edge": -90.28483187177494
+      "buyHoldEq": 2.174107142857145,
+      "edge": -93.158101223569
     },
     {
       "name": "安聯台灣科技基金",
@@ -510,8 +510,8 @@
       "signal": "HOLD",
       "previousSignal": "HOLD",
       "strategyEq": 1.9406055193690919,
-      "buyHoldEq": 1.4484679050087292,
-      "edge": 49.213761436036265
+      "buyHoldEq": 1.4647887323943642,
+      "edge": 47.58167869747276
     },
     {
       "name": "國泰小龍",
@@ -553,32 +553,6 @@
       "edge": 18.48873007666354
     },
     {
-      "name": "兆豐金 (2886)",
-      "ticker": "2886",
-      "date": "2026-09-04",
-      "price": 49.55,
-      "priceSource": "Yahoo台股",
-      "quoteTime": "",
-      "signal": "HOLD",
-      "previousSignal": "HOLD",
-      "strategyEq": 1.2765239765751257,
-      "buyHoldEq": 1.303947348343703,
-      "edge": -2.742337176857723
-    },
-    {
-      "name": "META (美股)",
-      "ticker": "META",
-      "date": "2026-09-03",
-      "price": 609.37,
-      "priceSource": "Yahoo台股",
-      "quoteTime": "",
-      "signal": "HOLD",
-      "previousSignal": "HOLD",
-      "strategyEq": 1.1169019667603315,
-      "buyHoldEq": 1.1562390039344173,
-      "edge": -3.9337037174085765
-    },
-    {
       "name": "00947 ETF",
       "ticker": "00947",
       "date": "2026-09-04",
@@ -588,21 +562,47 @@
       "signal": "HOLD",
       "previousSignal": "HOLD",
       "strategyEq": 2.732773104128656,
-      "buyHoldEq": 2.7725926151982,
-      "edge": -3.9819511069544067
+      "buyHoldEq": 2.727880977472931,
+      "edge": 0.48921266557249155
+    },
+    {
+      "name": "兆豐金 (2886)",
+      "ticker": "2886",
+      "date": "2026-09-04",
+      "price": 49.55,
+      "priceSource": "Yahoo台股",
+      "quoteTime": "",
+      "signal": "HOLD",
+      "previousSignal": "HOLD",
+      "strategyEq": 1.2765239765751257,
+      "buyHoldEq": 1.2853437151154345,
+      "edge": -0.8819738540308819
+    },
+    {
+      "name": "META (美股)",
+      "ticker": "META",
+      "date": "2026-09-04",
+      "price": 616.77,
+      "priceSource": "Yahoo台股",
+      "quoteTime": "",
+      "signal": "HOLD",
+      "previousSignal": "HOLD",
+      "strategyEq": 1.1169019667603315,
+      "buyHoldEq": 1.19330193284692,
+      "edge": -7.639996608658861
     },
     {
       "name": "Alphabet A (GOOGL)",
       "ticker": "GOOGL",
-      "date": "2026-09-03",
-      "price": 339.84,
+      "date": "2026-09-04",
+      "price": 338.46,
       "priceSource": "Yahoo台股",
       "quoteTime": "",
       "signal": "HOLD",
       "previousSignal": "HOLD",
       "strategyEq": 2.03520773305152,
-      "buyHoldEq": 2.154809854222725,
-      "edge": -11.960212117120506
+      "buyHoldEq": 2.152505594193661,
+      "edge": -11.729786114214091
     },
     {
       "name": "漢翔 (2634)",
@@ -614,21 +614,21 @@
       "signal": "HOLD",
       "previousSignal": "HOLD",
       "strategyEq": 1.2106446156341568,
-      "buyHoldEq": 1.3815090553455425,
-      "edge": -17.086443971138564
+      "buyHoldEq": 1.3933547239851967,
+      "edge": -18.271010835103986
     },
     {
       "name": "QQQ (美股)",
       "ticker": "QQQ",
-      "date": "2026-09-03",
-      "price": 719.89,
+      "date": "2026-09-04",
+      "price": 718.96,
       "priceSource": "Yahoo台股",
       "quoteTime": "",
       "signal": "HOLD",
-      "previousSignal": "HOLD",
-      "strategyEq": 1.167755245377599,
-      "buyHoldEq": 1.5397842269811963,
-      "edge": -37.20289816035973
+      "previousSignal": "BUY",
+      "strategyEq": 1.1837591625338548,
+      "buyHoldEq": 1.5594308707431905,
+      "edge": -37.56717082093357
     },
     {
       "name": "台積電 (2330)",
@@ -640,21 +640,21 @@
       "signal": "ADD",
       "previousSignal": "BUY",
       "strategyEq": 2.139560592109574,
-      "buyHoldEq": 2.710911136107987,
-      "edge": -57.13505439984128
+      "buyHoldEq": 2.671840354767182,
+      "edge": -53.227976265760766
     },
     {
       "name": "NVIDIA (NVDA)",
       "ticker": "NVDA",
-      "date": "2026-09-03",
-      "price": 234.23,
+      "date": "2026-09-04",
+      "price": 230.36,
       "priceSource": "Yahoo台股",
       "quoteTime": "",
       "signal": "HOLD",
-      "previousSignal": "HOLD",
-      "strategyEq": 1.2295825938380769,
-      "buyHoldEq": 2.1128896111149325,
-      "edge": -88.33070172768555
+      "previousSignal": "ADD",
+      "strategyEq": 1.2621836925482928,
+      "buyHoldEq": 2.148680184474648,
+      "edge": -88.64964919263554
     },
     {
       "name": "啟碁 (6285)",
@@ -666,8 +666,8 @@
       "signal": "HOLD",
       "previousSignal": "HOLD",
       "strategyEq": 1.242526130621455,
-      "buyHoldEq": 2.1453744493392044,
-      "edge": -90.28483187177494
+      "buyHoldEq": 2.174107142857145,
+      "edge": -93.158101223569
     },
     {
       "name": "聯電 (2303)",
@@ -679,8 +679,8 @@
       "signal": "HOLD",
       "previousSignal": "HOLD",
       "strategyEq": 1.4749238309327724,
-      "buyHoldEq": 2.439024425156247,
-      "edge": -96.41005942234746
+      "buyHoldEq": 2.411873772166471,
+      "edge": -93.69499412336988
     },
     {
       "name": "今國光 (6209)",
@@ -692,8 +692,8 @@
       "signal": "HOLD",
       "previousSignal": "HOLD",
       "strategyEq": 2.068389564419914,
-      "buyHoldEq": 3.2665329662458227,
-      "edge": -119.81434018259085
+      "buyHoldEq": 3.2600000000000047,
+      "edge": -119.16104355800906
     },
     {
       "name": "力積電 (6770)",
@@ -705,8 +705,8 @@
       "signal": "HOLD",
       "previousSignal": "HOLD",
       "strategyEq": 2.032362459946449,
-      "buyHoldEq": 3.459596092902137,
-      "edge": -142.72336329556882
+      "buyHoldEq": 3.366093302994462,
+      "edge": -133.37308430480132
     },
     {
       "name": "國巨 (2327)",
@@ -718,8 +718,8 @@
       "signal": "HOLD",
       "previousSignal": "HOLD",
       "strategyEq": 2.1251034615465745,
-      "buyHoldEq": 3.6973684210526305,
-      "edge": -157.2264959506056
+      "buyHoldEq": 3.709570957095708,
+      "edge": -158.44674955491334
     },
     {
       "name": "華邦電 (2344)",
@@ -731,8 +731,8 @@
       "signal": "HOLD",
       "previousSignal": "HOLD",
       "strategyEq": 0.888511382232869,
-      "buyHoldEq": 7.8733030315191455,
-      "edge": -698.4791649286277
+      "buyHoldEq": 8.130841266433157,
+      "edge": -724.2329884200287
     },
     {
       "name": "南亞科 (2408)",
@@ -744,14 +744,16 @@
       "signal": "HOLD",
       "previousSignal": "HOLD",
       "strategyEq": 0.9134438305709025,
-      "buyHoldEq": 10.431125298807958,
-      "edge": -951.7681468237056
+      "buyHoldEq": 10.78260869565216,
+      "edge": -986.9164865081258
     }
   ],
   "strategyStatus": {
-    "changedCount": 1,
+    "changedCount": 3,
     "changedNames": [
-      "台積電 (2330)"
+      "台積電 (2330)",
+      "NVIDIA (NVDA)",
+      "QQQ (美股)"
     ],
     "total": 19
   }
