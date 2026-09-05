@@ -7,12 +7,53 @@
   "summary": "偏多：基本面與趨勢較有利，但仍採分批。",
   "action": "核心部位分批配置；不追單日反彈。高波動題材不得超過題材上限，並在市場轉弱時優先降低。",
   "invalidates": "若美、台兩地的五日趨勢同步轉弱，或新的已驗證利率／地緣事件明顯惡化，重新降低股票比重。",
-  "allocation": {"taiwanCore": 35, "usCore": 30, "defensive": 15, "cash": 20, "themeLimit": 10},
+  "allocation": {
+    "taiwanCore": 35,
+    "usCore": 30,
+    "defensive": 15,
+    "cash": 20,
+    "themeLimit": 10
+  },
   "indexes": [
-    {"name": "S&P 500", "ticker": "^GSPC", "close": 7747.71, "date": "2026-09-03", "dayChange": 1.06, "weekChange": 0.22, "source": "Yahoo Finance chart"},
-    {"name": "NASDAQ", "ticker": "^IXIC", "close": 26584.06, "date": "2026-09-03", "dayChange": 1.4, "weekChange": 0.16, "source": "Yahoo Finance chart"},
-    {"name": "台灣加權", "ticker": "^TWII", "close": 46164.72, "date": "2026-09-02", "dayChange": -1.67, "weekChange": 0.72, "source": "Yahoo Finance chart"}
+    {
+      "name": "S&P 500",
+      "ticker": "^GSPC",
+      "close": 7747.71,
+      "date": "2026-09-03",
+      "dayChange": 1.06,
+      "weekChange": 0.22,
+      "source": "Yahoo Finance chart"
+    },
+    {
+      "name": "NASDAQ",
+      "ticker": "^IXIC",
+      "close": 26584.06,
+      "date": "2026-09-03",
+      "dayChange": 1.4,
+      "weekChange": 0.16,
+      "source": "Yahoo Finance chart"
+    },
+    {
+      "name": "台灣加權",
+      "ticker": "^TWII",
+      "close": 46164.72,
+      "date": "2026-09-02",
+      "dayChange": -1.67,
+      "weekChange": 0.72,
+      "source": "Yahoo Finance chart"
+    }
   ],
-  "news": [{"title": "油價在亞洲早盤上漲，因中東供應中斷疑慮升溫", "sources": [{"source": "WSJ 華爾街日報（財經）", "url": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-elevated-supply-disruption-concerns-fa01461e?mod=rss_markets_main", "publishedAt": "2026-09-04 08:27:00"}]}],
+  "news": [
+    {
+      "title": "油價在亞洲早盤上漲，因中東供應中斷疑慮升溫",
+      "sources": [
+        {
+          "source": "WSJ 華爾街日報（財經）",
+          "url": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-elevated-supply-disruption-concerns-fa01461e?mod=rss_markets_main",
+          "publishedAt": "2026-09-04 08:27:00"
+        }
+      ]
+    }
+  ],
   "method": "以美國與台灣主要指數的收盤趨勢，加上具原始連結與發布時間的近期新聞做情境判讀；非保證報酬或個人投資建議。"
 }

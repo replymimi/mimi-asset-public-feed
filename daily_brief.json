@@ -1,6 +1,5 @@
 {
-  "updatedAt": "2026-09-05 17:54:39",
-  "retainedNewsAt": "2026-09-02 18:28:09",
+  "updatedAt": "2026-09-05 20:10:54",
   "news": [
     {
       "type": "news",
@@ -91,83 +90,6 @@
       "title": "標題：\n以下是加密貨幣今日發生的事情",
       "source": "CoinTelegraph（數位貨幣） · 09/02 13:54",
       "summary": "📰 標題：\n以下是加密貨幣今日發生的事情CoinTelegraph（數位貨幣） · 09/02 13:54想知道今天加密貨幣市場發生了什麼？以下是影響 Bitcoin 價格、區塊鏈、DeFi、Web3 和加密貨幣監管的最新新聞和每日趨勢事件。"
-    }
-  ],
-  "worldPulse": [
-    {
-      "theme": "國際政治",
-      "title": "天堂島嶼暗藏俄羅斯規避制裁的祕密樞紐",
-      "fact": "馬爾地夫已成為數億美元西方商品運往莫斯科的管道，協助俄羅斯規避國際制裁。",
-      "whyItMatters": "觀察政策、制裁或貿易規則是否改變跨境需求與企業成本。",
-      "relatedAssets": "QQQ、META、GOOGL、台灣科技基金",
-      "verification": [
-        {
-          "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/world/the-island-paradise-that-is-a-secret-hub-for-russian-sanctions-evasion-c2c103ed?mod=rss_worldnews",
-          "publishedAt": "2026-09-02 09:00:00"
-        }
-      ],
-      "status": "當日已驗證來源"
-    },
-    {
-      "theme": "總體經濟",
-      "title": "全球債券拋售加劇，歐洲首當其衝",
-      "fact": "美國公債殖利率走升，10年期公債殖利率朝向三年高點推進，全球債券市場面臨廣泛賣壓。",
-      "whyItMatters": "觀察利率與景氣預期如何影響評價、美元與風險偏好。",
-      "relatedAssets": "QQQ、NVDA、00947 ETF",
-      "verification": [
-        {
-          "source": "WSJ 華爾街日報（財經）",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-02-2026?mod=rss_markets_main",
-          "publishedAt": "2026-09-02 16:23:21"
-        }
-      ],
-      "status": "當日已驗證來源"
-    },
-    {
-      "theme": "市場",
-      "title": "債券拋售期間的持債指南",
-      "fact": "投資顧問表示，儘管全球債券市場遭遇重創，固定收益資產仍應保留在多元化投資組合中。",
-      "whyItMatters": "觀察風險資產的資金流與評價是否出現連鎖反應。",
-      "relatedAssets": "QQQ、META、GOOGL、00947 ETF",
-      "verification": [
-        {
-          "source": "WSJ 華爾街日報（財經）",
-          "url": "https://www.wsj.com/finance/investing/a-guide-to-owning-bonds-when-they-are-selling-off-be8e0a2b?mod=rss_markets_main",
-          "publishedAt": "2026-09-02 06:38:00"
-        }
-      ],
-      "status": "當日已驗證來源"
-    },
-    {
-      "theme": "產業",
-      "title": "馬斯克欲進軍動力渦輪組件製造，前景堪憂",
-      "fact": "葉片及葉片製造商股價應聲下跌，但這些廠商面臨的威脅仍相距遙遠。",
-      "whyItMatters": "觀察供需、成本與供應鏈變化對產業獲利的傳導。",
-      "relatedAssets": "台積電、聯電、力積電、華邦電、南亞科",
-      "verification": [
-        {
-          "source": "WSJ 華爾街日報（財經）",
-          "url": "https://www.wsj.com/business/elon-musk-wants-to-make-power-turbine-components-it-wont-be-easy-6821757b?mod=rss_markets_main",
-          "publishedAt": "2026-09-02 17:30:00"
-        }
-      ],
-      "status": "當日已驗證來源"
-    },
-    {
-      "theme": "地緣風險",
-      "title": "美伊衝突升溫，延長衝突風險引發擔憂",
-      "fact": "美國與伊朗為爭奪荷姆茲海峽控制權的戰事在相對平靜後再度加劇，引發油價大幅上漲，市場擔憂這場衝突可能無限期延長。",
-      "whyItMatters": "觀察能源、航運、供應鏈與風險偏好是否出現突發性重估。",
-      "relatedAssets": "漢翔、台積電、00947 ETF、USDT",
-      "verification": [
-        {
-          "source": "Bloomberg 彭博社（政治經濟）",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-02/us-attacks-prompt-iranian-retaliation-as-fighting-intensifies",
-          "publishedAt": "2026-09-02 16:10:36"
-        }
-      ],
-      "status": "當日已驗證來源"
     }
   ],
   "videos": [
@@ -284,52 +206,7 @@
         "userValue": "用來比對自身策略燈號與當日世界脈搏；影片觀點不等同投資建議。",
         "contrast": "可與對照觀點欄位並讀，避免把單一評論當成事實。"
       }
-    },
-    {
-      "type": "video",
-      "source": "Gooaye 股癌",
-      "title": "EP688 | 🥽",
-      "summary": [
-        "功能性訓練透過強化失衡的肌肉和改正姿態，可有效改善長期下背痛，關鍵在於認識到許多舒適姿勢實際上對身體有害，因為習慣了不正確的動作模式會導致身體依賴這些姿勢。",
-        "走路時腳尖方向和足弓使用方式影響深遠，應讓腳尖指向發力方向而非外翻，並完整利用從腳跟到大拇指的全程發力過程，這類微調能顯著減輕下背部疼痛。",
-        "SpaceX和Cerebras等公司面臨大量股票解禁，初期衝擊最大但隨著流動性增加，股價影響會逐漸減弱，長期來看解禁反而增加市場參與度有利於股價穩定。",
-        "Cerebras在AI推論領域具有競爭優勢，其SRAM高頻寬記憶體特別適合快速生成任務，與AMD合作的異構推論架構展示了晶片專業化的發展方向。",
-        "Nvidia 800V直流電源白皮書揭示資料中心電力架構的演進路線，從400V→800V→直流供電，各階段對應不同受惠環節如PSU、整流器、UPS等，但實現需克服電力規劃和政治阻力。",
-        "伺服器功耗持續上升導致低壓大電流問題，升高工作電壓能降低安培數減少佈線和散熱負擔，這是技術推進而非營銷炒作，短期內主要架構仍為400V power rack為主。",
-        "過去被過度炒作的被動元件族群基本面持續改善，營收和獲利均穩定增長且獲利成長速度超越營收成長，調整完成後有機會形成新的市場題材，但需觀察資金流向是否轉向更便宜族群。",
-        "投資決策和人生重大選擇都無法達到百分之百確定，應放棄追求完美進出場點或標準答案的迷思，轉而建立相對位置判斷能力和健全的決策心態，相信自己的基礎研究而非盲信專家意見。"
-      ],
-      "url": "https://www.youtube.com/watch?v=PD_IMPvMBc0",
-      "publishedAt": "20260815",
-      "lastSuccessfulAt": "2026-08-16 10:11:10",
-      "status": "已完成摘要",
-      "insight": {
-        "role": "對照觀點",
-        "quickSummary": "功能性訓練透過強化失衡的肌肉和改正姿態，可有效改善長期下背痛，關鍵在於認識到許多舒適姿勢實際上對身體有害，因為習慣了不正確的動作模式會導致身體依賴這些姿勢。；走路時腳尖方向和足弓使用方式影響深遠，應讓腳尖指向發力方向而非外翻，並完整利用從腳跟到大拇指的全程發力過程，這類微調能顯著減輕下背部疼痛。",
-        "coreThesis": "功能性訓練透過強化失衡的肌肉和改正姿態，可有效改善長期下背痛，關鍵在於認識到許多舒適姿勢實際上對身體有害，因為習慣了不正確的動作模式會導致身體依賴這些姿勢。",
-        "themes": [
-          "產業",
-          "科技"
-        ],
-        "relatedAssets": [
-          "台積電",
-          "聯電",
-          "力積電",
-          "華邦電",
-          "南亞科"
-        ],
-        "userValue": "用來比對自身策略燈號與當日世界脈搏；影片觀點不等同投資建議。",
-        "contrast": "與其他來源交叉比對，特別留意不同人對風險與時間尺度的判讀。"
-      }
-    },
-    {
-      "type": "video",
-      "source": "Gooaye 股癌",
-      "title": "EP694 | 🥖",
-      "summary": [],
-      "url": "https://www.youtube.com/watch?v=aOwBYre2B5k",
-      "publishedAt": "20260905",
-      "status": "等待可用字幕或轉寫"
     }
-  ]
+  ],
+  "retainedNewsAt": "2026-09-05 17:54:39"
 }
