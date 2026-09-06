@@ -1,5 +1,5 @@
 {
-  "syncTime": "2026-09-06 14:31:39",
+  "syncTime": "2026-09-06 17:43:54",
   "dataDate": "2026-09-04",
   "prices": {
     "2330": {
@@ -220,8 +220,8 @@
       "signal": "SELL",
       "previousSignal": "SELL",
       "strategyEq": 3.8779310808251473,
-      "buyHoldEq": 3.7412118522901006,
-      "edge": 13.67192285350467
+      "buyHoldEq": 3.779975093399756,
+      "edge": 9.795598742539147
     },
     "統一大滿貫": {
       "name": "統一大滿貫",
@@ -233,8 +233,8 @@
       "signal": "HOLD",
       "previousSignal": "HOLD",
       "strategyEq": 3.0562144182137074,
-      "buyHoldEq": 2.8417223282442725,
-      "edge": 21.44920899694349
+      "buyHoldEq": 2.853977000479155,
+      "edge": 20.223741773455252
     },
     "國泰小龍": {
       "name": "國泰小龍",
@@ -246,8 +246,8 @@
       "signal": "HOLD",
       "previousSignal": "HOLD",
       "strategyEq": 3.329173277830613,
-      "buyHoldEq": 3.030286928799156,
-      "edge": 29.888634903145707
+      "buyHoldEq": 3.0399786780383837,
+      "edge": 28.91945997922294
     }
   },
   "watchlist": [
@@ -469,8 +469,8 @@
       "signal": "SELL",
       "previousSignal": "SELL",
       "strategyEq": 3.8779310808251473,
-      "buyHoldEq": 3.7412118522901006,
-      "edge": 13.67192285350467
+      "buyHoldEq": 3.779975093399756,
+      "edge": 9.795598742539147
     },
     {
       "name": "統一大滿貫",
@@ -482,8 +482,8 @@
       "signal": "HOLD",
       "previousSignal": "HOLD",
       "strategyEq": 3.0562144182137074,
-      "buyHoldEq": 2.8417223282442725,
-      "edge": 21.44920899694349
+      "buyHoldEq": 2.853977000479155,
+      "edge": 20.223741773455252
     },
     {
       "name": "國泰小龍",
@@ -495,8 +495,8 @@
       "signal": "HOLD",
       "previousSignal": "HOLD",
       "strategyEq": 3.329173277830613,
-      "buyHoldEq": 3.030286928799156,
-      "edge": 29.888634903145707
+      "buyHoldEq": 3.0399786780383837,
+      "edge": 28.91945997922294
     }
   ],
   "strategyRows": [
@@ -523,8 +523,8 @@
       "signal": "HOLD",
       "previousSignal": "HOLD",
       "strategyEq": 3.329173277830613,
-      "buyHoldEq": 3.030286928799156,
-      "edge": 29.888634903145707
+      "buyHoldEq": 3.0399786780383837,
+      "edge": 28.91945997922294
     },
     {
       "name": "統一大滿貫",
@@ -536,8 +536,8 @@
       "signal": "HOLD",
       "previousSignal": "HOLD",
       "strategyEq": 3.0562144182137074,
-      "buyHoldEq": 2.8417223282442725,
-      "edge": 21.44920899694349
+      "buyHoldEq": 2.853977000479155,
+      "edge": 20.223741773455252
     },
     {
       "name": "安聯台灣科技基金",
@@ -549,8 +549,8 @@
       "signal": "SELL",
       "previousSignal": "SELL",
       "strategyEq": 3.8779310808251473,
-      "buyHoldEq": 3.7412118522901006,
-      "edge": 13.67192285350467
+      "buyHoldEq": 3.779975093399756,
+      "edge": 9.795598742539147
     },
     {
       "name": "兆豐金 (2886)",
