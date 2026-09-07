@@ -1,5 +1,5 @@
 {
-  "syncTime": "2026-09-07 14:39:12",
+  "syncTime": "2026-09-07 18:48:43",
   "dataDate": "2026-09-07",
   "prices": {
     "2330": {
@@ -239,15 +239,15 @@
     "國泰小龍": {
       "name": "國泰小龍",
       "ticker": "國泰小龍",
-      "date": "2026-09-04",
-      "price": 114.06,
+      "date": "2026-09-07",
+      "price": 116.18,
       "priceSource": "基金策略CSV",
       "quoteTime": "",
-      "signal": "HOLD",
+      "signal": "BUY",
       "previousSignal": "HOLD",
-      "strategyEq": 3.329173277830613,
-      "buyHoldEq": 3.0399786780383837,
-      "edge": 28.91945997922294
+      "strategyEq": 3.391051651923204,
+      "buyHoldEq": 3.096481876332627,
+      "edge": 29.456977559057673
     }
   },
   "watchlist": [
@@ -488,15 +488,15 @@
     {
       "name": "國泰小龍",
       "ticker": "國泰小龍",
-      "date": "2026-09-04",
-      "price": 114.06,
+      "date": "2026-09-07",
+      "price": 116.18,
       "priceSource": "基金策略CSV",
       "quoteTime": "",
-      "signal": "HOLD",
+      "signal": "BUY",
       "previousSignal": "HOLD",
-      "strategyEq": 3.329173277830613,
-      "buyHoldEq": 3.0399786780383837,
-      "edge": 28.91945997922294
+      "strategyEq": 3.391051651923204,
+      "buyHoldEq": 3.096481876332627,
+      "edge": 29.456977559057673
     }
   ],
   "strategyRows": [
@@ -516,15 +516,15 @@
     {
       "name": "國泰小龍",
       "ticker": "國泰小龍",
-      "date": "2026-09-04",
-      "price": 114.06,
+      "date": "2026-09-07",
+      "price": 116.18,
       "priceSource": "基金策略CSV",
       "quoteTime": "",
-      "signal": "HOLD",
+      "signal": "BUY",
       "previousSignal": "HOLD",
-      "strategyEq": 3.329173277830613,
-      "buyHoldEq": 3.0399786780383837,
-      "edge": 28.91945997922294
+      "strategyEq": 3.391051651923204,
+      "buyHoldEq": 3.096481876332627,
+      "edge": 29.456977559057673
     },
     {
       "name": "統一大滿貫",
@@ -749,11 +749,12 @@
     }
   ],
   "strategyStatus": {
-    "changedCount": 3,
+    "changedCount": 4,
     "changedNames": [
       "台積電 (2330)",
       "NVIDIA (NVDA)",
-      "QQQ (美股)"
+      "QQQ (美股)",
+      "國泰小龍"
     ],
     "total": 19
   }
