@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07 23:47:19",
+  "updatedAt": "2026-09-08 09:16:49",
   "news": [
     {
       "type": "news",
@@ -12,10 +12,10 @@
     {
       "type": "video",
       "source": "游庭皓的財經皓角",
-      "title": "2026/9/7(一)非農超強 美債失守 AI股卻悄悄轉多?美股Q4還有戲?【早晨財經速解讀】",
+      "title": "2026/9/8(二)亞幣大升值 錢往亞洲跑  外資回補潮?台灣擴廠潮 游資擋不住!【早晨財經速解讀】",
       "summary": [],
-      "url": "https://www.youtube.com/watch?v=c4IT1Mwb_Pg",
-      "publishedAt": "20260907",
+      "url": "https://www.youtube.com/watch?v=O0JBTLUGnQ0",
+      "publishedAt": "20260908",
       "status": "等待可用字幕或轉寫"
     },
     {
@@ -66,5 +66,5 @@
       }
     }
   ],
-  "retainedNewsAt": "2026-09-07 18:44:33"
+  "retainedNewsAt": "2026-09-07 23:47:19"
 }
