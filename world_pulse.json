@@ -1,6 +1,67 @@
 {
-  "updatedAt": "2026-09-09 19:30:10",
+  "updatedAt": "2026-09-09 19:41:41",
   "date": "2026-09-09",
-  "items": [],
+  "items": [
+    {
+      "theme": "市場",
+      "title": "比特幣SOPR指標顯示2026年最長獲利連續期，新分析挑戰熊市論調",
+      "fact": "比特幣整體鏈上獲利指標已進入連續第四週的獲利期，創下今年以來最長紀錄。部分分析師據此提出市場或已偏離",
+      "whyItMatters": "觀察風險資產的資金流與評價是否出現連鎖反應。",
+      "relatedAssets": "QQQ、META、GOOGL、00947 ETF",
+      "verification": [
+        {
+          "source": "CoinTelegraph（數位貨幣）",
+          "url": "https://cointelegraph.com/markets/bitcoin-sopr-metric-sees-longest-profit-run-of-2026-as-new-analysis-challenges-bear-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedAt": "2026-09-09 18:12:16"
+        }
+      ],
+      "status": "當日已驗證來源"
+    },
+    {
+      "theme": "產業",
+      "title": "今日股市：油價自七月以來首度站上每桶100美元",
+      "fact": "中東衝突升溫引發市場對供應中斷的擔憂，推升油價至每桶100美元的水準。這是自七月以來油價首次回到此一心理關卡。市場對地緣政治風險的重新評估也帶動能源股上漲與避險情緒上升。",
+      "whyItMatters": "觀察供需、成本與供應鏈變化對產業獲利的傳導。",
+      "relatedAssets": "台積電、聯電、力積電、華邦電、南亞科",
+      "verification": [
+        {
+          "source": "WSJ 華爾街日報（財經）",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-09-2026?mod=rss_markets_main",
+          "publishedAt": "2026-09-09 15:38:00"
+        }
+      ],
+      "status": "當日已驗證來源"
+    },
+    {
+      "theme": "科技",
+      "title": "關於Anthropic擬上市案須知",
+      "fact": "人工智慧巨頭Anthropic宣布計畫上市，但尚未正式啟動掛牌程序。投資人與市場正關注其估值、募資規模與時間點等細節。若正式進場，將對AI類股及整體資金面帶來重要影響。",
+      "whyItMatters": "觀察 AI、雲端與資安支出是否影響大型科技股與半導體需求。",
+      "relatedAssets": "NVDA、QQQ、META、GOOGL、台積電",
+      "verification": [
+        {
+          "source": "WSJ 華爾街日報（財經）",
+          "url": "https://www.wsj.com/finance/stocks/what-to-know-about-anthropics-planned-ipo-c2f58908?mod=rss_markets_main",
+          "publishedAt": "2026-09-09 03:13:00"
+        }
+      ],
+      "status": "當日已驗證來源"
+    },
+    {
+      "theme": "地緣風險",
+      "title": "美國回擊攻擊伊朗油輪，以回應德黑蘭對海軍艦艇的攻擊",
+      "fact": "美方對伊朗油輪發動攻擊，是在伊朗先前鎖定美國軍艦後的報復行動。此一軍事升級加劇地區局勢緊張，市場對海上運輸安全的憂慮隨之增強。觀察人士也指出，對方導彈與攻擊能力日益複雜，令風險評估更為嚴峻。",
+      "whyItMatters": "觀察能源、航運、供應鏈與風險偏好是否出現突發性重估。",
+      "relatedAssets": "漢翔、台積電、00947 ETF、USDT",
+      "verification": [
+        {
+          "source": "WSJ 華爾街日報（國際政經）",
+          "url": "https://www.wsj.com/world/middle-east/iran-launched-undisclosed-second-wave-of-attacks-on-u-s-navy-ships-560f31a1?mod=rss_worldnews",
+          "publishedAt": "2026-09-09 09:17:00"
+        }
+      ],
+      "status": "當日已驗證來源"
+    }
+  ],
   "method": "每主題最多一則；僅顯示台北當日、具原始連結與發布時間的來源。『為何重要』為觀察傳導路徑，不是新聞事實。"
 }

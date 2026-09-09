@@ -1,5 +1,34 @@
 {
-  "updatedAt": "2026-09-09 19:30:10",
-  "items": [],
+  "updatedAt": "2026-09-09 19:41:41",
+  "items": [
+    {
+      "title": "今日股市：油價自七月以來首度站上每桶100美元",
+      "fact": "中東衝突升溫引發市場對供應中斷的擔憂，推升油價至每桶100美元的水準。這是自七月以來油價首次回到此一心理關卡。市場對地緣政治風險的重新評估也帶動能源股上漲與避險情緒上升。",
+      "importance": "影響：油價",
+      "verification": [
+        {
+          "source": "WSJ 華爾街日報（財經）",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-09-2026?mod=rss_markets_main",
+          "publishedAt": "2026-09-09 15:38:00"
+        }
+      ],
+      "status": "市場事實（單一可追溯來源）",
+      "score": 65
+    },
+    {
+      "title": "美方稱已摧毀伊朗油輪以作報復，布蘭特油價突破每桶100美元",
+      "fact": "美國表示已摧毀五艘運載原油的伊朗油輪，回應兩天內對美國海軍軍艦的兩次彈道飛彈攻擊未遂。消息使布蘭特油價攀升至自七月底以來的新高。以上報導來源：彭博社。",
+      "importance": "影響：油價",
+      "verification": [
+        {
+          "source": "Bloomberg 彭博社（政治經濟）",
+          "url": "https://www.bloomberg.com/news/videos/2026-09-09/us-says-iran-tankers-struck-in-response-brent-tops-100-video",
+          "publishedAt": "2026-09-09 18:52:23"
+        }
+      ],
+      "status": "市場事實（單一可追溯來源）",
+      "score": 65
+    }
+  ],
   "method": "僅收當日、附來源網址與發布時間的新聞；依市場影響關鍵字排序。"
 }
