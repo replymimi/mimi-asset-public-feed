@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-09-09 19:41:41",
+  "updatedAt": "2026-09-09 22:29:45",
   "date": "2026-09-09",
   "items": [
     {
-      "theme": "市場",
-      "title": "比特幣SOPR指標顯示2026年最長獲利連續期，新分析挑戰熊市論調",
-      "fact": "比特幣整體鏈上獲利指標已進入連續第四週的獲利期，創下今年以來最長紀錄。部分分析師據此提出市場或已偏離",
-      "whyItMatters": "觀察風險資產的資金流與評價是否出現連鎖反應。",
-      "relatedAssets": "QQQ、META、GOOGL、00947 ETF",
+      "theme": "國際政治",
+      "title": "德國財政部擬自2028年起對加密資產課25%稅率：報導",
+      "fact": "據報導，德國財政部擬自2028年起對加密資產收益課徵25%稅率，此舉將改變現行持有超過一年後免稅的規定。若成真，政策轉向可能對加密投資行為與市場流動性造成顯著影響，投資人需重新評估稅務成本。立法與實施細節仍待公布，市場關注政府如何衡量課稅公平性與防範資本外流。",
+      "whyItMatters": "觀察政策、制裁或貿易規則是否改變跨境需求與企業成本。",
+      "relatedAssets": "QQQ、META、GOOGL、台灣科技基金",
       "verification": [
         {
           "source": "CoinTelegraph（數位貨幣）",
-          "url": "https://cointelegraph.com/markets/bitcoin-sopr-metric-sees-longest-profit-run-of-2026-as-new-analysis-challenges-bear-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedAt": "2026-09-09 18:12:16"
+          "url": "https://cointelegraph.com/news/german-finance-ministry-25-crypto-tax-2028?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedAt": "2026-09-09 21:49:55"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "產業",
-      "title": "今日股市：油價自七月以來首度站上每桶100美元",
-      "fact": "中東衝突升溫引發市場對供應中斷的擔憂，推升油價至每桶100美元的水準。這是自七月以來油價首次回到此一心理關卡。市場對地緣政治風險的重新評估也帶動能源股上漲與避險情緒上升。",
+      "title": "今日股市：油價自七月以來首度觸及100美元",
+      "fact": "中東衝突升級，市場擔憂供應中斷，國際油價因此飆升並首次自七月以來重返每桶100美元關卡。能源價格上漲已開始對股市資金面與通膨預期造成影響，投資人轉向避險資產。分析指出，若緊張局勢持續，短期供應受限與價格波動恐將進一步加劇市場不確定性。",
       "whyItMatters": "觀察供需、成本與供應鏈變化對產業獲利的傳導。",
       "relatedAssets": "台積電、聯電、力積電、華邦電、南亞科",
       "verification": [
@@ -34,8 +34,8 @@
     },
     {
       "theme": "科技",
-      "title": "關於Anthropic擬上市案須知",
-      "fact": "人工智慧巨頭Anthropic宣布計畫上市，但尚未正式啟動掛牌程序。投資人與市場正關注其估值、募資規模與時間點等細節。若正式進場，將對AI類股及整體資金面帶來重要影響。",
+      "title": "Anthropic計畫上市：應知重點",
+      "fact": "人工智慧巨頭Anthropic已表態計畫IPO，但尚未正式啟動上市程序或公開承銷細節。市場與潛在投資人關注其估值、募資規模與治理結構，尤其在AI監管趨嚴的環境下評估風險。分析師指出，上市時點與市場情緒將決定其資本市場表現與投資者接受度。",
       "whyItMatters": "觀察 AI、雲端與資安支出是否影響大型科技股與半導體需求。",
       "relatedAssets": "NVDA、QQQ、META、GOOGL、台積電",
       "verification": [
@@ -49,8 +49,8 @@
     },
     {
       "theme": "地緣風險",
-      "title": "美國回擊攻擊伊朗油輪，以回應德黑蘭對海軍艦艇的攻擊",
-      "fact": "美方對伊朗油輪發動攻擊，是在伊朗先前鎖定美國軍艦後的報復行動。此一軍事升級加劇地區局勢緊張，市場對海上運輸安全的憂慮隨之增強。觀察人士也指出，對方導彈與攻擊能力日益複雜，令風險評估更為嚴峻。",
+      "title": "美國攻擊伊朗油輪 回應德黑蘭對海軍艦艇的攻擊",
+      "fact": "美方對疑似伊朗關聯的油輪進行打擊，回應德黑蘭先前對美國海軍艦艇的攻擊行動。此一軍事互動加劇區域緊張，亦引發對伊朗導彈與武器系統日益精進的擔憂。分析指出，衝突升級不僅影響地緣政治穩定，也可能推升油價與海運保險成本，對全球供應鏈產生溢出效應。",
       "whyItMatters": "觀察能源、航運、供應鏈與風險偏好是否出現突發性重估。",
       "relatedAssets": "漢翔、台積電、00947 ETF、USDT",
       "verification": [
