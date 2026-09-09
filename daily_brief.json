@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08 22:27:57",
+  "updatedAt": "2026-09-09 09:21:35",
   "news": [
     {
       "type": "news",
@@ -12,10 +12,10 @@
     {
       "type": "video",
       "source": "游庭皓的財經皓角",
-      "title": "2026/9/8(二)亞幣大升值 錢往亞洲跑  外資回補潮?台灣擴廠潮 游資擋不住!【早晨財經速解讀】",
+      "title": "2026/9/9(三)油價快破100美元 期中選舉拉警報?道瓊跌費半升!市場大換血?【早晨財經速解讀】",
       "summary": [],
-      "url": "https://www.youtube.com/watch?v=O0JBTLUGnQ0",
-      "publishedAt": "20260908",
+      "url": "https://www.youtube.com/watch?v=b2MbRUsIaU8",
+      "publishedAt": "20260909",
       "status": "等待可用字幕或轉寫"
     },
     {
@@ -66,5 +66,5 @@
       }
     }
   ],
-  "retainedNewsAt": "2026-09-08 18:05:41"
+  "retainedNewsAt": "2026-09-08 22:27:57"
 }
