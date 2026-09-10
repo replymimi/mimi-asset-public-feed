@@ -1,63 +1,78 @@
 {
-  "updatedAt": "2026-09-09 22:29:45",
-  "date": "2026-09-09",
+  "updatedAt": "2026-09-10 09:15:36",
+  "date": "2026-09-10",
   "items": [
     {
       "theme": "國際政治",
-      "title": "德國財政部擬自2028年起對加密資產課25%稅率：報導",
-      "fact": "據報導，德國財政部擬自2028年起對加密資產收益課徵25%稅率，此舉將改變現行持有超過一年後免稅的規定。若成真，政策轉向可能對加密投資行為與市場流動性造成顯著影響，投資人需重新評估稅務成本。立法與實施細節仍待公布，市場關注政府如何衡量課稅公平性與防範資本外流。",
+      "title": "川普高層顧問面對伊朗戰事可能延宕至任期結束的情景",
+      "fact": "總統仍公開表示預期戰事會在今年秋季中期選舉後「立即」結束，但高層顧問正評估戰事可能延長至總統任期結束的風險與影響。顧問團隊關注軍事、外交與國內政治三方面的後果，並準備不同情境的應對方案。這一分歧凸顯白宮內部對時間表與戰略目標的不同判斷，亦可能影響政府資源與選舉策略。",
       "whyItMatters": "觀察政策、制裁或貿易規則是否改變跨境需求與企業成本。",
       "relatedAssets": "QQQ、META、GOOGL、台灣科技基金",
       "verification": [
         {
+          "source": "WSJ 華爾街日報（國際政經）",
+          "url": "https://www.wsj.com/world/middle-east/trumps-top-advisers-confront-possibility-that-iran-war-lasts-through-end-of-term-5f4e23d7?mod=rss_worldnews",
+          "publishedAt": "2026-09-10 07:00:00"
+        }
+      ],
+      "status": "當日已驗證來源"
+    },
+    {
+      "theme": "市場",
+      "title": "今日加密貨幣要聞",
+      "fact": "本報彙整當日影響比特幣價格、區塊鏈生態、去中心化金融（DeFi）、Web3 與加密監管的最新趨勢與事件。報導涵蓋市場價格波動、重大交易所或項目動態、監管機構動作及業界重要公告。對投資者而言，理解這些日常變化有助於把握波動風險與潛在機會。",
+      "whyItMatters": "觀察風險資產的資金流與評價是否出現連鎖反應。",
+      "relatedAssets": "QQQ、META、GOOGL、00947 ETF",
+      "verification": [
+        {
           "source": "CoinTelegraph（數位貨幣）",
-          "url": "https://cointelegraph.com/news/german-finance-ministry-25-crypto-tax-2028?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedAt": "2026-09-09 21:49:55"
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedAt": "2026-09-10 05:30:00"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "產業",
-      "title": "今日股市：油價自七月以來首度觸及100美元",
-      "fact": "中東衝突升級，市場擔憂供應中斷，國際油價因此飆升並首次自七月以來重返每桶100美元關卡。能源價格上漲已開始對股市資金面與通膨預期造成影響，投資人轉向避險資產。分析指出，若緊張局勢持續，短期供應受限與價格波動恐將進一步加劇市場不確定性。",
+      "title": "共和黨全國委員會首日於達拉斯登場",
+      "fact": "以「權力平衡」為主題的一系列論壇討論政治與全球商業的交集。美國能源部長克里斯·賴特表示，預期未來數周汽油價格將回落，並指出烏克蘭對俄國煉油廠的攻擊是柴油供應面臨的「最大問題」。聯邦醫療保險與醫療補助服務中心（CMS）主任梅赫梅特·歐茲指出，財政部確認逾200億美元可疑醫療詐欺與洗錢款項，若能追回可顯著延長醫療保險信託基金的使用年限。摩根大通高級主管伊蓮·阿加瑟表示，預計下周將有更多德州交易所相關公告；前美國貿易代表兼達拉斯市長朗·柯克警告，關稅實質上等於對美國企業與家庭課稅，中小企業與製造業將承擔最大代價。來源：彭博。",
       "whyItMatters": "觀察供需、成本與供應鏈變化對產業獲利的傳導。",
       "relatedAssets": "台積電、聯電、力積電、華邦電、南亞科",
       "verification": [
         {
-          "source": "WSJ 華爾街日報（財經）",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-09-2026?mod=rss_markets_main",
-          "publishedAt": "2026-09-09 15:38:00"
+          "source": "Bloomberg 彭博社（政治經濟）",
+          "url": "https://www.bloomberg.com/news/videos/2026-09-10/balance-of-power-late-edition-09-09-2026-video",
+          "publishedAt": "2026-09-10 08:29:41"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "科技",
-      "title": "Anthropic計畫上市：應知重點",
-      "fact": "人工智慧巨頭Anthropic已表態計畫IPO，但尚未正式啟動上市程序或公開承銷細節。市場與潛在投資人關注其估值、募資規模與治理結構，尤其在AI監管趨嚴的環境下評估風險。分析師指出，上市時點與市場情緒將決定其資本市場表現與投資者接受度。",
+      "title": "儘管因AI模型爭議，中國表示願與美國對話",
+      "fact": "中國官方表態願意就人工智慧與美方展開對話與磋商，顯示雙方在技術議題上仍保留溝通管道。惟中國同時警告，若美國以「系統性技術竊取」為由對中國企業採取行動，中方將採取報復措施。觀察人士認為，這反映出在維護國家利益與產業發展之間，中美在AI治理與貿易摩擦上的拉鋸。",
       "whyItMatters": "觀察 AI、雲端與資安支出是否影響大型科技股與半導體需求。",
       "relatedAssets": "NVDA、QQQ、META、GOOGL、台積電",
       "verification": [
         {
-          "source": "WSJ 華爾街日報（財經）",
-          "url": "https://www.wsj.com/finance/stocks/what-to-know-about-anthropics-planned-ipo-c2f58908?mod=rss_markets_main",
-          "publishedAt": "2026-09-09 03:13:00"
+          "source": "Bloomberg 彭博社（政治經濟）",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-10/china-willing-to-hold-ai-talks-with-us-despite-row-over-models",
+          "publishedAt": "2026-09-10 08:22:43"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "地緣風險",
-      "title": "美國攻擊伊朗油輪 回應德黑蘭對海軍艦艇的攻擊",
-      "fact": "美方對疑似伊朗關聯的油輪進行打擊，回應德黑蘭先前對美國海軍艦艇的攻擊行動。此一軍事互動加劇區域緊張，亦引發對伊朗導彈與武器系統日益精進的擔憂。分析指出，衝突升級不僅影響地緣政治穩定，也可能推升油價與海運保險成本，對全球供應鏈產生溢出效應。",
+      "title": "在美軍艦多次險情後，伊朗顯示出升級攻勢的新傾向",
+      "fact": "近來多起美國軍艦遭遇「近距離危險接近」事件，反映德黑蘭對美海軍採取前所未有的針對行動。這些接觸被視為自戰事爆發以來，伊朗勢力在海上對美方採取更具挑釁性的策略。分析認為，此類升級行為增加誤判風險，可能導致地區緊張情勢進一步升高並促使美方重新評估軍事與外交回應。",
       "whyItMatters": "觀察能源、航運、供應鏈與風險偏好是否出現突發性重估。",
       "relatedAssets": "漢翔、台積電、00947 ETF、USDT",
       "verification": [
         {
           "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/world/middle-east/iran-launched-undisclosed-second-wave-of-attacks-on-u-s-navy-ships-560f31a1?mod=rss_worldnews",
-          "publishedAt": "2026-09-09 09:17:00"
+          "url": "https://www.wsj.com/world/middle-east/with-close-calls-on-u-s-warships-iran-shows-new-appetite-for-escalation-e2758bbd?mod=rss_worldnews",
+          "publishedAt": "2026-09-10 09:00:00"
         }
       ],
       "status": "當日已驗證來源"
