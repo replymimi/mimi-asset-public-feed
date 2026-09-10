@@ -1,63 +1,78 @@
 {
-  "updatedAt": "2026-09-10 14:37:37",
+  "updatedAt": "2026-09-10 18:03:11",
   "date": "2026-09-10",
   "items": [
     {
       "theme": "國際政治",
-      "title": "他們被騙走資金，如今與美國政府爭取追回款項",
-      "fact": "美國在「巨金槍行動」（Operation Big Tuna）中查扣了約2.25億美元的加密貨幣，原本為詐騙受害者資金。儘管資金遭查扣，受害者要實際取回款項仍必須面對複雜司法與行政程序。資金返還牽涉多方權益認定、證據鏈與跨境合作，使追回比查扣更為艱難。",
+      "title": "透過華爾街日報檔案回顧9/11的長期陰影",
+      "fact": "編輯團隊檢視了數百篇華爾街日報報導，追溯九一一恐攻在二十五年後的持續迴響。報導顯示事件如何深刻影響政治、國安與外交政策走向。檔案回顧也揭示了相關經濟與社會層面的長期變遷。",
       "whyItMatters": "觀察政策、制裁或貿易規則是否改變跨境需求與企業成本。",
       "relatedAssets": "QQQ、META、GOOGL、台灣科技基金",
       "verification": [
         {
+          "source": "WSJ 華爾街日報（國際政經）",
+          "url": "https://www.wsj.com/us-news/sept-11-terrorist-attacks-anniversary-coverage-6339aa0b?mod=rss_worldnews",
+          "publishedAt": "2026-09-10 17:30:00"
+        }
+      ],
+      "status": "當日已驗證來源"
+    },
+    {
+      "theme": "總體經濟",
+      "title": "公債殖利率小幅上揚，投資人等待歐洲央行升息與美國公債回購",
+      "fact": "歐元區長天期國債與美國公債殖利率均小幅走高。市場正等待歐洲央行預期的升息，以及美國財政部首場擴量回購拍賣的結果。投資人評估這些事件對利差曲線與借貸成本的潛在影響。",
+      "whyItMatters": "觀察利率與景氣預期如何影響評價、美元與風險偏好。",
+      "relatedAssets": "QQQ、NVDA、00947 ETF",
+      "verification": [
+        {
           "source": "WSJ 華爾街日報（財經）",
-          "url": "https://www.wsj.com/finance/currencies/crypto-investment-scam-victims-big-tuna-a489ece6?mod=rss_markets_main",
-          "publishedAt": "2026-09-10 09:00:00"
+          "url": "https://www.wsj.com/finance/investing/bond-yields-edge-up-as-investors-await-ecb-rate-hike-u-s-treasury-buybacks-4cd2e9f3?mod=rss_markets_main",
+          "publishedAt": "2026-09-10 17:39:00"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "市場",
-      "title": "今日加密貨幣要聞",
-      "fact": "想了解今日加密貨幣市場發生了什麼嗎？本文匯整影響比特幣價格、區塊鏈、去中心化金融（DeFi）、Web3 以及加密監管的最新趨勢與重大事件。投資人可透過每日動態把握市場波動與政策風向，並關注重要交易、法規變化與安全事件的後續發展。",
+      "title": "比特幣賣壓風險回落至罕見低點，8萬美元賣方逐漸淡出",
+      "fact": "數據顯示，比特幣投資人並未出現大規模恐慌拋售，BTC 保住了大部分八月以來的漲幅。隨著潛在在8萬美元價位的賣方逐步淡出，賣方風險降至罕見低檔。市場觀察者指出，這反映持倉結構與流動性壓力的暫時緩和。",
       "whyItMatters": "觀察風險資產的資金流與評價是否出現連鎖反應。",
       "relatedAssets": "QQQ、META、GOOGL、00947 ETF",
       "verification": [
         {
           "source": "CoinTelegraph（數位貨幣）",
-          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedAt": "2026-09-10 13:59:21"
+          "url": "https://cointelegraph.com/markets/bitcoin-sell-side-risk-returns-rare-lows-fade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedAt": "2026-09-10 17:36:42"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "產業",
-      "title": "無人機交易引發烏克蘭500家公司產業整併潮",
-      "fact": "一家具Erik Prince支持的國防科技公司以2.24億美元收購一家烏克蘭無人地面載具製造商，該筆交易被視為當地約500家相關企業開始整併的開端。市場認為此類外資與資本整合將加速技術融合與規模化生產。同時，戰時需求推升軍用無人系統市場，促使供應鏈與產能重整。",
+      "title": "股市今日：公債殖利率與油價小幅上揚",
+      "fact": "布蘭特原油站上每桶102美元以上，推動能源類股表現。標普期貨走高，顯示市場風險偏好略有回升。投資人同時關注利率走勢與供需變動，評估對股債市的影響。",
       "whyItMatters": "觀察供需、成本與供應鏈變化對產業獲利的傳導。",
       "relatedAssets": "台積電、聯電、力積電、華邦電、南亞科",
       "verification": [
         {
-          "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/business/drone-deal-kicks-off-consolidation-in-ukraines-500-company-industry-0d1535e9?mod=rss_worldnews",
-          "publishedAt": "2026-09-10 12:01:00"
+          "source": "WSJ 華爾街日報（財經）",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-10-2026?mod=rss_markets_main",
+          "publishedAt": "2026-09-10 16:33:43"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "地緣風險",
-      "title": "在美軍軍艦遭遇近距離危險情形下，伊朗顯示出升級衝突的新意願",
-      "fact": "德黑蘭部隊近來以自開戰以來較為激進的方式針對美國海軍，多次與美艦發生近距離對峙並提高緊張程度。美方報告稱此類接近行為構成安全威脅，反映伊朗採取更具挑釁性的行動模式。該局勢若持續升級，可能導致區域軍事摩擦擴大並影響國際航運安全。",
+      "title": "美伊緊張持續，能源危機加劇",
+      "fact": "布蘭特原油穩定在每桶約101美元附近，因伊朗聲稱準備應對更劇烈的衝突，增添霍爾木茲海峽供應中斷的風險。美國能源部長克里斯·賴特告訴彭博，約有接近每天1,100萬桶的原油與石油製品通過霍爾木茲海峽。彭博分析師 Will Kennedy 解構此情勢對全球能源市場的潛在影響。",
       "whyItMatters": "觀察能源、航運、供應鏈與風險偏好是否出現突發性重估。",
       "relatedAssets": "漢翔、台積電、00947 ETF、USDT",
       "verification": [
         {
-          "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/world/middle-east/with-close-calls-on-u-s-warships-iran-shows-new-appetite-for-escalation-e2758bbd?mod=rss_worldnews",
-          "publishedAt": "2026-09-10 09:00:00"
+          "source": "Bloomberg 彭博社（政治經濟）",
+          "url": "https://www.bloomberg.com/news/videos/2026-09-10/energy-crisis-deepens-as-us-iran-tensions-continue-video",
+          "publishedAt": "2026-09-10 17:45:43"
         }
       ],
       "status": "當日已驗證來源"
