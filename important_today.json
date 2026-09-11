@@ -1,5 +1,34 @@
 {
-  "updatedAt": "2026-09-11 14:37:22",
-  "items": [],
+  "updatedAt": "2026-09-11 18:01:01",
+  "items": [
+    {
+      "title": "股市今日：投資人等待CPI，公債殖利率小幅下滑",
+      "fact": "10年期美國公債殖利率從5%關卡回落，避開該心理門檻。股指期貨因此呈現小幅上揚。市場參與者普遍等待即將公布的消費者物價指數，尋求後市走向的明確訊號。",
+      "importance": "影響：利率",
+      "verification": [
+        {
+          "source": "WSJ 華爾街日報（財經）",
+          "url": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-09-11-2026?mod=rss_markets_main",
+          "publishedAt": "2026-09-11 16:34:20"
+        }
+      ],
+      "status": "市場事實（單一可追溯來源）",
+      "score": 65
+    },
+    {
+      "title": "在Bending Spoons，數字才是真正令人費解的部分",
+      "fact": "這家科技合併集團仰賴激進的漲價策略與自訂指標來支撐成長故事。其財務與營運數據以非標準化度量呈現，讓外界難以直接比較同業表現。隨著利率上升，融資成本提高，公司的擴張與獲利前景可能受到壓抑。",
+      "importance": "影響：利率",
+      "verification": [
+        {
+          "source": "WSJ 華爾街日報（財經）",
+          "url": "https://www.wsj.com/finance/investing/at-bending-spoons-the-numbers-are-the-real-mind-bender-43f10bee?mod=rss_markets_main",
+          "publishedAt": "2026-09-11 17:30:00"
+        }
+      ],
+      "status": "市場事實（單一可追溯來源）",
+      "score": 65
+    }
+  ],
   "method": "僅收當日、附來源網址與發布時間的新聞；依市場影響關鍵字排序。"
 }
