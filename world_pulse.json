@@ -1,11 +1,26 @@
 {
-  "updatedAt": "2026-09-11 18:01:01",
+  "updatedAt": "2026-09-11 22:21:52",
   "date": "2026-09-11",
   "items": [
     {
+      "theme": "國際政治",
+      "title": "波利耶夫：美加貿易緩和可紓解通膨壓力",
+      "fact": "加拿大保守黨領袖波利耶夫表示，加拿大的油氣與礦產資源有助於緩解美國的通膨壓力。前提是美方必須撤回對北方鄰國的關稅政策、恢復貿易合作。此言論呼籲美國政府調整政策，以利雙邊供應鏈與價格穩定。",
+      "whyItMatters": "觀察政策、制裁或貿易規則是否改變跨境需求與企業成本。",
+      "relatedAssets": "QQQ、META、GOOGL、台灣科技基金",
+      "verification": [
+        {
+          "source": "Bloomberg 彭博社（政治經濟）",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-11/us-canada-trade-detente-would-ease-inflation-pressures-poilievre-says",
+          "publishedAt": "2026-09-11 21:06:57"
+        }
+      ],
+      "status": "當日已驗證來源"
+    },
+    {
       "theme": "總體經濟",
-      "title": "股市今日：投資人等待CPI，公債殖利率小幅下滑",
-      "fact": "10年期美國公債殖利率從5%關卡回落，避開該心理門檻。股指期貨因此呈現小幅上揚。市場參與者普遍等待即將公布的消費者物價指數，尋求後市走向的明確訊號。",
+      "title": "股市今昔：通膨數據提高下周升息機率",
+      "fact": "最新通膨數據使交易員將聯準會下周升息的機率推升至逾80%。市場因此重新調整利率預期，短期利差走揚。道瓊指數在利率預期變動下回升並帶動股市上漲。",
       "whyItMatters": "觀察利率與景氣預期如何影響評價、美元與風險偏好。",
       "relatedAssets": "QQQ、NVDA、00947 ETF",
       "verification": [
@@ -19,60 +34,45 @@
     },
     {
       "theme": "市場",
-      "title": "Blockstream拒絕支付贖金，Liquid駭客持有近600枚比特幣",
-      "fact": "駭客擄走的比特幣數量接近600 BTC，Blockstream表示已拒絕支付贖金。公司表示將與執法單位、交易所及鑑識專家合作，若駭客不歸還資產，將採取追索與回收行動。此事凸顯加密資產保管與交易平台面對的安全挑戰與追償難題。",
+      "title": "美太星（Metaplanet）將Series 10庫存減少41%，計畫設港子公司",
+      "fact": "Metaplanet表示將把Series 10股票池削減41%，相當於取消約1.313億股潛在股份。公司並擬設立資本100萬美元的香港子公司，進行比特幣、股票與信用商品的交易。此舉反映公司在資本結構與海外業務布局上的調整。",
       "whyItMatters": "觀察風險資產的資金流與評價是否出現連鎖反應。",
       "relatedAssets": "QQQ、META、GOOGL、00947 ETF",
       "verification": [
         {
           "source": "CoinTelegraph（數位貨幣）",
-          "url": "https://cointelegraph.com/news/blockstream-rejects-ransom-liquid-hackers-return-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedAt": "2026-09-11 16:43:19"
+          "url": "https://cointelegraph.com/news/metaplanet-executive-stock-pool-hong-kong-subsidiary?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedAt": "2026-09-11 21:44:27"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "產業",
-      "title": "伊朗在經濟緊縮中面臨燃油短缺問題",
-      "fact": "補貼與配額削減引發民眾不滿，燃油供應逐步吃緊。卡車司機與計程車司機已發起多起罷工與靜坐行動，進一步擾動供應鏈與都市交通。經濟壓力與社會抗議交織，增加政局與市場的不確定性。",
+      "title": "伊朗支持的胡塞武裝實際掌控紅海關鍵樞紐",
+      "fact": "伊朗支持的胡塞武裝已掌握一座島嶼與沿岸城鎮，實質收緊對曼德海峽（Bab al-Mandeb）的控制。這一要地是繞過霍爾木茲海峽的關鍵替代航道，其淪陷將影響紅海至印度洋的航運安全。國際航運路線與能源供應鏈因此面臨更高風險。",
       "whyItMatters": "觀察供需、成本與供應鏈變化對產業獲利的傳導。",
       "relatedAssets": "台積電、聯電、力積電、華邦電、南亞科",
       "verification": [
         {
           "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/world/middle-east/iranians-are-running-out-of-gas-as-economic-squeeze-takes-hold-67e38a7b?mod=rss_worldnews",
-          "publishedAt": "2026-09-11 10:00:00"
+          "url": "https://www.wsj.com/world/middle-east/iran-backed-houthis-take-effective-control-of-bab-al-mandeb-chokepoint-0c6f4592?mod=rss_worldnews",
+          "publishedAt": "2026-09-11 18:25:00"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "科技",
-      "title": "Anthropic指出Claude被用於網路攻擊與監控用途",
-      "fact": "一名俄語系操作員利用Claude對超過20個組織發動攻擊，造成資安事件擴散。另有來自馬里的一名顧問據稱利用Claude協助建構大規模監控平台，凸顯AI工具在濫用上的風險。這些案例引發對AI治理、濫用防範與技術供應商責任的關注。",
+      "title": "以BONER對作股票交易成為DeFi投機者最新潮流",
+      "fact": "在Robinhood Chain上，部分DeFi投機者正把醫療類股票與迷因幣BONER進行對作交易，形成一處新奇且高風險的交易角落。這類操作將傳統個股與高度投機的memecoin配對，交易邏輯多以短線套利與槓桿博弈為主。市場參與者與監管者對此趨勢的可持續性與風險敞口表示高度關注。",
       "whyItMatters": "觀察 AI、雲端與資安支出是否影響大型科技股與半導體需求。",
       "relatedAssets": "NVDA、QQQ、META、GOOGL、台積電",
       "verification": [
         {
           "source": "CoinTelegraph（數位貨幣）",
-          "url": "https://cointelegraph.com/news/claude-ai-cyberattacks-surveillance-weapons-anthropic?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedAt": "2026-09-11 17:47:31"
-        }
-      ],
-      "status": "當日已驗證來源"
-    },
-    {
-      "theme": "地緣風險",
-      "title": "美國戰事加劇孤立之際，伊朗轉向金磚峰會尋求支持",
-      "fact": "伊朗總統馬蘇德‧佩澤什基安已於週五抵達新德里，出席一場因成員分歧而多有裂痕的金磚國家峰會。隨著涉及伊朗、美國與以色列的衝突進入危險新階段，德黑蘭尋求在多邊場合打破孤立。分析指出，伊朗此行旨在鞏固政治與經濟盟友以抗衡西方壓力。",
-      "whyItMatters": "觀察能源、航運、供應鏈與風險偏好是否出現突發性重估。",
-      "relatedAssets": "漢翔、台積電、00947 ETF、USDT",
-      "verification": [
-        {
-          "source": "Bloomberg 彭博社（政治經濟）",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-11/iran-turns-to-brics-summit-as-us-war-deepens-its-isolation",
-          "publishedAt": "2026-09-11 17:45:53"
+          "url": "https://cointelegraph.com/magazine/trading-stocks-against-boner-is-the-latest-trend-for-defi-degens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedAt": "2026-09-11 21:30:00"
         }
       ],
       "status": "當日已驗證來源"
