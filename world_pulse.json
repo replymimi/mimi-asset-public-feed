@@ -1,52 +1,6 @@
 {
-  "updatedAt": "2026-09-11 09:17:56",
+  "updatedAt": "2026-09-11 14:37:22",
   "date": "2026-09-11",
-  "items": [
-    {
-      "theme": "國際政治",
-      "title": "追逐石油投資的加密億萬富翁移居委內瑞拉",
-      "fact": "Fred Ehrsam為Coinbase共同創辦人、加密幣億萬富翁，並與川普政府有過聯繫。據報他在加拉加斯的豪華飯店居住數月，積極尋求委內瑞拉的投資機會、尤其與石油相關的標的。此舉在業界與外界引發關注，並帶來地緣政治與商業風險評估議題。",
-      "whyItMatters": "觀察政策、制裁或貿易規則是否改變跨境需求與企業成本。",
-      "relatedAssets": "QQQ、META、GOOGL、台灣科技基金",
-      "verification": [
-        {
-          "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/business/energy-oil/the-relentless-crypto-billionaire-who-moved-to-venezuela-in-pursuit-of-oil-a4f0f219?mod=rss_worldnews",
-          "publishedAt": "2026-09-11 06:00:00"
-        }
-      ],
-      "status": "當日已驗證來源"
-    },
-    {
-      "theme": "市場",
-      "title": "Metaplanet股權分配引發股東憤怒，東南亞加密資金翻倍",
-      "fact": "比特幣庫藏公司Metaplanet因內部人員的股權分配引發股東強烈不滿與抗議。投資人對管理層與公司治理提出質疑，事件凸顯加密資產公司在透明度與治理上的挑戰。與此同時，最新數據顯示東南亞加密資金流入倍增，鞏固新加坡作為亞洲加密中心的地位。",
-      "whyItMatters": "觀察風險資產的資金流與評價是否出現連鎖反應。",
-      "relatedAssets": "QQQ、META、GOOGL、00947 ETF",
-      "verification": [
-        {
-          "source": "CoinTelegraph（數位貨幣）",
-          "url": "https://cointelegraph.com/magazine/metaplanet-equity-backlash-se-asia-crypto-funding-doubles-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedAt": "2026-09-11 07:21:26"
-        }
-      ],
-      "status": "當日已驗證來源"
-    },
-    {
-      "theme": "地緣風險",
-      "title": "情報顯示伊朗再度組裝彈道飛彈",
-      "fact": "情報報告指出，德黑蘭正於地下設施將先前儲存的零件組裝成武器系統。此舉顯示伊朗在彈道飛彈能力上出現恢復性動作，已成地區安全關切。相關發展可能加劇外交緊張並影響制裁與國際應對策略。",
-      "whyItMatters": "觀察能源、航運、供應鏈與風險偏好是否出現突發性重估。",
-      "relatedAssets": "漢翔、台積電、00947 ETF、USDT",
-      "verification": [
-        {
-          "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/world/middle-east/iran-ballistic-missile-production-5538af12?mod=rss_worldnews",
-          "publishedAt": "2026-09-11 00:34:00"
-        }
-      ],
-      "status": "當日已驗證來源"
-    }
-  ],
+  "items": [],
   "method": "每主題最多一則；僅顯示台北當日、具原始連結與發布時間的來源。『為何重要』為觀察傳導路徑，不是新聞事實。"
 }
