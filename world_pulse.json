@@ -1,63 +1,48 @@
 {
-  "updatedAt": "2026-09-10 22:21:23",
-  "date": "2026-09-10",
+  "updatedAt": "2026-09-11 09:17:56",
+  "date": "2026-09-11",
   "items": [
     {
       "theme": "國際政治",
-      "title": "透過華爾街日報檔案述說九一一的長期陰影",
-      "fact": "我們檢視了數百篇《華爾街日報》的報導，追蹤九一一恐攻在近二十五年對政策與社會的持續影響。檔案展示了安全政策、外交關係與國內政治等層面的演變。這一回顧提供長期視角，說明事件如何持續形塑全球與國內決策。",
+      "title": "追逐石油投資的加密億萬富翁移居委內瑞拉",
+      "fact": "Fred Ehrsam為Coinbase共同創辦人、加密幣億萬富翁，並與川普政府有過聯繫。據報他在加拉加斯的豪華飯店居住數月，積極尋求委內瑞拉的投資機會、尤其與石油相關的標的。此舉在業界與外界引發關注，並帶來地緣政治與商業風險評估議題。",
       "whyItMatters": "觀察政策、制裁或貿易規則是否改變跨境需求與企業成本。",
       "relatedAssets": "QQQ、META、GOOGL、台灣科技基金",
       "verification": [
         {
           "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/us-news/sept-11-terrorist-attacks-anniversary-coverage-6339aa0b?mod=rss_worldnews",
-          "publishedAt": "2026-09-10 17:30:00"
+          "url": "https://www.wsj.com/business/energy-oil/the-relentless-crypto-billionaire-who-moved-to-venezuela-in-pursuit-of-oil-a4f0f219?mod=rss_worldnews",
+          "publishedAt": "2026-09-11 06:00:00"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
-      "theme": "總體經濟",
-      "title": "今日股市：油價上漲、公債殖利率跳升",
-      "fact": "布蘭特原油約每桶105美元，油價上揚推升市場避險情緒並帶動公債殖利率上升。因利率走高，多數主要股指表現走低。投資人持續關注油價與利率變動對經濟前景與企業獲利的影響。",
-      "whyItMatters": "觀察利率與景氣預期如何影響評價、美元與風險偏好。",
-      "relatedAssets": "QQQ、NVDA、00947 ETF",
+      "theme": "市場",
+      "title": "Metaplanet股權分配引發股東憤怒，東南亞加密資金翻倍",
+      "fact": "比特幣庫藏公司Metaplanet因內部人員的股權分配引發股東強烈不滿與抗議。投資人對管理層與公司治理提出質疑，事件凸顯加密資產公司在透明度與治理上的挑戰。與此同時，最新數據顯示東南亞加密資金流入倍增，鞏固新加坡作為亞洲加密中心的地位。",
+      "whyItMatters": "觀察風險資產的資金流與評價是否出現連鎖反應。",
+      "relatedAssets": "QQQ、META、GOOGL、00947 ETF",
       "verification": [
         {
-          "source": "WSJ 華爾街日報（財經）",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-10-2026?mod=rss_markets_main",
-          "publishedAt": "2026-09-10 16:33:43"
+          "source": "CoinTelegraph（數位貨幣）",
+          "url": "https://cointelegraph.com/magazine/metaplanet-equity-backlash-se-asia-crypto-funding-doubles-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedAt": "2026-09-11 07:21:26"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
-      "theme": "產業",
-      "title": "也門親伊朗胡塞武裝快速推進，逼近戰略要衝巴卜·艾爾-曼德卜",
-      "fact": "胡塞武裝已攻佔莫卡港（Mokha），並使獲沙烏地支持的政府部隊退卻。武裝勢力擴張控制範圍，接近紅海與亞丁灣之間的戰略海峽，該處為能源與貨運重要樞紐。國際社會擔憂此一局勢可能影響航運安全與能源供應鏈。",
-      "whyItMatters": "觀察供需、成本與供應鏈變化對產業獲利的傳導。",
-      "relatedAssets": "台積電、聯電、力積電、華邦電、南亞科",
+      "theme": "地緣風險",
+      "title": "情報顯示伊朗再度組裝彈道飛彈",
+      "fact": "情報報告指出，德黑蘭正於地下設施將先前儲存的零件組裝成武器系統。此舉顯示伊朗在彈道飛彈能力上出現恢復性動作，已成地區安全關切。相關發展可能加劇外交緊張並影響制裁與國際應對策略。",
+      "whyItMatters": "觀察能源、航運、供應鏈與風險偏好是否出現突發性重估。",
+      "relatedAssets": "漢翔、台積電、00947 ETF、USDT",
       "verification": [
         {
           "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/world/middle-east/yemens-iran-backed-houthis-sweep-toward-strategic-bab-al-mandeb-c1786d79?mod=rss_worldnews",
-          "publishedAt": "2026-09-10 20:39:00"
-        }
-      ],
-      "status": "當日已驗證來源"
-    },
-    {
-      "theme": "科技",
-      "title": "華爾街鍾愛的 AI 新創將矚目財富管理市場",
-      "fact": "Rogo 最近完成一輪新的策略性投資，顯示公司正擴展至財富管理領域。該平台已被多家大型投資銀行採用作為投研與作業工具。公司正計畫以既有技術與夥伴關係，提供投資顧問與資產管理相關解決方案。",
-      "whyItMatters": "觀察 AI、雲端與資安支出是否影響大型科技股與半導體需求。",
-      "relatedAssets": "NVDA、QQQ、META、GOOGL、台積電",
-      "verification": [
-        {
-          "source": "WSJ 華爾街日報（財經）",
-          "url": "https://www.wsj.com/finance/banking/wall-streets-favorite-ai-startup-sets-its-sights-on-wealth-management-61b8b5d1?mod=rss_markets_main",
-          "publishedAt": "2026-09-10 19:00:00"
+          "url": "https://www.wsj.com/world/middle-east/iran-ballistic-missile-production-5538af12?mod=rss_worldnews",
+          "publishedAt": "2026-09-11 00:34:00"
         }
       ],
       "status": "當日已驗證來源"
