@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-09-12 17:35:14",
+  "updatedAt": "2026-09-12 21:34:06",
   "date": "2026-09-12",
   "items": [
     {
       "theme": "國際政治",
-      "title": "印度官員：金磚國家就聯合公報達成共識",
-      "fact": "在新德里舉行的為期兩天金磚峰會中，儘管成員國在地緣政治立場上存在明顯分歧，代表團仍同意發表一份聯合聲明。印度政府官員表示，該公報反映了各方透過協商取得的妥協。這項結果顯示成員國在多邊框架下仍能達成基本共同立場。",
+      "title": "西班牙島嶼欲以富裕美國旅客取代酗酒英國觀光客",
+      "fact": "馬略卡採取「少即是多」的旅遊策略，以回應當地居民日益增長的不滿。當地政府與業者試圖限制惡名昭彰的酒醉遊客，並吸引消費能力更高的美國遊客。此舉反映出觀光模式轉型與社區抗議間的緊張關係。",
       "whyItMatters": "觀察政策、制裁或貿易規則是否改變跨境需求與企業成本。",
       "relatedAssets": "QQQ、META、GOOGL、台灣科技基金",
       "verification": [
         {
-          "source": "Bloomberg 彭博社（政治經濟）",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-12/brics-nations-reach-consensus-on-communique-india-official",
-          "publishedAt": "2026-09-12 17:11:35"
+          "source": "WSJ 華爾街日報（國際政經）",
+          "url": "https://www.wsj.com/world/europe/this-spanish-island-wants-to-ditch-drunk-british-tourists-for-rich-american-ones-c1f6c0fd?mod=rss_worldnews",
+          "publishedAt": "2026-09-12 17:30:00"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
       "theme": "總體經濟",
-      "title": "華爾街歡迎聯準會前景明朗——即便意味著利率走高",
-      "fact": "在週五較高的CPI報告公布後，股市上漲、債券走勢回穩，市場認為這減少了下週聯準會決策的猜測空間。投資人對於前景明朗表示歡迎，即便這可能導致利率維持在較高水準。整體而言，明確的經濟訊號讓資產價格調整更具方向性。",
+      "title": "華爾街歡迎聯準會前景明朗化——即便意味升息",
+      "fact": "在週五公布的較高CPI報告後，股市上漲、債市回穩。該數據讓下週聯準會決議的很多不確定性消失。投資人雖面對可能更高利率，但更看重政策前景的清晰度。",
       "whyItMatters": "觀察利率與景氣預期如何影響評價、美元與風險偏好。",
       "relatedAssets": "QQQ、NVDA、00947 ETF",
       "verification": [
@@ -33,31 +33,31 @@
       "status": "當日已驗證來源"
     },
     {
-      "theme": "市場",
-      "title": "今日加密快訊一覽",
-      "fact": "想知道今日加密貨幣市場發生了什麼事？以下提供影響比特幣價格、區塊鏈、去中心化金融（DeFi）、Web3 及加密監管的最新日常趨勢與要聞。內容匯整市場走勢、重大事件與監管動態，供投資人與業界參考。",
-      "whyItMatters": "觀察風險資產的資金流與評價是否出現連鎖反應。",
-      "relatedAssets": "QQQ、META、GOOGL、00947 ETF",
+      "theme": "產業",
+      "title": "拉美盟友全面支持川普的毒品戰",
+      "fact": "區域安全部隊在美方協助下對叢林營地實施空襲，並逮捕毒梟首腦與擊斃走私者。多國政府正加大軍事與執法力度，以遏止毒品供應鏈。這顯示美國與拉美盟友在打擊毒品問題上採取更積極的合作態勢。",
+      "whyItMatters": "觀察供需、成本與供應鏈變化對產業獲利的傳導。",
+      "relatedAssets": "台積電、聯電、力積電、華邦電、南亞科",
       "verification": [
         {
-          "source": "CoinTelegraph（數位貨幣）",
-          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedAt": "2026-09-12 05:30:00"
+          "source": "WSJ 華爾街日報（國際政經）",
+          "url": "https://www.wsj.com/world/americas/trump-drug-war-strikes-latin-amercia-b1ed3908?mod=rss_worldnews",
+          "publishedAt": "2026-09-12 10:00:00"
         }
       ],
       "status": "當日已驗證來源"
     },
     {
-      "theme": "地緣風險",
-      "title": "美方將中國衛星影像與一場造成三名美軍喪生的伊朗攻擊連結",
-      "fact": "美國官員指稱，中國衛星影像與那起伊朗攻擊存在關聯，此發現使美中緊張關係在川普－習近平峰會前夕升溫。相關調查正檢視中方是否曾協助追蹤美國軍艦或提供其他定位支援。此一指控可能成為兩國外交與安全對話的敏感議題。",
-      "whyItMatters": "觀察能源、航運、供應鏈與風險偏好是否出現突發性重估。",
-      "relatedAssets": "漢翔、台積電、00947 ETF、USDT",
+      "theme": "科技",
+      "title": "AI 恐慌從矽谷擴散至美國主流社會",
+      "fact": "對人工智慧的憂慮正從矽谷蔓延至更廣泛的美國社會。美國也將中國衛星影像與一宗致命的伊朗攻擊聯繫起來，顯示技術與地緣政治日益交織。另有報導提供職場生存指南，說明員工面對快速變動環境的應對策略。",
+      "whyItMatters": "觀察 AI、雲端與資安支出是否影響大型科技股與半導體需求。",
+      "relatedAssets": "NVDA、QQQ、META、GOOGL、台積電",
       "verification": [
         {
           "source": "WSJ 華爾街日報（國際政經）",
-          "url": "https://www.wsj.com/world/u-s-links-chinese-satellite-imagery-to-iranian-strike-that-killed-three-troops-ca0b4be3?mod=rss_worldnews",
-          "publishedAt": "2026-09-12 09:57:00"
+          "url": "https://www.wsj.com/tech/ai-fears-leap-from-silicon-valley-into-mainstream-america-3e632708?mod=rss_worldnews",
+          "publishedAt": "2026-09-12 18:58:00"
         }
       ],
       "status": "當日已驗證來源"
